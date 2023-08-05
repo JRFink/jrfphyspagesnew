@@ -11,6 +11,12 @@ const Dc = () => {
             <h1 className={style.centerText}>
                 DC Circuits
             </h1>
+            <h2>
+                1. Single loop circuits
+            </h2>
+            <h2>
+                2. Multi loop circuits
+            </h2>
             {/* resistors in series and parallel 
             kirchoff's rules 
             electrical measuring instruments 
