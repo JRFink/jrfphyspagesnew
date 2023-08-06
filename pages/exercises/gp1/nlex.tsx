@@ -8,8 +8,6 @@ const NlEx = () => {
     <div>
         <Exerciseheading />
         <ol>
-            <li>Write down the 3 laws</li>
-            <br></br>
             <li>Write down the 3 laws in your own words</li>
         </ol>
     </div>
