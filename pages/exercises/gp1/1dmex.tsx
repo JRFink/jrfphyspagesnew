@@ -7,7 +7,7 @@ const OnedmEx = () => {
  
   return (
     <div>
-      <h2>
+      <h2 className={style.exerciseHeading}>
             Exercises
       </h2>
       <h3>

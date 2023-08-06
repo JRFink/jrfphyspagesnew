@@ -1,5 +1,6 @@
 import style from '@/styles/general.module.css';
-import { useState } from 'react'
+import { useState } from 'react';
+import ExerciseHeading from '@/pages/components/exerciseheading';
  
 const Two3dmEx = () => {
   const [count, setCount] = useState(0)

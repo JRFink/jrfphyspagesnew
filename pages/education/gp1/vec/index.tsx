@@ -11,6 +11,16 @@ const Vec = () => {
             <h1 className={style.centerText}>
                 Vector review
             </h1>
+            vectors and vector addition 
+                vector addition 
+            components of vectors 
+                doing vector calculations using components 
+            unit vectors 
+            product of vectors 
+                scalar product 
+                calculating the scalar product using components 
+                vector product 
+                calculating the vector product using components 
             <br></br>
             <VecEx />
             <br></br>

@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import Exerciseheading from '@/pages/components/exerciseheading';
 import Link from 'next/link';
  
 const FrameEx = () => {
@@ -6,9 +7,7 @@ const FrameEx = () => {
  
   return (
     <>
-        <h2>
-            Exercises
-        </h2>
+        <Exerciseheading />
         <h3>
           Frames
         </h3>
