@@ -12,45 +12,47 @@ const Two3dm = () => {
             <h1 className={style.centerText}>
                 Motion in 2-3 Dimensions
             </h1>
-
-            {/* position and displacement 
-            average vel and inst vel 
-            average accel and inst acel 
-            proj mot 
-            uniform circ mot 
-            relative mot in 1 d 
-            relative mot in 2 d  */}
-
-
-            
-
-            <br></br>
             <h2 className={style.h2SectionColor}>
-                1. Motion in 2 dimensions
+                1. 2 dimensions 
             </h2>
             <br></br>
             <Two3Vid />
             <br></br>
             <h3>
-                1.1 Position, velocity, and acceleration vector
-            </h3>
-            <h4>
-                1.1.1 Position
-            </h4>
-            <h4>
-                1.1.2 Velocity
-            </h4>
-            <h4>
-                1.1.3 Acceleration
-            </h4>
-            <h3>
-                1.2 Projectile motion
+                1.1 Position and displacement
             </h3>
             <h3>
-                1.3 Uniform circular motion
+                1.2 Velocity
             </h3>
             <h3>
-                1.4 Relative motion
+                1.3 Acceleration 
+            </h3>
+            <h3>
+                1.4 Projectile motion
+            </h3>
+            <h3>
+                1.5 Uniform circular motion
+            </h3>
+            <h2 className={style.h2SectionColor}>
+                2. 3 dimensions 
+            </h2>
+            <h3>
+                2.1 Position and displacement
+            </h3>
+            <h3>
+                2.2 Velocity 
+            </h3>
+            <h3>
+                2.3 Acceleration
+            </h3>
+            <h2 className={style.h2SectionColor}>
+                3. Relative motion
+            </h2>
+            <h3>
+                3.1 1 d
+            </h3>
+            <h3>
+                3.2 2 d
             </h3>
             <br></br>
             <br></br>
