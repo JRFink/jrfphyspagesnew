@@ -13,6 +13,9 @@ const Gp1 = () => {
             <p>
                 Eventually you will be able to take gen phys 1 here. Have a look at our <Link href="/pdf/gp1syl.pdf" className={style.sampleLink} download>sample syllabus</Link>
             </p>
+            <p>
+                Or even an <a href="/pdf/gp1hw.pdf" className={style.sampleLink} download>hw draft</a>
+            </p>
             <br></br>
             <br></br>
             <Link href="/education/gp1/uv" className={style.generalLink}>Units, Coordinates, Vectors</Link><br></br>
