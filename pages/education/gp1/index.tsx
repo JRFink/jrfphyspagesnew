@@ -30,6 +30,8 @@ const Gp1 = () => {
             <br></br>
             <Link href="/education/gp1/nl" className={style.generalLink}>Newton&apos;s Laws of Motion</Link><br></br>
             <br></br>
+            <Link href="/education/gp1/applnl" className={style.generalLink}>Applying Newton&apos;s Laws</Link><br></br>
+            <br></br>
             <Link href="/education/gp1/wke" className={style.generalLink}>Work and Kinetic Energy</Link><br></br>
             <br></br>
             <Link href="/education/gp1/pu" className={style.generalLink}>Potential Energy and Energy Conservation</Link><br></br>
