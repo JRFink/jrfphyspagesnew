@@ -11,7 +11,7 @@ const Gp1 = () => {
                 General Physics 1
             </h1>
             <p>
-                Eventually you will be able to take gen phys 1 here. Have a look at our <Link href="/education/gp1/pdf/syllabus.pdf" className={style.sampleLink}>sample syllabus</Link>.
+                Eventually you will be able to take gen phys 1 here. Have a look at our <a href="/pdf/gp1syl.pdf" download>sample syllabus</a>.
             </p>
             <br></br>
             <br></br>
