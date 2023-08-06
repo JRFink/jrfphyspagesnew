@@ -33,15 +33,15 @@ const Gp1 = () => {
             <br></br>
             <Link href="/education/gp1/trq" className={style.generalLink}>Dynamics of Rotational Motion</Link><br></br>
             <br></br>
+            <Link href="/education/gp1/eq" className={style.generalLink}>Equilibrium</Link><br></br>
+            <br></br>
             <Link href="/education/gp1/taylor" className={style.generalLink}>Math detour - Taylor Expansion</Link><br></br>
             <br></br>
             <Link href="/education/gp1/g" className={style.generalLink}>Gravity</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/eq" className={style.generalLink}>Equilibrium</Link><br></br>
+            <Link href="/education/gp1/fluid" className={style.generalLink}>Fluids</Link><br></br>
             <br></br>
             <Link href="/education/gp1/wm" className={style.generalLink}>Wave Motion</Link><br></br>
-            <br></br>
-            <Link href="/education/gp1/fluid" className={style.generalLink}>Fluids</Link><br></br>
             <br></br>
             <Link href="/education/gp1/theat" className={style.generalLink}>Temperature and Heat</Link><br></br>
             <br></br>
