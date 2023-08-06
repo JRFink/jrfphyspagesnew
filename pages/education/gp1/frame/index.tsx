@@ -12,7 +12,7 @@ const Uvec = () => {
             <h1 className={style.centerText}>
                 Frames, units, and measurement
             </h1>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 1. Frames 
             </h2>
             <h3>

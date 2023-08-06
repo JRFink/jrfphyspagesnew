@@ -195,6 +195,13 @@
     list-style-position: inside;
 }
 
+.h2SectionColor {
+    display: inline-block; 
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 15px;
+    background-color: rgb(137, 222, 253);
+}
+
 .exerciseHeading {
     display: inline-block;
     padding: 10px 10px 10px 10px;
