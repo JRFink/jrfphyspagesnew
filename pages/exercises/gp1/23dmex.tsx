@@ -1,15 +1,13 @@
 import style from '@/styles/general.module.css';
 import { useState } from 'react';
-import ExerciseHeading from '@/pages/components/exerciseheading';
+import Exerciseheading from '@/pages/components/exerciseheading';
  
 const Two3dmEx = () => {
   const [count, setCount] = useState(0)
  
   return (
     <div>
-        <h2>
-            Exercises
-        </h2>
+        <Exerciseheading />
         {/* position and velocity vectors 
         the acceleration vector
         projectile motion 

@@ -4,11 +4,9 @@ import Exerciseheading from '@/pages/components/exerciseheading';
 
  
   return (
-    <div>
-        <h2>
-            Exercises
-        </h2>
-    </div>
+    <>
+    <Exerciseheading />
+  </>
   );
 }
 

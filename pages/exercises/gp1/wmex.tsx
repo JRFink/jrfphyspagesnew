@@ -5,9 +5,7 @@ const WmEx = () => {
  
   return (
     <div>
-        <h2>
-            Exercises
-        </h2>
+        <Exerciseheading />
         <ol>
             <li>How would you describe something that goes up and down?</li>
         </ol>

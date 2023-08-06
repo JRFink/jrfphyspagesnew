@@ -7,9 +7,7 @@ const GEx = () => {
  
   return (
     <div>
-        <h2>
-            Exercises
-        </h2>
+        <Exerciseheading />
         <ol>
             <li>
                 Try to draw gravity 

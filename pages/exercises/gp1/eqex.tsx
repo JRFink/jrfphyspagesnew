@@ -6,9 +6,7 @@ const EqEx = () => {
  
   return (
     <div>
-        <h2>
-            Exercises
-        </h2>
+        <Exerciseheading />
         <ul>
             <li>
                 Talk about forces and such when an object is in equilibrium.

@@ -4,9 +4,7 @@ const VecEx = () => {
  
     return (
       <>
-          <h2>
-              Exercises
-          </h2>
+          <Exerciseheading />
           <h3>
             Describing vectors 
           </h3>

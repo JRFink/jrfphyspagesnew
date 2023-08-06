@@ -6,9 +6,7 @@ const NlEx = () => {
  
   return (
     <div>
-        <h2>
-            Exercises
-        </h2>
+        <Exerciseheading />
         <ol>
             <li>Write down the 3 laws</li>
             <br></br>

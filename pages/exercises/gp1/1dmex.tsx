@@ -8,9 +8,7 @@ const OnedmEx = () => {
  
   return (
     <div>
-      <h2 className={style.exerciseHeading}>
-            Exercises
-      </h2>
+      <Exerciseheading />
       <h3>
         Position and displacement
       </h3>
