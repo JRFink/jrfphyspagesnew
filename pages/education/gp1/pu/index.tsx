@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import EUKVid from '@/public/videos/gp1/euk';
 import style from '@/styles/general.module.css';
+import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
 import Helpful from '@/pages/components/helpful';
 
@@ -13,29 +14,46 @@ const PU = () => {
                 Potential Energy & Energy Conservation
             </h1>
             <br></br>
-            <h2>
-                1. Potential energy
+            <EUKVid />
+            <br></br>
+            <h2 className={style.h2SectionColor}>
+                1. Review of energy
             </h2>
-            <h2>
-                2. Conservative and non-conservative forces
+                <h3>
+                    1.1 Potential energy
+                </h3>
+                    <h4>
+                        1.1.1 Elastic 
+                    </h4>
+                    <h4>
+                        1.1.2 Gravitational
+                    </h4>
+                    <h4>
+                        1.1.3 Other types
+                    </h4>
+                <h3>
+                    1.2 Kinetic energy
+                </h3>
+                <h3>
+                    1.3 Work
+                </h3>
+            <h2 className={style.h2SectionColor}>
+                2. Conservation of energy
             </h2>
-            <h2>
-                3. Conservation of energy in general
+                <h3>
+                    2.1 Conservative forces
+                </h3>
+                <h3>
+                    2.2 Non-conservative forces
+                </h3>
+            <h2 className={style.h2SectionColor}>
+                3. Energy diagrams
             </h2>
             <h3>
-                3.1 Conservation of mechanical energy
+                3.1 Plots
             </h3>
-            <h4>
-                3.1.1 Gravitational potential energy
-            </h4>
-            <h4>
-                3.1.2 Elastic potential energy
-            </h4>
-            <h2>
-                4. Energy diagrams
-            </h2>
+            <Summary />
             <br></br>
-            <EUKVid />
             <br></br>
             <br></br>
             <PuEx />

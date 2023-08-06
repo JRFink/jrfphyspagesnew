@@ -1,6 +1,6 @@
 import style from '@/styles/general.module.css';
 
-const exerciseHeading = () => {
+const Summary = () => {
     return (
         <>
             <h2 className={style.summaryHeading}>
@@ -10,4 +10,4 @@ const exerciseHeading = () => {
     );
 };
 
-export default exerciseHeading;
+export default Summary;

@@ -3,6 +3,7 @@ import ConstantPosVid from '@/public/videos/gp1/constantpos';
 import AccelVid from '@/public/videos/gp1/accelvid';
 import DeriveKinVid from '@/public/videos/gp1/derivekin';
 import style from '@/styles/general.module.css';
+import Summary from '@/pages/components/summary';
 import OnedmEx from '@/pages/exercises/gp1/1dmex';
 import Helpful from '@/pages/components/helpful';
 
@@ -70,9 +71,7 @@ const Onedm = () => {
             <h3>
                 6.1 Approximations
             </h3>  
-            <h2 className={style.summaryHeading}>
-                Summary
-            </h2>
+            <Summary />
             <br></br>
             <br></br>
             <br></br>
