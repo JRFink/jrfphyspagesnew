@@ -36,6 +36,15 @@ const UvEx = () => {
         <p>
           6. Familiarize yourself with <Link href="https://www.nist.gov">www.nist.gov</Link>
         </p>
+        <h3>
+          Measuring things
+        </h3>
+        <h3>
+          Time
+        </h3>
+        <h3>
+          Mass
+        </h3>
     </>
   );
 }

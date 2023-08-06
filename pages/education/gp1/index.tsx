@@ -16,9 +16,14 @@ const Gp1 = () => {
             <p>
                 Or even a <Link href="/pdf/gp1hw.pdf" className={style.sampleLink} download>hw draft</Link>
             </p>
+            <p>
+                Calc is not a prerequisite for this class. We'll learn it as we go along. If you can do algebra you can do calc!
+            </p>
             <br></br>
             <br></br>
             <Link href="/education/gp1/uv" className={style.generalLink}>Units, Coordinates, Vectors</Link><br></br>
+            <br></br>
+            <Link href="/education/gp1/calc" className={style.generalLink}>Big calc review</Link><br></br>
             <br></br>
             <Link href="/education/gp1/1dm" className={style.generalLink}>Motion in 1 Dimension</Link><br></br>
             <br></br>
