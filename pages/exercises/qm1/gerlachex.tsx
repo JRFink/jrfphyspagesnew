@@ -1,6 +1,5 @@
-'use client'
-
-import { useState } from 'react'
+import { useState } from 'react';
+import Exerciseheading from '@/pages/components/exerciseheading';
  
 const GerlachEx = () => {
   const [count, setCount] = useState(0)

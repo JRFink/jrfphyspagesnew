@@ -1,3 +1,5 @@
+import Exerciseheading from '@/pages/components/exerciseheading';
+
 const IhEx = () => {
  
     return (

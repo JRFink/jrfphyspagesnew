@@ -1,5 +1,6 @@
 import style from '@/styles/general.module.css';
-import { useState } from 'react'
+import { useState } from 'react';
+import Exerciseheading from '@/pages/components/exerciseheading';
  
 const NlEx = () => {
  
