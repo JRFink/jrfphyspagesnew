@@ -10,6 +10,9 @@ const Gp1 = () => {
             <h1 className={style.centerText}>
                 General Physics 1
             </h1>
+            <p>
+                Eventually you will be able to take gen phys 1 here. Have a look at our <Link href="/education/gp1/pdf/syllabus.pdf" className={style.sampleLink}>sample syllabus</Link>.
+            </p>
             <br></br>
             <br></br>
             <Link href="/education/gp1/uv" className={style.generalLink}>Units, Coordinates, Vectors</Link><br></br>

@@ -102,6 +102,25 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
 }
 
+.generalLink:hover {
+    background-color: #1bf5ee;
+}
+
+.sampleLink {
+    padding: 10px 10px 10px 10px;
+    color: #000000;
+    background-color: #e2e205da;
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px 0px 10px 7px;
+}
+
+.sampleLink:hover {
+    background-color: #f2f21e;
+}
+
 .backtoLink {
     padding: 10px 10px 10px 10px;
     color: #000000;
