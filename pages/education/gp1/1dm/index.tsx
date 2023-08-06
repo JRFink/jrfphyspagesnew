@@ -66,7 +66,13 @@ const Onedm = () => {
             </h3>
             <h2 className={style.h2SectionColor}>
                 6. Free-falling bodies don&#39;t have constant a
-            </h2>    
+            </h2>  
+            <h3>
+                6.1 Approximations
+            </h3>  
+            <h2 className={style.summaryHeading}>
+                Summary
+            </h2>
             <br></br>
             <br></br>
             <br></br>

@@ -14,30 +14,35 @@ const Vec = () => {
             <h2 className={style.h2SectionColor}>
                 1. Defining vectors
             </h2>
-            <h3>
-                1.1 Components
-            </h3>
+                <h3>
+                    1.1 Components
+                </h3>
             <h2 className={style.h2SectionColor}>
                 2. Vectors and physics
             </h2>
-            <h3>
-                2.1 Vectors and physics
-            </h3>
+                <h3>
+                    2.1 Vectors and physics
+                </h3>
             <h2 className={style.h2SectionColor}>
                 3. Vector addition and subtraction
             </h2>
-            <h3>
-                3.1 Adding and subtracting components
-            </h3>
+                <h3>
+                    3.1 Adding and subtracting components
+                </h3>
             <h2 className={style.h2SectionColor}>
                 4. Vector multiplication
             </h2>
-            <h3>
-                4.1 Scalar &#40;dot&#41; product
-            </h3>
-            <h3>
-                4.2 Vector &#40;cross&#41; product
-            </h3>
+                <h3>
+                    4.1 Scalar &#40;dot&#41; product
+                </h3>
+                <h3>
+                    4.2 Vector &#40;cross&#41; product
+                </h3>
+            <h2 className={style.summaryHeading}>
+                Summary
+            </h2>
+            <br></br>
+            <br></br>
             <br></br>
             <VecEx />
             <br></br>

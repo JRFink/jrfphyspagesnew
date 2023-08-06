@@ -54,6 +54,10 @@ const Two3dm = () => {
             <h3>
                 3.2 2 d
             </h3>
+            <h2 className={style.summaryHeading}>
+                Summary
+            </h2>
+            <br></br>
             <br></br>
             <br></br>
             <Two3Ex />

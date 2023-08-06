@@ -13,28 +13,54 @@ const Wke = () => {
                 Work and Kinetic Energy
             </h1>
             <br></br>
-            <h2>
-                1. Work
-            </h2>
-            <h2>
-                2. Work and kinetic energy theorem
-            </h2>
             <WkeVid />
-            <h2>
-                3. Work and energy with constant forces
+            <br></br>
+            <h2 className={style.h2SectionColor}>
+                1. The work-energy theorem
             </h2>
-            <h2>
-                4. Work and energy with non-constant forces 
+                <h3>
+                    1.1 In 1 d
+                </h3>
+                    <h4>
+                        1.1.1 Work done by a constant force 
+                    </h4>
+                    <h4>
+                        1.1.2 Work done by a varying force 
+                    </h4>
+                    <h4>
+                        1.1.3 Work done by gravity 
+                    </h4>
+                <h3>
+                    1.2 In 2 d
+                </h3>
+                    <h4>
+                        1.2.1 Work done by a constant force 
+                    </h4>
+                    <h4>
+                        1.2.2 Work done by a varying force 
+                    </h4>
+                    <h4>
+                        1.2.3 Work done by a spring 
+                    </h4>
+                <h3>
+                    1.3 In 3 d
+                </h3>
+                    <h4>
+                        1.3.1 Work done by a constant force 
+                    </h4>
+                    <h4>
+                        1.3.2 Work done by a varying force 
+                    </h4>
+            <h2 className={style.h2SectionColor}>
+                2. Power
             </h2>
             <h3>
-                4.1 Gravity does work
+                2.1 Rates
             </h3>
-            <h3>
-                4.2 Springs do work
-            </h3>
-            <h2>
-                5. Power
+            <h2 className={style.summaryHeading}>
+                Summary
             </h2>
+            <br></br>
             <br></br>
             <br></br>
             <WkeEx />

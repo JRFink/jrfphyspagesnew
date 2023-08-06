@@ -23,27 +23,27 @@ const NewtLaws = () => {
                     Newton&apos;s first law states that an object in motion will remain in motion unless acted on by another; 
                     it also states that an object at rest will remain at rest unless acted on by another.
                 </p>
-            <h3>
-                1.1 Inertial frames
-            </h3>
+                <h3>
+                    1.1 Inertial frames
+                </h3>
             <h2 className={style.h2SectionColor}>
                 2. Second law 
             </h2>
                 <p>
                     ... math implementation ... 
                 </p>
-            <h3>
-                2.1 Forces and momentum
-            </h3>
-            <h3>
-                2.2 Forces and mass
-            </h3>
-            <h3>
-                2.3 Single forces
-            </h3>
-            <h3>
-                2.4 Superposition of forces
-            </h3>
+                <h3>
+                    2.1 Forces and momentum
+                </h3>
+                <h3>
+                    2.2 Forces and mass
+                </h3>
+                <h3>
+                    2.3 Single forces
+                </h3>
+                <h3>
+                    2.4 Superposition of forces
+                </h3>
             <h2 className={style.h2SectionColor}>
                 3. Third law
             </h2>
@@ -54,6 +54,15 @@ const NewtLaws = () => {
             <h2 className={style.h2SectionColor}>
                 4. Free-body diagrams
             </h2>
+            <h2>
+                Fundamental forces
+            </h2>
+                <h3>
+                    Discussion
+                </h3>
+            <h2 className={style.summaryHeading}>
+                Summary
+           </h2>
             <br></br>
             <br></br>
             <br></br>
