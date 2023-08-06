@@ -18,7 +18,7 @@ const VecEx = () => {
             Multiplying vectors
           </h3>
           <h3>
-            Diving vectors &#40;ha&#41;
+            Dividing vectors &#40;ha&#41;
           </h3>    
       </>
     );
