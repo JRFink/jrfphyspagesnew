@@ -12,6 +12,18 @@ const Two3dm = () => {
             <h1 className={style.centerText}>
                 Motion in 2-3 Dimensions
             </h1>
+
+            {/* position and displacement 
+            average vel and inst vel 
+            average accel and inst acel 
+            proj mot 
+            uniform circ mot 
+            relative mot in 1 d 
+            relative mot in 2 d  */}
+
+
+            
+
             <br></br>
             <h2 className={style.h2SectionColor}>
                 1. Motion in 2 dimensions

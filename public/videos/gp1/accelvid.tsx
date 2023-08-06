@@ -3,9 +3,6 @@ import style from '@/styles/general.module.css';
 const AccelVid = () => {
     return (
         <>
-            <h2 className={style.centerThis}>
-                Acceleration Intro
-            </h2>
             <div className={style.flexContainer}>
                 <iframe
                         title="constant position; constant velocity"

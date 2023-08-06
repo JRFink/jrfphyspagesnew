@@ -16,38 +16,59 @@ const Onedm = () => {
             <h1 className={style.centerText}>
                 Motion in 1 Dimension
             </h1>
-            <br></br>
             <h2 className={style.h2SectionColor}>
-                1. Motion in 1 dimension
+                1. Position, displacement
             </h2>
-            <h3>
-                1.1 Position
-            </h3>
-            <h3>
-                1.2 Velocity
-            </h3>
             <br></br>
             <ConstantPosVid />
             <br></br>
-            <br></br>
             <h3>
-                1.3 Acceleration
+                1.1 Definitions
             </h3>
-            <AccelVid />
-            <br></br>
+            <h3>
+                1.2 Examples
+            </h3>
             <h2 className={style.h2SectionColor}>
-                2. Motion with constant acceleration
+                2. Velocity
             </h2>
             <h3>
-                2.1 Kinematic equations
+                2.1 Average and instantaneous
+            </h3>
+            <h2 className={style.h2SectionColor}>
+                3. Speed
+            </h2>
+            <h3>
+                3.1 Average and instantaneous
+            </h3>
+            <h2 className={style.h2SectionColor}>
+                4. Acceleration
+            </h2>
+            <br></br>
+            <AccelVid />
+            <br></br>
+            <h3>
+                4.1 Average and instantaneous
+            </h3>
+            <h3>
+                4.2 Motion with constant a
             </h3>
             <br></br>
             <DeriveKinVid />
             <br></br>
+            <h3>
+                4.3 Motion with non-constant a
+            </h3>
             <h2 className={style.h2SectionColor}>
-                3. Motion with non-constant acceleration
+                5. Calculus examples
             </h2>
-            <br></br>     
+            <h3>
+                5.1 Graphs
+            </h3>
+            <h2 className={style.h2SectionColor}>
+                6. Free-falling bodies don&#39;t have constant a
+            </h2>    
+            <br></br>
+            <br></br>
             <br></br>
             <OnedmEx />
             <br></br>
