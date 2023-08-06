@@ -12,11 +12,29 @@ const Calc = () => {
             </h1>
             <br></br>
             <h2>
-                1. Rate of Change
+                1. Rate of change
             </h2>
+            <h3>
+                1.1 Tangents
+            </h3>
+            <h3>
+                1.2 Rates of change
+            </h3>
+            <h3>
+                1.3 Plotting rates of change
+            </h3>
+            <h3>
+                1.4 Adding rates of change for a certain period
+            </h3>
             <h2>
                 2. Example with 1 dimensional motion
             </h2>
+            <h3>
+                2.1 Adding up the changes in position
+            </h3>
+            <h3>
+                2.2 Adding up changes in velocity
+            </h3>
             <br></br>
             <Helpful />
         </>
