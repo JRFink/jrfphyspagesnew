@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
-import UvEx from '@/pages/exercises/gp1/uvex';
+import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
 
 const Uvec = () => {
@@ -10,11 +10,11 @@ const Uvec = () => {
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Units, Coordinates, Vectors
+                Frames, units, and measurement
             </h1>
             <br></br>
             <p>
-                Physics describes the world in <em>units</em>. 
+                Physics describes the world in something called <em>units</em>. 
                 A unit is a <em>standard</em> to which we compare everything else. 
                 What does 3 meters mean? <br></br> <br></br>
                 Meters is the unit, of length, 
@@ -24,7 +24,7 @@ const Uvec = () => {
             <UnitsVid />
             <br></br>
             <br></br>
-            <UvEx />
+            <FrameEx />
             <br></br>
             <Helpful />
         </>

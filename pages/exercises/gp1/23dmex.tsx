@@ -9,6 +9,12 @@ const Two3dmEx = () => {
         <h2>
             Exercises
         </h2>
+        {/* position and velocity vectors 
+        the acceleration vector
+        projectile motion 
+        motion in a circle 
+        relative velocity  */}
+
         <h3>
             Multidimensional vectors
         </h3>

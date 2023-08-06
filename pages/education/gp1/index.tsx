@@ -14,14 +14,13 @@ const Gp1 = () => {
                 Eventually you will be able to take gen phys 1 here. Have a look at our <Link href="/pdf/gp1syl.pdf" className={style.sampleLink} download>sample syllabus</Link>
             </p>
             <p>
-                Or even a <Link href="/pdf/gp1hw.pdf" className={style.sampleLink} download>hw draft</Link>
-            </p>
-            <p>
-                Calc is not a prerequisite for this class. We'll learn it as we go along. If you can do algebra you can do calc!
+                Calc is not a prerequisite for this class. We&#39;ll learn it as we go along. If you can do algebra you can do calc!
             </p>
             <br></br>
             <br></br>
-            <Link href="/education/gp1/uv" className={style.generalLink}>Units, Coordinates, Vectors</Link><br></br>
+            <Link href="/education/gp1/frame" className={style.generalLink}>Frames, units, and measurement</Link><br></br>
+            <br></br>
+            <Link href="/education/gp1/vec" className={style.generalLink}>Vector review</Link><br></br>
             <br></br>
             <Link href="/education/gp1/calc" className={style.generalLink}>Big calc review</Link><br></br>
             <br></br>

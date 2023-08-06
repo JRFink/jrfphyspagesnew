@@ -39,7 +39,6 @@ const OnedmEx = () => {
       <h3>
         Position and velocity by integration
       </h3>    
-        
     </div>
   );
 }
