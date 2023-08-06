@@ -12,10 +12,10 @@ const Eq = () => {
                 Equilibrium
             </h1>
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 1. Intro
             </h2>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 2. Requirements for equilibrium
             </h2>
             <br></br>

@@ -13,7 +13,7 @@ const Two3dm = () => {
                 Motion in 2-3 Dimensions
             </h1>
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 1. Motion in 2 dimensions
             </h2>
             <br></br>

@@ -12,7 +12,7 @@ const Gravity = () => {
                 Gravity
             </h1>
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 1. Intro
             </h2>
             <h3>
@@ -21,16 +21,16 @@ const Gravity = () => {
             <h3>
                 1.2 Gravitational force
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 2. Gravitational potential
             </h2>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 3. Gravitation near earth&apos;s surface
             </h2>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 4. Motion of satellites
             </h2>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 5. Kepler&apos; laws
             </h2>
             <h3>
@@ -42,7 +42,7 @@ const Gravity = () => {
             <h3>
                 5.3 Kepler&apos;s third law
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 6. Einstein and gravity
             </h2>
             <br></br>

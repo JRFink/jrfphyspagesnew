@@ -11,7 +11,7 @@ const Calc = () => {
                 Big calc review
             </h1>
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 1. Rate of change
             </h2>
             <h3>
@@ -26,7 +26,7 @@ const Calc = () => {
             <h3>
                 1.4 Adding rates of change for a certain period
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 2. Example with 1 dimensional motion
             </h2>
             <h3>

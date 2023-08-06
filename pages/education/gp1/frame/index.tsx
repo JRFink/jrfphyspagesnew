@@ -24,7 +24,7 @@ const Uvec = () => {
             <h3>
                 1.3 Physicists&#39; inertial and non-inertial frames
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 2. Units 
             </h2>
             <br></br>
@@ -52,7 +52,7 @@ const Uvec = () => {
             <h3>
                 2.5 Government standards
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 3. Measurement
             </h2>
             <h3>
@@ -64,7 +64,7 @@ const Uvec = () => {
             <h3>
                 3.3 Errors in measurement
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 Summary 
             </h2>
             

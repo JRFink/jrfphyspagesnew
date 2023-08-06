@@ -17,7 +17,7 @@ const Onedm = () => {
                 Motion in 1 Dimension
             </h1>
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 1. Motion in 1 dimension
             </h2>
             <h3>
@@ -35,7 +35,7 @@ const Onedm = () => {
             </h3>
             <AccelVid />
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 2. Motion with constant acceleration
             </h2>
             <h3>
@@ -44,7 +44,7 @@ const Onedm = () => {
             <br></br>
             <DeriveKinVid />
             <br></br>
-            <h2>
+            <h2 className={style.h2SectionColor}>
                 3. Motion with non-constant acceleration
             </h2>
             <br></br>     
