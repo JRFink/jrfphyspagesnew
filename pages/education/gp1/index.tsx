@@ -17,8 +17,15 @@ const Gp1 = () => {
                 Description
             </h2>
             <p>
-                Introductory classical mechanics. 
-                Focuses on: kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, gravity, waves, fluid motion, intro thermodynamics.
+                This class is an introduction to general physics. It will cover the following topics: 
+                <br></br>
+                <br></br>
+                &nbsp; &nbsp; kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, gravity, waves, fluid motion, and intro thermodynamics. 
+                <br></br><br></br>
+                The class will consist of ~ 20 modules, which will consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam.
+                <br></br>
+                <br></br>
+                I hope you enjoy it.
             </p>
             <h2>
                 Prerequisites
