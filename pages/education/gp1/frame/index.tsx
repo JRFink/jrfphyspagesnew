@@ -1,10 +1,7 @@
 import Link from 'next/link';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
-import Modoverview from '@/pages/components/modoverview';
-import Vidicon from '@/pages/components/icons';
-import { Docicon } from '@/pages/components/icons';
-import { Pencilicon } from '@/pages/components/icons';
+import Modoverviewframes from '@/pages/components/modoverviewframes';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
 
@@ -19,34 +16,7 @@ const Uvec = () => {
                 Frames, units, and measurement
             </h1>
             <br></br>
-            <Modoverview />
-            <br></br>
-            <br></br>
-            <Vidicon />
-            <p className={style.inlineContainer}>
-                Reference frames
-            </p>
-            <br></br>
-            <Vidicon />
-            <p className={style.inlineContainer}>
-                Units
-            </p>
-            <br></br>
-            <Vidicon />
-            <p className={style.inlineContainer}>
-                Measurement
-            </p>
-            <br></br>
-            <Docicon />
-            <p className={style.inlineContainerSumm}>
-                Summary
-            </p>
-            <br></br>
-            <Pencilicon />
-            <p className={style.inlineContainer}>
-                Exercises
-            </p>
-            <br></br>
+            <Modoverviewframes />
             <br></br>
             <h2 className={style.h2SectionColor}>
                 1. Frames 
