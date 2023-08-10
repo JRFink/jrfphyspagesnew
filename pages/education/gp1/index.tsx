@@ -52,7 +52,7 @@ const Gp1 = () => {
             <h2>
                 Syllabus
             </h2>
-                <p>
+            <p>
                     <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
                 </p>
             <br></br>

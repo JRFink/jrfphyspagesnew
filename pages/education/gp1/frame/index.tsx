@@ -1,6 +1,9 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
+import Modoverview from '@/pages/components/modoverview';
+import vidicon from '@/public/images/vidicon.png';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
 
@@ -9,9 +12,25 @@ const Uvec = () => {
         <>
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
+            <br></br>
+
             <h1 className={style.centerText}>
                 Frames, units, and measurement
             </h1>
+            <br></br>
+            <Modoverview />
+            <br></br>
+            <Image
+                    src={vidicon}
+                    style={{
+                        width: '25%',
+                        borderRadius: "20px",
+                        height: 'auto'
+                    }}
+                    sizes="100vw"
+                    alt="Guy with a blue shirt with trees in the background" 
+            />
+            <br></br>
             <h2 className={style.h2SectionColor}>
                 1. Frames 
             </h2>
