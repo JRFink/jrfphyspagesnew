@@ -1,9 +1,9 @@
 import Link from 'next/link';
-import Image from 'next/image';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
 import Modoverview from '@/pages/components/modoverview';
 import Vidicon from '@/pages/components/vidicon';
+import { Pencilicon } from '@/pages/components/vidicon';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
 
@@ -33,7 +33,12 @@ const Uvec = () => {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
-                Summary
+                Measurement
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
             </p>
             <br></br>
             <br></br>

@@ -1,7 +1,8 @@
 import Image from 'next/image';
 import vidicon from '@/public/images/vidicon.png';
+import pencilicon from '@/public/images/pencilicon.png';
 
-const Vidicon = () => {
+export default function Vidicon () {
     return (
         <>
             <Image
@@ -18,4 +19,20 @@ const Vidicon = () => {
     );
 }
 
-export default Vidicon;
+export function Pencilicon () {
+    return (
+        <>
+            <Image
+            src={pencilicon}
+            style={{
+                width: '3%',
+                borderRadius: "20px",
+                height: 'auto'
+            }}
+            sizes="100vw"
+            alt="Black pencil icon" 
+            />
+        </>
+    );
+}
+
