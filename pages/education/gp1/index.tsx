@@ -13,8 +13,35 @@ const Gp1 = () => {
             <p>
                 Eventually you will be able to take gen phys 1 here. Have a look at our <Link href="/pdf/gp1syl.pdf" className={style.sampleLink} download>sample syllabus</Link>
             </p>
+            <h2>
+                Description
+            </h2>
             <p>
-                Calc is not a prerequisite for this class. We&#39;ll learn it as we go along. If you can do algebra you can do calc!
+                This class will cover: kinematics, forces, work and energy, rotational motion, gravity, waves, fluid motion, intro thermodynamics.
+            </p>
+            <h2>
+                Prerequisites
+            </h2>
+            <p>
+                Algebra, geometry, trigonometry
+            </p>
+            <h2>
+                Course number
+            </h2>
+            <p>
+                101
+            </p>
+            <h2>
+                Location
+            </h2>
+            <p>
+                Asynchronous online
+            </p>
+            <h2>
+                Instructor
+            </h2>
+            <p>
+                Jeff Fink
             </p>
             <br></br>
             <br></br>
