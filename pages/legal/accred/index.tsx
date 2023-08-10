@@ -14,7 +14,7 @@ const Accred = () => {
                 A list of the seven main federally recognized accrediting agencies can be found <a href="https://www.chea.org/regional-accrediting-organizations">here</a>. 
             </p>
             <p>
-                You can learn more about how the government accredits institutions <a href="https://ope.ed.gov/dapip/#/home">here</a>. 
+                You can learn more about how the government accredits, sorry doesn&#39;t accredit, institutions <a href="https://ope.ed.gov/dapip/#/home">here</a>. 
             </p>
         </>
     );
