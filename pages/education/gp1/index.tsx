@@ -35,7 +35,7 @@ const Gp1 = () => {
                 Course number
             </h2>
             <p>
-                101
+                Phys 101
             </p>
             <h2>
                 Location
