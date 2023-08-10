@@ -51,6 +51,10 @@
     text-align: center;
 }
 
+.inlineContainer {
+    display: inline-block;
+}
+
 .inputBox {
     padding: 7px 7px 7px 7px;
     border: 1px solid black;

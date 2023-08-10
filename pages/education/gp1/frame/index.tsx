@@ -24,13 +24,16 @@ const Uvec = () => {
             <Image
                     src={vidicon}
                     style={{
-                        width: '5%',
+                        width: '3%',
                         borderRadius: "20px",
                         height: 'auto'
                     }}
                     sizes="100vw"
                     alt="Black video icon" 
             />
+            <p className={style.inlineContainer}>
+                Reference frames
+            </p>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor}>
