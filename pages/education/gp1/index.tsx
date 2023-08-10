@@ -17,7 +17,8 @@ const Gp1 = () => {
                 Description
             </h2>
             <p>
-                This class will cover: kinematics, forces, work and energy, rotational motion, gravity, waves, fluid motion, intro thermodynamics.
+                Introductory classical mechanics. 
+                Focuses on: kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, gravity, waves, fluid motion, intro thermodynamics.
             </p>
             <h2>
                 Prerequisites
