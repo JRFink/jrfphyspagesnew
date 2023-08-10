@@ -195,6 +195,10 @@
     list-style-position: inside;
 }
 
+.edHeaderSpace {
+    margin-top: 2cm;
+}
+
 .h2SectionColor {
     display: inline-block; 
     padding: 7px 7px 7px 7px;

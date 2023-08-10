@@ -22,6 +22,10 @@ const Education = () => {
                 <Link href="/education/qm1" className={style.generalLink}>Quantum Mechanics 1</Link><br></br>
                 <Link href="/education/qm2" className={style.generalLink}>Quantum Mechanics 2</Link><br></br>
             </div>
+
+            <h2 className={style.edHeaderSpace}>
+                See what students are saying
+            </h2>
             <br></br>
         </>
     );
