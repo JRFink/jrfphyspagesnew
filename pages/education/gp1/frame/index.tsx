@@ -3,7 +3,7 @@ import Image from 'next/image';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
 import Modoverview from '@/pages/components/modoverview';
-import vidicon from '@/public/images/vidicon.png';
+import Vidicon from '@/pages/components/vidicon';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
 
@@ -21,18 +21,19 @@ const Uvec = () => {
             <Modoverview />
             <br></br>
             <br></br>
-            <Image
-                    src={vidicon}
-                    style={{
-                        width: '3%',
-                        borderRadius: "20px",
-                        height: 'auto'
-                    }}
-                    sizes="100vw"
-                    alt="Black video icon" 
-            />
+            <Vidicon />
             <p className={style.inlineContainer}>
                 Reference frames
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                Units
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                Summary
             </p>
             <br></br>
             <br></br>
