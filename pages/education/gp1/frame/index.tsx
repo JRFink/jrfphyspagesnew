@@ -20,16 +20,18 @@ const Uvec = () => {
             <br></br>
             <Modoverview />
             <br></br>
+            <br></br>
             <Image
                     src={vidicon}
                     style={{
-                        width: '25%',
+                        width: '5%',
                         borderRadius: "20px",
                         height: 'auto'
                     }}
                     sizes="100vw"
-                    alt="Guy with a blue shirt with trees in the background" 
+                    alt="Black video icon" 
             />
+            <br></br>
             <br></br>
             <h2 className={style.h2SectionColor}>
                 1. Frames 
