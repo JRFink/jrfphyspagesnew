@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import vidicon from '@/public/images/vidicon.png';
+import docicon from '@/public/images/docicon.png';
 import pencilicon from '@/public/images/pencilicon.png';
 
 export default function Vidicon () {
@@ -19,6 +20,22 @@ export default function Vidicon () {
     );
 }
 
+export function Docicon () {
+    return (
+        <>
+            <Image
+            src={docicon}
+            style={{
+                width: '2%',
+                height: 'auto'
+            }}
+            sizes="100vw"
+            alt="Black document icon with black lines on it" 
+            />
+        </>
+    );
+}
+
 export function Pencilicon () {
     return (
         <>
@@ -26,7 +43,6 @@ export function Pencilicon () {
             src={pencilicon}
             style={{
                 width: '3%',
-                borderRadius: "20px",
                 height: 'auto'
             }}
             sizes="100vw"
