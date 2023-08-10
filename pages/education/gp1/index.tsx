@@ -10,9 +10,6 @@ const Gp1 = () => {
             <h1 className={style.centerText}>
                 General Physics 1
             </h1>
-            <p>
-                Eventually you will be able to take gen phys 1 here. Have a look at our <Link href="/pdf/gp1syl.pdf" className={style.sampleLink} download>sample syllabus</Link>
-            </p>
             <h2>
                 Description
             </h2>
@@ -22,10 +19,11 @@ const Gp1 = () => {
                 <br></br>
                 &nbsp; &nbsp; kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, gravity, waves, fluid motion, and intro thermodynamics. 
                 <br></br><br></br>
-                The class will consist of ~ 20 modules, which will consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam.
+                The class consists of ~ 20 modules, which will consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam.
+                I hope you enjoy it, and please give me your <a href="mailto:jeff@jrfink.net">feedback</a> as you go through it! 
                 <br></br>
                 <br></br>
-                I hope you enjoy it.
+          
             </p>
             <h2>
                 Prerequisites
@@ -51,6 +49,12 @@ const Gp1 = () => {
             <p>
                 Jeff Fink
             </p>
+            <h2>
+                Syllabus
+            </h2>
+                <p>
+                    <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
+                </p>
             <br></br>
             <br></br>
             <Link href="/education/gp1/frame" className={style.generalLink}>Frames, units, and measurement</Link><br></br>
