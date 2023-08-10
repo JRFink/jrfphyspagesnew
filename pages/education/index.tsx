@@ -26,6 +26,9 @@ const Education = () => {
             <h2 className={style.edHeaderSpace}>
                 See what students are saying
             </h2>
+            <h3 className={style.edHeaderSpace}>
+                Reviews
+            </h3>
             <br></br>
         </>
     );
