@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Summary from '@/pages/components/summary';
 import FlawEx from '@/pages/exercises/gp1/flawex';
 import Helpful from '@/pages/components/helpful';
 

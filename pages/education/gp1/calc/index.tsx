@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Summary from '@/pages/components/summary'; 
 import Helpful from '@/pages/components/helpful';
 
 const Calc = () => {

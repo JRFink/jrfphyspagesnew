@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Two3Vid from '@/public/videos/gp1/two3';
 import style from '@/styles/general.module.css';
+import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
 import Helpful from '@/pages/components/helpful';
 
