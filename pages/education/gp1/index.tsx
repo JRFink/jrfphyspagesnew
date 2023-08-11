@@ -95,7 +95,7 @@ const Gp1 = () => {
             <br></br>
             <Link href="/education/gp1/theat" className={style.generalLink}>Temperature and Heat</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/kin" className={style.generalLink}>Kinetic Theory of Gases</Link><br></br>
+            <Link href="/education/gp1/kin" className={style.generalLink}>Gases</Link><br></br>
             <br></br>
             <Link href="/education/gp1/flaw" className={style.generalLink}>First Law of Thermodynamics</Link><br></br>
             <br></br>
