@@ -15,28 +15,33 @@ const Wave = () => {
             <br></br>
             <ModoverviewWm />
             <br></br>
+            <h2 className={style.h2SectionColor} id="osc">
+                1. Connection to oscillations
+            </h2>
+            <br></br>
+            <br></br>
             <h2 className={style.h2SectionColor} id="type">
-                1. Types of wave motion
+                2. Types of wave motion
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="desc">
-                2. Describing wave motion
+                3. Describing wave motion
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="en">
-                3. Energy in waves
+                4. Energy in waves
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="wave">
-                4. Wave equation
+                5. Wave equation
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="sup">
-                5. Superposition
+                6. Superposition
             </h2>
             <br></br>
             <br></br>

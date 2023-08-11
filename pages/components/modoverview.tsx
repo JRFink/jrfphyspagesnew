@@ -604,6 +604,11 @@ export function ModoverviewWm() {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
+                <a href="#osc">Connection to oscillations</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
                 <a href="#type">Types of wave motion</a>
             </p>
             <br></br>
@@ -713,6 +718,50 @@ export function ModoverviewOsc() {
             <Vidicon />
             <p className={style.inlineContainer}>
                 <a href="#ex">Examples of oscillations</a>
+            </p>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};
+
+export function ModoverviewTheat() {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#temp">Temperature</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#zero">Zeroth and first law of thermo</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#therm">Thermal expansion</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#heat">Heat transfer</a>
             </p>
             <br></br>
             <Docicon />

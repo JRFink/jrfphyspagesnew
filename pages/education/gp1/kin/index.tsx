@@ -12,6 +12,16 @@ const Kin = () => {
                 Kinetic Theory of Gases
             </h1>
 
+            {/* avogadros number 
+            ideal gases 
+            pressure, temp, rms speed 
+            translational kinetic energy 
+            mean free path 
+            distribution of molecular speeds 
+            molecular specific heats of an ideal gas 
+            degrees of freedom and molar specific heats 
+            the adiabatic expansion of an ideal gas  */}
+
             <br></br>
             <br></br>
             <KinEx />
