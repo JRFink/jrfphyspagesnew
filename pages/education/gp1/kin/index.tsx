@@ -11,13 +11,13 @@ const Kin = () => {
             <h1 className={style.centerText}>
                 Gases
             </h1>
-            <h2>
+            <h2 className={style.h2SectionColor} id="ideal">
                 Ideal
             </h2>
-            <h2>
+            <h2 className={style.h2SectionColor} id="mol">
                 Molecular theory of gases
             </h2>
-            <h2> 
+            <h2 className={style.h2SectionColor} id="ad"> 
                 Adiabatic processes
             </h2>
 
