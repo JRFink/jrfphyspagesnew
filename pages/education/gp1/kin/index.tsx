@@ -15,7 +15,10 @@ const Kin = () => {
                 Ideal
             </h2>
             <h2>
-                Non-ideal
+                Molecular theory of gases
+            </h2>
+            <h2> 
+                Adiabatic processes
             </h2>
 
             {/* avogadros number 
