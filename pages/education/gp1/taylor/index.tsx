@@ -1,6 +1,8 @@
 import Link from 'next/link';
-import TaylorVid from '@/public/videos/gp1/taylor';
 import style from '@/styles/general.module.css';
+import { ModoverviewTaylor } from '@/pages/components/modoverview';
+import TaylorVid from '@/public/videos/gp1/taylor';
+
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
 import Helpful from '@/pages/components/helpful';
 import Image from 'next/image';
@@ -16,13 +18,21 @@ const Taylor = () => {
                 Taylor Expansion
             </h1>
             <br></br>
-            <h2>
-                1. Intro
+            <ModoverviewTaylor />
+            <br></br>
+            <TaylorVid />
+            <br></br>
+            <h2 className={style.h2SectionColor} id="intro">
+                1. Theory
             </h2>
-            <h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="app">
                 2. Application to physical problems
             </h2>
-            <h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="ex">
                 3. Further examples
             </h2>
             <div 
@@ -42,8 +52,6 @@ const Taylor = () => {
                     alt="Guy with a blue shirt with trees in the background" 
                 />
             </div>
-            <br></br>
-            <TaylorVid />
             <br></br>
             <br></br>
             <TaylorEx />

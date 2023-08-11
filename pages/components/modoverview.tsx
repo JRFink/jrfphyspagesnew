@@ -500,3 +500,42 @@ export function ModoverviewEq() {
         </>
     );
 };
+
+export function ModoverviewTaylor() {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#intro">Theory</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#app">Application to physical problems</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#ex">Further examples</a>
+            </p>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};
