@@ -11,7 +11,24 @@ const Slaw = () => {
             <h1 className={style.centerText}>
                 Second law of Thermodynamics
             </h1>
-
+            <h2 className={style.h2SectionColor} id="ent"> 
+                Entropy 
+            </h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="eng"> 
+                Engines 
+            </h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="ref"> 
+                Refrigerators 
+            </h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="stat"> 
+                Statistics 
+            </h2>  
             <br></br>
             <br></br>
             <SlawEx />
