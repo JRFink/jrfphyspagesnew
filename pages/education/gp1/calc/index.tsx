@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import { ModoverviewCalc } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary'; 
 import Helpful from '@/pages/components/helpful';
 
@@ -12,7 +13,11 @@ const Calc = () => {
                 Big calc review
             </h1>
             <br></br>
-            <h2 className={style.h2SectionColor}>
+            <br></br>
+            <ModoverviewCalc />
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="rate">
                 1. Rate of change
             </h2>
                 <h3>
@@ -27,7 +32,7 @@ const Calc = () => {
                 <h3>
                     1.4 Adding rates of change for a certain period
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="ex">
                 2. Example with 1 dimensional motion
             </h2>
                 <h3>
@@ -36,9 +41,7 @@ const Calc = () => {
                 <h3>
                     2.2 Adding up changes in velocity
                 </h3>
-            <h2 className={style.summaryHeading}>
-                Summary
-           </h2>
+            <Summary />
             <br></br>
             <Helpful />
         </>

@@ -1,7 +1,8 @@
 import Link from 'next/link';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
-import Modoverviewframes from '@/pages/components/modoverviewframes';
+import Modoverviewframes from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
 
@@ -18,7 +19,7 @@ const Uvec = () => {
             <br></br>
             <Modoverviewframes />
             <br></br>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="frames">
                 1. Frames 
             </h2>
             <h3>
@@ -30,7 +31,7 @@ const Uvec = () => {
             <h3>
                 1.3 Physicists&#39; inertial and non-inertial frames
             </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="units">
                 2. Units 
             </h2>
             <br></br>
@@ -61,7 +62,7 @@ const Uvec = () => {
             <h3>
                 2.6 Government standards
             </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="measurement">
                 3. Measurement
             </h2>
             <h3>
@@ -73,9 +74,7 @@ const Uvec = () => {
             <h3>
                 3.3 Errors in measurement
             </h3>
-            <h2 className={style.h2SectionColor}>
-                Summary 
-            </h2>
+            <Summary />
             
             <br></br>
             <br></br>
