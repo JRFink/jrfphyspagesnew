@@ -11,6 +11,12 @@ const Kin = () => {
             <h1 className={style.centerText}>
                 Gases
             </h1>
+            <h2>
+                Ideal
+            </h2>
+       <h2>
+                Ideal
+            </h2>
 
             {/* avogadros number 
             ideal gases 
