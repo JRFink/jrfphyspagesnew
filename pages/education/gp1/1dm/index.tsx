@@ -20,7 +20,7 @@ const Onedm = () => {
             </h1>
             <Modoverview1dm />
             <h2 className={style.h2SectionColor} id="pos">
-                1. Position, displacement
+                1. Position and displacement
             </h2>
             <br></br>
             <ConstantPosVid />

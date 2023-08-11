@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import { ModoverviewANl } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import FlawEx from '@/pages/exercises/gp1/flawex';
 import Helpful from '@/pages/components/helpful';
@@ -12,13 +13,15 @@ const ApplNl = () => {
             <h1 className={style.centerText}>
                 Applying Newton&#39;s laws
             </h1>
-            <h2 className={style.h2SectionColor}>
+            <br></br> 
+            <ModoverviewANl />
+            <h2 className={style.h2SectionColor} id="flaw">
                 1. Using the first law
             </h2>
                 <h3>
                     1.1 Equilibrium
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="slaw">
                 2. Using the second
             </h2>
                 <h3>
@@ -42,21 +45,19 @@ const ApplNl = () => {
                 <h3>
                     2.4 Drag force
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="third">
                 3. Using the third
             </h2>
                 <h3>
                     3.1 Reaction forces
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="circ">
                 4. Dynamics of circular motion
             </h2>
                 <h3>
                     4.1 Going around a curve
                 </h3>
-            <h2 className={style.summaryHeading}>
-                Summary
-            </h2>
+            <Summary />
             <br></br>
             <br></br>
             <br></br>

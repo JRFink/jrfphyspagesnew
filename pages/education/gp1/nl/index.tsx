@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import NewtVid from '@/public/videos/gp1/newt';
 import style from '@/styles/general.module.css';
+import { ModoverviewNl } from '@/pages/components/modoverview';
+import NewtVid from '@/public/videos/gp1/newt';
 import NlEx from '@/pages/exercises/gp1/nlex';
 import Helpful from '@/pages/components/helpful';
 
@@ -13,10 +14,12 @@ const NewtLaws = () => {
                 Newton&apos;s Laws of Motion
             </h1>
             <br></br>
+            <ModoverviewNl />
+            <br></br>
             <NewtVid />
             <br></br>
             <br></br>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
             </h2>
                 <p className={style.pDefinition}>
@@ -26,7 +29,7 @@ const NewtLaws = () => {
                 <h3>
                     1.1 Inertial frames
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="nslaw">
                 2. Second law 
             </h2>
                 <p>
@@ -44,14 +47,14 @@ const NewtLaws = () => {
                 <h3>
                     2.4 Superposition of forces
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="ntl">
                 3. Third law
             </h2>
                 <p>
                     Newton&apos;s third law states that when object A exerts a force on object B then 
                     object B exerts a force on object A of the same strength but directionally opposite to the force that A exerts on B. 
                 </p>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="free">
                 4. Free-body diagrams
             </h2>
             <h2>

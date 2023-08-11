@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Two3Vid from '@/public/videos/gp1/two3';
 import style from '@/styles/general.module.css';
+import { Modoverview2dm } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
 import Helpful from '@/pages/components/helpful';
@@ -13,7 +14,9 @@ const Two3dm = () => {
             <h1 className={style.centerText}>
                 Motion in 2-3 Dimensions
             </h1>
-            <h2 className={style.h2SectionColor}>
+            <br></br>
+            <Modoverview2dm />
+            <h2 className={style.h2SectionColor} id="2dm">
                 1. 2 dimensions 
             </h2>
             <br></br>
@@ -34,7 +37,7 @@ const Two3dm = () => {
             <h3>
                 1.5 Uniform circular motion
             </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="3dm">
                 2. 3 dimensions 
             </h2>
             <h3>
@@ -46,7 +49,7 @@ const Two3dm = () => {
             <h3>
                 2.3 Acceleration
             </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="rel">
                 3. Relative motion
             </h2>
             <h3>
@@ -55,9 +58,7 @@ const Two3dm = () => {
             <h3>
                 3.2 2 d
             </h3>
-            <h2 className={style.summaryHeading}>
-                Summary
-            </h2>
+            <Summary />
             <br></br>
             <br></br>
             <br></br>
