@@ -642,3 +642,47 @@ export function ModoverviewWm() {
         </>
     );
 };
+
+export function ModoverviewFluid() {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#fluid">Fluids, density, and pressure</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#buoy">Buoyancy</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#mot">Fluids in motion</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#visc">Viscosity</a>
+            </p>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};
