@@ -33,7 +33,10 @@ const Stand = () => {
                     Some american standards can be found <a href="https://www.nist.gov/">here</a>.
                     <br></br>
                     <br></br>
-                    Some Chinese science can be found <a href="https://www.most.gov.cn/">here</a>.      
+                    Some Chinese science can be found <a href="https://www.most.gov.cn/">here</a>. 
+                    <br></br> 
+                    <br></br>
+                    Some German science can be found <a href="https://www.bmbf.de/bmbf/en/research/research_node.html">here</a>.     
                     <br></br> 
                     <br></br>
                     Some Indian science can be found <a href="https://dst.gov.in/">here</a>.
