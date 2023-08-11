@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import WkeVid from '@/public/videos/gp1/wke';
 import style from '@/styles/general.module.css';
+import { ModoverviewWke } from '@/pages/components/modoverview';
+import WkeVid from '@/public/videos/gp1/wke';
 import WkeEx from '@/pages/exercises/gp1/wkeex';
 import Helpful from '@/pages/components/helpful';
 
@@ -12,10 +13,11 @@ const Wke = () => {
             <h1 className={style.centerText}>
                 Work and Kinetic Energy
             </h1>
+            <ModoverviewWke />
             <br></br>
             <WkeVid />
             <br></br>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="wet">
                 1. The work-energy theorem
             </h2>
                 <h3>
@@ -51,7 +53,7 @@ const Wke = () => {
                     <h4>
                         1.3.2 Work done by a varying force 
                     </h4>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="pow">
                 2. Power
             </h2>
             <h3>

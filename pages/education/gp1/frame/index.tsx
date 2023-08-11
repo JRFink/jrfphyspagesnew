@@ -20,7 +20,7 @@ const Uvec = () => {
             <Modoverviewframes />
             <br></br>
             <h2 className={style.h2SectionColor} id="frames">
-                1. Frames 
+                1. Reference frames 
             </h2>
             <h3>
                 1.1 Your own frame
