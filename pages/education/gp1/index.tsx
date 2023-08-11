@@ -89,6 +89,8 @@ const Gp1 = () => {
             <br></br>
             <Link href="/education/gp1/fluid" className={style.generalLink}>Fluids</Link><br></br>
             <br></br>
+            <Link href="/education/gp1/osc" className={style.generalLink}>Oscillations</Link><br></br>
+            <br></br>
             <Link href="/education/gp1/wm" className={style.generalLink}>Wave Motion</Link><br></br>
             <br></br>
             <Link href="/education/gp1/theat" className={style.generalLink}>Temperature and Heat</Link><br></br>
