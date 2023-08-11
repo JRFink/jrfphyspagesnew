@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import { ModoverviewGas } from '@/pages/components/modoverview';
 import KinEx from '@/pages/exercises/gp1/kinex';
 import Helpful from '@/pages/components/helpful';
 
@@ -11,6 +12,7 @@ const Kin = () => {
             <h1 className={style.centerText}>
                 Gases
             </h1>
+            <ModoverviewGas />
             <h2 className={style.h2SectionColor} id="ideal">
                 Ideal
             </h2>
