@@ -1,6 +1,7 @@
 import Link from 'next/link';
-import RotVid from '@/public/videos/gp1/rm';
 import style from '@/styles/general.module.css';
+import RotVid from '@/public/videos/gp1/rm';
+import { ModoverviewRm } from '@/pages/components/modoverview';
 import RmEx from '@/pages/exercises/gp1/rmex';
 import Helpful from '@/pages/components/helpful';
 
@@ -13,7 +14,9 @@ const Rm = () => {
                 Rotational Motion 
             </h1>
             <br></br>
-            <h2>
+            <ModoverviewRm />
+            <br></br>
+            <h2 className={style.h2SectionColor} id="ang">
                 1. Angular velocity and acceleration
             </h2>
             <h3>
@@ -25,13 +28,17 @@ const Rm = () => {
             <h3>
                 1.3 Connecting uniform and non-uniform circular motion
             </h3>
-            <h2>
+            <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
             </h2>
-            <h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="en">
                 3. Energy in rotational motion
             </h2>
-            <h2>
+            <br></br>
+            <br></br>
+            <h2 className={style.h2SectionColor} id="moment">
                 4. Moments of inertia
             </h2>
             <h3>
