@@ -539,3 +539,57 @@ export function ModoverviewTaylor() {
         </>
     );
 };
+
+export function ModoverviewG() {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#field">Gravitational field and force</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#potent">Gravitational potential</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#near">Gravitation near earth&#39;s surface</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#mot">Motion of satellites</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#kep">Kepler&#39;s laws</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#grav">Einstein and gravity</a>
+            </p>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};
