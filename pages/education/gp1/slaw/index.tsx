@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import { Modoverview2nd } from '@/pages/components/modoverview';
 import SlawEx from '@/pages/exercises/gp1/slawex';
 import Helpful from '@/pages/components/helpful';
 
@@ -11,6 +12,8 @@ const Slaw = () => {
             <h1 className={style.centerText}>
                 Second law of Thermodynamics
             </h1>
+            <Modoverview2nd /> 
+            <br></br>
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
             </h2>
