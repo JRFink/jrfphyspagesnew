@@ -779,3 +779,42 @@ export function ModoverviewTheat() {
         </>
     );
 };
+
+export function ModoverviewGas() { 
+     return ( 
+         <> 
+             <h2 className={style.exerciseHeading}> 
+                 Module Overview 
+             </h2> 
+             <br></br> 
+             <br></br> 
+             <Vidicon /> 
+             <p className={style.inlineContainer}> 
+                 <a href="#ideal">Ideal</a> 
+             </p> 
+             <br></br> 
+             <Vidicon /> 
+             <p className={style.inlineContainer}> 
+                 <a href="#mol">Molecular theory of gases</a> 
+             </p> 
+             <br></br> 
+             <Vidicon /> 
+             <p className={style.inlineContainer}> 
+                 <a href="#ad">Adiabatic processes</a> 
+             </p>      
+             <br></br> 
+             <Docicon /> 
+             <p className={style.inlineContainerSumm}> 
+                 Summary 
+             </p> 
+             <br></br> 
+             <Pencilicon /> 
+             <p className={style.inlineContainer}> 
+                 Exercises 
+             </p> 
+             <br></br> 
+             <br></br> 
+             <br></br> 
+         </> 
+     ); 
+ };
