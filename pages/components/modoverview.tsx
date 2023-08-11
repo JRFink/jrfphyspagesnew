@@ -334,3 +334,42 @@ export function ModoverviewWke() {
         </>
     );
 };
+
+export function ModoverviewPu() {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#rev">Review of energy</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#cons">Conservation of energy</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#energy">Energy diagrams</a>
+            </p>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};

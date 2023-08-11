@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import EUKVid from '@/public/videos/gp1/euk';
 import style from '@/styles/general.module.css';
+import { ModoverviewPu } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
 import Helpful from '@/pages/components/helpful';
@@ -14,9 +15,11 @@ const PU = () => {
                 Potential Energy & Energy Conservation
             </h1>
             <br></br>
+            <ModoverviewPu />
+            <br></br>
             <EUKVid />
             <br></br>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>
                 <h3>
@@ -37,7 +40,7 @@ const PU = () => {
                 <h3>
                     1.3 Work
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="cons">
                 2. Conservation of energy
             </h2>
                 <h3>
@@ -46,7 +49,7 @@ const PU = () => {
                 <h3>
                     2.2 Non-conservative forces
                 </h3>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="energy">
                 3. Energy diagrams
             </h2>
             <h3>
