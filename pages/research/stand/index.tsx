@@ -30,7 +30,16 @@ const Stand = () => {
                     </ul>
                 </p>
                 <p>
-                    Some american standards can be found <a href="https://www.nist.gov/">here</a>.      
+                    Some american standards can be found <a href="https://www.nist.gov/">here</a>.
+                    <br></br>
+                    <br></br>
+                    Some Russian science can be found <a href="https://minobrnauki.gov.ru/">here</a>. 
+                    <br></br> 
+                    <br></br>
+                    Some Chinese science can be found <a href="https://www.most.gov.cn/">here</a>. 
+                    <br></br>
+                    <br></br>
+                    Some Indian science can be found <a href="">here</a>.
                 </p>
             
             <br></br>
