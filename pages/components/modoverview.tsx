@@ -818,3 +818,47 @@ export function ModoverviewGas() {
          </> 
      ); 
  };
+
+export function Modoverview2nd() {  
+      return (  
+          <>  
+              <h2 className={style.exerciseHeading}>  
+                  Module Overview  
+              </h2>  
+              <br></br>  
+              <br></br>  
+              <Vidicon />  
+              <p className={style.inlineContainer}>  
+                  <a href="#ent">Entropy</a>  
+              </p>  
+              <br></br>  
+              <Vidicon />  
+              <p className={style.inlineContainer}>  
+                  <a href="#eng">Engines</a>  
+              </p>  
+              <br></br>  
+              <Vidicon />  
+              <p className={style.inlineContainer}>  
+                  <a href="#ref">Refrigerators</a>  
+              </p>       
+              <br></br> 
+              <Vidicon /> 
+              <p className={style.inlineContainer}>
+                   <a href="#stat">Statistics</a>
+              </p>
+              <br></br>
+              <Docicon />  
+              <p className={style.inlineContainerSumm}>  
+                  Summary  
+              </p>  
+              <br></br>  
+              <Pencilicon />  
+              <p className={style.inlineContainer}>  
+                  Exercises  
+              </p>  
+              <br></br>  
+              <br></br>  
+              <br></br>  
+          </>  
+      );  
+  };
