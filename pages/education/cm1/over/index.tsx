@@ -11,6 +11,9 @@ const Over = () => {
             <h1 className={style.centerText}>
                 Overview of classical regime
             </h1>
+            <p> 
+                 There are different approaches to classical mechanics. The most familiar is the Newtonian approach, learned in introductory physics. There are two other ways to approach classical systems, the lagrangian way and the hamiltonian way. They are interrelated. 
+            </p>
             <h2>
                 1. Newtonian mechanics
             </h2>
