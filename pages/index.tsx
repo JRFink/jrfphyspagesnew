@@ -1,4 +1,5 @@
 import style from '../styles/general.module.css';
+import Link from 'next/link';
 
 const indexPage = () => {
   return (
@@ -11,7 +12,8 @@ const indexPage = () => {
         You come to this site to learn about physics. <br></br>
         Eventually you will be able to take gen phys 1, a full-on implementation of a general physics 1 class. <br></br><br></br> 
 
-        Also, you are able to learn about the current research topics within physics.
+        You are also able to learn about the current research topics within physics. For example, what&#39;s all the hype with quantum computing? 
+        Learn about it <Link href="/research/qis">here</Link>. 
       </p>   
     </>
   );
