@@ -1,5 +1,7 @@
 import style from '../styles/general.module.css';
 import Link from 'next/link';
+import Image from 'next/image';
+import nabla from '@/public/images/nabla.svg';
 
 const indexPage = () => {
   return (
@@ -18,7 +20,24 @@ const indexPage = () => {
         You can learn about the different physics research areas and what schools and institutes are strong in each area. 
         For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for "AMO" research, 
         which studies how light interacts with matter.
-      </p>   
+      </p> 
+      <div 
+                style={{
+                    display: "flex",
+                    justifyContent: "left",
+                }}
+            >
+                <Image
+                    src={nabla}
+                    style={{
+                        width: '40%',
+                        borderRadius: "20px",
+                        height: 'auto'
+                    }}
+                    sizes="100vw"
+                    alt="The black gradient symbol" 
+                />
+            </div>  
     </>
   );
 }
