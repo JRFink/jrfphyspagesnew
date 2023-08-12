@@ -12,7 +12,7 @@ const About = () => {
             <p className={style.centerText}>
                 Jeff is a Colorado native.
                 He went to the University of Dallas and studied philosophy 
-                and then went to CU-Boulder and studied phys.      
+                and then went to CU-Boulder and studied phys. Now lives in ny and loves it.      
             </p>
             <br></br>
             <br></br>
