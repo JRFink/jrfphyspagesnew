@@ -12,7 +12,7 @@ const Over = () => {
                 Overview of classical regime
             </h1>
             <p> 
-                 There are different approaches to classical mechanics. The most familiar is the Newtonian approach, learned in introductory physics. There are two other ways to approach classical systems, the lagrangian way and the hamiltonian way. They are interrelated. 
+                 There are different approaches to classical mechanics. The most familiar is the Newtonian approach, learned in introductory physics. There are two other ways to approach classical systems, the lagrangian way and the hamiltonian way. All three are interrelated. 
             </p>
             <h2>
                 1. Newtonian mechanics
