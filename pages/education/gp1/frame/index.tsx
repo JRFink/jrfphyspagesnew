@@ -22,6 +22,8 @@ const Uvec = () => {
             <h2 className={style.h2SectionColor} id="frames">
                 1. Reference frames 
             </h2>
+            <br></br>
+            <br></br>
             <p>
                 Physics starts with a reference frame. Where are you right now? Where are you in relation to something else?
                 Where is something important to you in relation to you? These are what reference frames address. 

@@ -43,6 +43,14 @@ const PU = () => {
             <h2 className={style.h2SectionColor} id="cons">
                 2. Conservation of energy
             </h2>
+            <br></br>
+            <br></br>
+                <p>
+                    Conservation of energy is one of the most fundamental aspects of physics; maybe the most fundamental. 
+                    I&#39;m not sure yet. Nonetheless, studying this principle will give us a paradigm to solve physics problems. 
+                    Now, stricly speaking energy is always conserved. Whether the system interacts only via conservative forces, 
+                    we&#39;ll get into this below, or whether energy is &#34;lost&#34; to heat, energy is always conserved.&#42; 
+                </p>
                 <h3>
                     2.1 Conservative forces
                 </h3>
@@ -56,6 +64,10 @@ const PU = () => {
                 3.1 Plots
             </h3>
             <Summary />
+            <p>
+                <br></br>
+                &#42; Why?
+            </p>
             <br></br>
             <br></br>
             <br></br>
