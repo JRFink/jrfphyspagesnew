@@ -19,6 +19,15 @@ const Vec = () => {
             <h2 className={style.h2SectionColor} id="def">
                 1. Defining vectors
             </h2>
+            <p>
+                Vectors have a rigorous definition of a vector in something called <Link href="https://www.ucl.ac.uk/~ucahmto/0005_2021/Ch4.S2.html">linear algebra</Link>, 
+                but we won&#39;t get into that definition here. For our purposes we have to simply know that a vector is a mathematical object with two properties: 
+                a magnitude and a direction. 
+            </p>
+            <p>
+                Magnitude is a scalar quantity, meaning how big or small something is. And direction means which way the vector is pointing, 
+                given by an angle or another way of conveying it.  
+            </p>
                 <h3>
                     1.1 Components
                 </h3>
