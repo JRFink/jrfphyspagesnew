@@ -9,7 +9,7 @@ const Contact = () => {
             <p>
                 Leave a note
             </p>
-            <input className={style.feedbackBox} placeholder="General feedback"></input>
+            <input type="text" id="feedbackText" className={style.feedbackBox} placeholder="General feedback"></input>
             <br></br>
             <br></br>
             <button type="submit" className={style.greenButton}>Submit</button>
