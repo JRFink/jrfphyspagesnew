@@ -3,7 +3,17 @@ import Link from 'next/link';
 
 const Signup = () => {
 
+    
+
     const handleSubmit = async (event) => {
+
+        // state 
+        // state = {
+        //     test: false,
+        // }
+        // this.setState({
+        //     test: !this.state.test
+        // })
         // stop the form from submitting and refreshing the page 
         event.preventDefault() 
 
@@ -16,6 +26,14 @@ const Signup = () => {
             // hashPW: event.target.passworda.value,
             // hashPWRepeat: event.target.passwordrepeatb.value
         }
+
+        // render() {
+        //     return (
+        //         <div>
+        //             { this.state.test && <p>Thank you! We will be in touch.</p> }
+        //         </div>
+        //     );
+        // }
 
         // send the data to the server in JSON format. 
         const JSONdata = JSON.stringify(data)
@@ -36,7 +54,7 @@ const Signup = () => {
         }
         // send the form data to our forms api
         await fetch(endpoint, options);
-        alert('test alert');
+        <p>hi</p>
     }
 
     return (

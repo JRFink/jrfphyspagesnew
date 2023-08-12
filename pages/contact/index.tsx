@@ -13,6 +13,7 @@ const Contact = () => {
             <br></br>
             <br></br>
             <button type="submit" className={style.greenButton}>Submit</button>
+           
         </>
     );
 }
