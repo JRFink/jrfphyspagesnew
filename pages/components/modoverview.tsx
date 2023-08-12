@@ -863,30 +863,31 @@ export function Modoverview2nd() {
       );  
   };
 
-export function Modoverview1st() {   
-       return (   
-           <>   
-               <h2 className={style.exerciseHeading}>   
-                   Module Overview   
-               </h2>   
-               <br></br>   
-               <br></br>   
-               <Vidicon />   
-               <p className={style.inlineContainer}>   
-                   <a href="#first">First law of therm</a>                
-               <br></br> 
-               <Docicon />   
-               <p className={style.inlineContainerSumm}>   
-                   Summary   
-               </p>   
-               <br></br>   
-               <Pencilicon />   
-               <p className={style.inlineContainer}>   
-                   Exercises   
-               </p>   
-               <br></br>   
-               <br></br>   
-               <br></br>   
-           </>   
-       );   
-   };
+  export function Modoverview1st() {  
+    return (  
+        <>  
+            <h2 className={style.exerciseHeading}>  
+                Module Overview  
+            </h2>  
+            <br></br>  
+            <br></br>  
+            <Vidicon />  
+            <p className={style.inlineContainer}>  
+                <a href="#first">First law of thermodynamics</a>  
+            </p>  
+            <br></br>
+            <Docicon />  
+            <p className={style.inlineContainerSumm}>  
+                Summary  
+            </p>  
+            <br></br>  
+            <Pencilicon />  
+            <p className={style.inlineContainer}>  
+                Exercises  
+            </p>  
+            <br></br>  
+            <br></br>  
+            <br></br>  
+        </>  
+    );  
+};
