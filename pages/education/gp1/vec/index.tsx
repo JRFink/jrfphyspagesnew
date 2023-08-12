@@ -31,6 +31,10 @@ const Vec = () => {
                 <h3>
                     1.1 Components
                 </h3>
+                <p>
+                    Components are essential to vectors because they help us break down the vector down into its parts. 
+                </p>
+            <br></br>
             <h2 className={style.h2SectionColor} id="phys">
                 2. Vectors and physics
             </h2>
