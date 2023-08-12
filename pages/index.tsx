@@ -18,7 +18,7 @@ const indexPage = () => {
         Learn about it <Link href="/research/qis">here</Link>. <br></br><br></br><br></br>
 
         You can learn about the different physics research areas and what schools and institutes are strong in each area. 
-        For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for "AMO" research, 
+        For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for &#34;AMO&#34; research, 
         which studies how light interacts with matter.
       </p> 
       <div 
