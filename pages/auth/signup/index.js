@@ -36,6 +36,7 @@ const Signup = () => {
         }
         // send the form data to our forms api
         await fetch(endpoint, options);
+        alert('test alert');
     }
 
     return (

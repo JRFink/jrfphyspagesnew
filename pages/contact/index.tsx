@@ -6,9 +6,13 @@ const Contact = () => {
             <h1 className={style.centerText}>
                 Contact
             </h1>
-            <p className={style.centerText}>
-                <a href="mailto:jeff@jrfink.net">hello</a>
+            <p>
+                Leave a note
             </p>
+            <input className={style.feedbackBox} placeholder="General feedback"></input>
+            <br></br>
+            <br></br>
+            <button type="submit" className={style.greenButton}>Submit</button>
         </>
     );
 }
