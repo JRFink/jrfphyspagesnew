@@ -13,7 +13,11 @@ const indexPage = () => {
         Eventually you will be able to take gen phys 1, a full-on implementation of a general physics 1 class. <br></br><br></br> 
 
         You are also able to learn about the current research topics within physics. For example, what&#39;s all the hype with quantum computing? 
-        Learn about it <Link href="/research/qis">here</Link>. 
+        Learn about it <Link href="/research/qis">here</Link>. <br></br><br></br><br></br>
+
+        You can learn about the different physics research areas and what schools and institutes are strong in each area. 
+        For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for "AMO" research, 
+        which studies how light interacts with matter.
       </p>   
     </>
   );
