@@ -26,14 +26,15 @@ const Uvec = () => {
             <br></br>
             <p>
                 Physics starts with a reference frame. Where are you right now? Where are you in relation to something else?
-                Where is something important to you in relation to you? These are what reference frames address. 
+                These are what reference frames address. 
             </p>
             <h3>
                 1.1 Your own frame
             </h3>
             <p>
                 When thinking about physics, you should always define your own reference frame. This is very important. 
-                For example, where are you right now? 0 meters? 5,280 feet? &#40;10&#94;11 meters, 0, 0&#41;?
+                For example, you could be at 0 meters; 5,280 feet; or &#40;10&#94;11 meters, 0, 0&#41;. 
+                Knowing where you are will always help.
             </p>
             <h3>
                 1.2 Frame relative to something else

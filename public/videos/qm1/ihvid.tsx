@@ -7,7 +7,7 @@ const IhVid = () => {
                 Intro to Quantum
             </h2>
             <br></br>
-            <div className={style.flexContainer}>
+            <div className={style.flexContainerVid}>
                 <iframe
                         title="Intro to Quantum"
                         src={"https://player.vimeo.com/video/766619864?h=9c146f0eea&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"}

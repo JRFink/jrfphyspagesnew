@@ -47,16 +47,26 @@ const PU = () => {
             <br></br>
                 <p>
                     Conservation of energy is one of the most fundamental aspects of physics; maybe the most fundamental. 
-                    I&#39;m not sure yet. Nonetheless, studying this principle will give us a paradigm to solve physics problems. 
+                    I&#39;m still researching. Nonetheless, studying this principle will give us a paradigm to solve physics problems. 
                     Now, stricly speaking energy is always conserved. Whether the system interacts only via conservative forces, 
                     we&#39;ll get into this below, or whether energy is &#34;lost&#34; to heat, energy is always conserved.&#42; 
                 </p>
                 <h3>
                     2.1 Conservative forces
                 </h3>
+                <p>
+                    Conservative forces are forces where, when acting in a system, we can &#34;get the energy back.&#34; 
+                    Examples are the gravitational force and the electric force.
+                </p>
                 <h3>
                     2.2 Non-conservative forces
                 </h3>
+                <p>
+                    Non-conservative forces are forces where, when acting, we cannot &#34;get the energy back.&#34; An example is friction. 
+                    
+                </p>
+            <br></br>
+            <br></br>
             <h2 className={style.h2SectionColor} id="energy">
                 3. Energy diagrams
             </h2>

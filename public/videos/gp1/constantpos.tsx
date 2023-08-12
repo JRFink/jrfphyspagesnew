@@ -3,7 +3,7 @@ import style from '@/styles/general.module.css';
 const ConstantPosVid = () => {
     return (
         <>
-            <div className={style.flexContainer}>
+            <div className={style.flexContainerVid}>
                 <iframe
                         title="constant position; constant velocity"
                         className={style.iframe}
