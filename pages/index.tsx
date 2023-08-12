@@ -7,16 +7,19 @@ const indexPage = () => {
   return (
     <>
       <p className={style.centerText}>
-        Hello, and welcome to jrfink.net! This site focuses on physics education and research. <br></br> <br></br>
+        Hello, and welcome to jrfink.net! This site focuses on physics education and research.
+      </p>
+      <br></br>
+      <p>
         Take a look around and explore. Above you will see four tabs, which will take you to the education, 
-        research, sign up and sign-in tabs. There is also a search feature which we are implementing. <br></br> <br></br>
+        research, sign up and sign-in tabs. There is also a search feature. Stick around. <br></br> <br></br>
 
-        You come to this site to learn about physics. <br></br>
-        Eventually you will be able to take gen phys 1, a full-on implementation of a general physics 1 class. <br></br><br></br> 
-
+        You come to this site to learn about physics. Eventually you will be able to take gen phys 1, 
+        a full-on implementation of a gen physics 1 class. 
+        <br></br><br></br> 
         You are also able to learn about the current research topics within physics. For example, what&#39;s all the hype with quantum computing? 
-        Learn about it <Link href="/research/qis">here</Link>. <br></br><br></br><br></br>
-
+        Learn about it <Link href="/research/qis">here</Link>. 
+        <br></br><br></br>
         You can learn about the different physics research areas and what schools and institutes are strong in each area. 
         For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for &#34;AMO&#34; research, 
         which studies how light interacts with matter.

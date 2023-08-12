@@ -12,15 +12,16 @@ const Flaw = () => {
             <h1 className={style.centerText}>
                 First Law of Thermodynamics
             </h1>
+            
 
-            thermodynamic systems 
+            {/* thermodynamic systems 
             work done during volume changes 
             paths between thermodynamic states 
             internal energy and the first law of thermodynamics 
             kinds of thermodynamic processes 
             internal energy of an ideal gas 
             heat capacities of an ideal gas 
-            adiabatic processes for an ideal gas 
+            adiabatic processes for an ideal gas  */}
             <Modoverview1st />
             <br></br>
             <br></br>
