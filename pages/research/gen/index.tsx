@@ -66,6 +66,13 @@ const Gen = () => {
                                                         Ortho-Novum - Johnson &#38; Johnson - New Brunswick, New Jersey 
                                                     </li>
                                                   </ul>
+                        First no-fault divorce law - 
+                                <ul>
+                                    <li>
+                                        The <Link href="/pdf/familylawactdivorce.pdf" download>Family Law Act of 1969</Link>, 
+                                        interestingly signed by Ronald Regan as governor of California. 
+                                    </li>
+                                </ul>
                         Drug policy - 
                                 <ul>
                                     <li>
