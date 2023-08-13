@@ -200,15 +200,11 @@ const Gen = () => {
                         <Link href="https://www.japan.go.jp">Government</Link>
                         <ul>
                             <li>
-
+                                <Link href="https://www.enecho.meti.go.jp">Energy</Link>
                             </li>
                             <br></br>
                             <li>
-
-                            </li>
-                            <br></br>
-                            <li>
-                                
+                                <Link href="https://www.mext.go.jp">Science &#38; Education</Link>
                             </li>
                         </ul>
                     </p>
@@ -225,7 +221,6 @@ const Gen = () => {
                         <li>
                             <Link href="https://minobrnauki.gov.ru">Science &#38; Education</Link>
                         </li>
-                        <br></br>
                     </ul>
                 </p>
                 <h2>
