@@ -3,7 +3,7 @@ import Vidicon from '@/pages/components/icons';
 import { Docicon } from '@/pages/components/icons';
 import { Pencilicon } from '@/pages/components/icons';
 
-export function ModoverviewInt () {
+export default function ModoverviewInt () {
     return (
         <>
             <h2 className={style.exerciseHeading}>
