@@ -196,6 +196,22 @@ const Gen = () => {
                 <h2>
                     Japan
                 </h2>
+                    <p>
+                        <Link href="https://www.japan.go.jp">Government</Link>
+                        <ul>
+                            <li>
+
+                            </li>
+                            <br></br>
+                            <li>
+
+                            </li>
+                            <br></br>
+                            <li>
+                                
+                            </li>
+                        </ul>
+                    </p>
                 <h2>
                     Russia
                 </h2>
@@ -203,21 +219,34 @@ const Gen = () => {
                     <Link href="http://government.ru">Government</Link>
                     <ul>
                         <li>
-
+                            <Link href="http://minenergo.gov.ru">Energy</Link>
                         </li>
                         <br></br>
                         <li>
-
+                            <Link href="https://minobrnauki.gov.ru">Science &#38; Education</Link>
                         </li>
                         <br></br>
-                        <li>
-                            
-                        </li>
                     </ul>
                 </p>
                 <h2>
                     Singapore
                 </h2>
+                <p>
+                    <Link href="https://www.gov.sg">Government</Link>
+                    <ul>
+                        <li>
+                            <Link href="https://www.ema.gov.sg/index.aspx">Energy</Link>
+                        </li>
+                        <br></br>
+                        <li>
+                            <Link href="https://snas.org.sg">Science</Link>
+                        </li>
+                        <br></br>
+                        <li>
+                            <Link href="https://www.moe.gov.sg/">Education</Link>
+                        </li>
+                    </ul>
+                </p>
                 <h2>
                     Other
                 </h2>
