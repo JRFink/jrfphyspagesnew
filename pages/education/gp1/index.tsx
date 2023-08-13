@@ -57,6 +57,8 @@ const Gp1 = () => {
                 </p>
             <br></br>
             <br></br>
+            <Link href="/education/gp1/int" className={style.generalLink}>Introduction</Link><br></br>
+            <br></br>
             <Link href="/education/gp1/frame" className={style.generalLink}>Frames, units, and measurement</Link><br></br>
             <br></br>
             <Link href="/education/gp1/vec" className={style.generalLink}>Vector review</Link><br></br>

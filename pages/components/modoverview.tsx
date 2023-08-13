@@ -3,7 +3,35 @@ import Vidicon from '@/pages/components/icons';
 import { Docicon } from '@/pages/components/icons';
 import { Pencilicon } from '@/pages/components/icons';
 
-export default function Modoverview () {
+export function ModoverviewInt () {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainer}>
+                <a href="#int">Intro</a>
+            </p>
+            <br></br>
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};
+
+export function ModoverviewFrames () {
     return (
         <>
             <h2 className={style.exerciseHeading}>

@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
-import Modoverviewframes from '@/pages/components/modoverview';
+import { ModoverviewFrames } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Helpful from '@/pages/components/helpful';
@@ -17,7 +17,7 @@ const Uvec = () => {
                 Frames, units, and measurement
             </h1>
             <br></br>
-            <Modoverviewframes />
+            <ModoverviewFrames />
             <br></br>
             <h2 className={style.h2SectionColor} id="frames">
                 1. Reference frames 
