@@ -255,10 +255,10 @@ const Gen = () => {
                 <p>
                     <ul>
                         <li>
-                            <Link href="https://www.ietf.org/">Internet engineering task force</Link>
+                            <Link href="https://www.ietf.org/">Internet engineering task force</Link> - Wilmington, DE
                         </li>
                         <li>
-                            <Link href="https://www.iso.org">International organization for standardization</Link>
+                            <Link href="https://www.iso.org">International organization for standardization</Link> - Geneva, CH
                         </li>
                     </ul>
                 </p>
