@@ -257,6 +257,9 @@ const Gen = () => {
                         <li>
                             <Link href="https://www.ietf.org/">Internet engineering task force</Link>
                         </li>
+                        <li>
+                            <Link href="https://www.iso.org">International organization for standardization</Link>
+                        </li>
                     </ul>
                 </p>
         </>
