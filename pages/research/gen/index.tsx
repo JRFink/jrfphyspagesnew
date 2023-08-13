@@ -18,6 +18,11 @@ const Gen = () => {
                     America
                 </h2>
                     <p>
+                        <Link href="https://www.usa.gov/">Government</Link>
+                                <ul>
+
+                                </ul>
+
                         Google - <ul>
                                     <li>
                                         Larry Page - America - Michigan, Stanford 
@@ -128,6 +133,7 @@ const Gen = () => {
                     China
                 </h2>
                     <p>
+                        <Link href="https://www.gov.cn/english/">Government</Link>
                         <ul>
                             <li>
                                 <Link href="http://www.nea.gov.cn/">Energy</Link>
