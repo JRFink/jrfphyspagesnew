@@ -25,9 +25,18 @@ const Gen = () => {
                                     <li>
                                         Sergey Brin - Russia - Maryland, Stanford 
                                     </li>
+                                    <li>
+                                        Susan Wojcicki - America - Harvard
+                                    </li>
+                                    <li>
+                                        Sundar - India - IIT, Stanford
+                                    </li>
                                 </ul> 
-
-
+                        Apple - <ul>
+                                    <li>
+                                        Jobs - America - Reed
+                                    </li>
+                                </ul>
                     </p>
                 <h2>
                     China
