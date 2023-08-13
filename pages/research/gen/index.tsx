@@ -127,6 +127,13 @@ const Gen = () => {
                 <h2>
                     China
                 </h2>
+                    <p>
+                        <ul>
+                            <li>
+                                <Link href="http://www.nea.gov.cn/">Energy</Link>
+                            </li>
+                        </ul>
+                    </p>
                 <h2>
                     India
                 </h2>
@@ -138,6 +145,9 @@ const Gen = () => {
                 </h2>
                 <h2>
                     Russia
+                </h2>
+                <h2>
+                    Singapore
                 </h2>
                 <h2>
                     Other
