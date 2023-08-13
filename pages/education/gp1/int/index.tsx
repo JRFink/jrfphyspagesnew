@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
-import { ModoverviewInt } from '@/pages/components/modoverview';
+import ModoverviewInt from '@/pages/components/modoverview';
 import FluidEx from '@/pages/exercises/gp1/fluidex';
 import Helpful from '@/pages/components/helpful';
 
