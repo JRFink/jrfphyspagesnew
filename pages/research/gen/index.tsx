@@ -20,7 +20,17 @@ const Gen = () => {
                     <p>
                         <Link href="https://www.usa.gov/">Government</Link>
                                 <ul>
-
+                                    <li>
+                                        <Link href="https://www.energy.gov/">Energy</Link>
+                                    </li>
+                                    <br></br>
+                                    <li>
+                                        <Link href="https://www.energy.gov/science/office-science">Science</Link>
+                                    </li>
+                                    <br></br>
+                                    <li>
+                                        <Link href="https://www.ed.gov">Education</Link>
+                                    </li>
                                 </ul>
 
                         Google - <ul>
@@ -62,9 +72,6 @@ const Gen = () => {
                                         <Link href="https://uscode.house.gov/view.xhtml;jsessionid=2C85B8DEBFB1BB15A7D31E29A34C3DAA?req=granuleid%3AUSC-prelim-title21&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUyMS1zZWN0aW9uODAx%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim">Controlled substances act</Link>
                                     </li>
                                 </ul>
-                        <Link href="https://www.energy.gov/">Department of energy</Link>
-                        <br></br>
-                        <br></br>
                         Labs - 
                                 <ul>
                                     Office of science 
@@ -133,7 +140,7 @@ const Gen = () => {
                     China
                 </h2>
                     <p>
-                        <Link href="https://www.gov.cn/english/">Government</Link>
+                        <Link href="https://www.gov.cn">Government</Link>
                         <ul>
                             <li>
                                 <Link href="http://www.nea.gov.cn/">Energy</Link>
@@ -151,6 +158,22 @@ const Gen = () => {
                 <h2>
                     India
                 </h2>
+                    <p>
+                        <Link href="https://www.india.gov.in">Government</Link>
+                        <ul>
+                            <li>
+                                <Link href="https://mnre.gov.in/">Energy</Link>
+                            </li>
+                            <br></br>
+                            <li>
+                                <Link href="https://dst.gov.in">Science</Link>
+                            </li>
+                            <br></br>
+                            <li>
+                                <Link href="https://www.education.gov.in">Education</Link>
+                            </li>
+                        </ul>
+                    </p>
                 <h2>
                     Iran
                 </h2>
