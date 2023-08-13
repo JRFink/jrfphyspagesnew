@@ -18,7 +18,16 @@ const Gen = () => {
                     America
                 </h2>
                     <p>
-                        Google - Larry page &#38; Sergey brin
+                        Google - <ul>
+                                    <li>
+                                        Larry Page - America - Michigan, Stanford 
+                                    </li>
+                                    <li>
+                                        Sergey Brin - Russia - Maryland, Stanford 
+                                    </li>
+                                </ul> 
+
+
                     </p>
                 <h2>
                     China
