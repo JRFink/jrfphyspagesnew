@@ -178,18 +178,18 @@ const Gen = () => {
                     Iran
                 </h2>
                 <p>
-                    <Link href="https://mfa.gov.ir">Government</Link>
+                    <Link href="https://dolat.ir">Government</Link>
                     <ul>
                         <li>
                             <Link href="https://moe.gov.ir">Energy</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://www.irangov.ir/cat/558">Science</Link>
+                            <Link href="https://irangov.ir/cat/558">Science</Link>
                         </li>
                         <br></br>
                         <li>
-
+                            <Link href="https://irangov.ir/cat/547">Education</Link>
                         </li>
                     </ul>
                 </p>
