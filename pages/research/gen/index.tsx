@@ -47,7 +47,16 @@ const Gen = () => {
                                                     <li>
                                                         Yaz - Bayer - Leverkusen, Germany
                                                     </li>
+                                                    <li>
+                                                        Ortho-Novum - Johnson &#38; Johnson - New Brunswick, New Jersey 
+                                                    </li>
                                                   </ul>
+                        Drug policy - 
+                                <ul>
+                                    <li>
+                                        <Link href="https://uscode.house.gov/view.xhtml;jsessionid=2C85B8DEBFB1BB15A7D31E29A34C3DAA?req=granuleid%3AUSC-prelim-title21&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUyMS1zZWN0aW9uODAx%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim">Controlled substances act</Link>
+                                    </li>
+                                </ul>
                     </p>
                 <h2>
                     China
