@@ -57,6 +57,54 @@ const Gen = () => {
                                         <Link href="https://uscode.house.gov/view.xhtml;jsessionid=2C85B8DEBFB1BB15A7D31E29A34C3DAA?req=granuleid%3AUSC-prelim-title21&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUyMS1zZWN0aW9uODAx%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim">Controlled substances act</Link>
                                     </li>
                                 </ul>
+                        <Link href="https://www.energy.gov/">Department of energy</Link>
+                        <br></br>
+                        <br></br>
+                        Labs - 
+                                <ul>
+                                    Office of science 
+                                    <ul>
+                                        <li>
+                                            Ames 
+                                        </li>
+                                        <li>
+                                            Argonne 
+                                        </li>
+                                        <li>
+                                            Brookhaven 
+                                        </li>
+                                        <li>
+                                            Fermi
+                                        </li>
+                                        <li>
+                                            Berkeley
+                                        </li>
+                                        <li>
+                                            Oak Ridge
+                                        </li>
+                                        <li>
+                                            Pacific Northwest
+                                        </li>
+                                        <li>
+                                            Princeton Plasma lab
+                                        </li>
+                                        <li>
+                                            Slac
+                                        </li>
+                                        <li>
+                                            Jefferson
+                                        </li>
+                                    </ul>
+                                    Nuc 
+                                        <ul>
+                                            <li>
+                                                Lawrence Livermore
+                                            </li>
+                                            <li>
+                                                Los Alamos
+                                            </li>
+                                        </ul>
+                                </ul>
                     </p>
                 <h2>
                     China
