@@ -45,7 +45,7 @@ const Gen = () => {
                                 </ul>
                         Birth control producers - <ul>
                                                     <li>
-                                                        Yaz - Bayer 
+                                                        Yaz - Bayer - Leverkusen, Germany
                                                     </li>
                                                   </ul>
                     </p>
