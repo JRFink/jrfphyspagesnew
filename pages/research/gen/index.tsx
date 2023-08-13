@@ -31,12 +31,23 @@ const Gen = () => {
                                     <li>
                                         Sundar - India - IIT, Stanford
                                     </li>
+                                    <li>
+                                        Frederik Pferdt - Germany - Konstanz, Paderborn
+                                    </li>
                                 </ul> 
                         Apple - <ul>
                                     <li>
                                         Jobs - America - Reed
                                     </li>
+                                    <li>
+                                        Cook - America - Auburn
+                                    </li>
                                 </ul>
+                        Birth control producers - <ul>
+                                                    <li>
+                                                        Yaz - Bayer 
+                                                    </li>
+                                                  </ul>
                     </p>
                 <h2>
                     China
