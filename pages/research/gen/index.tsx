@@ -132,6 +132,14 @@ const Gen = () => {
                             <li>
                                 <Link href="http://www.nea.gov.cn/">Energy</Link>
                             </li>
+                            <br></br>
+                            <li>
+                                <Link href="https://en.most.gov.cn/">Science</Link>
+                            </li>
+                            <br></br>
+                            <li>
+                                <Link href="http://en.moe.gov.cn/">Education</Link>
+                            </li>
                         </ul>
                     </p>
                 <h2>
