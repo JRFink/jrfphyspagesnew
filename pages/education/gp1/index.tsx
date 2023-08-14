@@ -12,7 +12,7 @@ const Gp1 = () => {
             </h1>
             
             <p>
-                Hello! And welcome to my first general physics 1 class. This class is meant to be awesome; 
+                Hello, and welcome to gene phys 1! This class is meant to be awesome; 
                 it is the equivalent of a real gen phys 1 class you would take in high school or college. You will learn about 
                 forces, motion, vectors, newton&#39;s laws, and much more. I am offering it as an online asynchronous class,
                 where you can work along at your own pace. I don&#39;t have all the implementation in it yet, but I have the topical structure, 
