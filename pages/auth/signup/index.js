@@ -3,8 +3,6 @@ import Link from 'next/link';
 
 const Signup = () => {
 
-    
-
     const handleSubmit = async (event) => {
 
         // state 
