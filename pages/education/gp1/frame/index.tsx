@@ -25,7 +25,7 @@ const Uvec = () => {
             <br></br>
             <br></br>
             <p>
-                Physics starts with a reference frame. Where are you right now? Where are you in relation to something else?
+                Physics starts with a reference frame. Where are you? Where are you in relation to something else?
                 These are what reference frames address. 
             </p>
             <h3>
