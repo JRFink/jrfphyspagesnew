@@ -13,16 +13,16 @@ const CondensedM = () => {
                 <h1>
                     Condensed matter
                 </h1>
-                <p>
-                    Condensed matter physics studies the macroscopic and microscopic physical properties of objects, 
-                    objects ranging from the very dense to the very not-dense states.
-                    What principles are responsible for the solid nature of solids, the liquid nature of liquids, or 
-                    the very dense 
-                    <a href="https://www.colorado.edu/today/2005/05/11/bose-einstein-condensate-turns-10-creation-colorado-laboratory-gave-birth-new-field"> Bose-Einstein condensate</a>?
-                    Condensed matter investigates these questions. You can find some of the latest  
-                    research <a href="https://journals.aps.org/prb/">here</a>.
-                </p>
             </div>
+            <p>
+                Condensed matter physics studies the macroscopic and microscopic physical properties of objects, 
+                objects ranging from the very dense to the very not-dense states.
+                What principles are responsible for the solid nature of solids, the liquid nature of liquids, or 
+                the very dense 
+                <a href="https://www.colorado.edu/today/2005/05/11/bose-einstein-condensate-turns-10-creation-colorado-laboratory-gave-birth-new-field"> Bose-Einstein condensate</a>?
+                Condensed matter investigates these questions. You can find some of the latest  
+                research <a href="https://journals.aps.org/prb/">here</a>.
+            </p>
             <br></br>
             <br></br>
             <div 

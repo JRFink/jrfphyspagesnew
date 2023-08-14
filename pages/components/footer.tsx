@@ -8,11 +8,13 @@ const Footer = () => {
             <br></br>
             <br></br>
             <footer className={style.footerDiv}>
-                <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
+                <Link href="/research/stand" className={style.linkFooter}>Standards and constants</Link><br></br>
                 <br></br>
                 <Link href="/contact" className={style.linkFooter}>Contact</Link><br></br>
                 <br></br>
                 <Link href="/careers" className={style.linkFooter}>Careers</Link><br></br>
+                <br></br>
+                <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
                 <br></br>
                 <Link href="/about" className={style.linkFooter}>About</Link>
                 <br></br>

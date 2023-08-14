@@ -13,13 +13,14 @@ const Astr = () => {
                 <h1>
                     Astrophysics
                 </h1>
-                <p>
-                    Astrophysics studies the universe beyond earth. Some of the areas are planetary science, cosmology, and exoplanets. 
-                    Find some of the latest research <a href="https://journals.aps.org/prresearch/subjects/astrophysics">here</a>.  
-                </p>
-                <br></br>
-                <br></br>
             </div>
+            <p>
+                Astrophysics studies the universe beyond earth. Some of the areas are planetary science, cosmology, and exoplanets. 
+                Find some of the latest research <a href="https://journals.aps.org/prresearch/subjects/astrophysics">here</a>.  
+            </p>
+            <br></br>
+            <br></br>
+            
             <div 
                 style={{
                     display: "flex",

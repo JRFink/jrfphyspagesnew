@@ -13,25 +13,25 @@ const Particle = () => {
                 <h1>
                     Particle physics
                 </h1>
-                <p>
-                    Particle physics studies the fundamental constituents of matter. 
-                    We describe these fundamental constituents in a model called the Standard Model.
-                    The Standard Model is similiar to the Periodic table - 
-                    just as the Periodic table categorizes elements by their important properties, the 
-                    Standard Model categorizes particles by their important properties: mass, charge, spin, etc. 
-                    You can find the latest research <a href="https://journals.aps.org/prd/">here</a>.
-                </p>
-                <p>
-                    In order to discover something about particles, you have to do an experiment. Scientists do these experiments with something called <em> particle accelerators</em>. 
-                    These accelerators are giant machines with complex parts, pushing particles close to the speed of light and then smashing them together. 
-                </p> 
-                <p>
-                    There are two types of accelerators: linear and circular. A linear accelerator is something like 
-                    <Link href="https://www6.slac.stanford.edu/research/advanced-accelerators"> SLAC</Link>, 
-                    and a circular accelerator is something like <Link href="https://home.cern/science/accelerators/accelerator-complex">CERN</Link>.
-                    Learn more about them <Link href="https://www.energy.gov/articles/how-particle-accelerators-work">here</Link>.
-                </p>
             </div>
+            <p>
+                Particle physics studies the fundamental constituents of matter. 
+                We describe these fundamental constituents in a model called the Standard Model.
+                The Standard Model is similiar to the Periodic table - 
+                just as the Periodic table categorizes elements by their important properties, the 
+                Standard Model categorizes particles by their important properties: mass, charge, spin, etc. 
+                You can find the latest research <a href="https://journals.aps.org/prd/">here</a>.
+            </p>
+            <p>
+                In order to discover something about particles, you have to do an experiment. Scientists do these experiments with something called <em> particle accelerators</em>. 
+                These accelerators are giant machines with complex parts, pushing particles close to the speed of light and then smashing them together. 
+            </p> 
+            <p>
+                There are two types of accelerators: linear and circular. A linear accelerator is something like 
+                <Link href="https://www6.slac.stanford.edu/research/advanced-accelerators"> SLAC</Link>, 
+                and a circular accelerator is something like <Link href="https://home.cern/science/accelerators/accelerator-complex">CERN</Link>.
+                Learn more about them <Link href="https://www.energy.gov/articles/how-particle-accelerators-work">here</Link>.
+            </p>
             <br></br>
             <br></br>
             <div 

@@ -13,16 +13,16 @@ const Nuclear = () => {
                 <h1>
                     Nuclear physics
                 </h1>
-                <p>
-                    Nuclear physics research centers on two areas - nuclear structure and nuclear matter. 
-                    Nuclear structure focuses on protons, neutrons, ionized atoms, and the particles that make them up 
-                    - quarks and gluons.  
-                    Nuclear matter focuses on different compositions of nuclei - the quark gluon plasma (created in high-energy collisions), 
-                    neutron stars, and nucleon gases, to name a few. 
-                    You can find some of the latest research <a href="https://journals.aps.org/prc/">here</a>.  
-                    The division in the <a href="https://science.osti.gov/np/Research">Department of Energy</a> will also keep you busy. 
-                </p>
             </div>
+            <p>
+                Nuclear physics research centers on two areas - nuclear structure and nuclear matter. 
+                Nuclear structure focuses on protons, neutrons, ionized atoms, and the particles that make them up 
+                - quarks and gluons.  
+                Nuclear matter focuses on different compositions of nuclei - the quark gluon plasma (created in high-energy collisions), 
+                neutron stars, and nucleon gases, to name a few. 
+                You can find some of the latest research <a href="https://journals.aps.org/prc/">here</a>.  
+                The division in the <a href="https://science.osti.gov/np/Research">Department of Energy</a> will also keep you busy. 
+            </p>
             <br></br>
             <br></br>
             <div 

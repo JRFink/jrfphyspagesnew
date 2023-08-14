@@ -14,17 +14,17 @@ const Amo = () => {
                     Atomic, Molecular, & Optical
                 </h1>
             </div>
-                <p>
-                    Atomic, molecular, and optical physics studies how light interacts with matter. 
-                    By studying how light interacts with matter, such as with atoms and molecules, one can study the physical principles governing 
-                    these objects. You can find some of the latest AMO research <a href="https://journals.aps.org/pra/">here</a>.
-                    One of the best places to do this research is my alma mater, <a href="https://www.colorado.edu/physics/research/atomic-molecular-and-optical-physics">CU</a>! 
-                </p> 
-                <p>
-                    One way that scientists study atoms is by cooling them down. They cool them down with a method called <Link href="/pdf/lasercooling.pdf" target="_blank">laser cooling</Link>.*
-                </p>
-                <br></br>
-                <br></br>
+            <p>
+                Atomic, molecular, and optical physics studies how light interacts with matter. 
+                By studying how light interacts with matter, such as with atoms and molecules, one can study the physical principles governing 
+                these objects. You can find some of the latest AMO research <a href="https://journals.aps.org/pra/">here</a>.
+                One of the best places to do this research is my alma mater, <a href="https://www.colorado.edu/physics/research/atomic-molecular-and-optical-physics">CU</a>! 
+            </p> 
+            <p>
+                One way that scientists study atoms is by cooling them down. They cool them down with a method called <Link href="/pdf/lasercooling.pdf" target="_blank">laser cooling</Link>.*
+            </p>
+            <br></br>
+            <br></br>
             <div 
                 style={{
                     display: "flex",

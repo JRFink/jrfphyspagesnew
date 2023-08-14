@@ -13,12 +13,12 @@ const QuantI = () => {
                 <h1>
                     Quantum Info & Quantum Computing
                 </h1>
-                <p>
-                    Quantum information studies how atoms store information; 
-                    quantum computing studies how to use that information to solve practical problems. 
-                    Find some of the research <a href="https://journals.aps.org/prxquantum/">here</a>.      
-                </p>
             </div>
+            <p>
+                Quantum information studies how atoms store information; 
+                quantum computing studies how to use that information to solve practical problems. 
+                Find some of the research <a href="https://journals.aps.org/prxquantum/">here</a>.      
+            </p>
             <br></br>
             <br></br>
             <div 

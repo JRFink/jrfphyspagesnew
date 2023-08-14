@@ -13,13 +13,13 @@ const Bio = () => {
                 <h1>
                     Biophysics
                 </h1>
-                <p>
-                    Biophysics studies biological processes from a physical standpoint. 
-                    For example, biophysics studies soft materials and the reasons
-                    they are different from rigid materials. Find some of the 
-                    <a href="https://journals.aps.org/pre/"> research</a> here.
-                </p>
             </div>
+            <p>
+                Biophysics studies biological processes from a physical standpoint. 
+                For example, biophysics studies soft materials and the reasons
+                they are different from rigid materials. Find some of the 
+                <a href="https://journals.aps.org/pre/"> research</a> here.
+            </p>
             <br></br>
             <br></br>
             <div 

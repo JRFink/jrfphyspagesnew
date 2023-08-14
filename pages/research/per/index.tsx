@@ -13,19 +13,19 @@ const PhysEd = () => {
                 <h1>
                     Physics education research
                 </h1>
-                <p>
-                    Physics education research focuses on answering the question 
-                    <em>what are the most effective ways to teach, learn, and increase engagement in physics? </em> 
-                    The research process investigates
-                    different models in these areas - traditional blackboard instruction; question-driven <em>clicker</em> instruction;
-                    technology and hands-on tutorial instruction, all with their associated learning models;
-                    the process also investigates social engagement within physics and how to improve it. 
-                    Some of the best places to do this research are <a href="https://www.colorado.edu/per/">CU </a> 
-                    and the
-                    <a href="https://phys.washington.edu/research/research-groups/physics-education-group-peg"> University of Washington</a>. 
-                    Find some of the latest research <a href="https://journals.aps.org/prper/">here</a>.
-                </p>
             </div>
+            <p>
+                Physics education research focuses on answering the question 
+                <em>what are the most effective ways to teach, learn, and increase engagement in physics? </em> 
+                The research process investigates
+                different models in these areas - traditional blackboard instruction; question-driven <em>clicker</em> instruction;
+                technology and hands-on tutorial instruction, all with their associated learning models;
+                the process also investigates social engagement within physics and how to improve it. 
+                Some of the best places to do this research are <a href="https://www.colorado.edu/per/">CU </a> 
+                and the
+                <a href="https://phys.washington.edu/research/research-groups/physics-education-group-peg"> University of Washington</a>. 
+                Find some of the latest research <a href="https://journals.aps.org/prper/">here</a>.
+            </p>
             <br></br>
             <br></br>
             <div 
