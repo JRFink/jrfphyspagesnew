@@ -82,8 +82,7 @@ const Gen = () => {
                         First no-fault divorce law - 
                                 <ul>
                                     <li>
-                                        The <Link href="/pdf/familylawactdivorce.pdf" download>Family Law Act of 1969</Link>, 
-                                        interestingly signed by Ronald Regan as governor of California. 
+                                        The <Link href="/pdf/familylawactdivorce.pdf" download>Family Law Act of 1969</Link>, signed by Ronald Regan as governor of California. 
                                     </li>
                                 </ul>
                         Drug policy - 
