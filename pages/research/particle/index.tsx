@@ -23,7 +23,7 @@ const Particle = () => {
                 You can find the latest research <a href="https://journals.aps.org/prd/">here</a>.
             </p>
             <p>
-                In order to discover something about particles, you have to do an experiment. Scientists do these experiments with something called <em> particle accelerators</em>. 
+                In order to discover something about particles, you have to do an experiment. Scientists do these experiments with <em> particle accelerators</em>. 
                 These accelerators are giant machines with complex parts, pushing particles close to the speed of light and then smashing them together. 
             </p> 
             <p>
