@@ -38,6 +38,9 @@ const Vec = () => {
             <h2 className={style.h2SectionColor} id="phys">
                 2. Vectors and physics
             </h2>
+            <p>
+                Vectors are everywhere in physics. From displacement, velocity, and acceleration, to the electric force and phases between vectors in quantum mechanics, we describe many physical quantities with vectors.  
+            </p>
                 <h3>
                     2.1 Vectors and physics
                 </h3>
