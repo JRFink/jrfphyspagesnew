@@ -12,10 +12,10 @@ const indexPage = () => {
       <br></br>
       <p>
         Take a look around and explore. Above you will see four tabs, which will take you to the education, 
-        research, sign up and sign-in tabs. There is also a search feature. Stick around. <br></br> <br></br>
+        research, sign up and sign-in tabs. There is also a search feature. We&#39;re working on that. <br></br> <br></br>
 
         You come to this site to learn about physics. Eventually you will be able to take gen phys 1, 
-        a full-on implementation of a gen physics 1 class. 
+        a full-on implementation of a gen phys 1 class. 
         <br></br><br></br> 
         You are also able to learn about the current research topics within physics. For example, what&#39;s all the hype with quantum computing? 
         Learn about it <Link href="/research/qis">here</Link>. 
