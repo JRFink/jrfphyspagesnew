@@ -58,6 +58,14 @@ const Gen = () => {
                                         Cook - America - Auburn
                                     </li>
                                 </ul>
+                        Microsoft - <ul>
+                                        <li>
+                                            Gates - Seattle - Harvard
+                                        </li>
+                                        <li>
+                                            Nadella - India - Mangalore, Milwaukee
+                                        </li>
+                                    </ul>
                         Birth control producers - <ul>
                                                     <li>
                                                         Yaz - Bayer - Leverkusen, Germany
