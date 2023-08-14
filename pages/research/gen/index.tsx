@@ -66,6 +66,11 @@ const Gen = () => {
                                             Nadella - India - Mangalore, Milwaukee
                                         </li>
                                     </ul>
+                        Sun - <ul>
+                                <li>
+                                    Gosling - 1995
+                                </li>
+                              </ul>
                         Birth control producers - <ul>
                                                     <li>
                                                         Yaz - Bayer - Leverkusen, Germany
