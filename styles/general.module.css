@@ -247,6 +247,10 @@
     background-color: rgb(252, 255, 161);  
 }
 
+.small {
+    font-size: small;
+}
+
 .footerDiv {
     background-color:blueviolet;
     text-align: center;
