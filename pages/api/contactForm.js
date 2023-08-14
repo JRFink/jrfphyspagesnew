@@ -14,6 +14,10 @@ const con = mysql.createConnection({
 
 export default function handler(req, res) {
 
+    console.log("7 " + typeof(req.body.noteData));
+    console.log("8 " + req.body.noteData);
+
+
     const sql = "INSERT INTO "+process.env.UCH_UCH+" (note) VALUES ("+mysql.escape(req.body.noteData)+")"; 
     const sqlQuery = "INSERT INTO "+process.env.BAT_BAT+" (firstname, lastname, email, phone) VALUES ("+mysql.escape(req.body.firstname)+" , "+mysql.escape(req.body.lastname)+","+mysql.escape(req.body.email)+" , "+mysql.escape(req.body.phone)+")";
 
