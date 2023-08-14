@@ -23,7 +23,7 @@ const Particle = () => {
                 </p>
                 <p>
                     In order to discover something about particles, you have to do an experiment. Scientists do these experiments with something called <em> particle accelerators</em>. 
-                    These accelerators are giant machines with complex parts, pushing subatomic particles close to the speed of light and then smashing them together. 
+                    These accelerators are giant machines with complex parts, pushing particles close to the speed of light and then smashing them together. 
                 </p> 
                 <p>
                     There are two types of accelerators: linear and circular. A linear accelerator is something like 
