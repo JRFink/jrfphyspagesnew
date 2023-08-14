@@ -24,7 +24,7 @@ const Gp1 = () => {
                 This class is an introduction to general physics. It will cover the following topics: 
                 <br></br>
                 <br></br>
-                &nbsp; &nbsp; kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, gravity, waves, fluid motion, and intro thermodynamics. 
+                &nbsp; &nbsp; kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, taylor expansion, gravity, waves, fluid motion, and intro thermodynamics. 
                 <br></br><br></br>
                 The class consists of ~ 20 modules, which will consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam.
                 I hope you enjoy it, and please give me your <a href="mailto:jeff@jrfink.net">feedback</a> as you go through it.
