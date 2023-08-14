@@ -4,9 +4,20 @@ const Contact = () => {
 
     const handleSubmit = async (note) => {
 
-        const JSONdata = JSON.stringify(note)
+        note.preventDefault();
 
-        const endpoint = '/api/apiform'
+        const data = {
+            noteData: note.target.value
+        }
+        console.log("1 " + typeof(data));
+        console.log("2 " + data);
+
+        const JSONdata = JSON.stringify(data)
+        
+        console.log("3 " + typeof(JSONdata));
+        console.log("4 " + JSONdata);
+
+        const endpoint = '/api/contactForm'
       
         const options = {
           
