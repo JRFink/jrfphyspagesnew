@@ -12,6 +12,9 @@ const Calc = () => {
             <h1 className={style.centerText}>
                 Big calc review
             </h1>
+            <p> 
+This is not meant to teach you calc from yhe ground up, but it is meant to help. 
+</p>
             <br></br>
             <br></br>
             <ModoverviewCalc />
