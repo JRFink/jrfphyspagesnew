@@ -31,7 +31,7 @@ const Contact = () => {
                 Leave a note
             </p>
             <form onSubmit={handleSubmit}>
-                <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder="General feedback"/>
+                <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
                 <br></br>
                 <br></br>
                 <button type="submit" className={style.greenButton}>Submit</button>
