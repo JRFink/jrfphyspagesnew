@@ -6,22 +6,13 @@ const Contact = () => {
 
         note.preventDefault();
 
-        console.log("1 " + typeof(note));
-        console.log("2 " + note);
 
         const data = {
             noteData: note.target.feedbackText.value
         }
-
-        console.log("3 " + typeof(data));
-        console.log("4 " + data);
         
 
         const JSONdata = JSON.stringify(data)
-
-        console.log("5 " + typeof(JSONdata));
-        console.log("6 " + JSONdata);
-        
 
         const endpoint = '/api/contactForm'
       
