@@ -17,8 +17,8 @@ export default function handler(req, res) {
         if (err) {
             console.log(err);
             throw(err)
-        }
+        };
         console.log("success");
-    })
+    });
  
-}
+};
