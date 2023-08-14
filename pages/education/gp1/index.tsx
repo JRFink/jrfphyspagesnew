@@ -15,8 +15,7 @@ const Gp1 = () => {
                 Hello, and welcome to gene phys 1! This class is meant to be awesome; 
                 it is the equivalent of a gen phys class you would take in high school or college. You will learn about 
                 forces, motion, vectors, newton&#39;s laws, angular momentum, taylor expansion, and much more. I am offering it as an online class,
-                where you can work along at your own pace. I don&#39;t have all the implementation in it yet, but I have the topical structure, 
-                and a few things written. You can get started today. So without further ado
+                where you can work along at your own pace. I don&#39;t have all the implementation yet, but I have the topical structure. You can get started today. 
             </p>
             <h2>
                 Description
