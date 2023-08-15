@@ -54,15 +54,21 @@ const Vec = () => {
             </h2>
                 <p>
                     Vector addition and subtraction isn&#39;t too bad if you stick to cartesian coordinates. You add and subtract like normal. 
-                    <b> a</b> = 3 <b>x</b> + 2 <b>y</b> + <b>z</b> plus <b>b</b> = 7 <b>x</b> - 3 <b>y</b> + <b>z </b> 
-                    is just <b>a</b> + <b>b</b> = <b>c</b> = 10 <b>x</b> - <b>y</b> + 2 <b>z</b>.
                 </p>
                 <h3>
                     3.1 Adding and subtracting components
                 </h3>
+                    <p>
+                        <b> a</b> = 3 <b>x</b> + 2 <b>y</b> + <b>z</b> plus <b>b</b> = 7 <b>x</b> - 3 <b>y</b> + <b>z </b> 
+                        is just <b>a</b> + <b>b</b> = <b>c</b> = 10 <b>x</b> - <b>y</b> + 2 <b>z</b>.
+                    </p>
             <h2 className={style.h2SectionColor} id="mult">
                 4. Vector multiplication
             </h2>
+                <p>
+                    Vector multiplication is where it gets a little more complicated to think about. We&#39;ll try to give an intuitive 
+                    understanding of what is going on. No promises! 
+                </p>
                 <h3>
                     4.1 Scalar &#40;dot&#41; product
                 </h3>
