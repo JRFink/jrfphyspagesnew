@@ -52,16 +52,22 @@ const Vec = () => {
             <h2 className={style.h2SectionColor} id="add">
                 3. Vector addition and subtraction
             </h2>
-                <p>
-                    Vector addition and subtraction isn&#39;t too bad if you stick to cartesian coordinates. You add and subtract like normal. 
-                </p>
                 <h3>
                     3.1 Adding and subtracting components
                 </h3>
-                    <p>
-                        <b> a</b> = 3 <b>x</b> + 2 <b>y</b> + <b>z</b> plus <b>b</b> = 7 <b>x</b> - 3 <b>y</b> + <b>z </b> 
-                        is just <b>a</b> + <b>b</b> = <b>c</b> = 10 <b>x</b> - <b>y</b> + 2 <b>z</b>.
-                    </p>
+                <p>
+                    Vector addition and subtraction isn&#39;t too bad if you stick to cartesian coordinates. You add and subtract like normal. 
+                    <br></br>
+                    <br></br>
+                    <div className={style.centerText}>
+                        <p>
+                            <b> a</b> = 3 <b>x</b> + 2 <b>y</b> + <b>z</b> plus <b>b</b> = 7 <b>x</b> - 3 <b>y</b> + <b>z </b> 
+                            is just <b>a</b> + <b>b</b> = <b>c</b> = 10 <b>x</b> - <b>y</b> + 2 <b>z</b>.
+                        </p>
+                    </div>
+                </p>
+            <br></br>
+            <br></br>
             <h2 className={style.h2SectionColor} id="mult">
                 4. Vector multiplication
             </h2>
@@ -81,17 +87,24 @@ const Vec = () => {
                     </h2>
                         <p>
                             When using cartesian coordinates, you define the dot product <em>algebraically</em> as 
-                            <br></br> <br></br>
+                            <br></br> 
+                            <br></br>
                             <div className={style.centerText}>
                                 <b>a </b> &#8226; <b>b </b>
                                 = <b>a <sub>1</sub></b> <b>b <sub>1</sub></b> + <b>a <sub>2</sub></b> <b>b <sub>2</sub></b> + 
                                 <b>a <sub>3</sub></b> <b>b <sub>3</sub></b> + ... + <b>a <sub>n</sub></b> <b>b <sub>n</sub></b>
                             </div>
+                            <br></br>
+                            <br></br>
                             You define it <em>geometrically</em> as 
+                            <br></br>
+                            <br></br>
                             <div className={style.centerText}>
                             <b>a </b> &#8226; <b>b </b> = | <b>a</b> | | <b>b</b> | cos<em> &#952;</em> 
                             </div>
                         </p>
+                    <br></br>
+                    <br></br>
                     <h2>
                         4.1.2 Other coordinates
                     </h2>
@@ -104,6 +117,10 @@ const Vec = () => {
                 <h3>
                     4.2 Vector &#40;cross&#41; product
                 </h3>
+                    <p>
+                        The cross product tells us how much two vectors are <em>not</em> in the same direction. 
+                    </p>
+            <br></br>
             <Summary />
             <br></br>
             <br></br>
