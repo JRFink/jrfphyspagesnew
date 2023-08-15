@@ -6,6 +6,12 @@ const Careers = () => {
             <h1 className={style.centerText}>
                 Careers
             </h1>
+            <p> 
+            I need help translating! 
+           </p> 
+           <p> 
+             是 
+           </p>   
         </>
     );
 }
