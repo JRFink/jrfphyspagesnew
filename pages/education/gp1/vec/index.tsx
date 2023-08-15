@@ -80,13 +80,13 @@ const Vec = () => {
                         4.1.1 Cartesian coordinates
                     </h2>
                         <p>
-                            When using cartesian coordinates, you define the dot product algebraiclly as 
+                            When using cartesian coordinates, you define the dot product algebraically as 
                             <br></br> <br></br>
                             <div className={style.centerText}>
                                 <b>a </b> &#8226; <b>b </b>
                                 = <b>a <sub>1</sub></b> <b>b <sub>1</sub></b> + <b>a <sub>2</sub></b> <b>b <sub>2</sub></b> + 
                                 <b>a <sub>3</sub></b> <b>b <sub>3</sub></b> + ... + <b>a <sub>n</sub></b> <b>b <sub>n</sub></b>
-                                = 
+                            
                             </div>
                         </p>
                     <h2>
