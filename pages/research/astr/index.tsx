@@ -15,7 +15,7 @@ const Astr = () => {
                 </h1>
             </div>
             <p>
-                Astrophysics studies the universe beyond earth. Some of the areas are planetary science, cosmology, and exoplanets. 
+                Astrophysics studies the universe beyond earth. Some of the areas are galactic physics, cosmology, dark matter, and exoplanets. 
                 Find some of the latest research <a href="https://journals.aps.org/prresearch/subjects/astrophysics">here</a>.  
             </p>
             <br></br>
