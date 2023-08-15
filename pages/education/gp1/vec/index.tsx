@@ -95,6 +95,12 @@ const Vec = () => {
                     <h2>
                         4.1.2 Other coordinates
                     </h2>
+                        <p>
+                            We can also use the dot product in other coordinate systems; though, it gets complicated. For one, say you have
+                            a vector in <Link href="https://tutorial.math.lamar.edu/classes/calcii/polarcoordinates.aspx">polar coordinates</Link>, 
+                            it would be easier to just convert it to cartesian and then take the dot product.
+                            You get into the realm of more advanced math.    
+                        </p>
                 <h3>
                     4.2 Vector &#40;cross&#41; product
                 </h3>
