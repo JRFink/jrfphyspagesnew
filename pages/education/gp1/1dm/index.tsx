@@ -23,6 +23,7 @@ const Onedm = () => {
                 1. Position and displacement
             </h2>
             <br></br>
+            <br></br>
             <ConstantPosVid />
             <br></br>
             <h3>

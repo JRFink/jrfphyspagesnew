@@ -124,12 +124,22 @@ export function ModoverviewCalc() {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
+                <a href="#approx">Approximations</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
                 <a href="#rate">Rates of change</a>
             </p>
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
                 <a href="#ex">Example with 1 d motion</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#pow">Power rule just for fun</a>
             </p>
             <br></br>
             <Docicon />

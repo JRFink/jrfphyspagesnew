@@ -13,7 +13,7 @@ const Calc = () => {
                 Big calc review
             </h1>
                 <p> 
-                    This is not meant to teach you calc from the ground up; it&#39;s meant to help. 
+                    This is not meant to teach you calc from the ground up; but it&#39;s meant to help. 
                 </p>
             <br></br>
             <br></br>
@@ -91,7 +91,7 @@ const Calc = () => {
                 <h3>
                     3.2 Adding up changes in velocity
                 </h3>
-            <h2 className={style.h2SectionColor} id="power">
+            <h2 className={style.h2SectionColor} id="pow">
                 Power rule just for fun
             </h2>
             <br></br>
