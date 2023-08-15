@@ -67,11 +67,31 @@ const Vec = () => {
             </h2>
                 <p>
                     Vector multiplication is where it gets a little more complicated to think about. We&#39;ll try to give an intuitive 
-                    understanding of what is going on. No promises! 
+                    understanding of what&#39;s going on. No promises! 
                 </p>
                 <h3>
                     4.1 Scalar &#40;dot&#41; product
                 </h3>
+                    <p>
+                        The dot product between two vectors tells us how much of one vector is in the direction of the other. 
+                        Sort of like an overlap. You can define the dot product algebraiclly or geometrically. 
+                    </p>
+                    <h2>
+                        4.1.1 Cartesian coordinates
+                    </h2>
+                        <p>
+                            When using cartesian coordinates, you define the dot product algebraiclly as 
+                            <br></br> <br></br>
+                            <div className={style.centerText}>
+                                <b>a </b> &#8226; <b>b </b>
+                                = <b>a <sub>1</sub></b> <b>b <sub>1</sub></b> + <b>a <sub>2</sub></b> <b>b <sub>2</sub></b> + 
+                                <b>a <sub>3</sub></b> <b>b <sub>3</sub></b> + ... + <b>a <sub>n</sub></b> <b>b <sub>n</sub></b>
+                                = 
+                            </div>
+                        </p>
+                    <h2>
+                        4.1.2 Other coordinates
+                    </h2>
                 <h3>
                     4.2 Vector &#40;cross&#41; product
                 </h3>
