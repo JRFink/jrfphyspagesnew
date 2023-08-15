@@ -45,12 +45,25 @@ const Amo = () => {
             <h2>
                 Locations
             </h2>
-            <p>
-                Some of the best places to do this research are... 
-            </p>
+                <p>
+                    Some of the best places to do this research are 
+                </p>
             <h3>
                 America
             </h3>
+                <ul>
+                    <li>
+                        <Link href="https://www.colorado.edu/physics/research/atomic-molecular-and-optical-physics">Boulder</Link>
+                    </li>
+                    <br></br>
+                    <li>
+                        <Link href="https://physics.mit.edu/research-areas/atomic-physics/">MIT</Link>
+                    </li>
+                    <br></br>
+                    <li>
+                        <Link href="https://physics.stanford.edu/research/atomic-molecular-and-optical-physics">Stanford</Link>
+                    </li>
+                </ul>
             <h3>
                 China
             </h3>
