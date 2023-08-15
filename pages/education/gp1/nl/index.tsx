@@ -19,14 +19,6 @@ const NewtLaws = () => {
             <NewtVid />
             <br></br>
             <br></br>
-            <h2 className={style.h2SectionColor} id="valid">
-                0. Validity
-            </h2>
-                <p>
-                    The first thing we have to talk about with regard to Newton&#39;s laws is their domain of validity. 
-                    The first thing to note 
-                </p>
-            <br></br>
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
             </h2>
@@ -93,6 +85,24 @@ const NewtLaws = () => {
             <h2>
                 Fundamental forces
             </h2>
+                <p>
+                    We push and pull things around us, and we are pushed and pulled. We push a bag, pull a rope, get pulled down by gravity, etc. 
+                    There are four fundamental forces known today. They are 
+                    <ul>
+                        <li>
+                            Gravitational
+                        </li>
+                        <li>
+                            Electric
+                        </li>
+                        <li>
+                            Strong
+                        </li>
+                        <li>
+                            Weak
+                        </li>
+                    </ul>
+                </p>
                 <h3>
                     Discussion
                 </h3>
