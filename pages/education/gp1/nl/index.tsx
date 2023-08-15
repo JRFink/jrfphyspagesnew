@@ -52,7 +52,6 @@ const NewtLaws = () => {
                     <p>
                         Force could be a function of distance, time, or other things. Sometimes solving the differential equation is 
                         straightforward, but sometimes it is not. We must figure out when we can easily solve it and when we cannot. 
-            
                     </p>
                 <h3>
                     2.2 Forces and momentum

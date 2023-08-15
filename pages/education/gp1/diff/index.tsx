@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
-import { ModoverviewOsc } from '@/pages/components/modoverview';
+import { ModoverviewDiff } from '@/pages/components/modoverview';
 import DiffEx from '@/pages/exercises/gp1/diffex';
 import Helpful from '@/pages/components/helpful';
 
@@ -12,18 +12,20 @@ const Osc = () => {
             <h1 className={style.centerText}>
                 Differential equations 
             </h1>
-            <ModoverviewOsc />
-                <h2 className={style.h2SectionColor} id="desc">
+            <ModoverviewDiff />
+                <h2 className={style.h2SectionColor} id="types">
                     1. Types
                 </h2>
-                <h2>
-                    2. First order &#38; second order;
+                <br></br>
+                <br></br>
+                <h2 className={style.h2SectionColor} id="first">
+                    2. First order &#38; second order
                 </h2>
                     <h3>
-                        2.1 Simple first order example 
+                        2.1 First 
                     </h3>
                     <h3>
-                        
+                        2.2 Second
                     </h3>
             <br></br>
             <br></br>
