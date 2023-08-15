@@ -50,7 +50,7 @@ const NewtLaws = () => {
                         A key point to understanding <b>F</b> = m <b>a</b> is knowing the independent variables. 
                     </p>
                     <p>
-                        Force could be a function of distance, time, or other things. Sometimes solving the differential equation is 
+                        Force could be a function of distance, time, or something else. Sometimes solving the differential equation is 
                         straightforward, but sometimes it is not. We must figure out when we can easily solve it and when we cannot. 
                     </p>
                 <h3>
@@ -129,7 +129,7 @@ const NewtLaws = () => {
                             Gravitational - 1
                         </li>
                     </ul>
-                    With the range and relative strength 
+                    With the relative strength and range
                     <ul>
                         <li>
                             Strong - 10^38 - 10^-15 m
