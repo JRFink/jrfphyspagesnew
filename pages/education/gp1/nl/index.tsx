@@ -50,7 +50,9 @@ const NewtLaws = () => {
                         A key point of understanding the equation <b>F</b> = m <b>a</b> and what to do with it involves knowing the independent variables. 
                     </p>
                     <p>
-                        Force could be a function of distance, time, 
+                        Force could be a function of distance, time, or other things. So when you try to solving the differential equation is 
+                        straightforward, but sometimes it is not. The job is to figure out when you can easily solve it, do it, and when you can&#39;t.
+            
                     </p>
                 <h3>
                     2.1 Forces and momentum
