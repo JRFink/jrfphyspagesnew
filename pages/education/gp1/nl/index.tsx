@@ -19,6 +19,14 @@ const NewtLaws = () => {
             <NewtVid />
             <br></br>
             <br></br>
+            <h2 className={style.h2SectionColor} id="valid">
+                0. Validity
+            </h2>
+                <p>
+                    The first thing we have to talk about with regard to Newton&#39;s laws is their domain of validity. 
+                    The first thing to note 
+                </p>
+            <br></br>
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
             </h2>
@@ -29,6 +37,12 @@ const NewtLaws = () => {
                 <h3>
                     1.1 Inertial frames
                 </h3>
+                <h3>
+                    1.2 Validity 
+                </h3>
+                    <p>
+                        Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
+                    </p>
             <h2 className={style.h2SectionColor} id="nslaw">
                 2. Second law 
             </h2>
@@ -47,13 +61,32 @@ const NewtLaws = () => {
                 <h3>
                     2.4 Superposition of forces
                 </h3>
+                <h3>
+                    2.5 Validity
+                </h3>
+                    <p>
+                        Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
+                    </p>
             <h2 className={style.h2SectionColor} id="ntl">
                 3. Third law
             </h2>
-                <p>
-                    Newton&apos;s third law states that when object A exerts a force on object B then 
-                    object B exerts a force on object A of the same strength but directionally opposite to the force that A exerts on B. 
-                </p>
+                <h3>
+                    3.1 Definition
+                </h3>
+                    <p>
+                        Newton&apos;s third law states that when object A exerts a force on object B then 
+                        object B exerts a force on object A of the same strength but directionally opposite to the force that A exerts on B. 
+                    </p>
+                <h3>
+                    3.2 Validity
+                </h3>
+                    <p>
+                        Newton&#39;s third law is valid at speeds much less than the speed of light and when the particles carry neutral charge.
+                        When the particles are charged and moving relative to one another, they exert magnetic forces on each other; 
+                        these forces do not obey the third law force pair rule. For example, their directions can be at 90 degrees to each other. 
+                        This has to do with the nature of the magnetic force and that there are different kinds of momentum. We will cover mechanical momentum in this class, 
+                        which obeys the third law, but you can explore other kinds on your own.   
+                    </p>
             <h2 className={style.h2SectionColor} id="free">
                 4. Free-body diagrams
             </h2>
