@@ -9,7 +9,7 @@ const DiffEx = () => {
         <Exerciseheading />
         <ul>
             <li>
-                Find the fattest differential equation book you can and browse it&#39;s contents.
+                Find the fattest differential equation book you can and browse its contents.
             </li>
         </ul>
     </div>
