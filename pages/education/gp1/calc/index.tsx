@@ -30,10 +30,10 @@ const Calc = () => {
                     How many gum balls are in this jar?
                 </p>
                 <p>
-                    You start by guessing, say, 100. Then some person who knows how many are in there says no. Then you start thinking, 
-                    well about how many gum balls are stacked on top of eachother? 20. And about how many are there from one end to the other? 
-                    10. Ok so 200. He still says no. Ok so each gum ball is about 1 cm wide and 1 cm tall, and there&#39;s maybe about 1/3 
-                    of that volume between each gumball. So 200 * &#40;1 - 1/3&#41; = 133 gum balls. 
+                    You start by guessing, say, 100. Then some person who knows how many are in there says no. You start thinking, 
+                    well about how many gum balls are stacked on top of eachother? 10. And about how many are there from front to back? 
+                    5. And it&#39;s about 5 wide. Ok so 250. He still says no. Ok so each gum ball is about 1 cm wide and 1 cm tall, and there&#39;s maybe about 1/3 
+                    of that volume between each gumball. So 250 * &#40;1 - 1/3&#41; = 167 gum balls. 
                 </p>
                 <p>
                     And you keep going and going and making better approximations. 
