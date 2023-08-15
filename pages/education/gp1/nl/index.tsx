@@ -55,19 +55,19 @@ const NewtLaws = () => {
             
                     </p>
                 <h3>
-                    2.1 Forces and momentum
+                    2.2 Forces and momentum
                 </h3>
                 <h3>
-                    2.2 Forces and mass
+                    2.3 Forces and mass
                 </h3>
                 <h3>
-                    2.3 Single forces
+                    2.4 Single forces
                 </h3>
                 <h3>
-                    2.4 Superposition of forces
+                    2.5 Superposition of forces
                 </h3>
                 <h3>
-                    2.5 Validity
+                    2.6 Validity
                 </h3>
                     <p>
                         Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
