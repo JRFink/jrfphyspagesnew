@@ -45,13 +45,13 @@ const NewtLaws = () => {
                     2.1 Functions of what
                 </h3>
                     <p>
-                        Forces can originate from different things. For example, the gravitational force originates from the masses of the two objects 
-                        and the distance between the objects. When objects become closer, the force increases; when the distance grows, the force weakens. 
-                        A key point of understanding the equation <b>F</b> = m <b>a</b> and what to do with it involves knowing the independent variables. 
+                        Forces originate from different things. For example, the gravitational force originates from the masses of the two objects 
+                        and the distance between them. When objects become closer, the force increases; when the distance grows, the force weakens. 
+                        A key point to understanding <b>F</b> = m <b>a</b> is knowing the independent variables. 
                     </p>
                     <p>
-                        Force could be a function of distance, time, or other things. So when you try to solving the differential equation is 
-                        straightforward, but sometimes it is not. The job is to figure out when you can easily solve it, do it, and when you can&#39;t.
+                        Force could be a function of distance, time, or other things. Sometimes solving the differential equation is 
+                        straightforward, but sometimes it is not. We must figure out when we can easily solve it and when we cannot. 
             
                     </p>
                 <h3>

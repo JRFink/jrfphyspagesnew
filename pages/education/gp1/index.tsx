@@ -75,6 +75,8 @@ const Gp1 = () => {
             <br></br>
             <Link href="/education/gp1/23dm" className={style.generalLink}>Motion in 2 and 3 Dimensions</Link><br></br>
             <br></br>
+            <Link href="/education/gp1/diff" className={style.generalLink}>Differential equations crash course</Link><br></br>
+            <br></br>
             <Link href="/education/gp1/nl" className={style.generalLink}>Newton&apos;s Laws of Motion</Link><br></br>
             <br></br>
             <Link href="/education/gp1/applnl" className={style.generalLink}>Applying Newton&apos;s Laws</Link><br></br>
