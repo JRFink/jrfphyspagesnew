@@ -52,6 +52,14 @@ const Calc = () => {
                 <h3>
                     2.1 Tangents
                 </h3>
+                    <p>
+                        Tangents are cool once you really understand what they are. In general, take a simple parabola, and define two points on them. 
+                        Draw a line connecting them. Find the slope, find it graphically. 
+                        Now keep one of the points fixed and drag the other point a little closer to the other one. 
+                        Find the slope of that line. 
+                        Do this again. Keep the original point fixed, and drag the original point <em>along the curve</em> closer to the first point. 
+                        Find its slope. 
+                    </p>
                 <h3>
                     2.2 Rates of change
                 </h3>
