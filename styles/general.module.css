@@ -183,7 +183,7 @@
 }
 
 @media screen and (max-width: 450px) {
-    
+
     .centerIfSmall {
         justify-content: center;
         text-align: center;
@@ -258,6 +258,10 @@
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 15px;
     background-color: rgb(252, 255, 161);  
+}
+
+.exerciseOl {
+    padding: 0px 30px 0px 40px;
 }
 
 .small {
