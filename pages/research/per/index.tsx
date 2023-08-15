@@ -16,7 +16,7 @@ const PhysEd = () => {
             </div>
             <p>
                 Physics education research focuses on answering the question 
-                <em>what are the most effective ways to teach, learn, and increase engagement in physics? </em> 
+                <em> what are the most effective ways to teach, learn, and increase engagement in physics? </em> 
                 The research process investigates
                 different models in these areas - traditional blackboard instruction; question-driven <em>clicker</em> instruction;
                 technology and hands-on tutorial instruction, all with their associated learning models;
