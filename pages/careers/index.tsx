@@ -10,7 +10,7 @@ const Careers = () => {
             I need help translating! 
            </p> 
            <p> 
-             是 
+             是 фыва
            </p>   
         </>
     );
