@@ -33,7 +33,7 @@ const NewtLaws = () => {
                     1.2 Validity 
                 </h3>
                     <p>
-                        Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
+                        Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10&#37; of the speed of light!
                     </p>
             <h2 className={style.h2SectionColor} id="nslaw">
                 2. Second law 
@@ -90,16 +90,46 @@ const NewtLaws = () => {
                     There are four fundamental forces known today. They are 
                     <ul>
                         <li>
-                            Gravitational
+                            Gravitational force
                         </li>
                         <li>
-                            Electric
+                            Electric force
                         </li>
                         <li>
-                            Strong
+                            Strong force
                         </li>
                         <li>
-                            Weak
+                            Weak force
+                        </li>
+                    </ul>
+                    In terms of strength, relative, they are 
+                    <ul>
+                        <li>
+                            Strong - 10^38
+                        </li>
+                        <li>
+                            Electric - 10^36 
+                        </li>
+                        <li>
+                            Weak - 10^25
+                        </li>
+                        <li>
+                            Gravitational - 1
+                        </li>
+                    </ul>
+                    With the range and relative strength 
+                    <ul>
+                        <li>
+                            Strong - 10^38 - 10^-15 m
+                        </li>
+                        <li>
+                            Electric - 10^36 - inf range
+                        </li>
+                        <li>
+                            Weak - 10^25 - 10^-18 m
+                        </li>
+                        <li>
+                            Gravitational - 1 - inf range
                         </li>
                     </ul>
                 </p>
