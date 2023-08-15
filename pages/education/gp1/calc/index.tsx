@@ -41,7 +41,7 @@ const Calc = () => {
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="rate">
-                2. Rate of change
+                2. Rates of change
             </h2>
                 <p>
                     So what&#39;s the deal with the power rule and tangents? 
@@ -59,16 +59,29 @@ const Calc = () => {
                         Find the slope of that line. 
                         Do this again. Keep the original point fixed, and drag the original point <em>along the curve</em> closer to the first point. 
                         Find its slope. 
+                        Keep doing this. 
                     </p>
                 <h3>
                     2.2 Rates of change
                 </h3>
+                    <p>
+                        And voila, you have found the rate of change. 
+                    </p>
                 <h3>
                     2.3 Plotting rates of change
                 </h3>
+                    <p>
+                        Now the interesting part. Let&#39;s do some plotting. Keep the independent variable axis the same, but 
+                        for the dependent variable axis use what you found above. Start plotting. 
+                    </p>
                 <h3>
                     2.4 Adding rates of change for a certain period
                 </h3>
+                    <p>
+                        Now think about how you use a rate to find the change of something.
+                    </p>
+            <br></br>
+            <br></br>
             <h2 className={style.h2SectionColor} id="ex">
                 3. Example with 1 dimensional motion
             </h2>
@@ -78,6 +91,18 @@ const Calc = () => {
                 <h3>
                     3.2 Adding up changes in velocity
                 </h3>
+            <h2 className={style.h2SectionColor} id="power">
+                The power rule just for fun
+            </h2>
+            <br></br>
+            <br></br>
+                <p>
+                    The development of calculus has a long history; it didn&#39;t simply start with &#34;Newton&#34;. 
+                    A huge part of modern day calc is the power rule, what you learn as a shortcut. 
+                    But how do we get the power rule?
+                </p>
+            <br></br>
+            <br></br>
             <Summary />
             <br></br>
             <Helpful />
