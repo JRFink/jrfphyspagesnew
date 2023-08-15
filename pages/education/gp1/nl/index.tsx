@@ -39,8 +39,19 @@ const NewtLaws = () => {
                 2. Second law 
             </h2>
                 <p>
-                    ... math implementation ... 
+                    Newton&#39;s second law is the statement that <b>F</b> = m <b>a</b>. 
                 </p>
+                <h3>
+                    2.1 Functions of what
+                </h3>
+                    <p>
+                        Forces can originate from different things. For example, the gravitational force originates from the masses of the two objects 
+                        and the distance between the objects. When objects become closer, the force increases; when the distance grows, the force weakens. 
+                        A key point of understanding the equation <b>F</b> = m <b>a</b> and what to do with it involves knowing the independent variables. 
+                    </p>
+                    <p>
+                        Force could be a function of distance, time, 
+                    </p>
                 <h3>
                     2.1 Forces and momentum
                 </h3>
@@ -132,6 +143,7 @@ const NewtLaws = () => {
                             Gravitational - 1 - inf range
                         </li>
                     </ul>
+                    Read more about these things in the <Link href="/research/particle">particle physics</Link> section.
                 </p>
                 <h3>
                     Discussion
@@ -139,6 +151,7 @@ const NewtLaws = () => {
             <h2 className={style.summaryHeading}>
                 Summary
            </h2>
+            <p>Newton&#39;s laws form the foundation of classical mechanics.</p>
             <br></br>
             <br></br>
             <br></br>
