@@ -45,6 +45,22 @@ const PhysEd = () => {
                     alt="The word physics spelled out in Scrabble (tm) tiles" 
                 />
             </div>
+            <h2>
+                Locations
+            </h2>
+            <p>
+                Some of the best places to do this research are... 
+            </p>
+            <h3>
+                America
+            </h3>
+            <h3>
+                Canada
+            </h3>
+            <h3>
+                England
+            </h3>
+
             <br></br>
             <br></br>
             <Helpful />

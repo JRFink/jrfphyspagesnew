@@ -42,6 +42,33 @@ const Amo = () => {
                     alt="Laser with red light" 
                 />
             </div>
+            <h2>
+                Locations
+            </h2>
+            <p>
+                Some of the best places to do this research are... 
+            </p>
+            <h3>
+                America
+            </h3>
+            <h3>
+                China
+            </h3>
+            <h3>
+                England
+            </h3>
+            <h3>
+                Germany
+            </h3>
+            <h3>
+                India
+            </h3>
+            <h3>
+                Japan
+            </h3>
+            <h3>
+                Russia
+            </h3>
             <br></br>
             <br></br>
             <Helpful />
