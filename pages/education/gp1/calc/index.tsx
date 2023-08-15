@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewCalc } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary'; 
+import CalcEx from '@/pages/exercises/gp1/calcex';
 import Helpful from '@/pages/components/helpful';
 
 const Calc = () => {
@@ -53,10 +54,10 @@ const Calc = () => {
                     2.1 Tangents
                 </h3>
                     <p>
-                        Tangents are cool once you really understand what they are. In general, take a simple parabola, and define two points on them. 
+                        Tangents are cool once you understand what they are. In general, take a simple parabola, and define two points on them. 
                         Draw a line connecting them. Find the slope, find it graphically. 
                         Now keep one of the points fixed and drag the other point a little closer to the other one. 
-                        Find the slope of that line. 
+                        Find the slope. 
                         Do this again. Keep the original point fixed, and drag the original point <em>along the curve</em> closer to the first point. 
                         Find its slope. 
                         Keep doing this. 
@@ -65,7 +66,7 @@ const Calc = () => {
                     2.2 Rates of change
                 </h3>
                     <p>
-                        And voila, you have found the rate of change. 
+                        And voila, the rate of change. 
                     </p>
                 <h3>
                     2.3 Plotting rates of change
@@ -101,6 +102,8 @@ const Calc = () => {
                     A huge part of modern day calc is the power rule, what you learn as a shortcut. 
                     But how do we get the power rule?
                 </p>
+            <br></br>
+            <CalcEx />
             <br></br>
             <br></br>
             <Summary />
