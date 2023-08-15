@@ -30,6 +30,9 @@ const ApplNl = () => {
             <h2 className={style.h2SectionColor} id="slaw">
                 2. Using the second
             </h2>
+<p> 
+There are many applications of the second law. One could argue that everything in classical mechanics is an example of the second law. We can apply it to simple cases in order to make sense of it. 
+</p> 
                 <h3>
                     2.1 Friction
                 </h3>
