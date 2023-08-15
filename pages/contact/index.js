@@ -35,15 +35,17 @@ const Contact = () => {
             <h1 className={style.centerText}>
                 Contact
             </h1>
-            <p>
-                Leave a note
-            </p>
-            <form onSubmit={handleSubmit}>
-                <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
-                <br></br>
-                <br></br>
-                <button type="submit" className={style.greenButton}>Submit</button>
-            </form>
+            <div className={style.centerIfSmall}>
+                <p>
+                    Leave a note
+                </p>
+                <form onSubmit={handleSubmit}>
+                    <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
+                    <br></br>
+                    <br></br>
+                    <button type="submit" className={style.greenButton}>Submit</button>
+                </form>
+            </div>
         </>
     );
 }

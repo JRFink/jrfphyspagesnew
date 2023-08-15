@@ -174,13 +174,24 @@
 
 .feedbackBox {
     height: 70px;
-    width: 40%;
+    width: 450px;
     top: 0%;
     right: 0%;
     z-index: 10;
     border-radius: 7px;
     margin: 10px 30px 0px 30px;
+}
+
+@media screen and (max-width: 450px) {
     
+    .centerIfSmall {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .feedbackBox {
+        width: 80%;
+    }
 }
 
 .helpButton {
