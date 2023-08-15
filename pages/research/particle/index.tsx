@@ -54,12 +54,21 @@ const Particle = () => {
             <h2>
                 Locations
             </h2>
-            <p>
-                Some of the best places to do this research are... 
-            </p>
+                <p>
+                    Some of the best places to do this research are... 
+                </p>
             <h3>
                 America
             </h3>
+                <ul>
+                    <li>
+                        <Link href="https://www.physics.ucsb.edu/research/high-energy-theory">UC Santa Barbara</Link>
+                    </li>
+                    <br></br>
+                    <li>
+                        <Link href="https://phy.princeton.edu/research/research-areas/high-energy-experiment">Princeton</Link>
+                    </li>
+                </ul>
             <h3>
                 China
             </h3>
