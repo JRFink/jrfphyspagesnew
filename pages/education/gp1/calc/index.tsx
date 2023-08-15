@@ -92,7 +92,7 @@ const Calc = () => {
                     3.2 Adding up changes in velocity
                 </h3>
             <h2 className={style.h2SectionColor} id="power">
-                The power rule just for fun
+                Power rule just for fun
             </h2>
             <br></br>
             <br></br>
