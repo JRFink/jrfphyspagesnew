@@ -44,9 +44,19 @@ const Vec = () => {
                 <h3>
                     2.1 Vectors and physics
                 </h3>
+                <p>
+                    Knowing how to use vectors will make solving physics problems much easier. For example, when thinking about velocity and acceleration,
+                    one can break down the velocity vector into its component parts, <b>x</b> <b>y</b> and <b>z</b>, and talk about the changes in velocity in each direction. 
+                    By breaking down the changes into components, one can notice what is causing those changes in each direction. 
+                </p>
             <h2 className={style.h2SectionColor} id="add">
                 3. Vector addition and subtraction
             </h2>
+                <p>
+                    Vector addition and subtraction isn&#39;t too bad if you stick to cartesian coordinates. You add and subtract like normal. 
+                    <b> a</b> = 3 <b>x</b> + 2 <b>y</b> + <b>z</b> plus <b>b</b> = 7 <b>x</b> - 3 <b>y</b> + <b>z </b> 
+                    is just <b>a</b> + <b>b</b> = <b>c</b> = 10 <b>x</b> - <b>y</b> + 2 <b>z</b>.
+                </p>
                 <h3>
                     3.1 Adding and subtracting components
                 </h3>
