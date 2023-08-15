@@ -27,7 +27,7 @@ const Onedm = () => {
             <ConstantPosVid />
             <br></br>
             <p>
-                Ah, the almighty position. Where is the thing
+                Ah, the almighty position. Where is the thing?
             </p>
             <h3>
                 1.1 Definitions
