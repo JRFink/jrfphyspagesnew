@@ -31,10 +31,10 @@ const LanguageDropd = () => {
                     className={style.dropdownButton}
                     onClick={handleDropdownClick}
                 >
-                Language
+                Language &#x2228;
             </button>
             {dropdownState.open && (
-            <div className={style.dropdownButton}>
+            <div className={style.dropdownButtonDiv}>
                 <ul className={style.dropdownUl}>
                     <li className={style.dropdownLi}>English</li>
                     <li className={style.dropdownLi}>Chinese</li>

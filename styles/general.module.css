@@ -295,7 +295,7 @@
     display: inline-block;
 }
 
-.dropdownButton {
+.dropdownButton, .dropdownButtonDiv {
     padding: 0;
     width: 100px; 
     background-color: #8A2BE2;
@@ -320,8 +320,8 @@
 }
 
 .dropdownLi:hover {
-    background-color: rgba(0, 0, 0, 0.14);
-    cursor: pointer;
+    background-color: rgb(0, 0, 0, 0.14);
+    text-decoration: none;
 }
 
 .footerGenCountry {
