@@ -298,12 +298,15 @@
 .dropdownButton {
     padding: 0;
     width: 100px; 
-    border: 0;
-    background-color: #fff; 
-    color: #333; 
+    background-color: #8A2BE2;
+    border: none;
+    color: white; 
     cursor: pointer; 
-    outline: 0; 
-    font-size: 20px; 
+    font-family: 'Inter', sans-serif;
+}
+
+.dropdownButton:hover {
+    text-decoration: underline;
 }
 
 .dropdownUl {
