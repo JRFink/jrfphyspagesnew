@@ -10,7 +10,13 @@ const Careers = () => {
             I need help translating! If you know spanish, chinese, russian, or hindi and are a physicist please let me know. 
            </p> 
            <p> 
-             是 фыва हेलो 
+                帮 我 翻 译
+            </p>
+            <p>
+                помоги мне перевести
+            </p>
+            <p>
+                मुझे अनुवाद करने में मदद करें
            </p>   
         </>
     );

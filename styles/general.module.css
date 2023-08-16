@@ -290,6 +290,37 @@
     color: rgb(214, 214, 214);
 }
 
+.dropdownContainer {
+    position: relative; 
+    display: inline-block;
+}
+
+.dropdownButton {
+    padding: 0;
+    width: 100px; 
+    border: 0;
+    background-color: #fff; 
+    color: #333; 
+    cursor: pointer; 
+    outline: 0; 
+    font-size: 20px; 
+}
+
+.dropdownUl {
+    list-style: none;
+    padding: 0; 
+    margin: 0; 
+}
+
+.dropdownLi {
+    padding: 8px 12px; 
+}
+
+.dropdownLi:hover {
+    background-color: rgba(0, 0, 0, 0.14);
+    cursor: pointer;
+}
+
 .footerGenCountry {
     display: inline-block;
     font-family: 'Inter', sans-serif;

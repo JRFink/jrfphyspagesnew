@@ -1,7 +1,6 @@
 import style from '@/styles/general.module.css';
 import Link from 'next/link';
 
-
 const Footer = () => {
     return (
         <>
@@ -30,7 +29,7 @@ const Footer = () => {
                 <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                 <br></br>
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
-                <br></br>
+                <br></br>    
                 <div className={style.footerGenCountry}>
                     <p>
                         Country
