@@ -49,7 +49,7 @@ const Contact = () => {
             <br></br>
             <br></br>
             <p>
-                Write to us at 
+                Write to us at: 
                 <br></br>
                 <br></br>
                 &nbsp;    P.O. Box 7007 <br></br>
