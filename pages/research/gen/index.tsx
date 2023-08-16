@@ -156,7 +156,7 @@ const Gen = () => {
                                 </ul>
                     </p>
                 <h2>
-                    China
+                    China - 中國
                 </h2>
                     <p>
                         <Link href="https://www.gov.cn">Government</Link>
@@ -175,7 +175,7 @@ const Gen = () => {
                         </ul>
                     </p>
                 <h2>
-                    India
+                    India - भारत
                 </h2>
                     <p>
                         <Link href="https://www.india.gov.in">Government</Link>
@@ -194,7 +194,7 @@ const Gen = () => {
                         </ul>
                     </p>
                 <h2>
-                    Iran
+                    Iran - ایران
                 </h2>
                 <p>
                     <Link href="https://dolat.ir">Government</Link>
