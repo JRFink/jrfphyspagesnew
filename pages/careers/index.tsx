@@ -9,6 +9,9 @@ const Careers = () => {
             <p> 
             I need help translating! If you know spanish, chinese, russian, or hindi and are a physicist please let me know. 
            </p> 
+           <p>
+            Ayudame a traducir
+           </p>
            <p> 
                 帮 我 翻 译
             </p>
