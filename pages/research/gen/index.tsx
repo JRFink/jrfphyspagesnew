@@ -213,7 +213,7 @@ const Gen = () => {
                     </ul>
                 </p>
                 <h2>
-                    Japan
+                    Japan - 日本
                 </h2>
                     <p>
                         <Link href="https://www.japan.go.jp">Government</Link>
@@ -228,7 +228,7 @@ const Gen = () => {
                         </ul>
                     </p>
                 <h2>
-                    Russia
+                    Russia - Россия
                 </h2>
                 <p>
                     <Link href="http://government.ru">Government</Link>
@@ -243,7 +243,7 @@ const Gen = () => {
                     </ul>
                 </p>
                 <h2>
-                    Singapore
+                    Singapore - Singapura 
                 </h2>
                 <p>
                     <Link href="https://www.gov.sg">Government</Link>
