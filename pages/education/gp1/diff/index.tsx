@@ -27,6 +27,9 @@ const Osc = () => {
                     <h3>
                         2.1 First 
                     </h3>
+            <p> 
+                             A first-order ODE is an equation of the form dg/dt = f(g,t). 
+           </p>
                     <h3>
                         2.2 Second
                     </h3>
