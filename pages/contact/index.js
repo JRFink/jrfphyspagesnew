@@ -46,6 +46,15 @@ const Contact = () => {
                     <button type="submit" className={style.greenButton}>Submit</button>
                 </form>
             </div>
+            <br></br>
+            <br></br>
+            <p>
+                Write to us at 
+                <br></br>
+                <br></br>
+                &nbsp;    P.O. Box 7007 <br></br>
+                &nbsp;          Ny, Ny 10150
+            </p>
         </>
     );
 }
