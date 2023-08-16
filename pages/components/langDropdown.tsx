@@ -1,4 +1,4 @@
-import React, { useState } from 'react'; 
+import React, { useState, useRef, useEffect } from 'react'; 
 
 import style from '@/styles/general.module.css'; 
 
@@ -10,8 +10,22 @@ const LanguageDropd = () => {
         setDropdownState({ open: !dropdownState.open });
     }
 
+    const container = useRef<HTMLInputElement>(null);
+
+    useEffect(() => {
+        document.addEventListener("mousedown", handleClickOutside);
+
+        return () => document.removeEventListener("mousedown", handleClickOutside);
+    }, []);
+
+    const handleClickOutside = (e: any) => {
+        if (container.current && !container.current.contains(e.target)) {
+            setDropdownState({ open: false });
+        }
+    };
+
     return (
-        <div className={style.dropdownContainer}>
+        <div className={style.dropdownContainer} ref={container}>
             <button 
                     type="button" 
                     className={style.dropdownButton}
