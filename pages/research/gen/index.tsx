@@ -14,6 +14,9 @@ const Gen = () => {
                 <h1 className={style.centerText}>
                     General research
                 </h1>
+                <p>
+                    Hello, &#38; welcome to the general research page, which gives you information about different countries.
+                </p>
                 <h2>
                     America
                 </h2>
