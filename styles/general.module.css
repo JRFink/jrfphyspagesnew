@@ -305,6 +305,10 @@
     font-family: 'Inter', sans-serif;
 }
 
+.dropdownButtonDivP {
+    cursor: default;
+}
+
 .dropdownButton:hover {
     text-decoration: underline;
 }

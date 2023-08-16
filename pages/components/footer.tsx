@@ -34,6 +34,8 @@ const Footer = () => {
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
                 <br></br>    
                 <LanguageDropd />
+                <br></br>
+                <br></br>
                 <div className={style.footerGenCountry}>
                     <p>
                         Country
