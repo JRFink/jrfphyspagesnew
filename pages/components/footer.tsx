@@ -1,7 +1,10 @@
 import style from '@/styles/general.module.css';
 import Link from 'next/link';
+import LanguageDropd from '@/pages/components/langDropdown';
 
 const Footer = () => {
+
+
     return (
         <>
             <br></br>
@@ -30,8 +33,7 @@ const Footer = () => {
                 <br></br>
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
                 <br></br>    
-                <Link href="/legal/lang" className={style.linkFooter}>Language &#x2228;</Link><br></br>
-                <br></br>  
+                <LanguageDropd />
                 <div className={style.footerGenCountry}>
                     <p>
                         Country
