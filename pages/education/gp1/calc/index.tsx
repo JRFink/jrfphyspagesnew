@@ -27,7 +27,7 @@ const Calc = () => {
                 <br></br>
                 <br></br>
                 <p>
-                    The whole idea with calc is to make better and better approximations. For example, say you have a giant jar of gumballs. 
+                    The whole idea of calc is to make better and better approximations. For example, say you have a giant jar of gumballs. 
                     How many gum balls are in this jar?
                 </p>
                 <p>
