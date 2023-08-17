@@ -42,7 +42,8 @@ const CountryDrop = () => {
             <div className={style.dropdownButtonDiv}>
                 <p className={style.dropdownButtonDivP}>just testing</p>
                 <ul className={style.dropdownUl}>
-                    <li className={style.dropdownLi}>Schqiptare <AlbFlag /></li>
+                    <li className={style.dropdownLi}>Schqiptare</li>
+                    <li className={style.dropdownLi}>العربية</li>
                     <li className={style.dropdownLi}>বাংলা</li> 
                     <li className={style.dropdownLi}>中文</li> 
                     <li className={style.dropdownLi}>Hrvatski</li>
