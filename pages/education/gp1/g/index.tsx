@@ -15,6 +15,12 @@ const Gravity = () => {
             <br></br>
             <ModoverviewG />
             <br></br>
+            <h2 className={style.h2SectionColor} id="intro"> 
+            Introduction 
+            </h2> 
+            <p> 
+                Gravity is one of the four fundamental forces. We interact with it every day. In fact you can&#39;t choose not to interact with it. Studying it will give you a better unstanding of how common things in our world work, such as satellites, the moon, amd how long before an apple hits the floor. 
+            </p>
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
             </h2>
