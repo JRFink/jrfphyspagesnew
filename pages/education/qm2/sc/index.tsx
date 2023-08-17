@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
-import AmbFlag from '@/public/images/flags/albania';
+import AlbFlag from '@/public/images/flags/albania';
 import ScEx from '@/pages/exercises/qm2/scex';
 import Helpful from '@/pages/components/helpful';
 
