@@ -50,7 +50,7 @@ const LanguageDropd = () => {
                     <li className={style.dropdownLi}>日本語</li>
                     <li className={style.dropdownLi}>Malay</li> 
                     <li className={style.dropdownLi}>Mongolian</li> 
-                    <li className={style.dropdownLi}>Russian</li>
+                    <li className={style.dropdownLi}>русский</li>
                 </ul>
             </div>
             )}
