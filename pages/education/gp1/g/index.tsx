@@ -38,6 +38,8 @@ const Gravity = () => {
             <h2 className={style.h2SectionColor} id="near">
                 3. Gravitation near earth&apos;s surface
             </h2>
+            <p> 
+            Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="mot">
