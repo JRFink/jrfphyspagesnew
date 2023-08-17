@@ -44,7 +44,7 @@ const CountryDrop = () => {
                 <ul className={style.dropdownUl}>
                     <li className={style.dropdownLi}>Schqiptare <AlbFlag /></li>
                     <li className={style.dropdownLi}>中文</li> 
-                    <li className={style.dropdownLi}>Croatian</li>
+                    <li className={style.dropdownLi}>Hrvatski</li>
                     <li className={style.dropdownLi}>Deutsch</li>
                     <li className={style.dropdownLi}>Nederlands</li>   
                     <li className={style.dropdownLi}>English </li>
