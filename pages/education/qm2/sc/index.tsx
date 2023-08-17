@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import AmbFlag from '@/public/images/flags/albania';
 import ScEx from '@/pages/exercises/qm2/scex';
 import Helpful from '@/pages/components/helpful';
 
@@ -11,6 +12,7 @@ const Sc = () => {
             <h1 className={style.centerText}>
                 Scattering
             </h1>
+            <AlbFlag />
             <ScEx />
             <Helpful />
         </>
