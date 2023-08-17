@@ -1,11 +1,11 @@
-import style from '@/styles/general.module.css';                  
+{ /* import style from '@/styles/general.module.css';                  
 import React from "react";
 
 const AlbFlag = () => {
   return (
 
     <div className={style.footerFlag}>
-      { /* <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
       <rect
         width="469.47"
         height="263.249"
@@ -36,3 +36,4 @@ const AlbFlag = () => {
 }
 
 export default AlbFlag;
+ */ }
