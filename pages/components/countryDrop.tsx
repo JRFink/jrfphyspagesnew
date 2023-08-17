@@ -1,8 +1,11 @@
 import React, { useState, useRef, useEffect } from 'react'; 
+import AlbFlag from '@/public/images/flags/albania';
+import AmFlag from '@/public/images/flags/america';
+
 
 import style from '@/styles/general.module.css'; 
 
-const LanguageDropd = () => {
+const CountryDrop = () => {
 
     const [dropdownState, setDropdownState] = useState({ open: false }); 
 
@@ -39,11 +42,11 @@ const LanguageDropd = () => {
             <div className={style.dropdownButtonDiv}>
                 <p className={style.dropdownButtonDivP}>just testing</p>
                 <ul className={style.dropdownUl}>
-                    <li className={style.dropdownLi}>Schqiptare</li>
+                    <li className={style.dropdownLi}>Schqiptare <AlbFlag /></li>
                     <li className={style.dropdownLi}>中文</li> 
                     <li className={style.dropdownLi}>Croatian</li>
                     <li className={style.dropdownLi}>Deutsch</li>   
-                    <li className={style.dropdownLi}>English</li>
+                    <li className={style.dropdownLi}>English </li>
                     <li className={style.dropdownLi}>Español</li>
                     <li className={style.dropdownLi}>Finnish</li>
                     <li className={style.dropdownLi}>Français</li> 
@@ -62,4 +65,4 @@ const LanguageDropd = () => {
     );
 }
 
-export default LanguageDropd;
+export default CountryDrop;
