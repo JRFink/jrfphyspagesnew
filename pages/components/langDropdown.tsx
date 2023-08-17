@@ -39,7 +39,7 @@ const LanguageDropd = () => {
             <div className={style.dropdownButtonDiv}>
                 <p className={style.dropdownButtonDivP}>just testing</p>
                 <ul className={style.dropdownUl}>
-                    <li className={style.dropdownLi}>Albanian</li>
+                    <li className={style.dropdownLi}>Schqiptare</li>
                     <li className={style.dropdownLi}>中文</li> 
                     <li className={style.dropdownLi}>Croatian</li>
                     <li className={style.dropdownLi}>Deutsch</li>   
