@@ -12,7 +12,6 @@ const Sc = () => {
             <h1 className={style.centerText}>
                 Scattering
             </h1>
-            <AlbFlag />
             <ScEx />
             <Helpful />
         </>
