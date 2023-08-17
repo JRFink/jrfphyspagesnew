@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react'; 
-import AlbFlag from '@/public/images/flags/albania';
+{ /* import AlbFlag from '@/public/images/flags/albania'; */}
 import AmFlag from '@/public/images/flags/america';
 
 
