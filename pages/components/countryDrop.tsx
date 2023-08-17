@@ -49,7 +49,8 @@ const CountryDrop = () => {
                     <li className={style.dropdownLi}>English </li>
                     <li className={style.dropdownLi}>Español</li>
                     <li className={style.dropdownLi}>Finnish</li>
-                    <li className={style.dropdownLi}>Français</li> 
+                    <li className={style.dropdownLi}>Français</li>
+                    <li className={style.dropdownLi}>עברית</li>
                     <li className={style.dropdownLi}>हिंदी</li>
                     <li className={style.dropdownLi}>Italiano</li>
                     <li className={style.dropdownLi}>日本語</li>
