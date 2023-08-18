@@ -28,7 +28,10 @@ const indexPage = () => {
           Intro 
       </h2> 
       <p>  
-          Physics is an awesome subject, but it&#39;s nonetheless difficult. There are two reasons you would have your first go at physics: 1) you took it in high school or college to meet a graduation requirement, or 2) because you heard about all the crazy stuff going on in physics, like quantum and string theory, and you had to learn about it.  
+          Physics is an awesome subject, but it&#39;s nonetheless difficult. There are two reasons you would have your first go at physics: 1) you took it in high school or college to meet a graduation requirement, or 2) because you heard about all the crazy stuff going on in physics like quantum and string theory, and you had to learn about it.  
+      </p>
+      <p>
+          Overall, physics studies how things move. <em>Why does an apple fall from a tree? If it does, how long till it hits the ground? And what&#39;s the deal with light being a particle and a wave? </em> 
       </p>
       <div 
                 style={{
