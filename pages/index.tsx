@@ -24,6 +24,12 @@ const indexPage = () => {
         For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for &#34;AMO&#34; research, 
         which studies how light interacts with matter.
       </p> 
+      <h2> 
+          Intro 
+      </h2> 
+      <p>  
+          Physics is an awesome subject, but it&#39;s nonetheless difficult. There are two reasons you would have your first go at physics: 1) you took it in high school or college to meet a graduation requirement, or 2) because you heard about all the crazy stuff going on in physics, like quantum and string theory, and you had to learn about it.  
+      </p>
       <div 
                 style={{
                     display: "flex",
