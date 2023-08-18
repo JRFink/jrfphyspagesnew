@@ -1,6 +1,10 @@
+import { useState } from 'react';
 import style from '@/styles/general.module.css';
 
 const Contact = () => {
+
+    // const [yessSubmitted, setSubmitted] = useState(false);
+
     const handleSubmit = async (note) => {
         note.preventDefault();
         const data = {
@@ -16,7 +20,16 @@ const Contact = () => {
           body: JSONdata,
         }
         await fetch(endpoint, options);
- }
+        setSubmitted(true);
+    }
+    // function ThankYou (isSubmitted) {
+    //     console.log("is " + isSubmitted);
+    //     if (isSubmitted) {
+    //         return <p>Thank you!</p>
+    //     } 
+    //     return null;
+
+    // }
     return (
         <>
             <h1 className={style.centerText}>
@@ -34,7 +47,7 @@ const Contact = () => {
                 </form>
             </div>
             <br></br>
-
+            {/* <ThankYou /> */}
             <br></br>
             <p>
                 Write to us at: 
