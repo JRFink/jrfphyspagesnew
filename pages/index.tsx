@@ -11,7 +11,7 @@ const indexPage = () => {
       </p>
       <br></br>
       <p>
-        Take a look around and explore. Above you will see four tabs, which will take you to the education, 
+        Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
         research, sign up and sign-in tabs. There is also a search feature. Working on that. <br></br> <br></br>
 
         You come to this site to learn about physics. Eventually you will be able to take gen phys 1, 
