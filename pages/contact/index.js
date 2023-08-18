@@ -1,35 +1,22 @@
 import style from '@/styles/general.module.css';
 
 const Contact = () => {
-
     const handleSubmit = async (note) => {
-
         note.preventDefault();
-
-
         const data = {
             noteData: note.target.feedbackText.value
         }
-        
-
         const JSONdata = JSON.stringify(data)
-
         const endpoint = '/api/contactForm'
-      
         const options = {
-          
           method: 'POST',
-      
           headers: {
             'Content-Type': 'application/json', 
           }, 
           body: JSONdata,
         }
         await fetch(endpoint, options);
-
  }
-
-
     return (
         <>
             <h1 className={style.centerText}>
@@ -47,6 +34,7 @@ const Contact = () => {
                 </form>
             </div>
             <br></br>
+
             <br></br>
             <p>
                 Write to us at: 
