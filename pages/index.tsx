@@ -37,6 +37,10 @@ const indexPage = () => {
           Physics starts with gen phys 1, where you learn about motion, changes in motion, and how to use conservation laws to solve certain physics problems. You also learn about gravity and how to approximate it near earth&#39;s surface; you use that fact to solve a range of physics problems. 
       </p> 
       <p> 
+          You end gen phys 1 with a study of waves and possibly some thermodynamics. Some stuff in gen phys 1 would definitely be true in any universe, lol.
+      </p>
+      <p> 
+          Gen phys 2 is when you start getting into the structure of matter.  
       </p>
       <div 
                 style={{
