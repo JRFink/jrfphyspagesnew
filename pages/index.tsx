@@ -45,6 +45,9 @@ const indexPage = () => {
       <p> 
            You build up to maxwell&#39;s equations and learn their definition. You start with the integral forms. You learn them as the capstone of EM theory. 
       </p> 
+      <p> 
+           After this，then comes all the stuff from gen phys 1 at a higher level. We could call gen phys 1 Newtonian mechanics because Newton developed the approach we use there. 
+      </p> 
       <div 
                 style={{
                     display: "flex",
