@@ -5,7 +5,7 @@ import pendulum from '@/public/images/pendulum.svg';
 import { ModoverviewTaylor } from '@/pages/components/modoverview';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
-import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 

@@ -3,7 +3,7 @@ import style from '@/styles/general.module.css';
 import PmvVid from '@/public/videos/gp1/pmv';
 import { ModoverviewPmv } from '@/pages/components/modoverview';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
-import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Pmv = () => {

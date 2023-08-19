@@ -3,7 +3,7 @@ import style from '@/styles/general.module.css';
 import RotVid from '@/public/videos/gp1/rm';
 import { ModoverviewRm } from '@/pages/components/modoverview';
 import RmEx from '@/pages/exercises/gp1/rmex';
-import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Rm = () => {

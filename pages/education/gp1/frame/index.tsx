@@ -4,7 +4,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewFrames } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
-import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Uvec = () => {

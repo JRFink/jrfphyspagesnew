@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewEq } from '@/pages/components/modoverview';
 import EqEx from '@/pages/exercises/gp1/eqex';
-import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Eq = () => {

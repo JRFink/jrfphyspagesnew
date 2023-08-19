@@ -4,7 +4,7 @@ import style from '@/styles/general.module.css';
 import { Modoverview2dm } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
-import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Two3dm = () => {
