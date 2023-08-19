@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const OnedmTest = () => {
+const Test1 = () => {
     return (
         <>
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
@@ -31,4 +31,4 @@ const OnedmTest = () => {
     );
 }
 
-export default OnedmTest;
+export default Test1;
