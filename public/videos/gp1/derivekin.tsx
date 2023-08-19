@@ -3,7 +3,7 @@ import style from '@/styles/general.module.css';
 const DeriveKinVid = () => {
     return (
         <>
-            <h2 className={style.centerThis}>
+            <h2 className={style.centerText}>
                 Deriving a Kinematic Equation
             </h2>
             <div className={style.flexContainerVid}>

@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import UnitsVid from '@/public/videos/gp1/units';
 import style from '@/styles/general.module.css';
+import UnitsVid from '@/public/videos/gp1/units';
 import { ModoverviewFrames } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';

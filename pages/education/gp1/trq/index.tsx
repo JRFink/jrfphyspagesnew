@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import TrqVid from '@/public/videos/gp1/trq';
 import style from '@/styles/general.module.css';
+import TrqVid from '@/public/videos/gp1/trq';
 import TrqEx from '@/pages/exercises/gp1/trqex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
