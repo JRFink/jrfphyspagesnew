@@ -2,6 +2,7 @@ import Image from 'next/image';
 import vidicon from '@/public/images/vidicon.png';
 import docicon from '@/public/images/docicon.png';
 import pencilicon from '@/public/images/pencilicon.png';
+import checkmark from '@/public/images/checkmark.png';
 
 export default function Vidicon () {
     return (
@@ -40,15 +41,30 @@ export function Pencilicon () {
     return (
         <>
             <Image
-            src={pencilicon}
-            style={{
-                width: '3%',
-                height: 'auto'
-            }}
-            sizes="100vw"
-            alt="Black pencil icon" 
+                src={pencilicon}
+                style={{
+                    width: '3%',
+                    height: 'auto'
+                }}
+                sizes="100vw"
+                alt="Black pencil icon" 
             />
         </>
     );
 }
 
+export function Checkmark () {
+    return (
+        <>
+            <Image 
+                src={checkmark}
+                style={{
+                    width: '3%',
+                    height: 'auto'
+                }}
+                sizes="100vw"
+                alt="Black check mark" 
+            />
+        </>
+    );
+}

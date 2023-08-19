@@ -1,7 +1,5 @@
 import style from '@/styles/general.module.css';
-import Vidicon from '@/pages/components/icons';
-import { Docicon } from '@/pages/components/icons';
-import { Pencilicon } from '@/pages/components/icons';
+import Vidicon, { Docicon, Pencilicon, Checkmark } from '@/pages/components/icons';
 
 export default function ModoverviewInt () {
     return (
@@ -63,6 +61,11 @@ export function ModoverviewFrames () {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -107,6 +110,11 @@ export function ModoverviewVec() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -150,6 +158,11 @@ export function ModoverviewCalc() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -205,6 +218,11 @@ export function Modoverview1dm() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -244,6 +262,11 @@ export function Modoverview2dm() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -277,6 +300,11 @@ export function ModoverviewDiff() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -322,6 +350,11 @@ export function ModoverviewNl() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -366,6 +399,11 @@ export function ModoverviewANl() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -399,6 +437,11 @@ export function ModoverviewWke() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -438,6 +481,11 @@ export function ModoverviewPu() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -488,6 +536,11 @@ export function ModoverviewPmv() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -532,6 +585,11 @@ export function ModoverviewRm() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -565,6 +623,11 @@ export function ModoverviewEq() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -604,6 +667,11 @@ export function ModoverviewTaylor() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -659,6 +727,11 @@ export function ModoverviewG() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -713,6 +786,11 @@ export function ModoverviewWm() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -756,6 +834,11 @@ export function ModoverviewFluid() {
             <Pencilicon />
             <p className={style.inlineContainer}>
                 Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
             </p>
             <br></br>
             <br></br>
@@ -801,6 +884,11 @@ export function ModoverviewOsc() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -845,6 +933,11 @@ export function ModoverviewTheat() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>
             <br></br>
             <br></br>
@@ -884,6 +977,11 @@ export function ModoverviewGas() {
              <p className={style.inlineContainer}> 
                  Exercises 
              </p> 
+             <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
              <br></br> 
              <br></br> 
              <br></br> 
@@ -927,7 +1025,12 @@ export function Modoverview2nd() {
               <Pencilicon />  
               <p className={style.inlineContainer}>  
                   Exercises  
-              </p>  
+              </p> 
+              <br />
+              <Checkmark />
+              <p className={style.inlineContainer}>
+                 Quiz
+              </p> 
               <br></br>  
               <br></br>  
               <br></br>  
@@ -957,6 +1060,11 @@ export function Modoverview2nd() {
             <p className={style.inlineContainer}>  
                 Exercises  
             </p>  
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
             <br></br>  
             <br></br>  
             <br></br>  
