@@ -22,9 +22,6 @@ const Test1 = () => {
                     <li>
                         Motion in 1, 2, and 3 dimensions
                     </li>
-                    <li>
-                        Frames, units, measurement
-                    </li>
                 </ol>
             </p>
         </>
