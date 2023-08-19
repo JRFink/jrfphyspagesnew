@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewANl } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import FlawEx from '@/pages/exercises/gp1/flawex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const ApplNl = () => {
@@ -72,6 +73,9 @@ There are many applications of the second law. One could argue that everything i
             <br></br>
             <FlawEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

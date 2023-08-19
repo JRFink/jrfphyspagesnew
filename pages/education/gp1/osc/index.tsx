@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewOsc } from '@/pages/components/modoverview';
 import OscEx from '@/pages/exercises/gp1/oscex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Osc = () => {
@@ -74,6 +75,9 @@ const Osc = () => {
             <br></br>
             <OscEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

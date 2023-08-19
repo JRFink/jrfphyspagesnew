@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 import PmvVid from '@/public/videos/gp1/pmv';
 import { ModoverviewPmv } from '@/pages/components/modoverview';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Pmv = () => {
@@ -54,6 +55,9 @@ const Pmv = () => {
             <br></br>
             <PmvEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewNl } from '@/pages/components/modoverview';
 import NewtVid from '@/public/videos/gp1/newt';
 import NlEx from '@/pages/exercises/gp1/nlex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const NewtLaws = () => {
@@ -158,6 +159,9 @@ const NewtLaws = () => {
             <br></br>
             <NlEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

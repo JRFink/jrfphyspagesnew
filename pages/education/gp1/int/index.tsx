@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import ModoverviewInt from '@/pages/components/modoverview';
 import FluidEx from '@/pages/exercises/gp1/fluidex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Fluid = () => {
@@ -22,6 +23,9 @@ const Fluid = () => {
             <br></br>
             <FluidEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

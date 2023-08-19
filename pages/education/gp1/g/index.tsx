@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewG } from '@/pages/components/modoverview';
 import GEx from '@/pages/exercises/gp1/gex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Gravity = () => {
@@ -64,9 +65,11 @@ const Gravity = () => {
             </h2>
             <br></br>
             <br></br>
-            <br></br>
             <GEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

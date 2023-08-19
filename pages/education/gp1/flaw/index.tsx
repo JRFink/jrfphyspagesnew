@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { Modoverview1st } from '@/pages/components/modoverview';
 import FlawEx from '@/pages/exercises/gp1/flawex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Flaw = () => {
@@ -27,6 +28,9 @@ const Flaw = () => {
             <br></br>
             <FlawEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

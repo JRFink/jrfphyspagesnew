@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewWm } from '@/pages/components/modoverview';
 import WmEx from '@/pages/exercises/gp1/wmex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Wave = () => {
@@ -48,6 +49,9 @@ const Wave = () => {
             <br></br>
             <WmEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

@@ -4,6 +4,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewPu } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const PU = () => {
@@ -83,6 +84,9 @@ const PU = () => {
             <br></br>
             <PuEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

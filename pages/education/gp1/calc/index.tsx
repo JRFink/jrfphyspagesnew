@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewCalc } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary'; 
 import CalcEx from '@/pages/exercises/gp1/calcex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Calc = () => {
@@ -106,6 +107,8 @@ const Calc = () => {
             <CalcEx />
             <br></br>
             <br></br>
+            <OnedmQz />
+            <br />
             <Summary />
             <br></br>
             <Helpful />

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewGas } from '@/pages/components/modoverview';
 import KinEx from '@/pages/exercises/gp1/kinex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Kin = () => {
@@ -41,6 +42,9 @@ const Kin = () => {
             <br></br>
             <KinEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );

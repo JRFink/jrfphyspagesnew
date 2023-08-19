@@ -1,12 +1,12 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
-import { ModoverviewTaylor } from '@/pages/components/modoverview';
-import TaylorVid from '@/public/videos/gp1/taylor';
-
-import TaylorEx from '@/pages/exercises/gp1/taylorex';
-import Helpful from '@/pages/components/helpful';
 import Image from 'next/image';
 import pendulum from '@/public/images/pendulum.svg';
+import { ModoverviewTaylor } from '@/pages/components/modoverview';
+import TaylorVid from '@/public/videos/gp1/taylor';
+import TaylorEx from '@/pages/exercises/gp1/taylorex';
+import OnedmQz from '@/pages/quiz/gp1/1dmqz';
+import Helpful from '@/pages/components/helpful';
 
 
 const Taylor = () => {
@@ -56,6 +56,9 @@ const Taylor = () => {
             <br></br>
             <TaylorEx />
             <br></br>
+            <br></br>
+            <OnedmQz />
+            <br />
             <Helpful />
         </>
     );
