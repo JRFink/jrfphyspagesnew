@@ -71,7 +71,10 @@ const indexPage = () => {
       </p>
       <h2>
            Modern physics 
-      </h2>  
+      </h2> 
+      <p> 
+           
+      </p> 
       <div 
                 style={{
                     display: "flex",
