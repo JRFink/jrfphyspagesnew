@@ -69,7 +69,8 @@ const indexPage = () => {
       <p> 
            You&#39;ll cover charge, force, field, potentials, circuits, energy, conservation laws, electromagnetic waves, poynting vector, maxwell&#39;s equations, and relativity. It&#39;s a lot, but it gives you a deeper understanding of our world. 
       </p>
-      <h2> 
+      <h2>
+           Modern physics 
       </h2>  
       <div 
                 style={{
