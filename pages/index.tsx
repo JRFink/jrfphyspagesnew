@@ -58,7 +58,7 @@ const indexPage = () => {
            In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. In class mech, we revisit the classical regime but approach it differently; we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
       </p> 
       <p> 
-           Instead of focusing on instantaneous changes and forces as a function, they focus on energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
+           Instead of focusing on instantaneous changes and forces as a function, these approaches focus on the energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
       </p> 
       <h2> 
            Electrcity and magnetism 
