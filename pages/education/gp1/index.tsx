@@ -62,6 +62,11 @@ const Gp1 = () => {
                     <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
                 </p>
             <br></br>
+            <div className={style.flexContainer}>
+                <Link href="" className={style.styleCourseNav}>Videos coming</Link>
+                <Link href="" className={style.styleCourseNav}>Course notes coming</Link>
+                <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>  
+            </div>
             <br></br>
             <Link href="/education/gp1/int" className={style.generalLink}>Introduction</Link><br></br>
             <br></br>

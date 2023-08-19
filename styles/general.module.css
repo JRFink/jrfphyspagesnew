@@ -44,6 +44,26 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
 }
 
+.styleCourseNav {
+    padding: 10px 10px 10px 10px; 
+    color: white; 
+    background-color: rgb(210, 121, 255);
+    border: 1px solid black; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    margin: 15px; 
+}
+
+.styleCourseNav:hover {
+    background-color: rgb(219, 147, 255);
+}
+
+.styleCourseNav:active {
+    color: rgb(215, 215, 215); 
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
+}
+
 .searchBox {
     padding: 10px 10px 10px 10px;
     border: 1px solid black;
@@ -132,7 +152,7 @@
 }
 
 .testLink:hover {
-    background-color: #1bf5dd;
+    background-color: #ffd890;
 }
 
 .testLink:active {
