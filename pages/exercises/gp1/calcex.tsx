@@ -7,7 +7,7 @@ const CalcEx = () => {
         <Exerciseheading />
         <ul>
             <li>
-                Approximate something in your house. For example, the number of paint cans which could fit in a room or the amount of heat coming from your stove. 
+                Approximate something in your house. For example, approximate the number of paint cans which could fit in a room or the amount of heat coming from your stove per day. 
             </li>
         </ul>
     </div>
