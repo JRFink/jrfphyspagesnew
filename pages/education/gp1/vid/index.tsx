@@ -6,9 +6,10 @@ import Two3Vid from '@/public/videos/gp1/two3';
 import DeriveKinVid from '@/public/videos/gp1/derivekin';
 import NewtVid from '@/public/videos/gp1/newt';
 import PmvVid from '@/public/videos/gp1/pmv';
+import WkeVid from '@/public/videos/gp1/wke';
 import EUKVid from '@/public/videos/gp1/euk';
 import RotVid from '@/public/videos/gp1/rm';
-import WkeVid from '@/public/videos/gp1/wke';
+import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
 
 const Gp1Vid = () => {
@@ -49,14 +50,18 @@ const Gp1Vid = () => {
             <br /> 
             <br />
             <br /> 
-            <RotVid />
-            <br /> 
-            <br />
-            <br /> 
             <WkeVid />
             <br /> 
             <br />
             <br /> 
+            <RotVid />
+            <br /> 
+            <br />
+            <br /> 
+            <TrqVid />
+            <br /> 
+            <br /> 
+            <br />
             <TaylorVid />
 
         </>
