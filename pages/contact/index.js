@@ -1,9 +1,26 @@
 import { useState } from 'react';
 import style from '@/styles/general.module.css';
 
+function ThankYou ({ isSubmitted }) {
+
+    console.log('is: ' + isSubmitted);
+    console.log('2: ' + typeof(false));
+    return (
+        <p>
+            {isSubmitted ? 'Thank you! We will be in touch.' : '' }
+        </p>
+        
+    );
+
+    
+}
+
 const Contact = () => {
 
-    // const [yessSubmitted, setSubmitted] = useState(false);
+    const [notActivated, setActivated] = useState(true); 
+    const [typing, setTyping] = useState(false); 
+    const [textButNotSubmitted, setTextButNotSubmitted] = useState(false); 
+    const [isSubmitted, setSubmitted] = useState(false);
 
     const handleSubmit = async (note) => {
         note.preventDefault();
@@ -22,14 +39,7 @@ const Contact = () => {
         await fetch(endpoint, options);
         setSubmitted(true);
     }
-    // function ThankYou (isSubmitted) {
-    //     console.log("is " + isSubmitted);
-    //     if (isSubmitted) {
-    //         return <p>Thank you!</p>
-    //     } 
-    //     return null;
 
-    // }
     return (
         <>
             <h1 className={style.centerText}>
@@ -47,7 +57,10 @@ const Contact = () => {
                 </form>
             </div>
             <br></br>
-            {/* <ThankYou /> */}
+            <ThankYou 
+                onShow={() => setSubmitted(1)}
+         
+            />
             <br></br>
             <p>
                 Write to us at: 

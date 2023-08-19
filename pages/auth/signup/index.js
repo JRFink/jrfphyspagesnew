@@ -1,7 +1,13 @@
+import { useState } from 'react';
 import style from '@/styles/general.module.css';
 import Link from 'next/link';
 
 const Signup = () => {
+
+    const [notActivated, setActivated] = useState(true); 
+    const [typing, setTyping] = useState(false); 
+    const [textButNotSubmitted, setTextButNotSubmitted] = useState(false); 
+    const [submitted, setSubmitted] = useState(false);
 
     const handleSubmit = async (event) => {
 
@@ -52,7 +58,7 @@ const Signup = () => {
         }
         // send the form data to our forms api
         await fetch(endpoint, options);
-        <p>hi</p>
+   
     }
 
     return (
