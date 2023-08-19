@@ -57,6 +57,14 @@ const indexPage = () => {
       <p>
            In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. In class mech, we revisit the classical regime but approach it differently; we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
       </p> 
+      <p> 
+           Instead of focusing on instantaneous changes and forces as a function, they focus on energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
+      </p> 
+      <h2> 
+           Electrodynamics 
+      </h2> 
+      <p> 
+      </p>
       <div 
                 style={{
                     display: "flex",
