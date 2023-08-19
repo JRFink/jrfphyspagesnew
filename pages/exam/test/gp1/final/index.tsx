@@ -7,7 +7,7 @@ const Final = () => {
         <>
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
             <br></br>
-            <h1 className={style.centerText}>Test 4</h1>
+            <h1 className={style.centerText}>Final exam</h1>
             <p>
                 The final exam will cover the following topics:
                 <ol>
