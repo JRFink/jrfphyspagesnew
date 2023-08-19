@@ -47,9 +47,15 @@ const indexPage = () => {
       </p>
       <p> 
            You build up to maxwell&#39;s equations and learn their definition. You start with the integral forms. You learn them as the capstone of EM theory. 
-      </p> 
+      </p>
+      <h2> 
+           Classical mechanics
+      </h2>
       <p> 
-           After this，then comes all the stuff from gen phys 1 at a higher level. We could call gen phys 1 Newtonian mechanics because Newton developed the approach we use there. 
+           After this，then comes all the stuff from gen phys 1 at a higher level. We call this classical mechanics. 
+      </p>
+      <p>
+           In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. In class mech, we revisit the classical regime but approach it differently; we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
       </p> 
       <div 
                 style={{
