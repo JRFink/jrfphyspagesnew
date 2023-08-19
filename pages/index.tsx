@@ -61,10 +61,16 @@ const indexPage = () => {
            Instead of focusing on instantaneous changes and forces as a function, they focus on energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
       </p> 
       <h2> 
-           Electrodynamics 
+           Electrcity and magnetism 
       </h2> 
       <p> 
+           Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, but the math gives insoght to what is happening physically.  
       </p>
+      <p> 
+           You&#39;ll cover charge, force, field, potentials, circuits, energy, conservation laws, electromagnetic waves, poynting vector, maxwell&#39;s equations, and relativity. It&#39;s a lot, but it gives you a deeper understanding of our world. 
+      </p>
+      <h2> 
+      </h2>  
       <div 
                 style={{
                     display: "flex",
