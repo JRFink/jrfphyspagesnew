@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import UnitsVid from '@/public/videos/gp1/units';
 import ConstantPosVid from '@/public/videos/gp1/constantpos';
@@ -15,53 +16,43 @@ import TaylorVid from '@/public/videos/gp1/taylor';
 const Gp1Vid = () => {
     return (
         <>
+            <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
             <h1 className={style.centerText}>
-                Gen phys 1 videos - bingeworthy
+                Gen phys 1 videos
             </h1>
             <UnitsVid />
-            <br /> 
             <br />
             <br />
             <ConstantPosVid />
-            <br /> 
             <br />
             <br />
             <AccelVid />
-            <br /> 
             <br />
             <br />
             <Two3Vid />
-            <br /> 
             <br />
             <br />
             <DeriveKinVid />
-            <br /> 
             <br />
             <br />
             <NewtVid />
-            <br /> 
             <br />
             <br /> 
             <PmvVid />
             <br /> 
             <br />
-            <br /> 
             <EUKVid />
             <br /> 
             <br />
-            <br /> 
             <WkeVid />
             <br /> 
             <br />
-            <br /> 
             <RotVid />
             <br /> 
             <br />
-            <br /> 
             <TrqVid />
             <br /> 
             <br /> 
-            <br />
             <TaylorVid />
 
         </>
