@@ -107,8 +107,6 @@ const Calc = () => {
             <CalcEx />
             <br></br>
             <br></br>
-            <OnedmQz />
-            <br />
             <Summary />
             <br></br>
             <Helpful />

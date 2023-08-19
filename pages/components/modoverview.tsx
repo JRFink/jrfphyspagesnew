@@ -159,11 +159,6 @@ export function ModoverviewCalc() {
             <p className={style.inlineContainer}>
                 Exercises
             </p>
-            <br />
-            <Checkmark />
-            <p className={style.inlineContainer}>
-                Quiz
-            </p>
             <br></br>
             <br></br>
             <br></br>
