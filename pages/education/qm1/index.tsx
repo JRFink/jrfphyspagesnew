@@ -11,6 +11,11 @@ const Qm1 = () => {
             <h1 className={style.centerText}>
                 Quantum Mechanics 1
             </h1>
+            <div className={style.flexContainer}>
+                <Link href="/education/qm1/vid" className={style.styleCourseNav}>Videos</Link>
+                <Link href="" className={style.styleCourseNav}>Course notes coming</Link>
+                <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>  
+            </div>
             <br></br>
             <br></br>
             <IhVid />
