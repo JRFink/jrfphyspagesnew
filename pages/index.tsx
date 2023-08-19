@@ -64,7 +64,7 @@ const indexPage = () => {
            Electrcity and magnetism 
       </h2> 
       <p> 
-           Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, but the math gives insight to what is happening physically.  
+           Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, but the math gives insight into what is happening physically.  
       </p>
       <p> 
            You&#39;ll cover charge, force, field, potentials, circuits, energy, conservation laws, electromagnetic waves, poynting vector, maxwell&#39;s equations, and relativity. It&#39;s a lot, but it gives you a deeper understanding of our world. 
