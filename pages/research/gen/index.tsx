@@ -24,21 +24,21 @@ const Gen = () => {
                     America
                 </h2>
                     <p>
-                    <Link href="https://www.congress.gov/advanced-search/legislation">Laws</Link>
-<br />
-<br />
-                        <Link href="https://www.usa.gov/">Government</Link>
+                    <Link href="https://www.congress.gov/advanced-search/legislation" className={style.noUnder}>Laws</Link>
+                    <br />
+                    <br />
+                        <Link href="https://www.usa.gov/" className={style.noUnder}>Government</Link>
                                 <ul>
                                     <li>
-                                        <Link href="https://www.energy.gov/">Energy</Link>
+                                        <Link href="https://www.energy.gov/" className={style.noUnder}>Energy</Link>
                                     </li>
                                     <br></br>
                                     <li>
-                                        <Link href="https://www.energy.gov/science/office-science">Science</Link>
+                                        <Link href="https://www.energy.gov/science/office-science" className={style.noUnder}>Science</Link>
                                     </li>
                                     <br></br>
                                     <li>
-                                        <Link href="https://www.ed.gov">Education</Link>
+                                        <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
                                 </ul>
 
@@ -164,26 +164,29 @@ const Gen = () => {
                                         </ul>
                                 </ul>
                     </p>
-<h2> 
-Albania - Shqipëria
-</h2>
-<br />
+                <h2> 
+                    Albania - Shqipëria
+                </h2>
+                    <p>
+                        <Link href="https://www.kryeministria.al" className={style.noUnder}>Government - qeveria </Link>
+                    </p>
+                    <br />
                 <h2>
                     China - 中國
                 </h2>
                     <p>
-                        <Link href="https://www.gov.cn">Government - 政府</Link>
+                        <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
                         <ul>
                             <li>
-                                <Link href="http://www.nea.gov.cn/">Energy - 精力</Link>
+                                <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://en.most.gov.cn/">Science - 科学</Link>
+                                <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="http://en.moe.gov.cn/">Education - 教育</Link>
+                                <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
                             </li>
                         </ul>
                     </p>
@@ -192,33 +195,34 @@ Albania - Shqipëria
                Germany - Deutschland 
                </h2>               
                <p>  
-                  <Link href="https://www.bundestag.de/">Government - Regierung</Link>
-<ul> 
-<li> 
-<Link href="https://www.bundesnetzagentur.de/EN/Home/home_node.html">Energy - Energie</Link> </li>
-<br />
-<li>
-                  <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html">Education - Erziehung</Link>
-</li> 
-</ul>
+                  <Link href="https://www.bundestag.de/" className={style.noUnder}>Government - Regierung</Link>
+                    <ul> 
+                        <li> 
+                            <Link href="https://www.bundesnetzagentur.de/EN/Home/home_node.html" className={style.noUnder}>Energy - Energie</Link> 
+                        </li>
+                        <br />
+                        <li>
+                            <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html" className={style.noUnder}>Education - Erziehung</Link>
+                        </li> 
+                    </ul>
                 </p>
                 <br />
                 <h2>
                     India - भारत
                 </h2>
                     <p>
-                        <Link href="https://www.india.gov.in">Government</Link>
+                        <Link href="https://www.india.gov.in" className={style.noUnder}>Government</Link>
                         <ul>
                             <li>
-                                <Link href="https://mnre.gov.in/">Energy</Link>
+                                <Link href="https://mnre.gov.in/" className={style.noUnder}>Energy</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://dst.gov.in">Science</Link>
+                                <Link href="https://dst.gov.in" className={style.noUnder}>Science</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://www.education.gov.in">Education</Link>
+                                <Link href="https://www.education.gov.in" className={style.noUnder}>Education</Link>
                             </li>
                         </ul>
                     </p>
@@ -226,18 +230,18 @@ Albania - Shqipëria
                     Iran - ایران
                 </h2>
                 <p>
-                    <Link href="https://dolat.ir">Government</Link>
+                    <Link href="https://dolat.ir" className={style.noUnder}>Government</Link>
                     <ul>
                         <li>
-                            <Link href="https://moe.gov.ir">Energy</Link>
+                            <Link href="https://moe.gov.ir" className={style.noUnder}>Energy</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://irangov.ir/cat/558">Science</Link>
+                            <Link href="https://irangov.ir/cat/558" className={style.noUnder}>Science</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://irangov.ir/cat/547">Education</Link>
+                            <Link href="https://irangov.ir/cat/547" className={style.noUnder}>Education</Link>
                         </li>
                     </ul>
                 </p>
@@ -245,14 +249,14 @@ Albania - Shqipëria
                     Japan - 日本
                 </h2>
                     <p>
-                        <Link href="https://www.japan.go.jp">Government</Link>
+                        <Link href="https://www.japan.go.jp" className={style.noUnder}>Government</Link>
                         <ul>
                             <li>
-                                <Link href="https://www.enecho.meti.go.jp">Energy</Link>
+                                <Link href="https://www.enecho.meti.go.jp" className={style.noUnder}>Energy</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://www.mext.go.jp">Science &#38; Education</Link>
+                                <Link href="https://www.mext.go.jp" className={style.noUnder}>Science &#38; Education</Link>
                             </li>
                         </ul>
                     </p>
@@ -260,14 +264,14 @@ Albania - Shqipëria
                     Russia - Россия
                 </h2>
                 <p>
-                    <Link href="http://government.ru">Government - правительство</Link>
+                    <Link href="http://government.ru" className={style.noUnder}>Government - правительство</Link>
                     <ul>
                         <li>
-                            <Link href="http://minenergo.gov.ru">Energy</Link>
+                            <Link href="http://minenergo.gov.ru" className={style.noUnder}>Energy</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://minobrnauki.gov.ru">Science &#38; Education</Link>
+                            <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
                         </li>
                     </ul>
                 </p>
@@ -275,18 +279,18 @@ Albania - Shqipëria
                     Singapore - Singapura 
                 </h2>
                 <p>
-                    <Link href="https://www.gov.sg">Government</Link>
+                    <Link href="https://www.gov.sg" className={style.noUnder}>Government</Link>
                     <ul>
                         <li>
-                            <Link href="https://www.ema.gov.sg/index.aspx">Energy</Link>
+                            <Link href="https://www.ema.gov.sg/index.aspx" className={style.noUnder}>Energy</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://snas.org.sg">Science</Link>
+                            <Link href="https://snas.org.sg" className={style.noUnder}>Science</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://www.moe.gov.sg/">Education</Link>
+                            <Link href="https://www.moe.gov.sg" className={style.noUnder}>Education</Link>
                         </li>
                     </ul>
                 </p>

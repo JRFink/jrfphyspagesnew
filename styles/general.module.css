@@ -384,6 +384,14 @@
     text-decoration: none;
 }
 
+.noUnder {
+    text-decoration: none;
+}
+
+.noUnder:hover {
+    text-decoration: underline;
+}
+
 .footerGenCountry {
     display: inline-block;
     font-family: 'Inter', sans-serif;
