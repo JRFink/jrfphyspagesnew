@@ -165,7 +165,7 @@ const Gen = () => {
                     China - 中國
                 </h2>
                     <p>
-                        <Link href="https://www.gov.cn">Government</Link>
+                        <Link href="https://www.gov.cn">Government - 政府</Link>
                         <ul>
                             <li>
                                 <Link href="http://www.nea.gov.cn/">Energy</Link>
