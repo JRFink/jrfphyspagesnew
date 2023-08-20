@@ -24,6 +24,8 @@ const Gen = () => {
                     America
                 </h2>
                     <p>
+                    <Link href="https://www.congress.gov/advanced-search/legislation">Laws</Link>
+<br />
                         <Link href="https://www.usa.gov/">Government</Link>
                                 <ul>
                                     <li>
