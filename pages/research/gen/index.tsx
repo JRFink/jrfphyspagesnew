@@ -253,7 +253,7 @@ const Gen = () => {
                     Russia - Россия
                 </h2>
                 <p>
-                    <Link href="http://government.ru">Government</Link>
+                    <Link href="http://government.ru">Government - правительство</Link>
                     <ul>
                         <li>
                             <Link href="http://minenergo.gov.ru">Energy</Link>
