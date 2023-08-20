@@ -41,7 +41,6 @@ const CountryDrop = () => {
             <br />
             {dropdownState.open && (
             <div className={style.dropdownButtonDiv}>
-                <p className={style.dropdownButtonDivP}>just testing</p>
                 <ul className={style.dropdownUl}>
                     <br />
                     <li><Link href="/glob/alb" className={style.dropdownLi} onClick={handleDropdownClick}>Schqiptare</Link></li> 
