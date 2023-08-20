@@ -72,6 +72,34 @@ const Uvec = () => {
             <h3>
                 2.5 Dimensional analysis
             </h3>
+            <p>
+                Dimensional analysis is the process of making sure the units on your equations match. For example, let&#39;s 
+                say you are solving for the momentum of something, and your final answer is 3 &nbsp;
+                <math>
+                    <mfrac>
+                        <mn>kg</mn>
+                        <mn>s</mn>
+                    </mfrac>
+                </math> . You will learn that the dimensions of momentum are &nbsp;
+                <math>
+                    <mfrac>
+                        <mn>Mass * length</mn>
+                        <mn>time</mn>
+                    </mfrac>
+                </math>, so 3 &nbsp;
+                <math>
+                    <mfrac>
+                        <mn>kg</mn>
+                        <mn>s</mn>
+                    </mfrac> 
+                </math> &nbsp; would be &nbsp;
+                <math>
+                    <mfrac>
+                        <mn>mass</mn>
+                        <mn>time</mn>
+                    </mfrac>
+                </math>, so we have made a dimensional mistake. 
+            </p>
             <h3>
                 2.6 Government standards
             </h3>

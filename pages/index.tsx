@@ -87,8 +87,8 @@ const indexPage = () => {
            operators, angular momentum theories, and lots of integrals. 
       </p>
       <p>
-           After quantum comes quantum field theory, which studies just subatomic particles. It&#39;s what we call the physics of the standard model. 
-           The <Link href="/research/particle">standard model</Link> is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple at all, but it&#39;s a start. 
+           After quantum comes quantum field theory, which studies just subatomic particles. It&#39;s what we call the physics of the <Link href="/research/particle">standard model</Link>.
+           The standard model is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple at all, but it&#39;s a start. 
       </p>
       <p>
            The thing that is deeper than qft is string theory. String theory aims to describe the fundamental particles as vibrations, 
