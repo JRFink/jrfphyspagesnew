@@ -1,6 +1,6 @@
 import style from '@/styles/general.module.css';
 
-const CnHome = () =>  { 
+const 中文家 = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
@@ -10,4 +10,4 @@ const CnHome = () =>  {
     );
 } 
 
-export default CnHome;
+export default 中文家;
