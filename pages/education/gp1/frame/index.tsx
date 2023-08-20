@@ -69,12 +69,20 @@ const Uvec = () => {
             <h3>
                 2.4 Unit conversion
             </h3>
+            <p>
+                Unit conversion is the process of converting one unit to another. In order to convert one unit 
+                to another, you have to multiply that unit by .... Let&#39;s go back to a very simple math concept. 
+                What happens when you multiply by 1? You don&#39;t change the value. 2 * 1 is still 2. 
+                3 bananas * 1 is still 3 bananas. So, when you have something with a unit, such as 2 miles, you can multiply that 
+                by a unit ratio, which is the equivalent of multiplying by ..., and not change the value. 2 miles * fill = 3218 meters.
+                What <em>unit ratio</em> would you use? Yes, because that doesn&#39;t .. the value. 
+            </p>
             <h3>
                 2.5 Dimensional analysis
             </h3>
             <p>
-                Dimensional analysis is the process of making sure the units on your equations match. For example, let&#39;s 
-                say you are solving for the momentum of something, and your final answer is 3 &nbsp;
+                Dimensional analysis is the process of making sure the units on your equations match.  
+                {/* say you are solving for the momentum of something, and your final answer is 3 &nbsp;
                 <math>
                     <mfrac>
                         <mn>kg</mn>
@@ -98,11 +106,15 @@ const Uvec = () => {
                         <mn>mass</mn>
                         <mn>time</mn>
                     </mfrac>
-                </math>, so we have made a dimensional mistake. 
+                </math>, so we have made a dimensional mistake.  */}
             </p>
             <h3>
                 2.6 Government standards
             </h3>
+            <p>
+                Government standards are <em>very</em> interesting. Find some of <Link href="https://www.nist.gov/">America&#39;s</Link> here. 
+                Government, and more broadly international, standards are important because whether we like it or not we live in a global society.
+            </p>
             <h2 className={style.h2SectionColor} id="measurement">
                 3. Measurement
             </h2>
