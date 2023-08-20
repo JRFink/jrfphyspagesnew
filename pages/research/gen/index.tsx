@@ -176,7 +176,7 @@ const Gen = () => {
                             </li>
                             <br></br>
                             <li>
-                                <Link href="http://en.moe.gov.cn/">Education</Link>
+                                <Link href="http://en.moe.gov.cn/">Education - 教育</Link>
                             </li>
                         </ul>
                     </p>
