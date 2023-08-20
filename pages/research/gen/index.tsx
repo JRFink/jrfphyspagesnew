@@ -168,11 +168,11 @@ const Gen = () => {
                         <Link href="https://www.gov.cn">Government - 政府</Link>
                         <ul>
                             <li>
-                                <Link href="http://www.nea.gov.cn/">Energy</Link>
+                                <Link href="http://www.nea.gov.cn/">Energy - 精力</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://en.most.gov.cn/">Science</Link>
+                                <Link href="https://en.most.gov.cn/">Science - 科学</Link>
                             </li>
                             <br></br>
                             <li>
