@@ -1,13 +1,13 @@
 import style from '@/styles/general.module.css';
 
-const schqiptareShtëpi = () =>  { 
+const trangchủTiếngviệt = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
-                fizikë
+                vật lý
            </h1>        
         </>
     );
 } 
 
-export default schqiptareShtëpi;
+export default trangchủTiếngviệt;

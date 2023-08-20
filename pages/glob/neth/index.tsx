@@ -1,13 +1,13 @@
 import style from '@/styles/general.module.css';
 
-const schqiptareShtëpi = () =>  { 
+const thuisNederlands = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
-                fizikë
+                Natuurkunde
            </h1>        
         </>
     );
 } 
 
-export default schqiptareShtëpi;
+export default thuisNederlands;
