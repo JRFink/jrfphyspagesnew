@@ -1,13 +1,13 @@
 import style from '@/styles/general.module.css';
 
-const schqiptareShtëpi = () =>  { 
+const hrvatskiKuća = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
-                fizikë
+                fizika
            </h1>        
         </>
     );
 } 
 
-export default schqiptareShtëpi;
+export default hrvatskiKuća;
