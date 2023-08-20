@@ -166,7 +166,7 @@ const Uvec = () => {
                 If you know these well, feel free to skip them&#41; !
             </p>
             <p>
-                Also, you have to do the <mark className={style.markExercise}>exercises</mark> and take the <mark className={style.markQuiz}>quiz</mark> below!
+                Also, you have to do the <a href="#exerc" className={style.markExercise}>exercises</a> and take the <a href="#quiz" className={style.markQuiz}>quiz</a> below!
             </p>
             <br></br>
             <br></br>
