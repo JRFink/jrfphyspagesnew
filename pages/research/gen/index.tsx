@@ -184,7 +184,10 @@ const Gen = () => {
                <h2> 
                Germany - Deutschland 
                </h2> 
-               <br />
+               <p> 
+                  <Link href="">Education - Erziehung</Link>
+                </p>
+                <br />
                 <h2>
                     India - भारत
                 </h2>
