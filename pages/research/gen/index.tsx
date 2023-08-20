@@ -186,9 +186,13 @@ const Gen = () => {
                </h2>               
                <p>  
                   <Link href="https://www.bundestag.de/">Government - Regierung</Link>
-<ul> <li>
+<ul> 
+<li> 
+<Link href="https://www.bundesnetzagentur.de/EN/Home/home_node.html">Energy</Link> </li>
+<li>
                   <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html">Education - Erziehung</Link>
-</li> </ul>
+</li> 
+</ul>
                 </p>
                 <br />
                 <h2>
