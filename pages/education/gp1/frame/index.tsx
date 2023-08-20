@@ -115,12 +115,23 @@ const Uvec = () => {
                 Government standards are <em>very</em> interesting. Find some of <Link href="https://www.nist.gov/">America&#39;s</Link> here. 
                 Government, and more broadly international, standards are important because whether we like it or not we live in a global society.
             </p>
+            <br></br>
             <h2 className={style.h2SectionColor} id="measurement">
                 3. Measurement
             </h2>
+            <p>
+                Measurement involves the process of assigning a number with a unit to an experiment. For example, let&#39;s say 
+                you want to measure where your pencil is on a piece of paper. You mark an origin, then take a ruler and measure 
+                how far to your pencil. You measure about 3 cm, notice there is some uncertainty, maybe a few milimeters,
+                and say something like 3 cm &#177; 2 mm. You have made a measurement.
+            </p>
             <h3>
                 3.1 How to measure
             </h3>
+            <p>
+                How you measure depends upon what you want to measure. In gen phys 1, you will be measuring things like position
+                and changes in position, as well as velocity and changes in energy indirectly.
+            </p>
             <h3>
                 3.2 Significant figures 
             </h3>
