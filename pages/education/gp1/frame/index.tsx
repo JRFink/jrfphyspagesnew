@@ -135,6 +135,10 @@ const Uvec = () => {
             <h3>
                 3.2 Significant figures 
             </h3>
+            <p>
+                Significant figures can be a pain. Nonetheless, they are important and we will use them in this class. You will 
+                impress all your friends when you correctly use significant figures. The metrologists will also love you. 
+            </p>
             <h3>
                 3.3 Errors in measurement
             </h3>
