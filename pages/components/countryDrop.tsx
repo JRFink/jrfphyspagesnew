@@ -48,17 +48,17 @@ const CountryDrop = () => {
                     <li><Link href="/glob/cn" className={style.dropdownLi}>বাংলা</Link></li> 
                     <li><Link href="/glob/jap" className={style.dropdownLi}>中文</Link></li> 
                     <li><Link href="/glob/cn" className={style.dropdownLi}>Hrvatski</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>Deutsch</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>Nederlands</Link></li>   
+                    <li><Link href="/glob/deut" className={style.dropdownLi}>Deutsch</Link></li>
+                    <li><Link href="/glob/neth" className={style.dropdownLi}>Nederlands</Link></li>   
                     <li><Link href="/glob/cn" className={style.dropdownLi}>English</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>Español</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>Finnish</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>Français</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>עברית</Link></li>
+                    <li><Link href="/glob/esp" className={style.dropdownLi}>Español</Link></li>
+                    <li><Link href="/glob/suom" className={style.dropdownLi}>Suomalainen</Link></li> { /* fin */}
+                    <li><Link href="/glob/fran" className={style.dropdownLi}>Français</Link></li>
+                    <li><Link href="/glob/heb" className={style.dropdownLi}>עברית</Link></li>
                     <li><Link href="/glob/cn" className={style.dropdownLi}>हिंदी</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>Italiano</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>日本語</Link></li>
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>한국인</Link></li>
+                    <li><Link href="/glob/itl" className={style.dropdownLi}>Italiano</Link></li>
+                    <li><Link href="/glob/jap" className={style.dropdownLi}>日本語</Link></li>
+                    <li><Link href="/glob/kor" className={style.dropdownLi}>한국인</Link></li>
                     <li><Link href="/glob/cn" className={style.dropdownLi}>Malayu</Link></li> 
                     <li><Link href="/glob/cn" className={style.dropdownLi}>Монгол хэл</Link></li>
                     <li><Link href="/glob/cn" className={style.dropdownLi}>मराठी</Link></li> 

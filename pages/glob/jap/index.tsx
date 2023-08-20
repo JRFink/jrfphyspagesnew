@@ -1,13 +1,13 @@
 import style from '@/styles/general.module.css';
 
-const CnHome = () =>  { 
+const 日本語家 = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
-                物理学
+                物理
            </h1>        
         </>
     );
 } 
 
-export default CnHome;
+export default 日本語家;
