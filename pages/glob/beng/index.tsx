@@ -4,7 +4,7 @@ const বাংলাবাড়ি = () =>  {
     return (
         <>
            <h1 className={style.centerText}>
-                fizikë
+                পদার্থবিজ্ঞান
            </h1>        
         </>
     );
