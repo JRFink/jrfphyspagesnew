@@ -73,8 +73,39 @@ const indexPage = () => {
            Modern physics 
       </h2> 
       <p> 
-           
+           Modern physics is when you start to learn about relativity and quantum mechanics. 
+           We divide relativity into special and general, and special is the one you&#39;ll cover first. 
+           You usually don&#39;t cover general till grad level classes. 
       </p> 
+      <p>
+           Special relativity covers position, velocity, time, momentum, and energy between reference frames which are moving relative to one another. 
+           S.r. addresses these topics when things are moving close to the speed of light. 
+      </p>
+      <p>
+           Quantum mechanics studies atoms and some subatomic particles. You learn about how to characterize these objects and when you 
+           can use classical analogies and when you cannot. When you cannot, you need the full machinery of quantum such as wave functions, 
+           operators, angular momentum theories, and lots of integrals. 
+      </p>
+      <p>
+           After quantum comes quantum field theory, which studies just subatomic particles. It&#39;s what we call the physics of the standard model. 
+           The <Link href="/research/particle">standard model</Link> is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple at all, but it&#39;s a start. 
+      </p>
+      <p>
+           The thing that is deeper than qft is string theory. String theory aims to describe the fundamental particles as vibrations, 
+           where different vibrations correspond to different particles. The size of a string is so small we have not had any experimental detection of 
+           one yet. As an exercise, look up the size of a string, then compare the entire size of the universe to what a string would be. Ya, it&#39;s small.
+      </p>
+      <p>
+           Going from the small to the large would be cosmology. Cosmology aims to describe the universe macroscopically; 
+        <em> how does it evole? how did it begin? where is it going?</em>
+      </p>
+      <h2>
+           Summary
+      </h2>
+      <p>
+           Physics aims to make the world understandable; it does this by establishing reference frames, specifying positions and motion, 
+           changes to these, and the reasons for them. It&#39;s a crazy subject. But it&#39;s neat!  
+      </p>
       <div 
                 style={{
                     display: "flex",
