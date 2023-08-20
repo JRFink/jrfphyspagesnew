@@ -43,30 +43,30 @@ const CountryDrop = () => {
             <div className={style.dropdownButtonDiv}>
                 <p className={style.dropdownButtonDivP}>just testing</p>
                 <ul className={style.dropdownUl}>
-                    <li className={style.dropdownLi}>Schqiptare</li>
-                    <li className={style.dropdownLi}>العربية</li>
-                    <li className={style.dropdownLi}>বাংলা</li> 
-                    <li><Link href="/glob/cn" className={style.dropdownLi}>中文</Link></li> 
-                    <li className={style.dropdownLi}>Hrvatski</li>
-                    <li className={style.dropdownLi}>Deutsch</li>
-                    <li className={style.dropdownLi}>Nederlands</li>   
-                    <li className={style.dropdownLi}>English </li>
-                    <li className={style.dropdownLi}>Español</li>
-                    <li className={style.dropdownLi}>Finnish</li>
-                    <li className={style.dropdownLi}>Français</li>
-                    <li className={style.dropdownLi}>עברית</li>
-                    <li className={style.dropdownLi}>हिंदी</li>
-                    <li className={style.dropdownLi}>Italiano</li>
-                    <li className={style.dropdownLi}>日本語</li>
-                    <li className={style.dropdownLi}>한국인</li>
-                    <li className={style.dropdownLi}>Malayu</li> 
-                    <li className={style.dropdownLi}>Монгол хэл</li>
-                    <li className={style.dropdownLi}>मराठी</li> 
-                    <li className={style.dropdownLi}>فارسی</li>
-                    <li className={style.dropdownLi}>Português</li> 
-                    <li className={style.dropdownLi}>русский</li>
-                    <li className={style.dropdownLi}>Tiếng việt</li>
-                    <li className={style.dropdownLi}>Isizulu</li>
+                    <li><Link href="/glob/alb" className={style.dropdownLi}>Schqiptare</Link></li> {/* albanian */}
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>العربية</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>বাংলা</Link></li> 
+                    <li><Link href="/glob/jap" className={style.dropdownLi}>中文</Link></li> 
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Hrvatski</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Deutsch</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Nederlands</Link></li>   
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>English</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Español</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Finnish</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Français</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>עברית</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>हिंदी</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Italiano</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>日本語</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>한국인</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Malayu</Link></li> 
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Монгол хэл</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>मराठी</Link></li> 
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>فارسی</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Português</Link></li> 
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>русский</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Tiếng việt</Link></li>
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>Isizulu</Link></li>
                 </ul>
             </div>
             )}
