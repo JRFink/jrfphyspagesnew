@@ -175,6 +175,18 @@ const Uvec = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <br /> 
+            <Link href="/education/gp1/vec" className={style.backtoLink}>Vectors &#10140;</Link> 
+            <br /> 
+            <br /> 
+            <Link href="/education/gp1/calc" className={style.backtoLink}>Calc review &#10140;</Link> 
+            <br /> 
+            <br /> 
+            <Link href="/education/gp1/1dm" className={style.backtoLink}>Motion in 1 dimension &#10140;</Link> 
+            <br /> 
+            <br /> 
+            <br /> 
             <Helpful />
         </>
     );
