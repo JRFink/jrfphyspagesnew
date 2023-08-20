@@ -35,7 +35,7 @@ const Uvec = () => {
             <p>
                 When thinking about physics, you should always define your own reference frame. This is very important. 
                 For example, you could be at 0 meters; 5,280 feet; or &#40;10&#94;11 meters, 0, 0&#41;. 
-                Knowing where you are will always help.
+                Knowing where you are always helps.
             </p>
             <h3>
                 1.2 Frame relative to something else
@@ -140,10 +140,34 @@ const Uvec = () => {
                 impress all your friends when you correctly use significant figures. The metrologists will also love you. 
             </p>
             <h3>
-                3.3 Errors in measurement
+                3.3 Uncertainty in measurement
             </h3>
+            <p>
+                Every measurement has some kind of uncertainty. Even at the precision of atoms there is some <Link href="https://plato.stanford.edu/entries/qt-uncertainty/">level of uncertainty</Link>. 
+                Why is an interesting question. At this level, though, we&#39;ll just be covering basic uncertainty and how to deal with it. 
+            </p>
+            <br />
             <Summary />
-            
+            <p>
+                Physics starts with a reference frame. An easy way to think about this is where you are and other things in relation to you. 
+                Then you can start drawing connections from one thing to another, and create different frames and relations between things. 
+            </p>
+            <p>
+                Once you have a frame, you can articulate units for physical quantities. These units combine together to form other units, 
+                and sooner or later you have a whole web of units and physical quantities. 
+            </p>
+            <p>
+                Once you have a frame and units, you can start to make measurements. You use rulers, stop watches, geiger counters, and you 
+                observe what the measurements produce. 
+            </p>
+            <p>
+                Now that you have started to make measurements, you can plot those on a graph and start coming up with some formulas. 
+                That brings us to our next section - motion in <Link href="/education/gp1/1dm">1 dimension</Link> - &#40;but first, we have to do some vector and calc review. 
+                If you know these well, feel free to skip them&#41; !
+            </p>
+            <p>
+                Also, you have to do the <mark className={style.markExercise}>exercises</mark> and take the <mark className={style.markQuiz}>quiz</mark> below!
+            </p>
             <br></br>
             <br></br>
             <FrameEx />

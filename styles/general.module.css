@@ -198,6 +198,14 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
 }
 
+.markExercise {
+    background-color: rgb(252, 255, 161);
+}
+
+.markQuiz {
+    background-color: rgb(255, 230, 141);
+}
+
 .scroll {
     height: 600px;
     width: 800px;
