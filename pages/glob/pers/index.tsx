@@ -5,7 +5,7 @@ const خانهفارسی = () =>  {
         <>
            <h1 className={style.centerText}>
                  فیزیک        
-           </h1>        
+           </h1> 
         </>
     );
 } 
