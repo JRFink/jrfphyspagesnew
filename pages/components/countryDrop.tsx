@@ -80,7 +80,7 @@ const CountryDrop = () => {
                     <br /> 
                     <li><Link href="/glob/mar" className={style.dropdownLi}>मराठी</Link></li> 
                     <br />
-                    <li><Link href="/glob/mong" className={style.dropdownLi}>Монгол хэл</Link></li>
+                    <li><Link href="/glob/mong" className={style.dropdownLi}>Монгол</Link></li>
                     <br />
                     <li><Link href="/glob/pers" className={style.dropdownLi}>فارسی</Link></li>
                     <br />
