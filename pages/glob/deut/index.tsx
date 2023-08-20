@@ -1,13 +1,13 @@
 import style from '@/styles/general.module.css';
 
-const schqiptareShtëpi = () =>  { 
+const deutschlandStatseite = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
-                fizikë
+                Physik
            </h1>        
         </>
     );
 } 
 
-export default schqiptareShtëpi;
+export default deutschlandStatseite;
