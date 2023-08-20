@@ -80,7 +80,7 @@ const Vec = () => {
                     4.1 Scalar &#40;dot&#41; product
                 </h3>
                     <p>
-                        The dot product between two vectors tells us how much of one vector is in the direction of the other. 
+                        The dot product between two vectors tells us how much one vector is in the direction of the other. 
                         Sort of like an overlap. You can define the dot product algebraiclly or geometrically. 
                     </p>
                     <h4>
