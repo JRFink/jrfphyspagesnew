@@ -93,12 +93,12 @@ export function ModoverviewVec() {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
-                <a href="#add">Adding and subtracting vectors</a>
+                <a href="#add">Vector addition and subtraction</a>
             </p>
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
-                <a href="#mult">Multiplying vectors</a>
+                <a href="#mult">Vector multiplication</a>
             </p>
             <br></br>
             <Docicon />
