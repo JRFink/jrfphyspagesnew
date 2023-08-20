@@ -375,6 +375,8 @@
 
 .dropdownLi {
     padding: 8px 12px; 
+    text-decoration: none;
+    color: white;
 }
 
 .dropdownLi:hover {

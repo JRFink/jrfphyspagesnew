@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'; 
 { /* import AlbFlag from '@/public/images/flags/albania'; */}
+import Link from 'next/link';
 import AmFlag from '@/public/images/flags/america';
 
 
@@ -45,7 +46,7 @@ const CountryDrop = () => {
                     <li className={style.dropdownLi}>Schqiptare</li>
                     <li className={style.dropdownLi}>العربية</li>
                     <li className={style.dropdownLi}>বাংলা</li> 
-                    <li className={style.dropdownLi}><Link href="/glob/cn">中文</Link></li> 
+                    <li><Link href="/glob/cn" className={style.dropdownLi}>中文</Link></li> 
                     <li className={style.dropdownLi}>Hrvatski</li>
                     <li className={style.dropdownLi}>Deutsch</li>
                     <li className={style.dropdownLi}>Nederlands</li>   
