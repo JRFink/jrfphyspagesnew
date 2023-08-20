@@ -83,9 +83,9 @@ const Vec = () => {
                         The dot product between two vectors tells us how much of one vector is in the direction of the other. 
                         Sort of like an overlap. You can define the dot product algebraiclly or geometrically. 
                     </p>
-                    <h2>
+                    <h4>
                         4.1.1 Cartesian coordinates
-                    </h2>
+                    </h4>
                         <p>
                             When using cartesian coordinates, you define the dot product <em>algebraically</em> as 
                             <br></br> 
@@ -106,9 +106,9 @@ const Vec = () => {
                         </p>
                     <br></br>
                     <br></br>
-                    <h2>
+                    <h4>
                         4.1.2 Other coordinates
-                    </h2>
+                    </h4>
                         <p>
                             We can also use the dot product in other coordinate systems; though, it gets complicated. For one, say you have
                             a vector in <Link href="https://tutorial.math.lamar.edu/classes/calcii/polarcoordinates.aspx">polar coordinates</Link>, 
