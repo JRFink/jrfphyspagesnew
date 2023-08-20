@@ -162,7 +162,7 @@ const Gen = () => {
                                 </ul>
                     </p>
 <h2> 
-Albania - Shqipëri
+Albania - Shqipëria
 </h2>
 <br />
                 <h2>
