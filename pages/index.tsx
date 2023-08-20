@@ -104,7 +104,7 @@ const indexPage = () => {
       </h2>
       <p>
            Physics aims to make the world understandable; it does this by establishing reference frames, specifying positions and motion, 
-           changes to these, and the reasons for them. It&#39;s a crazy subject. But it&#39;s neat!  
+           changes to these, and the reasons for them. 
       </p>
       <div 
                 style={{
