@@ -1,13 +1,13 @@
 import style from '@/styles/general.module.css';
 
-const schqiptareShtëpi = () =>  { 
+const ekhayaIsizulu = () =>  { 
     return (
         <>
            <h1 className={style.centerText}>
-                fizikë
+                i-physics
            </h1>        
         </>
     );
 } 
 
-export default schqiptareShtëpi;
+export default ekhayaIsizulu;
