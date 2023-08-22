@@ -111,6 +111,12 @@
     box-shadow: 0 10px 25px rgba(92, 99, 105, 0.2);
 }
 
+@media screen and (max-width: 450px) {
+    .formClass {
+        width: 60%
+    }
+}
+
 .formHeader {
     font-size: 35px; 
     padding: 0px 0px 0px 0px;
@@ -193,10 +199,12 @@
     border: 2px solid rgb(18, 206, 231);
 }
 
-@media screen and (max-width: 450px) {
-    .formClass {
-        width: 60%
-    }
+.inputBox:not(:placeholder-shown)+ .labelBox {
+    top: -7px; 
+    left: 3px; 
+    z-index: 10; 
+    font-size: 14px; 
+    font-weight: 600;
 }
 
 /* End form styling */
