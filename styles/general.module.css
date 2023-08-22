@@ -23,6 +23,8 @@
     justify-content: center;
 }
 
+/* navbar begin */ 
+
 .styleNav {
     padding: 10px 10px 10px 10px;
     color: white;
@@ -45,6 +47,19 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
 }
 
+.searchBox {
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #DADCE0; 
+    border-radius: 5px; 
+    margin: 15px;
+}
+
+.searchBox:focus {
+    border: 5px solid green;
+}
+
+/* navbar end */
+
 .styleCourseNav {
     padding: 10px 10px 10px 10px; 
     color: white; 
@@ -63,17 +78,6 @@
     color: rgb(215, 215, 215); 
     transform: scale(0.98);
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
-}
-
-.searchBox {
-    padding: 10px 10px 10px 10px;
-    border: 1px solid black;
-    border-radius: 5px; 
-    margin: 15px;
-}
-
-.searchBox:focus {
-    border: 2px solid black;
 }
 
 .centerText {
@@ -108,8 +112,10 @@
 }
 
 .formHeader {
-    font-size: 30px; 
-    margin-bottom:30px;
+    font-size: 35px; 
+    padding: 0px 0px 0px 0px;
+    margin: 20px 0px 30px 0px;
+
 }
 
 .inputDiv {
