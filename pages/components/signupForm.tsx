@@ -1,4 +1,4 @@
-const Signup = () => { 
+const SignupForm = () => { 
 
   return (
     <>
@@ -49,4 +49,4 @@ const Signup = () => {
   );
 }
 
-export default Signup;
+export default SignupForm;
