@@ -107,7 +107,7 @@
     background-color: white;
     width: 400px;
     border-radius: 8px; 
-    padding: 20px 40px;
+    padding: 10px 38px 40px 38px;
     box-shadow: 0 10px 25px rgba(92, 99, 105, 0.2);
 }
 
@@ -140,7 +140,7 @@
     border: 1px solid #DADCE0; 
     border-radius: 7px; 
     font-size: 16px; 
-    padding: 0 20px; 
+    padding: 0px 10px 0px 20px; 
     outline: none; 
     background: none; 
     z-index: 1; 

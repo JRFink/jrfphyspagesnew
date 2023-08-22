@@ -101,9 +101,11 @@ const Signup = () => {
                     <input name="passwordrepeata" id="passwordrepeatb" type="password" className={style.inputBox} placeholder="repeat&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;"  required>
                     </input> */}
                     <br></br>
-                    <p>By signing up you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p>
-                    <br></br>
-                    <button type="submit" className={style.greenButton}>Sign Up</button>
+                    <div className={style.centerText}>
+                        <p>By signing up you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p>
+                        <br></br>
+                        <button type="submit" className={style.greenButton}>Sign Up</button>
+                    </div>
                 </form>
             </div>
         </>
