@@ -35,6 +35,7 @@
     
 .styleNav:hover {
     background-color: #27a9ff;
+    transform: translateY(-2px);
 }
     
 .styleNav:active {
