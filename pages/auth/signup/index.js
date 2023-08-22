@@ -65,15 +65,15 @@ const Signup = () => {
 
     return (
         <>
-            <h1 className={style.centerText}>
-                Sign Up
-            </h1>
-            <br></br>
+            <br />
             <p className={style.centerText}>
                 Be among the first to know when we launch
             </p>
             <div className={style.formDiv}>
                 <form onSubmit={handleSubmit} className={style.formClass}>
+                    <h2 className={style.formHeader}>
+                        Sign up
+                    </h2>
                     <div className={style.inputDiv}>
                         <input name="firstnamea" id="firstnameb" type="text" className={style.inputBox} placeholder="first name" required></input>
                         <label className={style.labelBox}><b>First name: </b></label>

@@ -107,6 +107,11 @@
     box-shadow: 0 10px 25px rgba(92, 99, 105, 0.2);
 }
 
+.formHeader {
+    font-size: 30px; 
+    margin-bottom:30px;
+}
+
 .inputDiv {
     position: relative; 
     height: 45px; 
@@ -179,7 +184,9 @@
 }
 
 @media screen and (max-width: 450px) {
-
+    .formClass {
+        width: 60%
+    }
 }
 
 /* End form styling */
