@@ -12,8 +12,8 @@ const Login = () => {
                 just testing rn
             </p>
             <br></br>
-            <div className={style.centerText}>
-                <form>
+            <div className={style.centerLoginForm}>
+                <form className={style.formContainer}>
                     <label><b>Email: </b></label>
                         <input name="email" id="email" type="text" className={style.inputBox} placeholder="email" required></input>
                     <br></br>
