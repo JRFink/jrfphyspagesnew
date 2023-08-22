@@ -105,9 +105,6 @@ const Signup = () => {
                     <br></br>
                     <button type="submit" className={style.greenButton}>Sign Up</button>
                 </form>
-                <br></br>
-                <br></br>
-                <br></br>
             </div>
         </>
     );
