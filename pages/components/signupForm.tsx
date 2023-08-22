@@ -1,3 +1,5 @@
+import style from '@/styles/general.module.css';
+
 const SignupForm = () => { 
 
   return (
