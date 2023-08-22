@@ -110,6 +110,7 @@
 
 .greenButton:hover {
     background-color: #04c755;
+    transform: translateY(-2px);
 }
 
 .greenButton:active {
