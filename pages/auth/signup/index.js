@@ -70,7 +70,6 @@ const Signup = () => {
             <p className={style.centerText}>
                 Be among the first to know when we launch
             </p>
-            <br></br>
             <div className={style.centerForm}>
                 <form onSubmit={handleSubmit} className={style.formContainer}>
                     <label><b>First name: </b></label>
@@ -105,6 +104,8 @@ const Signup = () => {
                     <br></br>
                     <button type="submit" className={style.greenButton}>Sign Up</button>
                 </form>
+                <br></br>
+                <br></br>
                 <br></br>
             </div>
         </>
