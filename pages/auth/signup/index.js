@@ -71,8 +71,8 @@ const Signup = () => {
                 Be among the first to know when we launch
             </p>
             <br></br>
-            <div className={style.centerText}>
-                <form onSubmit={handleSubmit}>
+            <div className={style.centerForm}>
+                <form onSubmit={handleSubmit} className={style.formContainer}>
                     <label><b>First name: </b></label>
                         <input name="firstnamea" id="firstnameb" type="text" className={style.inputBox} placeholder="first name" required></input>
                     <br></br>
