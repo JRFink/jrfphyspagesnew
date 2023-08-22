@@ -56,9 +56,11 @@ const Signup = () => {
             // body of the request is the json data we created above
             body: JSONdata,
         }
-        // send the form data to our forms api
+        console.log("1 " + fetch); 
+        console.log("2 " + typeof(fetch)); 
+        console.log("3 " + fetch()); 
+        console.log("4 " + typeof(fetch()));
         await fetch(endpoint, options);
-   
     }
 
     return (
@@ -70,25 +72,24 @@ const Signup = () => {
             <p className={style.centerText}>
                 Be among the first to know when we launch
             </p>
-            <div className={style.centerForm}>
-                <form onSubmit={handleSubmit} className={style.formContainer}>
-                    <label><b>First name: </b></label>
+            <div className={style.formDiv}>
+                <form onSubmit={handleSubmit} className={style.formClass}>
+                    <div className={style.inputDiv}>
                         <input name="firstnamea" id="firstnameb" type="text" className={style.inputBox} placeholder="first name" required></input>
-                    <br></br>
-                    <br></br>
-                    <label><b>Last name: </b></label>
-                    <input name="lastnamea" id="lastnameb" type="text" className={style.inputBox} placeholder="last name" required>
-                    </input>
-                    <br></br>
-                    <br></br>
-                    <label><b>Email: </b></label>
-                    <input name="emaila" id="emailb" type="text" className={style.inputBox} placeholder="email no junk" required>
-                    </input>
-                    <br></br>
-                    <br></br>
-                    <label><b>Phone: </b></label>
-                    <input name="phonea" id="phoneb" type="tel" className={style.inputBox} placeholder="303-867-5309" required>
-                    </input>
+                        <label className={style.labelBox}><b>First name: </b></label>
+                    </div>
+                    <div className={style.inputDiv}> 
+                        <input name="lastnamea" id="lastnameb" type="text"  className={style.inputBox} placeholder="last name" required></input>
+                        <label className={style.labelBox}><b>Last name: </b></label>
+                    </div>
+                    <div className={style.inputDiv}>       
+                        <input name="emaila" id="emailb" type="text" className={style.inputBox} placeholder="email no junk" required></input>
+                        <label className={style.labelBox}><b>Email: </b></label>
+                    </div>
+                    <div className={style.inputDiv}>   
+                        <input name="phonea" id="phoneb" type="tel" className={style.inputBox} placeholder="303-867-5309" required></input>
+                        <label className={style.labelBox}><b>Phone: </b></label>   
+                    </div>
                     <br></br>
                     {/* <br></br>
                     <label><b>Password: </b></label>

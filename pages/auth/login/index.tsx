@@ -12,19 +12,18 @@ const Login = () => {
                 just testing rn
             </p>
             <br></br>
-            <div className={style.centerLoginForm}>
-                <form className={style.formContainer}>
-                    <label><b>Email: </b></label>
+            <div className={style.formDiv}>
+                <form className={style.formClass}> 
+                    <div className={style.inputDiv}>
                         <input name="email" id="email" type="text" className={style.inputBox} placeholder="email" required></input>
-                    <br></br>
-                    <br></br>
-                    <label><b>Password: </b></label>
+                        <label className={style.labelBox}><b>Email: </b></label>
+                    </div>
+                    <div className={style.inputDiv}>
                         <input name="password" id="password" type="password" className={style.inputBox} placeholder="&#x2A;&#x2A;&#x2A;&#x2A;nottooeasy&#x2A;&#x2A;&#x2A;&#x2A;" required></input>
-                    <br></br>
-                    <br></br>
+                        <label className={style.labelBox}><b>Password: </b></label>
+                    </div>
                     <button type="submit" className={style.greenButton}>Login</button>
                 </form>
-                <br></br>
             </div>
         </>
     );
