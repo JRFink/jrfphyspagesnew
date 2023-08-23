@@ -84,6 +84,12 @@
     text-align: center;
 }
 
+.centerVandH {
+    vertical-align: bottom;
+    text-align: center;
+    padding: 170px 0;
+}
+
 .inlineContainer {
     display: inline-block;
     line-height: 1;
@@ -175,7 +181,7 @@
     z-index: 0;
 }
 
-.greenButton {
+.greenButtonAuth {
     padding: 10px 10px 10px 10px;
     color: white;
     background-color: #04b14c;
@@ -188,12 +194,36 @@
     font-family: 'Inter', sans-serif;
 }
 
-.greenButton:hover {
+.greenButtoAuth:hover {
     background-color: #04c755;
     transform: translateY(-2px);
 }
 
-.greenButton:active {
+.greenButtonAuth:active {
+    color: rgb(220, 220, 220);
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
+}
+
+.greenButtonCont {
+    padding: 10px 10px 10px 10px;
+    color: white;
+    background-color: #04b14c;
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px 0px 0px 30px;
+    font-size: 18px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+}
+
+.greenButtonCont:hover {
+    background-color: #04c755;
+    transform: translateY(-2px);
+}
+
+.greenButtonCont:active {
     color: rgb(220, 220, 220);
     transform: scale(0.98);
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);

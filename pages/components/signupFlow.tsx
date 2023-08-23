@@ -2,17 +2,27 @@ import { useState } from 'react';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const SignupForm = () => { 
+const SignupFlow = () => { 
 
     const [notActivated, setActivated] = useState(true); 
     const [typing, setTyping] = useState(false); 
     const [textButNotSubmitted, setTextButNotSubmitted] = useState(false); 
+
     const [submitted, setSubmitted] = useState(false);
+
+    if (submitted) {
+        return (
+            <>
+                <p className={style.centerVandH}>
+                    Thank you! We will be in touch.
+                </p>
+            </>
+        );
+    }
 
     const handleSubmit = async ( event: any ) => {
 
         event.preventDefault() 
-
         const data = {
             firstname: event.target.firstnamea.value, /* I'm confused as to what actually defines firstname */
             lastname: event.target.lastnameb.value, /* believe first and last are the sql names */
@@ -21,13 +31,9 @@ const SignupForm = () => {
             // hashPW: event.target.passworda.value,
             // hashPWRepeat: event.target.passwordrepeatb.value
         }
- 
         const JSONdata = JSON.stringify(data)
-
         const endpoint = '/api/form'
-
         const options = {
-
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -82,7 +88,7 @@ const SignupForm = () => {
                     <div className={style.centerText}> 
                         <p>By signing up you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p> 
                         <br></br> 
-                        <button type="submit" className={style.greenButton}>Sign Up</button> 
+                        <button type="submit" className={style.greenButtonAuth}>Sign Up</button> 
                     </div> 
                 </form> 
             </div>
@@ -95,4 +101,4 @@ const SignupForm = () => {
   );
 }
 
-export default SignupForm;
+export default SignupFlow;

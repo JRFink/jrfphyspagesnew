@@ -24,7 +24,7 @@ const LoginForm = () => {
                         <label className={style.labelBox}><b>Password: </b></label>
                     </div>
                     <div className={style.centerText}>
-                        <button type="submit" className={style.greenButton}>Login</button>
+                        <button type="submit" className={style.greenButtonAuth}>Login</button>
                     </div>
                 </form>
             </div>

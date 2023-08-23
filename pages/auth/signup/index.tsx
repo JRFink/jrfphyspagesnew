@@ -1,22 +1,12 @@
 import { useState } from 'react';
-import SignupForm from '@/pages/components/signupForm';
+import style from '@/styles/general.module.css';
+import SignupFlow from '@/pages/components/signupFlow';
 
 const Signup = () => {
 
-    const [submitted, setSubmitted] = useState(false);
-
-    if (submitted) {
-        return (
-            <>
-                <p>
-                    Thank you! We will be in touch.
-                </p>
-            </>
-        );
-    }
     return (
         <>
-            <SignupForm />
+            <SignupFlow />
         </>
     );
 

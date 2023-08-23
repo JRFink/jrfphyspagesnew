@@ -32,7 +32,7 @@ const Contact = () => {
                     <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
                     <br></br>
                     <br></br>
-                    <button type="submit" className={style.greenButton}>Submit</button>
+                    <button type="submit" className={style.greenButtonCont}>Submit</button>
                 </form>
             </div>
             <br></br>
