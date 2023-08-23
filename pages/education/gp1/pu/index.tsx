@@ -29,6 +29,7 @@ const PU = () => {
                 <h3>
                     1.1 Potential energy
                 </h3>
+<p>There are different types of energy. </p>
                     <h4>
                         1.1.1 Elastic 
                     </h4>
