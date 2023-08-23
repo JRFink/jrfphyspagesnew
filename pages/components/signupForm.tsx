@@ -89,6 +89,8 @@ const SignupForm = () => {
             <br />
             <br />
             <br />
+            <br /> 
+            <br />
     </>
   );
 }
