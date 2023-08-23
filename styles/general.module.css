@@ -49,13 +49,13 @@
 
 .searchBox {
     padding: 10px 10px 10px 10px;
-    border: 1px solid #DADCE0; 
+    border: 1px solid black; 
     border-radius: 5px; 
     margin: 15px;
 }
 
 .searchBox:focus {
-    border: 5px solid green;
+    border: 2px solid rgb(1,1,1);
 }
 
 /* navbar end */
