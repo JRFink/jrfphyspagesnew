@@ -96,11 +96,18 @@
 
 /* Form styling */ 
 
-.formDiv {
+.formDivS {
     display: flex;
     justify-content: center; 
     align-items: center;
-    height: 100vh;
+    height: auto;
+}
+
+.formDivL {
+    display: flex;
+    justify-content: center;
+
+    height: auto;
 }
 
 .formClass {

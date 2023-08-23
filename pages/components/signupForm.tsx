@@ -45,7 +45,9 @@ const SignupForm = () => {
             <p className={style.centerText}> 
                 Be among the first to know when we launch 
             </p> 
-            <div className={style.formDiv}> 
+            <br />
+            <br />
+            <div className={style.formDivS}> 
                 <form onSubmit={handleSubmit} className={style.formClass}> 
                     <h2 className={style.formHeader}> 
                         Sign up 

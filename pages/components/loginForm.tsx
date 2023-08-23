@@ -4,15 +4,13 @@ const LoginForm = () => {
     
     return (
         <>
-            <h1 className={style.centerText}>
-                Login
-            </h1>
             <br></br>
             <p className={style.centerText}>
                 just testing rn
             </p>
-            <br></br>
-            <div className={style.formDiv}>
+            <br /> 
+            <br />
+            <div className={style.formDivL}>
                 <form className={style.formClass}> 
                     <h2 className={style.formHeader}> 
                         Login 
