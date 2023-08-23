@@ -23,6 +23,9 @@ const PU = () => {
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>
+            <p> 
+                It is difficult to give a definition of what energy actually is. A way to think about it though is that it is a state associated with some system. <em> The train has this much kinetic energy. The potential energy of the earth-satellite system changes this much. The &#39;mass&#39; has this much emergy. </em>
+            </p>
                 <h3>
                     1.1 Potential energy
                 </h3>
