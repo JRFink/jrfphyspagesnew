@@ -156,7 +156,7 @@
     left: 15px; 
     padding: 0 4px; 
     background-color: white; 
-    color: #DADCE0; 
+    color: rgb(207, 156, 207); 
     font-size: 16px; 
     transition: margin-right 0.5s;
     z-index: 0;
