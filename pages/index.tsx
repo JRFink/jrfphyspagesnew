@@ -92,8 +92,8 @@ const indexPage = () => {
       </p>
       <p>
            The thing that is deeper than qft is string theory. String theory aims to describe the fundamental particles as vibrations, 
-           where different vibrations correspond to different particles. The size of a string is so small we have not had any experimental detection of 
-           one yet. As an exercise, look up the size of a string, then compare the entire size of the universe to what a string would be. Ya, it&#39;s small.
+           where different vibrations correspond to different particles. The size of a string is so small that we have not had any experimental detection of 
+           one yet. As an exercise, look up the size of a string and then compare the entire size of the universe to what a string would be. Pretty small.
       </p>
       <p>
            Going from the small to the large would be cosmology. Cosmology aims to describe the universe macroscopically; 
