@@ -112,6 +112,7 @@
 
 .formClass {
     background-color: white;
+    border: 2px solid rgb(169, 216, 222);
     width: 400px;
     border-radius: 8px; 
     padding: 10px 38px 40px 38px;
