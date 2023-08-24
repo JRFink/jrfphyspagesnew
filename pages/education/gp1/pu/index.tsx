@@ -13,7 +13,7 @@ const PU = () => {
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Potential Energy & Energy Conservation
+                Potential Energy and Energy Conservation
             </h1>
             <br></br>
             <ModoverviewPu />
@@ -23,9 +23,13 @@ const PU = () => {
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>
+            <p> 
+                It is difficult to give a definition of what energy actually is. A way to think about it though is that energy is a state associated with some system. <em> The train has this much kinetic energy. The potential energy of the earth-satellite system changes this much. The &#39;mass&#39; has this much energy. </em> It is useful to think about a system in terms of energy because then you can do things with the system, like work. 
+            </p>
                 <h3>
                     1.1 Potential energy
                 </h3>
+<p>There are different types of energy. </p>
                     <h4>
                         1.1.1 Elastic 
                     </h4>
