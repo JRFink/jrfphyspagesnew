@@ -74,9 +74,7 @@ const SignupFlow = () => {
                     <h2 className={style.formHeader}> 
                         Sign up 
                     </h2> 
-                    <p className={style.signupPar}>
-                        <b>7 day free-trial then $4.99 / month</b>
-                    </p>
+                   
                     <br />
                     <div className={style.inputDiv}> 
                         <input name="firstnamea" id="firstnameb" type="text" className={style.inputBox} placeholder="first name" required></input> 
@@ -104,13 +102,12 @@ const SignupFlow = () => {
                     <label><b>Repeat password: </b></label> 
                     <input name="passwordrepeata" id="passwordrepeatb" type="password" className={style.inputBox} placeholder="repeat&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;"  required> 
                     </input> */} 
-                    <p className={style.signupParT}>
-                        &#40;just testing&#41;
-                    </p>
+                    
+                       
                     <div className={style.centerText}> 
-                        <p>By proceeding to payment you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p> 
+                        <p>By signing up you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p> 
                         <br></br> 
-                        <button type="submit" className={style.greenButtonAuth}>Proceed to payment</button> 
+                        <button type="submit" className={style.greenButtonAuth}>Sign up</button> 
                     </div> 
                 </form> 
             </div>
