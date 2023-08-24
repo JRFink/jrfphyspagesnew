@@ -17,6 +17,7 @@ const Donor = () => {
                         <li>Mike & Maureen Fink</li>
                         <li>Mike & Kathy Miks</li>
                         <li>John and Rosemary Miks</li>
+<li>Pujitha P&#46;</li>
                     </ul>
             </div>
             <br></br>
