@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Link from 'next/link';
+import { redirect } from 'next/navigation';
 import style from '@/styles/general.module.css';
 
 const SignupFlow = () => { 
@@ -10,20 +11,18 @@ const SignupFlow = () => {
 
     const [submitted, setSubmitted] = useState(false);
 
-    console.log('here is ' + submitted);
-    if (submitted) {
-        return (
-            <>
-                <p className={style.centerVandH}>
-                    Thank you! We will be in touch.
-                </p>
-            </>
-        );
-    }
+    // console.log('here is ' + submitted);
+    // if (submitted) {
+    //     return (
+    //         <>
+    //             <p className={style.centerVandH}>
+    //                 Thank you! We will be in touch.
+    //             </p>
+    //         </>
+    //     );
+    // }
 
     const handleSubmit = async ( event: any ) => {
-
-        console.log('again ' + submitted);
 
         event.preventDefault() 
         const data = {
@@ -42,13 +41,18 @@ const SignupFlow = () => {
                 'Content-Type': 'application/json',
             }, 
             body: JSONdata,
-        }
-        // console.log("1 " + fetch); 
-        // console.log("2 " + typeof(fetch));  
-        // console.log("3 " + fetch(endpoint, options)); 
-        // console.log("4 " + typeof(fetch(endpoint, options)));       
-        // await fetch(endpoint, options);
+        }     
+        
         setSubmitted(true);
+        const endpoint2 = 'https://buy.stripe.com/eVabMhgPyaKB1mEbIJ'
+        const options2 = {
+            method: 'GET', 
+            headers: {
+                'Content-Type': 'application/json',
+            }
+        }
+        window.location.assign(endpoint2);
+        await fetch(endpoint, options);
     }
 
     // <SignupForm 
@@ -100,11 +104,13 @@ const SignupFlow = () => {
                     <label><b>Repeat password: </b></label> 
                     <input name="passwordrepeata" id="passwordrepeatb" type="password" className={style.inputBox} placeholder="repeat&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;&#x2A;"  required> 
                     </input> */} 
-                    <br></br> 
+                    <p className={style.signupParT}>
+                        &#40;just testing&#41;
+                    </p>
                     <div className={style.centerText}> 
-                        <p>By signing up you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p> 
+                        <p>By proceeding to payment you agree to our <Link href="/legal/terms">Terms</Link> and <Link href="/legal/privacy">Privacy Policy</Link></p> 
                         <br></br> 
-                        <button type="submit" className={style.greenButtonAuth}>Sign Up</button> 
+                        <button type="submit" className={style.greenButtonAuth}>Proceed to payment</button> 
                     </div> 
                 </form> 
             </div>

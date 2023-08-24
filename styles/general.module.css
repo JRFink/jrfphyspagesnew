@@ -170,6 +170,15 @@
     margin: 0px 0px 10px 0px;
 }
 
+.signupParT {
+    margin: 0px 0px 10px 0px;
+    display: inline-block;
+    background:rgb(243, 174, 174);
+    /* border: 1px solid blue; */
+    padding: 5px 7px 5px 7px;
+    border-radius: 7px;
+}
+
 .inputDiv {
     position: relative; 
     height: 45px; 
