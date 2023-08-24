@@ -12,7 +12,7 @@ const Navbar = () => {
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
                 <Link href="/auth/login" className={style.styleNav}>Login</Link>
                 <Link href="/auth/signup" className={style.styleNav}>Sign Up</Link>
-                <ProfileAv />
+       
             </div>
             <br></br>
         </>
