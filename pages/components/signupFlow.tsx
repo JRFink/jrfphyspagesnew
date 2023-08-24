@@ -51,7 +51,7 @@ const SignupFlow = () => {
                 'Content-Type': 'application/json',
             }
         }
-        window.location.assign(endpoint2);
+        
         await fetch(endpoint, options);
     }
 
