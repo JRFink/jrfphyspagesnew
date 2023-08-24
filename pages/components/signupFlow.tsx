@@ -49,9 +49,6 @@ const SignupFlow = () => {
         // console.log("4 " + typeof(fetch(endpoint, options)));       
         // await fetch(endpoint, options);
         setSubmitted(true);
-        window.location.reload();
-        console.log(submitted);
-        console.log('state is' + submitted);
     }
 
     // <SignupForm 
@@ -73,6 +70,10 @@ const SignupFlow = () => {
                     <h2 className={style.formHeader}> 
                         Sign up 
                     </h2> 
+                    <p className={style.signupPar}>
+                        <b>7 day free-trial then $4.99 / month</b>
+                    </p>
+                    <br />
                     <div className={style.inputDiv}> 
                         <input name="firstnamea" id="firstnameb" type="text" className={style.inputBox} placeholder="first name" required></input> 
                         <label className={style.labelBox}><b>First name: </b></label> 
