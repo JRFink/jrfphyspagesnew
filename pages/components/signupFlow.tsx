@@ -10,6 +10,7 @@ const SignupFlow = () => {
 
     const [submitted, setSubmitted] = useState(false);
 
+    console.log('here is ' + submitted);
     if (submitted) {
         return (
             <>
@@ -21,6 +22,8 @@ const SignupFlow = () => {
     }
 
     const handleSubmit = async ( event: any ) => {
+
+        console.log('again ' + submitted);
 
         event.preventDefault() 
         const data = {
@@ -40,10 +43,22 @@ const SignupFlow = () => {
             }, 
             body: JSONdata,
         }
-        console.log("1 " + fetch); 
-        console.log("2 " + typeof(fetch));        
-        await fetch(endpoint, options);
+        // console.log("1 " + fetch); 
+        // console.log("2 " + typeof(fetch));  
+        // console.log("3 " + fetch(endpoint, options)); 
+        // console.log("4 " + typeof(fetch(endpoint, options)));       
+        // await fetch(endpoint, options);
+        setSubmitted(true);
+        window.location.reload();
+        console.log(submitted);
+        console.log('state is' + submitted);
     }
+
+    // <SignupForm 
+    //     onShow={() => setActiveIndex(0)}/> 
+
+    // <ThankyouMessage 
+    //     onShow={() => setActiveIndex(1)} />
 
   return (
     <>

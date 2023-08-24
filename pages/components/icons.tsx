@@ -3,6 +3,7 @@ import vidicon from '@/public/images/vidicon.png';
 import docicon from '@/public/images/docicon.png';
 import pencilicon from '@/public/images/pencilicon.png';
 import checkmark from '@/public/images/checkmark.png';
+import profileav from '@/public/images/profileav.png';
 
 export default function Vidicon () {
     return (
@@ -64,6 +65,22 @@ export function Checkmark () {
                 }}
                 sizes="100vw"
                 alt="Black check mark" 
+            />
+        </>
+    );
+}
+
+export function ProfileAv () {
+    return (
+        <>
+            <Image 
+                src={profileav} 
+                style={{
+                    width: '7%', 
+                    height: 'auto'
+                }}
+                sizes="100vw"
+                alt="a blue silhouette avatar"
             />
         </>
     );

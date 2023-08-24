@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import { ProfileAv } from '@/pages/components/icons'; 
 
 const Navbar = () => {
     return (
@@ -11,6 +12,7 @@ const Navbar = () => {
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
                 <Link href="/auth/login" className={style.styleNav}>Login</Link>
                 <Link href="/auth/signup" className={style.styleNav}>Sign Up</Link>
+                <ProfileAv />
             </div>
             <br></br>
         </>
