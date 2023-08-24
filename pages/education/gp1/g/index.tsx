@@ -20,7 +20,9 @@ const Gravity = () => {
             Introduction 
             </h2> 
             <p> 
-                Gravity is one of the four fundamental forces. We interact with it every day. In fact you can&#39;t choose not to interact with it. Studying it will give you a better understanding of how common things in our world work such as satellites, the moon, and how long before an apple hits the floor. 
+                Gravity is one of the four fundamental forces. We interact with it every day. In fact you can&#39;t choose not to interact with it. 
+                Studying it will give you a better understanding of how common things in our world work such as satellites, the moon, 
+                and how long before an apple hits the floor. 
             </p>
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
@@ -28,6 +30,9 @@ const Gravity = () => {
             <h3>
                 1.1 Gravitational field
             </h3>
+            <p>
+                The gravitational field results from the mass of an object.
+            </p>
             <h3>
                 1.2 Gravitational force
             </h3>
