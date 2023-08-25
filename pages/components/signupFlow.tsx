@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
-import { redirect } from 'next/navigation';
 import style from '@/styles/general.module.css';
+const stripe = require('stripe')(process.env.NEXT_PUBLIC_SKTEST);
 
 const SignupFlow = () => { 
 
@@ -25,6 +25,7 @@ const SignupFlow = () => {
     const handleSubmit = async ( event: any ) => {
 
         event.preventDefault() 
+        
         const data = {
             firstname: event.target.firstnamea.value, /* I'm confused as to what actually defines firstname */
             lastname: event.target.lastnameb.value, /* believe first and last are the sql names */
@@ -44,14 +45,13 @@ const SignupFlow = () => {
         }     
         
         setSubmitted(true);
-        const endpoint2 = 'https://buy.stripe.com/eVabMhgPyaKB1mEbIJ'
-        const options2 = {
-            method: 'GET', 
-            headers: {
-                'Content-Type': 'application/json',
-            }
-        }
         
+        
+        const customer = await stripe.customers.create({
+            name: event.target.firstnamea.value + ' ' + event.target.lastnameb.value,
+            email: event.target.emaila.value, 
+            phone: event.target.phoneb.value
+        })
         await fetch(endpoint, options);
     }
 
