@@ -20,7 +20,7 @@ const Osc = () => {
                 <h2 className={style.h2SectionColor} id="types">
                     1. Types
                 </h2>
-<p> There are many different types of differential equations. </p>
+<p> There are different types of differential equations. </p>
                 <br></br>
                 <br></br>
                 <h2 className={style.h2SectionColor} id="first">
