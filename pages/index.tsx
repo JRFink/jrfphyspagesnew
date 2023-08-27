@@ -48,6 +48,12 @@ const indexPage = () => {
       <p> 
           If you&#39;re a physics professional and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest papers in each area. 
       </p>
+      <h3> 
+          If you&#39;re a member of the general public
+      </h3> 
+      <p> 
+          If you&#39;re a member of the general public, you can find useful things all over the site. For example, let&#39;s say you in computer programming and a client wamts to experiment with quantum computing. You don&#39;t have to be a quantum expert, but you probably want to know some of the math. You can head on over to our <Link href="/education/qm1/op">math background</Link> section to get an overview of the math used in quantum. 
+      </p>
       <br></br>
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
