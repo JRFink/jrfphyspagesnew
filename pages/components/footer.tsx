@@ -30,7 +30,7 @@ const Footer = () => {
                 <br></br>
                 <Link href="/legal/cookie" className={style.linkFooter}>Cookie Policy</Link><br></br>
                 <br></br>
-                <Link href="/legal/cookie" className={style.linkFooter}>Legal</Link><br></br>
+                <Link href="/legal" className={style.linkFooter}>Legal</Link><br></br>
                 <br></br>
                 <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                 <br></br>
