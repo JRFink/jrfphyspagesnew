@@ -7,7 +7,7 @@ import { ProfileAv } from '@/pages/components/icons';
 const indexPage = () => {
   return (
     <>
-      <p className={style.centerText}>
+      <p>
         Hello, and welcome to jrfink.net! This site focuses on physics education and research.
       </p>
       <p> 
@@ -15,14 +15,14 @@ const indexPage = () => {
              Mission statement: 
          </b>
       </p>
-      <p>
-         Our mission is to edcuate people about physics.
+      <p className={style.centerText}>
+         Our mission is to educate people about physics.
       </p>
       <h2> 
          For whom is this site? 
       </h2> 
       <p> 
-         This site is for <em>everyone</em>. Well, everyone who wants to learn some physics. 
+         This site is for <em>everyone</em>. Well, everyone who wants to learn about physics. 
       </p>
       <h2>
           How does it work? 
@@ -39,6 +39,10 @@ const indexPage = () => {
       <p>
           If you&#39;re in college and taking gen phys 1, either calc or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations both from algebra and through calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
       </p>
+      <p>
+          We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
+      </p>
+      
       <br></br>
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
