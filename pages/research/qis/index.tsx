@@ -52,7 +52,7 @@ const QuantI = () => {
                         <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
                         <li><Link href="https://quantumai.google">Google</Link></li>
                         <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
-                        <li><Link href="https://www.dwavesys.com/"/>D-Wave</Link></li>
+                        <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
                         <li><Link href="https://coldquanta.com/">Cold Quanta</Link></li>
                         <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
                     </ul>
