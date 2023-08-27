@@ -11,7 +11,7 @@ const QuantI = () => {
             <br></br>
             <div className={style.centerText}>
                 <h1>
-                    Quantum Info & Quantum Computing
+                    Quantum Info &#38; Quantum Computing
                 </h1>
             </div>
             <h2>
@@ -50,7 +50,8 @@ const QuantI = () => {
                 </p>
                 <ul>
                     <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
-                    <li><Link href="https://quantumai.google/>Google</Link></li>
+                    <li><Link href="https://quantumai.google"/>Google</Link></li>
+                    <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
                 </ul>
             <h2>
                 Locations
