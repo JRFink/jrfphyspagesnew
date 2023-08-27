@@ -15,7 +15,15 @@ const indexPage = () => {
              Mission statement: 
          </b>
          Our mission is to edcuate people about physics.
-      </p> 
+      </p>
+      <h2> 
+         For whom is this site? 
+      </h2> 
+      <p> 
+         This site is for <em>everyone</em>. Well, everyone who wants to learn some physics. 
+      </p>
+     
+      </p>
       <br></br>
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
