@@ -58,7 +58,7 @@ const indexPage = () => {
           If you&#39;re a member of the general public
       </h3> 
       <p> 
-          If you&#39;re a member of the general public, you can find useful things all over the site. For example, let&#39;s say you in computer programming and a client wamts to experiment with quantum computing. You don&#39;t have to be a quantum expert, but you probably want to know some of the math. You can head on over to our <Link href="/education/qm1/op">math background</Link> section to get an overview of the math used in quantum. 
+          If you&#39;re a member of the general public, you can find useful things all over the site. For example, let&#39;s say you work in computer programming and a client wants to experiment with quantum computing. You don&#39;t have to be a quantum expert, but you probably want to know some of the math. You can head on over to our <Link href="/education/qm1/op">math background</Link> section to get an overview of the math used in quantum. 
       </p>
       <h2> 
            We&#39;d love your feedback
