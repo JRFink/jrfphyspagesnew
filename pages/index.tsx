@@ -10,6 +10,12 @@ const indexPage = () => {
       <p className={style.centerText}>
         Hello, and welcome to jrfink.net! This site focuses on physics education and research.
       </p>
+      <p> 
+         <b>
+             Mission statement: 
+         </b>
+         Our mission is to edcuate people about physics.
+      </p> 
       <br></br>
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
