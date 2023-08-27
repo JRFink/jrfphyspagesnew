@@ -46,8 +46,14 @@ const indexPage = () => {
           If you&#39;re a physics professional&#46;&#46;&#46;
       </h3>
       <p> 
-          If you&#39;re a physics professional and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest papers in each area. 
+          If you&#39;re a physics professional and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest research papers in each area. 
       </p>
+      <h3> 
+           If you&#39;re an engineer&#46;&#46;&#46;
+      </h3>
+      <p> 
+           If you&#39;re an engineer, you can head over to our <Link href="/research/stand>standards and constants</Link> tab to make use of physical standards and constants. 
+      <p/> 
       <h3> 
           If you&#39;re a member of the general public
       </h3> 
