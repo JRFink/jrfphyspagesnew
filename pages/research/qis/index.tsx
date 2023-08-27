@@ -46,16 +46,16 @@ const QuantI = () => {
                 Major players 
             </h2>
                 <p>
-                    There are some major players in the space of quantum computing. They include
+                    There are some major players in the space. They include
                 </p>
-                <ul>
-                    <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
-                    <li><Link href="https://quantumai.google"/>Google</Link></li>
-                    <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
-                    <li><Link href="https://www.dwavesys.com/"/>D-Wave</Link></li>
-                    <li><Link href="https://coldquanta.com/">Cold Quanta</Link></li>
-                    <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
-                </ul>
+                    <ul>
+                        <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
+                        <li><Link href="https://quantumai.google"/>Google</Link></li>
+                        <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
+                        <li><Link href="https://www.dwavesys.com/"/>D-Wave</Link></li>
+                        <li><Link href="https://coldquanta.com/">Cold Quanta</Link></li>
+                        <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
+                    </ul>
             <h2>
                 Locations
             </h2>
@@ -65,6 +65,11 @@ const QuantI = () => {
             <h3>
                 America
             </h3>
+            <ul>
+                <li><Link href="https://physics.mit.edu/research-areas/quantum-information-science/">MIT</Link></li>
+                <li><Link href="https://jila.colorado.edu/research/quantum-information-science-technology">Boulder</Link></li>
+                <li><Link href="https://cs.lbl.gov/what-we-do/quantum-computing/">Berkeley</Link></li>
+            </ul>
             <h3>
                 China
             </h3>
