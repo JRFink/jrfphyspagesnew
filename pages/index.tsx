@@ -37,7 +37,7 @@ const indexPage = () => {
           If you&#39;re in college&#46;&#46;&#46; 
       </h3>
       <p>
-          If you&#39;re in college and taking gen phys 1, either calc or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
+          If you&#39;re in college and taking gen phys 1, either calculus or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
       </p>
       <p>
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
@@ -47,6 +47,13 @@ const indexPage = () => {
       </h3>
       <p> 
           If you&#39;re a physics professional and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest research papers in each area. 
+      </p>
+      <h3> 
+          If your company is getting into quantum computing&#46;&#46;&#46;
+      </h3>
+      <p> 
+          If your company is getting into quantum computing, head on over to our <Link href="/research/qis">quantum computing page</Link>. You will be able to learn about 
+          the basics of quantum computing, how quantum computers are built, and the major players in the space. 
       </p>
       <h3> 
            If you&#39;re an engineer&#46;&#46;&#46;
