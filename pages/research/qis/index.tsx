@@ -15,9 +15,10 @@ const QuantI = () => {
                 </h1>
             </div>
             <p>
-                Quantum information studies how atoms store information; 
-                quantum computing studies how to use that information to solve practical problems. 
-                Find some of the research <a href="https://journals.aps.org/prxquantum/">here</a>.      
+                Quantum information studies how information is stored at the atomic and subatomic levels; 
+                quantum computing studies how to use that information to solve practical problems. Quantum information is stored differently than classical information,
+                and we can use that fact to solve problems that are hard to solve classicaly. 
+                Find some of the latest research <a href="https://journals.aps.org/prxquantum/">here</a>.      
             </p>
             <br></br>
             <br></br>
