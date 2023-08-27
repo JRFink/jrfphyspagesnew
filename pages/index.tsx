@@ -42,7 +42,12 @@ const indexPage = () => {
       <p>
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
       </p>
-      
+      <h3> 
+          If you&#39;re a physics professional&#46;&#46;&#46;
+      </h3>
+      <p> 
+          If you&#39;re a physics professional and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest papers in each area. 
+      </p>
       <br></br>
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
