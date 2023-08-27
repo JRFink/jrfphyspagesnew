@@ -14,6 +14,9 @@ const QuantI = () => {
                     Quantum Info & Quantum Computing
                 </h1>
             </div>
+            <h2>
+                Intro
+            </h2>
             <p>
                 Quantum information studies how information is stored at the atomic and subatomic levels; 
                 quantum computing studies how to use that information to solve practical problems. Quantum information is stored differently than classical information,
@@ -39,6 +42,16 @@ const QuantI = () => {
                     alt="The bloch sphere on a white background" 
                 />
             </div>
+            <h2>
+                Major players 
+            </h2>
+                <p>
+                    There are some major players in the space of quantum computing. They include
+                </p>
+                <ul>
+                    <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
+                    <li><Link href="https://quantumai.google/>Google</Link></li>
+                </ul>
             <h2>
                 Locations
             </h2>
