@@ -66,7 +66,8 @@ const indexPage = () => {
       <p>
            We&#39;d love your <Link href="/contact">feedback</Link> on the site. How do you like it? As a thank you, we are giving the first 20 people who give feedback on the site 2 months free once the subscription feature launches. 
       </p>
-      <br></br>
+      <br /> 
+     &#46; &nbsp; &#46; &nbsp; &#46; &nbsp;   
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
         research, sign-up and login tabs. There is also a search feature. Working on that. <br></br> <br></br>
