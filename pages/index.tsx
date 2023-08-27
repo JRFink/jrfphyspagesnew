@@ -53,7 +53,7 @@ const indexPage = () => {
       </h3>
       <p> 
            If you&#39;re an engineer, you can head over to our <Link href="/research/stand">standards and constants</Link> tab to make use of physical standards and constants. 
-      <p/> 
+      </p> 
       <h3> 
           If you&#39;re a member of the general public
       </h3> 
