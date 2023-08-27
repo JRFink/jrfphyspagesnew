@@ -33,11 +33,11 @@ const indexPage = () => {
       <p> 
           If you&#39;re in high school and taking physics, head over to our <Link href="/education/gp1">Gen phys 1</Link> page to learn about the topics you&#39;ll cover in class. We&#39;ll cover displacement, the kinematic equations, conservation of energy, and all the essential topics you&#39;ll need to know.
       </p>
-      <h2> 
+      <h3> 
           If you&#39;re in college&#46;&#46;&#46; 
-      </h2>
+      </h3>
       <p>
-          If you&#39;re in college and taking gen phys 1, either calc or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations both from algebra and through calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
+          If you&#39;re in college and taking gen phys 1, either calc or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
       </p>
       <p>
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
