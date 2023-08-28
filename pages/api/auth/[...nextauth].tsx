@@ -127,7 +127,81 @@ sign up flow
 
 
 1. log in every time
+2. log in every 7 days 
+3. same browser 
+    a. chrome 
+    b. firefox 
+    c. opera 
+    d. edge 
+    e. safari 
+    f. yandex 
+    g. duck duck go
+4. new browser
+    a. chrome 
+    b. firefox 
+    c. opera 
+    d. edge 
+    e. safari 
+    f. yandex 
+    g. duck duck go
+5. new tab
+    a. chrome 
+    b. firefox 
+    c. opera 
+    d. edge 
+    e. safari 
+    f. yandex 
+    g. duck duck go
+6. new device
+    a. chrome 
+    b. firefox 
+    c. opera 
+    d. edge 
+    e. safari 
+    f. yandex 
+    g. duck duck go
+7. new location
+    a. chrome 
+    b. firefox 
+    c. opera 
+    d. edge 
+    e. safari 
+    f. yandex 
+    g. duck duck go
+8. windows 
+9. mac 
+10. linux 
+11. log in once never again
 
-  
+1. client side 
+    a. rendered client 
+    b. stripe api key ?
+    c. tokens 
+        i. jwt 
+    d. sessions 
+    e. cookies 
+    f. what does this mean 
+    g. req
+        i. functions 
+    h. res
+        i. functions 
+    i. headers 
+        i. auth 
+2. server 
+    a. tokens 
+        i. jwt 
+    b. sessions 
+    c. cookies 
+    d. what is the code ?
+    e. req 
+        i. functions 
+        ii. send token to server 
+    f. res 
+        i. functions 
+        ii. send a token 
+        iii. send a token val
+    g. headers 
+        i. auth 
+
 
 */
