@@ -1,6 +1,9 @@
+import { useState } from 'react';
 import style from '@/styles/general.module.css';
+// import LeaveaNote from '@/pages/components/contactComponents'; 
+// import { Thankyou } from '@/pages/components/contactComponents';
 
-const Contact = () => {
+function Contactform() {
 
     const handleSubmit = async (note) => {
         note.preventDefault();
@@ -20,32 +23,66 @@ const Contact = () => {
     }
 
     return (
-        <>
-            <h1 className={style.centerText}>
+      <>
+        <h1 className={style.centerText}>
                 Contact
-            </h1>
-            <div className={style.centerIfSmall}>
-                <p>
-                    Leave a note
-                </p>
-                <form onSubmit={handleSubmit}>
-                    <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
-                    <br></br>
-                    <br></br>
-                    <button type="submit" className={style.greenButtonCont}>Submit</button>
-                </form>
-            </div>
-            <br></br>
-            <br></br>
+        </h1>
+        <div className={style.centerIfSmall}>
             <p>
-                Or write to us at: 
-                <br></br>
-                <br></br>
-                &nbsp;    P.O. Box 7007 <br></br>
-                &nbsp;          Ny, Ny 10150
+                Leave a note
             </p>
+            <form onSubmit={handleSubmit}>
+                <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
+                <br></br>
+                <br></br>
+                {/* <button type="submit" className={style.greenButtonCont}>green submit to db</button> */}
+            </form>
+        </div>
+      </>
+    ) 
+  }
+  
+  function Thankyou() {
+    return (
+      <>
+        <p>Thank you. A real human will read this.</p>
+      </>
+    )
+  }
+
+function LeaveaNote({
+    isActive, 
+    onShow
+  }) {
+    return (
+      <>
+        {
+          isActive ? (
+            <>
+              <Contactform />
+              <button onClick={onShow} className={style.greenButtonCont}>
+                Submit
+              </button>      
+            </>
+          ) : (
+            <Thankyou />
+          )
+        }
+      </>
+    );
+  }
+
+export default function ContactFlow () {
+    const [activeIndex, setActiveIndex] = useState(0);
+    return (
+        <>
+            <LeaveaNote 
+                isActive={activeIndex === 0}
+                onShow={() => setActiveIndex(1)} 
+            >
+            </LeaveaNote>
         </>
     );
 }
 
-export default Contact;
+
