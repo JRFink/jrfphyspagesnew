@@ -45,7 +45,7 @@ function Contactform() {
   function Thankyou() {
     return (
       <>
-        <p>Thank you. A real human will read this.</p>
+        <p>Thank you</p>
       </>
     )
   }
@@ -68,6 +68,15 @@ function LeaveaNote({
             <Thankyou />
           )
         }
+        <br></br>
+        <br></br>
+        <p>
+            Or write to us at: 
+            <br></br>
+            <br></br>
+            &nbsp;    P.O. Box 7007 <br></br>
+            &nbsp;          Ny, Ny 10150
+        </p>
       </>
     );
   }
