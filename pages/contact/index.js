@@ -29,7 +29,7 @@ function Contactform() {
         </h1>
         <div className={style.centerIfSmall}>
             <p>
-                Leave a note
+                testing
             </p>
             <form onSubmit={handleSubmit}>
                 <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
