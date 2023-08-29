@@ -1,9 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react'; 
-{ /* import AlbFlag from '@/public/images/flags/albania'; */}
 import Link from 'next/link';
-import AmFlag from '@/public/images/flags/america';
-
-
 import style from '@/styles/general.module.css'; 
 
 const CountryDrop = () => {
