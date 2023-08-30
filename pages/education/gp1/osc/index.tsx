@@ -17,6 +17,9 @@ const Osc = () => {
                 <h2 className={style.h2SectionColor} id="desc">
                     1. Describing oscillations 
                 </h2>
+                <p>
+                    Oscillations occur in many areas of our world.
+                </p>
                     <h3>
                         1.1 Types of oscillations
                     </h3>

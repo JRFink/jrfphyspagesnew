@@ -4,13 +4,14 @@ import style from '@/styles/general.module.css';
 // import { Thankyou } from '@/pages/components/contactComponents';
 
 const handleSubmit = async (note) => {
-    console.log('note is ' + note);
-    // note.preventDefault();
+
+    console.log('note is t ' + note.target);
+    note.preventDefault();
     const data = {
-        noteData: note.target.feedbackText.value
+        noteData: note.target.messageText.value
     }
     const JSONdata = JSON.stringify(data)
-    const endpoint = '/api/contactForm'
+    const endpoint = '/api/messageForm'
     const options = {
       method: 'POST',
       headers: {
@@ -18,11 +19,13 @@ const handleSubmit = async (note) => {
       }, 
       body: JSONdata,
     }
+   
     await fetch(endpoint, options);
+      
     console.log('it worked again');
 }
 
-function Contactform({ submitted }) {
+function Messageform() {
 
     return (
       <>
@@ -34,11 +37,9 @@ function Contactform({ submitted }) {
                 Leave a note
             </p>
             <form onSubmit={handleSubmit}>
-                <textarea type="text" id="feedbackText" className={style.feedbackBox} placeholder=" General feedback"/>
+                <textarea type="text" id="messageText" className={style.messageBox} placeholder=" General feedback"/>
                 <br></br>
                 <br></br>
-                {/* <input type="text">another button</input> */}
-                {/* <input name="email" id="email" onClick={onShow} type="submit" placeholder="email" required></input> */}
                 <button type="submit" className={style.greenButtonCont}>Submit</button>
             </form>
         </div>
@@ -47,7 +48,7 @@ function Contactform({ submitted }) {
   }
 
 
-export default function ContactFlow () {
+export default function MessageFlow () {
 
   const [isSubmitted, setSubmitted] = useState(false);
     
@@ -58,9 +59,9 @@ export default function ContactFlow () {
               <p className={style.centerText}>Thank you. We will be in touch.</p>  
             ) : (
               <>
-                <Contactform
+                <Messageform
                   isSubmitted={false}
-                  onShow={() => setSubmitted(true)} 
+                  onShow={() => setSubmitted(true)}
                   />     
               </>
             )
@@ -78,12 +79,6 @@ export default function ContactFlow () {
     );
 }
 
-/*
 
-click submit button 
-submit form data 
-dont refresh the page, not sure why? 
-show the thank you message 
-*/
 
 
