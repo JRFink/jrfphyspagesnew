@@ -52,7 +52,7 @@ export default function MessageFlow () {
     <>
         {
         isSubmitted ? (
-          <p className={style.centerText}>Thank you. We will be in touch.</p>  
+          <p className={style.centerText}>Thank you. A real human will read this.</p>  
         ) : (
           <>
             <MessageForm />

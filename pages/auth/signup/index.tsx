@@ -87,7 +87,11 @@ const SignupFlow = () => {
             <br />
             {
                 submitted ? (
-                    <p className={style.centerText}>Thank you. We will be in touch.</p>
+                    <>
+                        <p className={style.centerText}>Thank you. We will be in touch.</p>
+                        <br />
+                        <p className={style.centerText}>Back to <Link href="/">the physics</Link>.</p>
+                    </>
                 ) : (
                     <SignupCard />
                 )
