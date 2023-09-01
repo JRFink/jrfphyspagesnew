@@ -12,6 +12,9 @@ const Legal = () => {
                 The content on this site is subject to copyright. Some images are attributed to creative commons license. 
                 Learn more <Link href="https://creativecommons.org/">here</Link>.
             </p>
+            <p>
+                Its not about if you get sued; its about when you get sued. 
+            </p>
         </>
     );
 }
