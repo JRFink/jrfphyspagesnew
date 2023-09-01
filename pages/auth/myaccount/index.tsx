@@ -19,6 +19,13 @@ const Myaccount = () => {
             <p>
                 Your phone number is:
             </p>
+            <p>
+                Your account type is: 
+                <ul>
+                    <li>Subscribed</li> Or 
+                    <li>Not subscribed</li>
+                </ul>
+            </p>
         </>
     );
 }
