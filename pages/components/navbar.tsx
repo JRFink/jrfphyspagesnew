@@ -1,6 +1,7 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import style from '@/styles/general.module.css';
-import { ProfileAv } from '@/pages/components/icons'; 
+import profsvg from '@/public/images/profsvg.svg'; 
 
 const Navbar = () => {
     return (
@@ -12,7 +13,18 @@ const Navbar = () => {
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
                 <Link href="/auth/login" className={style.styleNav}>Login</Link>
                 <Link href="/auth/signup" className={style.styleNav}>Sign Up</Link>
-                <Link href="/auth/myaccount" className={style.styleNav}>My account</Link>
+                {/* <Link href="/auth/myaccount" className={style.styleNav}> */}
+                <Image
+                    src={profsvg}
+                    style={{
+                        width: '7%',
+                        borderRadius: "20px",
+                        height: 'auto'
+                    }}
+                    sizes="100vw"
+                    alt="A colorful drawing of a cell" 
+                />
+                {/* </Link> */}
        
             </div>
             <br></br>
