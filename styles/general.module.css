@@ -110,6 +110,11 @@
     text-align: center;
 }
 
+.moveRight {
+    position: relative;
+    left: 85%;
+}
+
 .centerVandH {
     vertical-align: bottom;
     text-align: center;
