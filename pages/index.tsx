@@ -7,7 +7,7 @@ import { ProfileAv } from '@/pages/components/icons';
 const indexPage = () => {
   return (
     <>
-      <p>
+      <p className={style.centerText}>
         Hello, and welcome to jrfink.net! This site focuses on physics education and research.
       </p>
       <p> 
