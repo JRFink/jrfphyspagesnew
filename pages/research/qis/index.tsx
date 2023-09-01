@@ -42,6 +42,13 @@ const QuantI = () => {
                     alt="The bloch sphere on a white background" 
                 />
             </div>
+            <br /> 
+            <br />
+            <br />
+            <p>
+                Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
+            </p>
+            <br />
             <h2>
                 Major players 
             </h2>
@@ -57,7 +64,7 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
                         <br />
-                        <li><Link href="https://coldquanta.com/">Cold Quanta</Link></li>
+                        <li><Link href="https://coldquanta.com/">Cold Quanta</Link> - thank you boulder</li> 
                         <br />
                         <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
                     </ul>
