@@ -50,10 +50,15 @@ const QuantI = () => {
                 </p>
                     <ul>
                         <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
+                        <br />
                         <li><Link href="https://quantumai.google">Google</Link></li>
+                        <br />
                         <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
+                        <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
+                        <br />
                         <li><Link href="https://coldquanta.com/">Cold Quanta</Link></li>
+                        <br />
                         <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
                     </ul>
             <h2>
@@ -67,7 +72,9 @@ const QuantI = () => {
             </h3>
             <ul>
                 <li><Link href="https://physics.mit.edu/research-areas/quantum-information-science/">MIT</Link></li>
+                <br />
                 <li><Link href="https://jila.colorado.edu/research/quantum-information-science-technology">Boulder</Link></li>
+                <br />
                 <li><Link href="https://cs.lbl.gov/what-we-do/quantum-computing/">Berkeley</Link></li>
             </ul>
             <h3>
