@@ -25,18 +25,12 @@ export default function MessageFlow () {
     }
     setSubmitted(true);
     await fetch(endpoint, options);
-    
+  }
 
-}
-    
-  return (
-    <>
-        {
-        isSubmitted ? (
-          <p className={style.centerText}>Thank you. We will be in touch.</p>  
-        ) : (
-          <>
-            <h1 className={style.centerText}>
+  const MessageForm = () => {
+    return (
+      <>
+      <h1 className={style.centerText}>
               Contact
             </h1>
             <div className={style.centerIfSmall}>
@@ -50,6 +44,18 @@ export default function MessageFlow () {
                 <button type="submit" className={style.greenButtonCont}>Submit</button>
               </form>
             </div>
+      </>
+    )
+  }
+    
+  return (
+    <>
+        {
+        isSubmitted ? (
+          <p className={style.centerText}>Thank you. We will be in touch.</p>  
+        ) : (
+          <>
+            <MessageForm />
           </>
         )
       }
