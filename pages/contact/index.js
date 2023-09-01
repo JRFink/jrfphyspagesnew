@@ -30,20 +30,20 @@ export default function MessageFlow () {
   const MessageForm = () => {
     return (
       <>
-      <h1 className={style.centerText}>
-              Contact
-            </h1>
-            <div className={style.centerIfSmall}>
-              <p>
-                Leave a note
-              </p>
-              <form onSubmit={handleSubmit}>
-                <textarea type="text" id="messageText" className={style.messageBox} placeholder=" General feedback"/>
-                <br></br>
-                <br></br>
-                <button type="submit" className={style.greenButtonCont}>Submit</button>
-              </form>
-            </div>
+        <h1 className={style.centerText}>
+          Contact
+        </h1>
+        <div className={style.centerIfSmall}>
+          <p>
+            Leave a note
+          </p>
+          <form onSubmit={handleSubmit}>
+            <textarea type="text" id="messageText" className={style.messageBox} placeholder=" General feedback"/>
+            <br></br>
+            <br></br>
+            <button type="submit" className={style.greenButtonCont}>Submit</button>
+          </form>
+        </div>
       </>
     )
   }
