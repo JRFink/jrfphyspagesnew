@@ -4,19 +4,26 @@ import style from '@/styles/general.module.css';
 import profsvg from '@/public/images/profsvg.svg'; 
 
 const Navbar = () => {
+
+    function dropDown () {
+        return (
+            <p>some test</p>
+        )
+    }
     return (
         <>
-            <Link href="/auth/myaccount" className={style.moveRight}>
+            <Link href="/auth/myaccount" className={style.moveRight} onClick={dropDown}>
                 <Image
                     src={profsvg}
                     style={{
-                        width: '4%',
+                        width: '8%',
                         borderRadius: "20px",
                         height: 'auto'
                     }}
                     sizes="100vw"
                     alt="A colorful drawing of a cell" 
                     className={style.avatar}
+                    onClick={dropDown}
                     
                 />
             </Link>

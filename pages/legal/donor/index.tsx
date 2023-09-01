@@ -15,9 +15,12 @@ const Donor = () => {
             <div className={style.containBulletList}>
                     <ul className={style.styleBullets}>
                         <li>Mike & Maureen Fink</li>
+                        <br />
                         <li>Mike & Kathy Miks</li>
+                        <br />
                         <li>John and Rosemary Miks</li>
-<li>Pujitha P&#46;</li>
+                        <br />
+                        <li>Pujitha P&#46;</li>
                     </ul>
             </div>
             <br></br>
