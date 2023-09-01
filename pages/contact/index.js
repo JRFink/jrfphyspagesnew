@@ -33,7 +33,7 @@ export default function MessageFlow () {
         <h1 className={style.centerText}>
           Contact
         </h1>
-        <div className={style.centerIfSmall}>
+        <div className={style.centerInADiv}>
           <p>
             Leave a note
           </p>

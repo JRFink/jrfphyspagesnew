@@ -397,6 +397,11 @@
     margin-right:auto;
 }
 
+.centerInADiv {
+    justify-content: center;
+        text-align: center;
+}
+
 .messageBox {
     height: 70px;
     width: 450px;
@@ -408,11 +413,6 @@
 }
 
 @media screen and (max-width: 450px) {
-
-    .centerIfSmall {
-        justify-content: center;
-        text-align: center;
-    }
 
     .messageBox {
         width: 80%;
