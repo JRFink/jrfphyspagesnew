@@ -1,9 +1,30 @@
 import Link from 'next/link';
+import { useRef, useEffect, useState } from 'react';
 import Image from 'next/image';
 import style from '@/styles/general.module.css';
 import profsvg from '@/public/images/profsvg.svg'; 
 
 const Navbar = () => {
+
+    const [dropdownState, setDropdownState] = useState({ open: false });
+
+    const handleDropdownClick = () => {
+        setDropdownState({ open: !dropdownState.open });
+    }
+
+    const container = useRef<HTMLInputElement>(null);
+
+    useEffect(() => {
+        document.addEventListener("mousedown", handleClickOutside);
+
+        return () => document.removeEventListener("mousedown", handleClickOutside);
+    }, []);
+
+    const handleClickOutside = (e: any) => {
+        if (container.current && !container.current.contains(e.target)) {
+            setDropdownState({ open: false });
+        }
+    };
 
     function dropDown () {
         return (
@@ -27,8 +48,17 @@ const Navbar = () => {
                     
                 />
             </Link>
+            {dropdownState.open && (
+                <div className={style.dropdownButtonDiv}>
+                    <ul className={style.dropdownUl}>
+                        <br />
+                        <li><Link href="/glob/alb" className={style.dropdownLi} onClick={handleDropdownClick}>Schqiptare</Link></li> 
+                        <br />
+                    </ul>
+                </div> 
+            )}
+
             <div className={style.flexContainer}>
-            
                 <Link href="/" className={style.styleNav}>Home</Link>
                 <Link href="/education" className={style.styleNav}>Education</Link>
                 <Link href="/research" className={style.styleNav}>Research</Link>  

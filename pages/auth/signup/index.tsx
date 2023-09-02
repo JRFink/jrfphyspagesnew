@@ -20,7 +20,7 @@ const SignupFlow = () => {
             // hashPWRepeat: event.target.passwordrepeatb.value
         }
         const JSONdata = JSON.stringify(data)
-        const endpoint = '/api/form'
+        const endpoint = '/api/signupForm'
         const options = {
             method: 'POST',
             headers: {

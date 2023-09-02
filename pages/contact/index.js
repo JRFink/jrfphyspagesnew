@@ -1,8 +1,5 @@
 import { useState } from 'react';
 import style from '@/styles/general.module.css';
-// import LeaveaNote from '@/pages/components/contactComponents'; 
-// import { Thankyou } from '@/pages/components/contactComponents';
-
 
 export default function MessageFlow () {
 
@@ -15,7 +12,7 @@ export default function MessageFlow () {
         noteData: note.target.messageText.value
     }
     const JSONdata = JSON.stringify(data)
-    const endpoint = '/api/messageForm'
+    const endpoint = '/api/contactForm'
     const options = {
       method: 'POST',
       headers: {
