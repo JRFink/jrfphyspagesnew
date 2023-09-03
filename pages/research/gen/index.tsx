@@ -169,6 +169,15 @@ const Gen = () => {
                 </h2>
                     <p>
                         <Link href="https://www.kryeministria.al" className={style.noUnder}>Government - qeveria </Link>
+                        <ul>
+                            <li>
+                                <Link href="https://www.infrastruktura.gov.al/" className={style.noUnder}>Energja</Link>
+                            </li>
+                            <br></br>
+                            <li>
+                                <Link href="https://arsimi.gov.al/" className={style.noUnder}>Science and education - shkenca dhe edukimi</Link>
+                            </li>
+                        </ul>
                     </p>
                     <br />
                 <h2>
