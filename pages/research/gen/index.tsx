@@ -298,10 +298,10 @@ const Gen = () => {
                     Türkiye
                 </h2>
                 <p>
-                    <Link href="https://www.gov.sg" className={style.noUnder}>Government</Link>
+                    <Link href="https://www.turkiye.gov.tr/" className={style.noUnder}>Government</Link>
                     <ul>
                         <li>
-                            <Link href="https://www.ema.gov.sg/index.aspx" className={style.noUnder}>Energy</Link>
+                            <Link href="https://enerji.gov.tr/homepage" className={style.noUnder}>Energy</Link>
                         </li>
                         <br></br>
                         <li>
