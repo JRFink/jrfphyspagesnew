@@ -305,7 +305,7 @@ const Gen = () => {
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://snas.org.sg" className={style.noUnder}>Science</Link>
+                            <Link href="https://www.sanayi.gov.tr" className={style.noUnder}>Science</Link>
                         </li>
                         <br></br>
                         <li>
