@@ -175,18 +175,18 @@ const Gen = () => {
                     Argentina
                 </h2>
                     <p>
-                        <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
+                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
                         <ul>
                             <li>
-                                <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
+                                <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
+                                <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
                             </li>
                             <br></br>
                             <li>
-                                <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
+                                <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
                             </li>
                         </ul>
                     </p>
@@ -318,18 +318,18 @@ const Gen = () => {
                     Türkiye
                 </h2>
                 <p>
-                    <Link href="https://www.turkiye.gov.tr/" className={style.noUnder}>Government</Link>
+                    <Link href="https://www.turkiye.gov.tr/" className={style.noUnder}>Government - Hükümet</Link>
                     <ul>
                         <li>
-                            <Link href="https://enerji.gov.tr/homepage" className={style.noUnder}>Energy</Link>
+                            <Link href="https://enerji.gov.tr/homepage" className={style.noUnder}>Enerji</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://www.sanayi.gov.tr" className={style.noUnder}>Science</Link>
+                            <Link href="https://www.sanayi.gov.tr" className={style.noUnder}>Science - Bilim</Link>
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://www.meb.gov.tr/" className={style.noUnder}>Education</Link>
+                            <Link href="https://www.meb.gov.tr/" className={style.noUnder}>Education - Eğitim</Link>
                         </li>
                     </ul>
                 </p>
