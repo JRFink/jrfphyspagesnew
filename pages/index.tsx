@@ -43,10 +43,10 @@ const indexPage = () => {
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
       </p>
       <h3> 
-          If you&#39;re a physics professional&#46;&#46;&#46;
+          If you&#39;re a physics researcher&#46;&#46;&#46;
       </h3>
       <p> 
-          If you&#39;re a physics professional and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest research papers in each area. 
+          If you&#39;re a physics researcher and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest research papers in each area. 
       </p>
       <h3> 
           If your company is getting into quantum computing&#46;&#46;&#46;
@@ -55,12 +55,6 @@ const indexPage = () => {
           If your company is getting into quantum computing, head on over to our <Link href="/research/qis">quantum computing page</Link>. You will be able to learn about 
           the basics of quantum computing, how quantum computers are built, and the major players in the space. 
       </p>
-      <h3> 
-           If you&#39;re an engineer&#46;&#46;&#46;
-      </h3>
-      <p> 
-           If you&#39;re an engineer, you can head over to our <Link href="/research/stand">standards and constants</Link> tab to make use of physical standards and constants. 
-      </p> 
       <h3> 
           If you&#39;re a member of the general public
       </h3> 

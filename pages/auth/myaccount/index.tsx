@@ -1,6 +1,24 @@
 import style from '@/styles/general.module.css';
 
 const Myaccount = () => {
+
+//     endpoint='/api/getDB';
+
+//     options = {
+//         method = "GET"
+//         headers = {
+//             Accept: ""
+//         }
+//         mode: ""
+//         cache: 
+//         body = 
+//         mode = 
+//     };
+
+//     await fetch(endpoint, options).then((response) => {
+
+//     });
+
     return (
         <>
             <h1 className={style.centerText}>
