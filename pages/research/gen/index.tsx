@@ -276,7 +276,26 @@ const Gen = () => {
                     </ul>
                 </p>
                 <h2>
-                    Singapore - Singapura 
+                    Singapura 
+                </h2>
+                <p>
+                    <Link href="https://www.gov.sg" className={style.noUnder}>Government</Link>
+                    <ul>
+                        <li>
+                            <Link href="https://www.ema.gov.sg/index.aspx" className={style.noUnder}>Energy</Link>
+                        </li>
+                        <br></br>
+                        <li>
+                            <Link href="https://snas.org.sg" className={style.noUnder}>Science</Link>
+                        </li>
+                        <br></br>
+                        <li>
+                            <Link href="https://www.moe.gov.sg" className={style.noUnder}>Education</Link>
+                        </li>
+                    </ul>
+                </p>
+                <h2>
+                    Türkiye
                 </h2>
                 <p>
                     <Link href="https://www.gov.sg" className={style.noUnder}>Government</Link>
