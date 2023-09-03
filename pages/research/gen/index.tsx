@@ -172,6 +172,26 @@ const Gen = () => {
                     </p>
                     <br />
                 <h2>
+                    Argentina
+                </h2>
+                    <p>
+                        <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
+                        <ul>
+                            <li>
+                                <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
+                            </li>
+                            <br></br>
+                            <li>
+                                <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
+                            </li>
+                            <br></br>
+                            <li>
+                                <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
+                            </li>
+                        </ul>
+                    </p>
+                <br />
+                <h2>
                     China - 中國
                 </h2>
                     <p>
