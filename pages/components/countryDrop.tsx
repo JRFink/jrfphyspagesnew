@@ -87,6 +87,8 @@ const CountryDrop = () => {
                     <br />
                     <li><Link href="/glob/viet" className={style.dropdownLi} onClick={handleDropdownClick}>Tiếng việt</Link></li>
                     <br />
+                    <li><Link href="/glob/turk" className={style.dropdownLi} onClick={handleDropdownClick}>Türk</Link></li>
+                    <br />
                     <li><Link href="/glob/zul" className={style.dropdownLi} onClick={handleDropdownClick}>Isizulu</Link></li>
                 </ul>
             </div>
