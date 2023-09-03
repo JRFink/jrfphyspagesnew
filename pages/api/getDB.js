@@ -8,17 +8,19 @@ const con = mysql.createConnection({
     user: process.env.DB_USER
 })
 
+
 const someFunc = (req, res) => {
 
     const sql = "SELECT * FROM +"+process.env.BAT_BAT+")";
 
-    con.query(sql, (err, response)) {
+    con.query(sql, function(err, response) {
         if (err) {
             throw (err); 
         }
         console.log('it fetched');
-    } 
+    }); 
 }
 
 export default someFunc;
+
 
