@@ -309,7 +309,7 @@ const Gen = () => {
                         </li>
                         <br></br>
                         <li>
-                            <Link href="https://www.moe.gov.sg" className={style.noUnder}>Education</Link>
+                            <Link href="https://www.meb.gov.tr/" className={style.noUnder}>Education</Link>
                         </li>
                     </ul>
                 </p>
