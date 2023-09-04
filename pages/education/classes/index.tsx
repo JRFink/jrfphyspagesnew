@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 const Classes = () => { 
 
