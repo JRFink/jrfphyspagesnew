@@ -5,7 +5,8 @@ import style from '@/styles/general.module.css';
 const Gp1 = () => {
     return (
         <>
-            <Link href="/education" className={style.backtoLink}>Education</Link><br></br>
+            <br />
+            <Link href="/education/classes" className={style.backtoLink}>Classes</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
                 General Physics 1

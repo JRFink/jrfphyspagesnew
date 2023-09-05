@@ -6,7 +6,8 @@ import IhVid from '@/public/videos/qm1/ihvid';
 const Qm1 = () => {
     return (
         <>
-            <Link href="/education" className={style.backtoLink}>Education</Link><br></br>
+            <br />
+            <Link href="/education/topics" className={style.backtoLink}>Topics</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
                 Quantum Mechanics 1

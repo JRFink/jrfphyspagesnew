@@ -4,7 +4,8 @@ import style from '@/styles/general.module.css';
 const Em2 = () => {
     return (
         <>
-            <Link href="/education" className={style.backtoLink}>Education</Link><br></br>
+            <br />
+            <Link href="/education/topics" className={style.backtoLink}>Topics</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
                 Electricity and Magnetism 2
