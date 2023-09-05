@@ -51,6 +51,10 @@ const SignupFlow = () => {
                <div className={style.formDivS}>
 <form onSubmit={handleSubscribe} className={style.formClass><h2 className={style.formHeader}>Subscribe</h2>
 <br />
+
+<button>subscribe</button>
+
+just keep a free account right now. 
            </>
         ) 
     } 
