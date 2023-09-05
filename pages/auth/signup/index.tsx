@@ -38,6 +38,20 @@ const SignupFlow = () => {
         await fetch(endpoint, options);   
     }
 
+    /* 
+    const SubscribeCard = () => { 
+
+        return ( 
+           <> 
+               <div className={style.formDivS}>
+<form onSubmit={handleSubmit} className={style.formClass><h2 className={style.formHeader}>Subscribe</h2>
+<br />
+           </>
+        ) 
+    } 
+
+    */ 
+
     const SignupCard = () => {
         return (
             <>
