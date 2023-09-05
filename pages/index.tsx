@@ -9,6 +9,9 @@ const indexPage = () => {
     <>
       <p className={style.centerText}>
         Hello, and welcome to jrfink.net! This site focuses on physics education and research.
+        <br />
+        <br />
+        This site is under <span className={style.highlightText}>active construction</span>.
       </p>
       <p> 
          <b>
@@ -50,7 +53,7 @@ const indexPage = () => {
           the basics of quantum computing, how quantum computers are built, and the major players in the space. 
       </p>
       <h3> 
-          If you&#39;re a member of the general public
+          If you&#39;re a member of the general public&#46;&#46;&#46;
       </h3> 
       <p> 
           If you&#39;re a member of the general public, you can find useful things all over the site. For example, let&#39;s say you work in computer programming and a client wants to experiment with quantum computing. You don&#39;t have to be a quantum expert, but you probably want to know some of the math. You can head on over to our <Link href="/education/qm1/op">math background</Link> section to get an overview of the math used in quantum. 
