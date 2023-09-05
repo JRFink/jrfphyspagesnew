@@ -18,12 +18,6 @@ const indexPage = () => {
       <p className={style.centerText}>
          Our mission is to educate people about physics.
       </p>
-      <h2> 
-         For whom is this site? 
-      </h2> 
-      <p> 
-         This site is for <em>everyone</em>. Well, everyone who wants to learn about physics. 
-      </p>
       <h2>
           How does it work? 
       </h2> 
