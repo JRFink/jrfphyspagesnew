@@ -4,15 +4,18 @@ const Classes = () => {
 
   return ( 
     <>
+        <br />
+        <Link href="/education" className={style.backtoLink}>Education</Link>
        <h1 className={style.centerText}>
            Classes
        </h1>
-
-                <Link href="/education/gp1" className={style.generalLink}>General Physics 1</Link><br></br>
+          
+          <br />
+          <br />
+          <Link href="/education/gp1" className={style.generalLink}>General Physics 1</Link><br></br>
                 
-</>
-
- ); 
+    </>
+  ); 
 }
 
 export default Classes;
