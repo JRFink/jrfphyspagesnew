@@ -39,12 +39,17 @@ const SignupFlow = () => {
     }
 
     /* 
+    const handleSubscribe = async (event: any) => { 
+     event.preventDefault(); 
+
+} 
+
     const SubscribeCard = () => { 
 
         return ( 
            <> 
                <div className={style.formDivS}>
-<form onSubmit={handleSubmit} className={style.formClass><h2 className={style.formHeader}>Subscribe</h2>
+<form onSubmit={handleSubscribe} className={style.formClass><h2 className={style.formHeader}>Subscribe</h2>
 <br />
            </>
         ) 
