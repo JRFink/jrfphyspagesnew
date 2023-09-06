@@ -120,7 +120,7 @@ const indexPage = () => {
            Instead of focusing on instantaneous changes and forces as a function, these approaches focus on the energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
       </p> 
       <h2> 
-           Electrcity and magnetism 
+           Electricity and magnetism 
       </h2> 
       <p> 
            Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, but the math gives insight into what is happening physically.  
