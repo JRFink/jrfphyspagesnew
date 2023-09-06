@@ -105,7 +105,8 @@ just keep a free account right now.
                 Be among the first to know when we launch. 
             <br /> 
             <br />
-            We are going to offer two different types of accounts &#45; free and subscribed. The free accounts will have access to some parts of the site &#45; some videos, some articles, some research topics. The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. We&#39;re thinking &#36;5 &#47; month.
+            We are going to offer two different types of accounts &#45; free and subscribed. The free accounts will have access to some parts of the site &#45; some videos, articles, research topics, etc. The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. We&#39;re thinking &#36;5 &#47; month. < br /> 
+Let us know what you think <Link href="/contact">here</Link>. 
             </p> 
             <br />
             <br />
