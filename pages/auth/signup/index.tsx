@@ -28,15 +28,38 @@ const SignupFlow = () => {
             }, 
             body: JSONdata,
         }     
-        // const customer = await stripe.customers.create({
-        //     name: event.target.firstnamea.value + ' ' + event.target.lastnameb.value,
-        //     email: event.target.emaila.value, 
-        //     phone: event.target.phoneb.value
-        // });
+         const customer = await stripe.customers.create({
+             name: event.target.firstnamea.value + ' ' + event.target.lastnameb.value,
+             email: event.target.emaila.value, 
+             phone: event.target.phoneb.value
+         });
 
         setSubmitted(true);
         await fetch(endpoint, options);   
     }
+
+    /* 
+    const handleSubscribe = async (event: any) => { 
+     event.preventDefault(); 
+
+} 
+
+    const SubscribeCard = () => { 
+
+        return ( 
+           <> 
+               <div className={style.formDivS}>
+<form onSubmit={handleSubscribe} className={style.formClass><h2 className={style.formHeader}>Subscribe</h2>
+<br />
+
+<button>subscribe</button>
+
+just keep a free account right now. 
+           </>
+        ) 
+    } 
+
+    */ 
 
     const SignupCard = () => {
         return (
@@ -79,7 +102,12 @@ const SignupFlow = () => {
     <>
             <br /> 
             <p className={style.centerText}> 
-                Be among the first to know when we launch 
+                Be among the first to know when we launch. 
+            <br /> 
+            <br />
+            We are going to offer two different types of accounts &#45; free and subscribed. The free accounts will have access to some parts of the site &#45; some videos, articles, research topics, etc. The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. We&#39;re thinking &#36;5 &#47; month. < br /> 
+<br />
+Let us know what you think <Link href="/contact">here</Link>. 
             </p> 
             <br />
             <br />
