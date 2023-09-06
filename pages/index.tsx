@@ -2,7 +2,7 @@ import style from '../styles/general.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
 import nabla from '@/public/images/nabla.svg';
-import { ProfileAv } from '@/pages/components/icons'; 
+ 
 
 const indexPage = () => {
   return (
