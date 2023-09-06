@@ -3,6 +3,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 const stripe = require('stripe')(process.env.NEXT_PUBLIC_SKTEST);
 
+
 const SignupFlow = () => { 
 
     const [submitted, setSubmitted] = useState(false);
@@ -33,11 +34,10 @@ const SignupFlow = () => {
              email: event.target.emaila.value, 
              phone: event.target.phoneb.value
         });
-
+    
         setSubmitted(true);
         await fetch(endpoint, options);   
     }
-
 
 
     const SignupCard = () => {
