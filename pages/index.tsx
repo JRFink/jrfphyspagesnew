@@ -11,7 +11,7 @@ const indexPage = () => {
         Hello, and welcome to jrfink.net! This site focuses on physics education and research.
         <br />
         <br />
-        This site is under <span className={style.highlightText}>active construction</span>.
+        This site is under <span className={style.highlightText}>active construction ⚠️</span>.
       </p>
       <p> 
          <b>
@@ -123,7 +123,7 @@ const indexPage = () => {
            Electricity and magnetism 
       </h2> 
       <p> 
-           Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, but the math gives insight into what is happening physically.  
+           Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, though the math gives insight into what is happening physically.  
       </p>
       <p> 
            You&#39;ll cover charge, force, field, potentials, circuits, energy, conservation laws, electromagnetic waves, poynting vector, maxwell&#39;s equations, and relativity. It&#39;s a lot, but it gives you a deeper understanding of our world. 
@@ -147,7 +147,7 @@ const indexPage = () => {
       </p>
       <p>
            After quantum comes quantum field theory, which studies just subatomic particles. It&#39;s what we call the physics of the <Link href="/research/particle">standard model</Link>.
-           The standard model is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple at all, but it&#39;s a start. 
+           The standard model is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple, though it&#39;s a start. 
       </p>
       <p>
            The thing that is deeper than qft is string theory. String theory aims to describe the fundamental particles as vibrations, 
