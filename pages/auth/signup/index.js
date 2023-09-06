@@ -125,7 +125,7 @@ const SignupFlow = () => {
                             The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. 
                             We&#39;re thinking &#36;5 &#47; month. < br /> 
                         <br />
-                            Let us know what you think <Link href="/contact">here</Link>. 
+                            Let us know what you think <Link href="/contact">here</Link> 
                         </p> 
                         <br />
                         <br />
