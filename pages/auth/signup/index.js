@@ -25,11 +25,11 @@ const handleSubmit = async ( event, setSubmitted) => {
         body: JSONdata,
     }     
 
-    // const customer = await stripe.customers.create({
-    //      name: event.target.firstnamea.value + ' ' + event.target.lastnameb.value,
-    //      email: event.target.emaila.value, 
-    //      phone: event.target.phoneb.value
-    // });
+    const customer = await stripe.customers.create({
+         name: event.target.firstnamea.value + ' ' + event.target.lastnameb.value,
+         email: event.target.emaila.value, 
+         phone: event.target.phoneb.value
+    });
 
     await fetch(endpoint, options)
         .then(setSubmitted(true));
@@ -88,7 +88,6 @@ const SubscribeForm = () => {
                         Next you&#39;ll be able to subscribe with stripe
                     </p>
                     <br /> 
-
                 </form>
             </div>
         </>
