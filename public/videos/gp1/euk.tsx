@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const EUKVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Potential energy and energy conservation
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Potential energy and energy conservation overview"

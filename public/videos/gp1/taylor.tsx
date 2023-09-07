@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const TaylorVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Taylor expansion
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Taylor expansion overview"

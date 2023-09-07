@@ -6,7 +6,7 @@ const IhVid = () => {
             <h2 className={style.centerText}>
                 Intro to Quantum
             </h2>
-            <br></br>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Intro to Quantum"

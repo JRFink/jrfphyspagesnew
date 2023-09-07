@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const WkeVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Work and kinetic energy
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Work and kinetic energy overview"

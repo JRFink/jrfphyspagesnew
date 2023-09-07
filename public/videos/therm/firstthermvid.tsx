@@ -6,6 +6,7 @@ const FirstthermVid = () => {
             <h2 className={style.centerText}>
                 First Law of Thermodynamics
             </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="First Law of Thermodynamics"

@@ -12,6 +12,9 @@ import EUKVid from '@/public/videos/gp1/euk';
 import RotVid from '@/public/videos/gp1/rm';
 import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
+import FirstthermVid from '@/public/videos/therm/firstthermvid';
+import IhVid from '@/public/videos/qm1/ihvid';
+
 
 const AllVid = () => {
     return (
@@ -58,6 +61,14 @@ const AllVid = () => {
             <br />
             <br /> 
             <TaylorVid />
+            <br /> 
+            <br /> 
+            <FirstthermVid /> 
+            <br /> 
+            <br />
+            <IhVid />
+            <br /> 
+            <br />
 
         </>
     );

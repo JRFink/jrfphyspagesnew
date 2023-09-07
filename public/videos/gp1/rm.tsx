@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const RotVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Rotational motion
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Rotational motion overview"

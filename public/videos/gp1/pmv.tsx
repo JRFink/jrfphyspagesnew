@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const PmvVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Momentum, impulse, and collisions
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Momentum, impulse, & collisions overview"

@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const NewtVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Newton&#39;s laws overview
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Newton&apos;s Laws Overview"

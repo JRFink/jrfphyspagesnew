@@ -6,6 +6,7 @@ const DeriveKinVid = () => {
             <h2 className={style.centerText}>
                 Deriving a Kinematic Equation
             </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Deriving a Kinematic Equation"

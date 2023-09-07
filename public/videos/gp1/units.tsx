@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const UnitsVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Units, coordinates, and vectors
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Units, Coordinates, Vectors"

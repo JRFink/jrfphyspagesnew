@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const ConstantPosVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Position and velocity
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="constant position; constant velocity"

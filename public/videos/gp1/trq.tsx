@@ -3,6 +3,10 @@ import style from '@/styles/general.module.css';
 const TrqVid = () => {
     return (
         <>
+            <h2 className={style.centerText}>
+                Dynamics of rotational motion
+            </h2>
+            <br />
             <div className={style.flexContainerVid}>
                 <iframe
                         title="Dynamics of rotational motion overview"
