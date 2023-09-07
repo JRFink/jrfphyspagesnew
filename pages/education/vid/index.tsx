@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import UnitsVid from '@/public/videos/gp1/units';
@@ -14,7 +15,6 @@ import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import FirstthermVid from '@/public/videos/therm/firstthermvid';
 import IhVid from '@/public/videos/qm1/ihvid';
-
 
 const AllVid = () => {
     return (
@@ -74,5 +74,39 @@ const AllVid = () => {
     );
 }
 
-export default AllVid;
+const Sorry = () => {
+
+    return (
+        <>
+            <br />
+            <Link href="/education" className={style.backtoLink}>Education</Link>
+
+            <p className={style.centerText}>
+                Sorry, you must be subscribed.
+            </p>
+        </>
+    )
+}
+
+const VidFlow = () => {
+
+    const [subscribed, setSubscribed] = useState(true);
+    
+    if (!subscribed) {
+        return (
+            <>
+                <Sorry />
+            </>
+        )
+    }
+    return (
+        <>
+            <AllVid />
+        </>
+    )
+}
+
+export default VidFlow;
+
+
 
