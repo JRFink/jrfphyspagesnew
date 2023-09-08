@@ -23,13 +23,13 @@ const handleSubmit = async (event, setSubmitted) => {
             'Content-Type': 'application/json',
         }, 
         body: JSONdata,
-    }     
-
+    }   
+    
     const customer = await stripe.customers.create({
          name: event.target.firstnamea.value + ' ' + event.target.lastnameb.value,
          email: event.target.emaila.value, 
          phone: event.target.phoneb.value
-    });
+    });  
 
     await fetch(endpoint, options)
         .then(setSubmitted(true));
