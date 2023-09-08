@@ -5,6 +5,8 @@ const Login = () => {
     return (
         <>
             <LoginForm />
+            <br />
+            <br />
         </>
     );
 }

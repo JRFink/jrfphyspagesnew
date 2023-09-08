@@ -15,6 +15,7 @@ import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import FirstthermVid from '@/public/videos/therm/firstthermvid';
 import IhVid from '@/public/videos/qm1/ihvid';
+const stripe = require('stripe')(process.env.NEXT_PUBLIC_SKTEST);
 
 const AllVid = () => {
     return (
@@ -74,31 +75,8 @@ const AllVid = () => {
     );
 }
 
-const Sorry = () => {
-
-    return (
-        <>
-            <br />
-            <Link href="/education" className={style.backtoLink}>Education</Link>
-
-            <p className={style.centerText}>
-                Sorry, you must be subscribed.
-            </p>
-        </>
-    )
-}
-
 const VidFlow = () => {
 
-    const [subscribed, setSubscribed] = useState(true);
-    
-    if (!subscribed) {
-        return (
-            <>
-                <Sorry />
-            </>
-        )
-    }
     return (
         <>
             <AllVid />

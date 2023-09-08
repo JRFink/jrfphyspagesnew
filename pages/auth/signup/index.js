@@ -3,7 +3,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 const stripe = require('stripe')(process.env.NEXT_PUBLIC_SKTEST);
 
-const handleSubmit = async ( event, setSubmitted) => {
+const handleSubmit = async (event, setSubmitted) => {
 
     event.preventDefault() 
     
@@ -97,7 +97,7 @@ const SubscribeForm = () => {
 
 const SignupFlow = () => { 
 
-    const [submitted, setSubmitted] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
 
   return (
     <>
@@ -127,6 +127,11 @@ const SignupFlow = () => {
                             Let us know what you think <Link href="/contact">here</Link> 
                         </p> 
                         <br />
+                        <br />
+                        <p className={style.centerText}> 
+                            You can subscribe as a test <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq">here</a>. We&#39;re live! 
+                        </p> 
+                        <br /> 
                         <br />
                         <SignupForm
                             setSubmitted={setSubmitted} />
