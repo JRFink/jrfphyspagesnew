@@ -61,25 +61,25 @@ const Uvec = () => {
                 2.1 SI Units
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 2.1.1 SI Definition of mass
+                    &nbsp; &nbsp; 2.1.1 Mass
                 </h4>
                 <h4>
-                    &nbsp; &nbsp; 2.1.2 SI Definition of length
+                    &nbsp; &nbsp; 2.1.2 Length
                 </h4>
                 <h4>
-                    &nbsp; &nbsp; 2.1.3 SI Definition of time
+                    &nbsp; &nbsp; 2.1.3 Time
                 </h4>
             <h3>
                 2.2 British system
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 2.2.1 British definition of mass
+                    &nbsp; &nbsp; 2.2.1 Mass
                 </h4>
                 <h4>
-                    &nbsp; &nbsp; 2.2.2 British definition of length
+                    &nbsp; &nbsp; 2.2.2 Length
                 </h4>
                 <h4>
-                    &nbsp; &nbsp; 2.2.3 British definition of time
+                    &nbsp; &nbsp; 2.2.3 Time
                 </h4>
             <h3>
                 2.3 Other systems
