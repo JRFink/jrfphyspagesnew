@@ -7,7 +7,9 @@ const Member = () => {
     Members 
   </h1> 
    <p className={style.centerText}>
-   Welcome to the members page! 
+   Welcome to the members page!
+<br /> 
+Emter your access number here... 
    </p>
  </>
   );
