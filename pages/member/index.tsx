@@ -1,6 +1,6 @@
 9import { useState } from 'react';
 import style from '@/styles/general.module.css';
-import ConstantPosVid from '@/public/videos/constantposvid';
+import ConstantPosVid from '@/public/videos/gp1/constantpos';
 
 const Sorry = () => { 
 
