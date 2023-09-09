@@ -20,7 +20,7 @@ const handleSubmit = (e: any, setNumberCorrect: any) => {
   e.preventDefault();
   console.log('e is ' + e.target.input.value);
   const inputData = e.target.input.value;
-  if (inputData == process.env.ACCESS_CODE) {
+  if (inputData === process.env.ACCESS_CODE) {
     setNumberCorrect(true);
   }
   else {
