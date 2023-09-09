@@ -1,4 +1,4 @@
-9import { useState } from 'react';
+import { useState } from 'react';
 import style from '@/styles/general.module.css';
 import ConstantPosVid from '@/public/videos/gp1/constantpos';
 
