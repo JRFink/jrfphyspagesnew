@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import UnitsVid from '@/public/videos/gp1/units';
-import ConstantPosVid from '@/public/videos/gp1/constantpos';
 import AccelVid from '@/public/videos/gp1/accelvid';
 import Two3Vid from '@/public/videos/gp1/two3';
 import DeriveKinVid from '@/public/videos/gp1/derivekin';
@@ -53,7 +52,9 @@ const Gp1Vid = () => {
             <UnitsVid />
             <br />
             <br />
-            <ConstantPosVid />
+            <p className={style.centerText}> 
+                Buy the position and velocity video on our <Link href="/members">members</Link> page. 
+            </p>
             <br />
             <br />
             <AccelVid />
