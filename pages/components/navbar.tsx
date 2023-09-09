@@ -64,7 +64,7 @@ const Navbar = () => {
                 <Link href="/research" className={style.styleNav}>Research</Link>  
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
                 <Link href="/auth/signup" className={style.styleNav}>Sign up</Link>
-                <Link href="/auth/member" className={style.styleNav}>Member access</Link>
+                <Link href="/member" className={style.styleNav}>Member access</Link>
             </div>
             <br></br>
         </>
