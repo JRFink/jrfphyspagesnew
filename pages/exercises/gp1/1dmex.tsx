@@ -15,7 +15,7 @@ const OnedmEx = () => {
         <p>
             1.  Consider a particle at position 0 meters on the x axis. Its velocity is 0 m/s. What is its final position after 3 s ?
         </p>
-        <input type='text'></input> m.
+        <input type='text' className={style.inputOnLeft}></input> m.
         <p>You pressed this {count} times</p>
         <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
       <br></br>

@@ -419,6 +419,10 @@
     }
 }
 
+.inputOnLeft {
+    margin: 0px 0px 0px 30px;
+}
+
 .helpButton {
     padding: 10px 10px 10px 10px;
     border: 1px solid black;
