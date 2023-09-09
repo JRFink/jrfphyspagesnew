@@ -1,4 +1,4 @@
-import { useState } from 'react';
+9import { useState } from 'react';
 import style from '@/styles/general.module.css';
 
 const Sorry = () => { 
@@ -17,7 +17,7 @@ return (
 
 const Member = () => { 
 
-const [numberCorrect, setNumberCorrect] = useState(false);
+const [numberCorrect, setNumberCorrect] = useState(true);
  
  return ( 
  <>
@@ -29,10 +29,17 @@ const [numberCorrect, setNumberCorrect] = useState(false);
 <br /> 
 Enter your access number here... 
    </p>
- /* 
-const 
-
-*/ 
+   { 
+    if (numberCorrect) { 
+        return (
+         <>
+        
+         </>
+        );
+    }
+    return <Sorry />
+   }
+ 
  </>
   );
 
