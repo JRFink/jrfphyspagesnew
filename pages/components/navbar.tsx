@@ -42,7 +42,7 @@ const Navbar = () => {
                         height: 'auto'
                     }}
                     sizes="100vw"
-                    alt="A colorful drawing of a cell" 
+                    alt="A white silhouette against a black background" 
                     className={style.avatar}
                     onClick={dropDown}
                     
@@ -63,8 +63,8 @@ const Navbar = () => {
                 <Link href="/education" className={style.styleNav}>Education</Link>
                 <Link href="/research" className={style.styleNav}>Research</Link>  
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
-                <Link href="/auth/login" className={style.styleNav}>Login</Link>
-                <Link href="/auth/signup" className={style.styleNav}>Sign Up</Link>
+                <Link href="/auth/signup" className={style.styleNav}>Sign up</Link>
+                <Link href="/auth/member" className={style.styleNav}>Member access</Link>
             </div>
             <br></br>
         </>
