@@ -13,6 +13,7 @@ const indexPage = () => {
         <br />
         This site is under <span className={style.highlightText}>active construction ⚠️</span>.
       </p>
+      <br />
       <p> 
          <b>
              Mission statement: 
