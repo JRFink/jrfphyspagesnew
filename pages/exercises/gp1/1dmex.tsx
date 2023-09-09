@@ -17,7 +17,7 @@ const OnedmEx = () => {
         </p>
         <input type='text'></input> m.
         <p>You pressed this {count} times</p>
-        <button onClick={() => setCount(count + 1)} className={style.greenButton}>Check answer</button>
+        <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
       <br></br>
       <br></br>
       <h3>
