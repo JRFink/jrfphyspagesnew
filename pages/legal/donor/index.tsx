@@ -25,7 +25,7 @@ const Donor = () => {
             </div>
             <br></br>
             <p className={style.centerText}>
-                Consider a <a href="https://buy.stripe.com/eVabMhgPyaKB1mEbIJ">donation</a>
+                Consider a <a href="https://buy.stripe.com/28ocQl42MdWNghy9AI">donation</a>
             </p>
         </>
     );
