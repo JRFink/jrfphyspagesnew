@@ -42,13 +42,11 @@ const [numberCorrect, setNumberCorrect] = useState(false);
       Welcome to the members page!
     <br /> 
     <br />
-      Follow the link <a href="https://buy.stripe.com/7sI2bHdDmaKB2qI9AH">here</a> and once payment is confirmed I&#39;ll send you the code for one of the videos through email. 
-<br /> 
-Make sure to include your email on the form.
+      Follow the link <a href="https://buy.stripe.com/7sI2bHdDmaKB2qI9AH">here</a> and once payment is confirmed I&#39;ll send you a code for one of the videos through email. 
     </p>
     <br /> 
     <p> 
-Enter access code: 
+Access code: 
     <br />
     <br />
     </p>
