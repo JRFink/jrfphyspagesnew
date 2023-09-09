@@ -46,10 +46,10 @@ const [numberCorrect, setNumberCorrect] = useState(false);
 <br /> 
 Make sure to include your email on the form.
     </p>
-    <br />
     <br /> 
     <p> 
 Enter access code: 
+    <br />
     </p>
     <div className={style.centerText}>
       <form onSubmit={(e) => handleSubmit(e, setNumberCorrect)}>
