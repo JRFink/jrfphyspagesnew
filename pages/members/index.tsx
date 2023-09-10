@@ -17,7 +17,7 @@ const handleSubmit = async (e: any, setNumberCorrect: any) => {
 
   e.preventDefault();
 
-  if (e.target.input.value == process.env.NEXT_PUBLIC_ACCESS_CODE) {
+  if (e.target.input.value === process.env.NEXT_PUBLIC_ACCESS_CODE) {
     setNumberCorrect(true);
   }
   else {
