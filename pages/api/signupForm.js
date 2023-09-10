@@ -1,5 +1,7 @@
 const mysql = require('mysql');
 
+
+
 const con = mysql.createConnection({
 
     host: process.env.DB_HOST,
@@ -11,15 +13,19 @@ const con = mysql.createConnection({
 
 export default function handler(req, res) {
 
-
     const sqlQuery = "INSERT INTO "+process.env.BAT_BAT+" (firstname, lastname, email, phone) VALUES ("+mysql.escape(req.body.firstname)+" , "+mysql.escape(req.body.lastname)+","+mysql.escape(req.body.email)+" , "+mysql.escape(req.body.phone)+")";
+
+    
+    
 
     con.query(sqlQuery, function(err, response) {
         if (err) {
             console.log(err);
             throw(err)
         };
+    
         console.log("success");
+      
     });
 
  

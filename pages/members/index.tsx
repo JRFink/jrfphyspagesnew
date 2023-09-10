@@ -11,22 +11,18 @@ return (
          Sorry, incorrect number. Try again.
       </p>
     </> 
+);} 
 
-); 
+const handleSubmit = async (e: any, setNumberCorrect: any) => {
 
-} 
-
-const handleSubmit = (e: any, setNumberCorrect: any) => {
   e.preventDefault();
-  console.log('e is ' + e.target.input.value);
-  const inputData = e.target.input.value;
-  if (inputData === process.env.ACCESS_CODE) {
+
+  if (e.target.input.value == process.env.NEXT_PUBLIC_ACCESS_CODE) {
     setNumberCorrect(true);
   }
   else {
     setNumberCorrect(false);
   }
-
 }
 
 const Member = () => { 
@@ -46,7 +42,7 @@ const [numberCorrect, setNumberCorrect] = useState(false);
     </p>
     <br /> 
     <p> 
-Access code: 
+      Access code: 
     <br />
     <br />
     </p>
