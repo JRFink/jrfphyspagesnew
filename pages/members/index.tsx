@@ -41,9 +41,8 @@ const [numberCorrect, setNumberCorrect] = useState(false);
       Follow the link <a href="https://buy.stripe.com/7sI2bHdDmaKB2qI9AH">here</a> and once payment is confirmed I&#39;ll send you a code for one of the videos through email. 
     </p>
     <br /> 
-    <p> 
-      Access code: 
-    <br />
+    <p className={style.centerText}> 
+      Access code:
     <br />
     </p>
     <div className={style.centerText}>
