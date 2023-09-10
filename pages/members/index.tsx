@@ -49,12 +49,20 @@ const [numberCorrect, setNumberCorrect] = useState(false);
     <div className={style.centerText}>
       <form onSubmit={(e) => handleSubmit(e, setNumberCorrect)}>
         <input type='text' id='input'></input>
-        <button type='submit'>Submit</button>
+        <button type='submit' className={style.greenButtonCont}>Submit</button>
       </form>
     </div>
     { 
       numberCorrect ? (
-        <ConstantPosVid />
+        <>
+          <br />
+          <br />
+          <br />
+          <br />
+          <ConstantPosVid />
+          <br />
+          <br />
+        </>
       ) : (
         <>
         </>
