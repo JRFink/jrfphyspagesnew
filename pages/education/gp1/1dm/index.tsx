@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
-import ConstantPosVid from '@/public/videos/gp1/constantpos';
 import AccelVid from '@/public/videos/gp1/accelvid';
 import DeriveKinVid from '@/public/videos/gp1/derivekin';
 import { Modoverview1dm } from '@/pages/components/modoverview';
@@ -23,12 +22,10 @@ const Onedm = () => {
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
             </h2>
-            <br></br>
-            <br></br>
-            <ConstantPosVid />
-            <br></br>
-            <p>
-                Ah, the almighty position. Where is the thing?
+            <br /> 
+            <br />
+            <p className={style.centerText}> 
+                Buy the position and velocity video on our <Link href="/members">members</Link> page. 
             </p>
             <h3>
                 1.1 Definitions
