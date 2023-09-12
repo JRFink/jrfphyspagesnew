@@ -60,8 +60,8 @@ const Gp1 = () => {
                 Syllabus
             </h2>
             <p>
-                    <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
-                </p>
+                <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
+            </p>
             <br></br>
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
@@ -69,63 +69,132 @@ const Gp1 = () => {
                 <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>  
             </div>
             <br></br>
-            <Link href="/education/gp1/int" className={style.generalLink}>Introduction</Link><br></br>
+            <Link href="/education/gp1/int" className={style.generalLinkIntr}>Introduction</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/frame" className={style.generalLink}>1. Frames, units, and measurement</Link><br></br>
+            <p className={style.numberLink}>
+                1
+            </p>
+            <Link href="/education/gp1/frame" className={style.generalLink}>Frames, units, and measurement</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/vec" className={style.generalLink}>2. Vector review</Link><br></br>
+            <p className={style.numberLink}>
+                2
+            </p>
+            <Link href="/education/gp1/vec" className={style.generalLink}>Vector review</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/calc" className={style.generalLink}>3. Big calc review</Link><br></br>
+            <p className={style.numberLink}>
+                3
+            </p>
+            <Link href="/education/gp1/calc" className={style.generalLink}>Big calc review</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/1dm" className={style.generalLink}>4. Motion in 1 Dimension</Link><br></br>
+            <p className={style.numberLink}>
+                4
+            </p>
+            <Link href="/education/gp1/1dm" className={style.generalLink}>Motion in 1 Dimension</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/23dm" className={style.generalLink}>5. Motion in 2 and 3 Dimensions</Link><br></br>
+            <p className={style.numberLink}>
+                5
+            </p>
+            <Link href="/education/gp1/23dm" className={style.generalLink}>Motion in 2 and 3 Dimensions</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/1" className={style.testLink}>Test 1</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/diff" className={style.generalLink}>6. Differential equations crash course</Link><br></br>
+            <p className={style.numberLink}>
+                6
+            </p>
+            <Link href="/education/gp1/diff" className={style.generalLink}>Differential equations crash course</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/nl" className={style.generalLink}>7. Newton&apos;s Laws of Motion</Link><br></br>
+            <p className={style.numberLink}>
+                7
+            </p>
+            <Link href="/education/gp1/nl" className={style.generalLink}>Newton&apos;s Laws of Motion</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/applnl" className={style.generalLink}>8. Applying Newton&apos;s Laws</Link><br></br>
+            <p className={style.numberLink}>
+                8
+            </p>
+            <Link href="/education/gp1/applnl" className={style.generalLink}>Applying Newton&apos;s Laws</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/wke" className={style.generalLink}>9. Work and Kinetic Energy</Link><br></br>
+            <p className={style.numberLink}>
+                9
+            </p>
+            <Link href="/education/gp1/wke" className={style.generalLink}>Work and Kinetic Energy</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/pu" className={style.generalLink}>10. Potential Energy and Energy Conservation</Link><br></br>
+            <p className={style.numberLink}>
+                10
+            </p>
+            <Link href="/education/gp1/pu" className={style.generalLink}>Potential Energy and Energy Conservation</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/2" className={style.testLink}>Test 2</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/pmv" className={style.generalLink}>11. Momentum, Impulse, Collisions</Link><br></br>
+            <p className={style.numberLink}>
+                11
+            </p>
+            <Link href="/education/gp1/pmv" className={style.generalLink}>Momentum, Impulse, Collisions</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/rm" className={style.generalLink}>12. Rotational Motion</Link><br></br>
+            <p className={style.numberLink}>
+                12
+            </p>
+            <Link href="/education/gp1/rm" className={style.generalLink}>Rotational Motion</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/trq" className={style.generalLink}>13. Dynamics of Rotational Motion</Link><br></br>
+            <p className={style.numberLink}>
+                13
+            </p>
+            <Link href="/education/gp1/trq" className={style.generalLink}>Dynamics of Rotational Motion</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/eq" className={style.generalLink}>14. Equilibrium</Link><br></br>
+            <p className={style.numberLink}>
+                14
+            </p>
+            <Link href="/education/gp1/eq" className={style.generalLink}>Equilibrium</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/taylor" className={style.generalLink}>15. Math detour - Taylor Expansion</Link><br></br>
+            <p className={style.numberLink}>
+                15
+            </p>
+            <Link href="/education/gp1/taylor" className={style.generalLink}>Math detour - Taylor Expansion</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/g" className={style.generalLink}>16. Gravity</Link><br></br>
+            <p className={style.numberLink}>
+                16
+            </p>
+            <Link href="/education/gp1/g" className={style.generalLink}>Gravity</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/3" className={style.testLink}>Test 3</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/fluid" className={style.generalLink}>17. Fluids</Link><br></br>
+            <p className={style.numberLink}>
+                17
+            </p>
+            <Link href="/education/gp1/fluid" className={style.generalLink}>Fluids</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/osc" className={style.generalLink}>18. Oscillations</Link><br></br>
+            <p className={style.numberLink}>
+                18
+            </p>
+            <Link href="/education/gp1/osc" className={style.generalLink}>Oscillations</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/wm" className={style.generalLink}>19. Wave Motion</Link><br></br>
+            <p className={style.numberLink}>
+                19
+            </p>
+            <Link href="/education/gp1/wm" className={style.generalLink}>Wave Motion</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/theat" className={style.generalLink}>20. Temperature and Heat</Link><br></br>
+            <p className={style.numberLink}>
+                20
+            </p>
+            <Link href="/education/gp1/theat" className={style.generalLink}>Temperature and Heat</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/kin" className={style.generalLink}>21. Gases</Link><br></br>
+            <p className={style.numberLink}>
+                21
+            </p>
+            <Link href="/education/gp1/kin" className={style.generalLink}>Gases</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/flaw" className={style.generalLink}>22. First Law of Thermodynamics</Link><br></br>
+            <p className={style.numberLink}>
+                22
+            </p>
+            <Link href="/education/gp1/flaw" className={style.generalLink}>First Law of Thermodynamics</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/slaw" className={style.generalLink}>23. Second Law of Thermodynamics</Link><br></br>
+            <p className={style.numberLink}>
+                23
+            </p>
+            <Link href="/education/gp1/slaw" className={style.generalLink}>Second Law of Thermodynamics</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/4" className={style.testLink}>Test 4</Link><br></br>
             <br></br>
-            <Link href="/education/gp1/sum" className={style.generalLink}>Summary</Link><br></br>
+            <Link href="/education/gp1/sum" className={style.generalLinkSumm}>Summary</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/final" className={style.testLink}>Final exam</Link><br></br>
             <br></br>

@@ -1,3 +1,5 @@
+
+
 .parentDiv {
     min-height: 100vh;  /* 100% of the view port height */
     flex-direction: column; /* footer stuff */
@@ -294,9 +296,59 @@
 
 /* End form styling */
 
+.generalLinkIntr {
+    padding: 10px 10px 10px 10px;
+    color: #000000;
+    background-color: #09D4CD;
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px 0px 10px 60px;
+}
 
+.generalLinkIntr:hover {
+    background-color: #1bf5ee;
+}
+
+.generalLinkIntr:active {
+    color: rgb(90, 90, 90);
+    transform: scale(0.98);
+    /* Scaling button to 0.98 to its original size */
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
+}
 
 .generalLink {
+    padding: 10px 10px 10px 10px;
+    color: #000000;
+    background-color: #09D4CD;
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px 0px 10px 20px;
+}
+
+.generalLink:hover {
+    background-color: #1bf5ee;
+}
+
+.generalLink:active {
+    color: rgb(90, 90, 90);
+    transform: scale(0.98);
+    /* Scaling button to 0.98 to its original size */
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
+}
+
+.numberLink {
+    display: inline-block;
+    margin: 0px 0px 0px 30px;
+    color: rgb(255, 123, 0);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.generalLinkSumm {
     padding: 10px 10px 10px 10px;
     color: #000000;
     background-color: #09D4CD;
@@ -307,11 +359,11 @@
     margin: 10px 0px 10px 30px;
 }
 
-.generalLink:hover {
+.generalLinkSumm:hover {
     background-color: #1bf5ee;
 }
 
-.generalLink:active {
+.generalLinkSumm:active {
     color: rgb(90, 90, 90);
     transform: scale(0.98);
     /* Scaling button to 0.98 to its original size */
