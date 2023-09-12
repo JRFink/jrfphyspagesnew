@@ -100,7 +100,7 @@ const NewtLaws = () => {
             </h2>
                 <p>
                     We push and pull things around us, and we are pushed and pulled. We push a bag, pull a rope, get pulled down by gravity, etc. 
-                    There are four fundamental forces known today. They are 
+                    Though, there are four fundamental forces known today. They are 
                     <ul>
                         <li>
                             Gravitational force
@@ -147,9 +147,6 @@ const NewtLaws = () => {
                     </ul>
                     Read more about these things in the <Link href="/research/particle">particle physics</Link> section.
                 </p>
-                <h3>
-                    Discussion
-                </h3>
             <h2 className={style.summaryHeading}>
                 Summary
            </h2>
