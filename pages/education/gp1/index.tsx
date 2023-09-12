@@ -143,7 +143,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 14
             </p>
-            <Link href="/education/gp1/eq" className={style.generalLink}>Equilibrium</Link><br></br>
+            <Link href="/education/gp1/eq" className={style.generalLink}>Equilibrium and Elasticity</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 15
