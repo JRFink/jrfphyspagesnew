@@ -121,7 +121,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 10
             </p>
-            <Link href="/education/gp1/pu" className={style.generalLink}>Potential Energy and Energy Conservation</Link><br></br>
+            <Link href="/education/gp1/pu" className={style.generalLink}>Potential Energy &#38; Energy Conservation</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/2" className={style.testLink}>Test 2</Link><br></br>
             <br></br>
