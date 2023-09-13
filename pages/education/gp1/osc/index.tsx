@@ -81,7 +81,10 @@ const Osc = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/wm" className={style.backtoLink}>Wave motion &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
