@@ -27,11 +27,14 @@ function Messageform({setSubmitted}) {
       <h1 className={style.centerText}>
               Contact
       </h1>
+        <div className={style.centerInADiv}>
          <form onSubmit={(note) => handleSubmit(note, setSubmitted)}>
              <textarea type="text" id="messageText" className={style.messageBox} placeholder=" General feedback"/>
-             <br></br>
+             <br />
+             <br />
              <button type="submit" className={style.greenButtonCont}>Submit</button>
          </form>
+        </div>
     </>
   ) 
 }
