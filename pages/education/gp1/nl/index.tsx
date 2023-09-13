@@ -33,9 +33,6 @@ const NewtLaws = () => {
                 <h3>
                     1.2 Validity 
                 </h3>
-                    <p>
-                        Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10&#37; of the speed of light!
-                    </p>
             <h2 className={style.h2SectionColor} id="nslaw">
                 2. Second law 
             </h2>
@@ -70,7 +67,7 @@ const NewtLaws = () => {
                     2.6 Validity
                 </h3>
                     <p>
-                        Newton&#39;s first law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
+                        Newton&#39;s second law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
                     </p>
             <h2 className={style.h2SectionColor} id="ntl">
                 3. Third law
