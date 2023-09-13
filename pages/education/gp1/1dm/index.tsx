@@ -27,18 +27,40 @@ const Onedm = () => {
             <p className={style.centerText}> 
                 Buy the position and velocity video on our <Link href="/members">members</Link> page. 
             </p>
-            <h3>
-                1.1 Definitions
-            </h3>
-            <h3>
-                1.2 Examples
-            </h3>
+
+                <h3 className={style.h3num}> 
+                     1.1 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Definitions
+                 </h3>  
+                 <h4>
+                     &nbsp; &nbsp; 1.1.1 Definitions  
+                 </h4>        
+                <h3 className={style.h3num}> 
+                     1.2 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Examples
+                 </h3>  
+                 <h4>
+                     &nbsp; &nbsp; 1.2.1 Examples  
+                 </h4>
             <h2 className={style.h2SectionColor} id="vel">
                 2. Velocity
             </h2>
-            <h3>
-                2.1 Average and instantaneous
-            </h3>
+                <h3 className={style.h3num}> 
+                     2.1 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Average and instantaneous
+                 </h3>  
+                 <h4>
+                     &nbsp; &nbsp; 2.1.1 Average  
+                 </h4>
+<h4>
+&nbsp; &nbsp; 2.1.2 Instantaneous
+</h4>
             <h2 className={style.h2SectionColor} id="speed">
                 3. Speed
             </h2>
