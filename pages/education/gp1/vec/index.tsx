@@ -81,7 +81,7 @@ const Vec = () => {
                 </h3>
                     <p>
                         The dot product between two vectors tells us how much one vector is in the direction of the other. 
-                        Sort of like an overlap. You can define the dot product algebraiclly or geometrically. 
+                        Sort of like an overlap. You can define the dot product algebraicly or geometrically. 
                     </p>
                     <h4>
                         4.1.1 Cartesian coordinates
