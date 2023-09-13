@@ -105,13 +105,19 @@ const Calc = () => {
                  </h3> 
                  <h3 className={style.h3text}> 
                      Adding up the changes in position
-                 </h3>                
+                 </h3> 
+                 <h4>
+                     &nbsp; &nbsp; 3.1.1 Adding  
+                 </h4>             
                 <h3 className={style.h3num}> 
                      3.2
                  </h3> 
                  <h3 className={style.h3text}> 
                      Adding up changes in velocity 
                  </h3>
+                 <h4> 
+                     &nbsp; &nbsp; 3.2.1 Adding
+                 </h4>
                   
             <h2 className={style.h2SectionColor} id="pow">
                 Power rule just for fun
