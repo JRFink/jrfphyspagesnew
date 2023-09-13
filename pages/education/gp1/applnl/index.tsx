@@ -31,29 +31,41 @@ const ApplNl = () => {
             <h2 className={style.h2SectionColor} id="slaw">
                 2. Using the second
             </h2>
-<p> 
-There are many applications of the second law. One could argue that everything in classical mechanics is an example of the second law. We can apply it to simple cases in order to make sense of it. 
-</p> 
+                <p> 
+                There are many applications of the second law. One could argue that everything in classical mechanics is an example of the second law. We can apply it to simple cases in order to make sense of it. 
+                </p> 
                 <h3>
-                    2.1 Friction
-                </h3>
-                    <h4>
-                        2.1.1 Static
-                    </h4>
-                    <h4>
-                        2.1.2 Kinetic
-                    </h4>
-                    <h4>
-                        2.1.3 Rolling
-                    </h4>
-                <h3>
-                    2.2 Tension
+                    2.1 Force as function of position
                 </h3>
                 <h3>
-                    2.3 Free-fall with approximate a
+                    2.2 Force as function of time
                 </h3>
                 <h3>
-                    2.4 Drag force
+                    2.3 Force as function of something else
+                </h3>
+                <h3>
+                    2.4 Constant forces
+                </h3>
+                <h3>
+                    2.5 Friction
+                </h3>
+                    <h4>
+                        2.5.1 Static
+                    </h4>
+                    <h4>
+                        2.5.2 Kinetic
+                    </h4>
+                    <h4>
+                        2.5.3 Rolling
+                    </h4>
+                <h3>
+                    2.6 Tension
+                </h3>
+                <h3>
+                    2.7 Free-fall with approximate a
+                </h3>
+                <h3>
+                    2.8 Drag force
                 </h3>
             <h2 className={style.h2SectionColor} id="third">
                 3. Using the third
