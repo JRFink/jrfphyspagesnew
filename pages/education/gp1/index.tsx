@@ -84,7 +84,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 3
             </p>
-            <Link href="/education/gp1/calc" className={style.generalLink}>Big calc review</Link><br></br>
+            <Link href="/education/gp1/calc" className={style.generalLink}>Calc review</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 4
