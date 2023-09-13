@@ -50,8 +50,11 @@ const Calc = () => {
                 <p>
                     Let&#39;s get into it! 
                 </p>
-                <h3>
-                    2.1 Tangents
+                <h3 className={style.h3num}>
+                    2.1
+                </h3>
+                <h3 className={style.h3text>
+                    Tangents
                 </h3>
                     <p>
                         Tangents are cool once you understand what they are. In general, take a simple parabola, and define two points on them. 
