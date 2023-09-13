@@ -45,6 +45,10 @@ const Kin = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <Link href="/education/gp1/flaw" className={style.backtoLink}>First law of thermodynamics &#10140;</Link>  
+             <br />  
+             <br />
             <Helpful />
         </>
     );
