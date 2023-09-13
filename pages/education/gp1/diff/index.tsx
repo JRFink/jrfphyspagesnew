@@ -43,7 +43,7 @@ const Osc = () => {
             <OnedmQz />
             <br />
             <br /> 
-            <Link href="/education/gp1/nlaw" className={style.backtoLink}>Newton&#39;s laws &#10140;</Link>  
+            <Link href="/education/gp1/nlw" className={style.backtoLink}>Newton&#39;s laws &#10140;</Link>  
              <br />  
              <br />                             <Helpful />
         </>
