@@ -54,7 +54,10 @@ const Fluid = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/osc" className={style.backtoLink}>Oscillations &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
