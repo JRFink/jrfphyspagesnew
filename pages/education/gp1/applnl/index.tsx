@@ -123,15 +123,34 @@ const ApplNl = () => {
             <h2 className={style.h2SectionColor} id="third">
                 3. Using the third
             </h2>
-                <h3>
-                    3.1 Reaction forces
+                <p>
+                    The third law states that every force has a reaction force. 
+                </p>
+                <h3 className={style.h3num}>
+                    3.1 
                 </h3>
+                <h3 className={style.h3text}>
+                    Reaction forces
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 3.1.1 Reaction forces
+                    </h4>
             <h2 className={style.h2SectionColor} id="circ">
                 4. Dynamics of circular motion
             </h2>
-                <h3>
-                    4.1 Going around a curve
+                <p>
+                    Some parts of circular motion are the same as linear motion, but other parts are different. 
+                </p>
+                <h3 className={style.h3num}>
+                    4.1
+                </h3>           
+                <h3 className={style.h3text}>
+                    Going around a curve
                 </h3>
+                    <h4>
+                        &nbsp; &nbsp; 4.1.1 Rouding a curve
+                    </h4>
+            <br />
             <Summary />
             <br></br>
             <br></br>

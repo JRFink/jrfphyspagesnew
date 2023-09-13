@@ -29,20 +29,38 @@ const Uvec = () => {
                 Physics starts with a reference frame. Where are you? Where are you in relation to something else?
                 These are what reference frames address. 
             </p>
-            <h3>
-                1.1 Your own frame
+            <h3 className={style.h3num}>
+                1.1 
             </h3>
-            <p>
-                When thinking about physics, you should always define your own reference frame. This is very important. 
-                For example, you could be at 0 meters; 5,280 feet; or &#40;10&#94;11 meters, 0, 0&#41;. 
-                Knowing where you are always helps.
-            </p>
-            <h3>
-                1.2 Frame relative to something else
+            <h3 className={style.h3text}>
+                Your own frame
             </h3>
-            <h3>
-                1.3 Physicists&#39; inertial and non-inertial frames
+                <p>
+                    When thinking about physics, you should always define your own reference frame. This is very important. 
+                    For example, you could be at 0 meters; 5,280 feet; or &#40;10&#94;11 meters, 0, 0&#41;. 
+                    Knowing where you are always helps.
+                </p>
+            <h3 className={style.h3num}>
+                1.2
             </h3>
+            <h3 className={style.h3text}>
+                Frame relative to something else
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.2.1 Relative
+                </h4>
+            <h3 className={style.h3num}>
+                1.3
+            </h3>
+            <h3 className={style.h3text}>
+                Inertial and non-inertial frames
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.3.1 Inertial
+                </h4>
+                <h4>
+                    &nbsp; &nbsp; 1.3.2 Non-inertial
+                </h4>
             <h2 className={style.h2SectionColor} id="units">
                 2. Units 
             </h2>
@@ -57,8 +75,11 @@ const Uvec = () => {
                 Meters is the unit, of length, 
                 so 3 meters means three of whatever the standard for &apos;1 meter&apos; is.  
             </p>
-            <h3>
-                2.1 SI Units
+            <h3 className={style.h3num}>
+                2.1
+            </h3>
+            <h3 className={style.h3text}>
+                SI Units
             </h3>
                 <h4>
                     &nbsp; &nbsp; 2.1.1 Mass
