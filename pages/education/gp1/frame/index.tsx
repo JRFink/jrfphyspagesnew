@@ -85,7 +85,7 @@ const Uvec = () => {
                     &nbsp; &nbsp; 2.1.1 Mass
                 </h4>
                     <p>
-                        <a href="https://www.nist.gov/pml/owm/si-units-mass">mass</a>
+                        &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.nist.gov/pml/owm/si-units-mass">mass</a>
                     </p>
                 <h4>
                     &nbsp; &nbsp; 2.1.2 Length
@@ -93,8 +93,11 @@ const Uvec = () => {
                 <h4>
                     &nbsp; &nbsp; 2.1.3 Time
                 </h4>
-            <h3>
-                2.2 British system
+            <h3 className={style.h3num}>
+                2.2
+            </h3>
+            <h3 className={style.h3text}>
+                British system
             </h3>
                 <h4>
                     &nbsp; &nbsp; 2.2.1 Mass
@@ -105,22 +108,37 @@ const Uvec = () => {
                 <h4>
                     &nbsp; &nbsp; 2.2.3 Time
                 </h4>
-            <h3>
-                2.3 Other systems
+            <h3 className={style.h3num}>
+                2.3
             </h3>
-            <h3>
-                2.4 Unit conversion
+            <h3 className={style.h3text}>
+                Other systems
             </h3>
-            <p>
-                Unit conversion is the process of converting one unit to another. In order to convert one unit 
-                to another, you have to multiply that unit by .... Let&#39;s go back to a very simple math concept. 
-                What happens when you multiply by 1? You don&#39;t change the value. 2 * 1 is still 2. 
-                3 bananas * 1 is still 3 bananas. So, when you have something with a unit, such as 2 miles, you can multiply that 
-                by a unit ratio, which is the equivalent of multiplying by ..., and not change the value. 2 miles * fill = 3218 meters.
-                What <em>unit ratio</em> would you use? Yes, because that doesn&#39;t .. the value. 
-            </p>
-            <h3>
-                2.5 Dimensional analysis
+                <h4>
+                    &nbsp; &nbsp; 2.3.1 Other
+                </h4>
+            <h3 className={style.h3num}>
+                2.4
+            </h3>
+            <h3 className={style.h3text}>
+                Unit conversion
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 2.4.1 Conversion
+                </h4>
+                    <p>
+                        Unit conversion is the process of converting one unit to another. In order to convert one unit 
+                        to another, you have to multiply that unit by .... Let&#39;s go back to a very simple math concept. 
+                        What happens when you multiply by 1? You don&#39;t change the value. 2 * 1 is still 2. 
+                        3 bananas * 1 is still 3 bananas. So, when you have something with a unit, such as 2 miles, you can multiply that 
+                        by a unit ratio, which is the equivalent of multiplying by ..., and not change the value. 2 miles * fill = 3218 meters.
+                        What <em>unit ratio</em> would you use? Yes, because that doesn&#39;t .. the value. 
+                    </p>
+            <h3 className={style.h3num}>
+                2.5
+            </h3>
+            <h3 className={style.h3text}>
+                Dimensional analysis
             </h3>
             <p>
                 Dimensional analysis is the process of making sure the units on your equations match.  
@@ -150,13 +168,16 @@ const Uvec = () => {
                     </mfrac>
                 </math>, so we have made a dimensional mistake.  */}
             </p>
-            <h3>
-                2.6 Government standards
+            <h3 className={style.h3num}>
+                2.6
             </h3>
-            <p>
-                Government standards are interesting. Find some of <Link href="https://www.nist.gov/">America&#39;s</Link> here. 
-                Government, and more broadly international, standards are important because whether we like it or not we live in a global society.
-            </p>
+            <h3 className={style.h3text}>
+                Government standards
+            </h3>
+                <p>
+                    Government standards are interesting. Find some of <Link href="https://www.nist.gov/">America&#39;s</Link> here. 
+                    Also, international standards are important because we live in a global society.
+                </p>
             <br></br>
             <h2 className={style.h2SectionColor} id="measurement">
                 3. Measurement
@@ -167,27 +188,36 @@ const Uvec = () => {
                 how far to your pencil. You measure about 3 cm, notice there is some uncertainty, maybe a few milimeters,
                 and say something like 3 cm &#177; 2 mm. You have made a measurement.
             </p>
-            <h3>
-                3.1 How to measure
+            <h3 className={style.h3num}>
+                3.1
             </h3>
-            <p>
-                How you measure depends upon what you want to measure. In gen phys 1, you will be measuring things like position
-                and changes in position, as well as velocity and changes in energy indirectly.
-            </p>
-            <h3>
-                3.2 Significant figures 
+            <h3 className={style.h3text}>
+                How to measure
             </h3>
-            <p>
-                Significant figures are a pain. Nonetheless, they are important and we will use them in this class. You will 
-                impress all your friends when you correctly use significant figures. The metrologists will also love you. 
-            </p>
-            <h3>
-                3.3 Uncertainty in measurement
+                <p>
+                    How you measure depends upon what you want to measure. In gen phys 1, you will be measuring things like position
+                    and changes in position, as well as velocity and changes in energy indirectly.
+                </p>
+            <h3 className={style.h3num}>
+                3.2
             </h3>
-            <p>
-                Every measurement has some kind of uncertainty. Even at the precision of atoms there is some <Link href="https://plato.stanford.edu/entries/qt-uncertainty/">level of uncertainty</Link>. 
-                Why is an interesting question. At this level, though, we&#39;ll just be covering basic uncertainty and how to deal with it. 
-            </p>
+            <h3 className={style.h3text}>
+                Significant figures 
+            </h3>
+                <p>
+                    Significant figures are a pain. Nonetheless, they are important and we will use them in this class. You will 
+                    impress all your friends when you correctly use significant figures. The metrologists will also love you. 
+                </p>
+            <h3 className={style.h3num}>
+                3.3
+            </h3>
+            <h3 className={style.h3text}>
+                Uncertainty in measurement
+            </h3>
+                <p>
+                    Every measurement has some kind of uncertainty. Even at the precision of atoms there is some <Link href="https://plato.stanford.edu/entries/qt-uncertainty/">level of uncertainty</Link>. 
+                    Why is an interesting question. At this level, though, we&#39;ll just be covering basic uncertainty and how to deal with it. 
+                </p>
             <br />
             <Summary />
             <p>
