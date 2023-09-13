@@ -11,7 +11,7 @@ const Calc = () => {
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Big calc review
+                Calc review
             </h1>
                 <p> 
                     This is not meant to teach you calc from the ground up; but it&#39;s meant to help. 
