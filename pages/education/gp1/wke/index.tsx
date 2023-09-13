@@ -71,6 +71,10 @@ const Wke = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <Link href="/education/gp1/pu" className={style.backtoLink}>Potential energy &#38; energy conservation &#10140;</Link>  
+             <br />  
+             <br />                 
             <Helpful />
         </>
     );
