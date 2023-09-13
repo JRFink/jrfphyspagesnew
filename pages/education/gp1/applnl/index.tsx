@@ -44,20 +44,38 @@ const ApplNl = () => {
                     <h4>
                         &nbsp; &nbsp; 2.1.1 Solving the differential equation
                     </h4>
-                <h3>
-                    2.2 Force as function of time
+                <h3 className={style.h3num}>
+                    2.2
+                </h3>
+                <h3 className={style.h3text}>
+                    Force as function of time
                 </h3>
                     <h4>
-                        2.2.1 Solving the differential equation
+                    &nbsp; &nbsp; 2.2.1 Solving the differential equation
                     </h4>
-                <h3>
-                    2.3 Force as function of something else
+                <h3 className={style.h3num}>
+                    2.3
                 </h3>
-                <h3>
-                    2.4 Constant forces
+                <h3 className={style.h3text}>
+                    Force as function of something else
                 </h3>
-                <h3>
-                    2.5 Friction
+                    <h4>
+                    &nbsp; &nbsp; 2.3.1 General independent variable
+                    </h4>
+                <h3 className={style.h3num}>
+                    2.4
+                </h3>
+                <h3 className={style.h3text}>
+                    Constant forces
+                </h3>
+                    <h4>
+                    &nbsp; &nbsp; 2.4.1 Constant forces
+                    </h4>
+                <h3 className={style.h3num}>
+                    2.5
+                </h3>
+                <h3 className={style.h3text}>
+                    Friction
                 </h3>
                     <h4>
                         2.5.1 Static
