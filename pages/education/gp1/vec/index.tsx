@@ -29,8 +29,11 @@ const Vec = () => {
                 Magnitude is a scalar quantity, meaning how big or small something is. And direction means which way the vector is pointing, 
                 given by an angle or another way of conveying it.  
             </p>
-                <h3>
-                    1.1 Components
+                <h3 className={style.h3num}>
+                    1.1
+                </h3>
+                <h3 className={style.h3text}>
+                    Components
                 </h3>
                 <p>
                     Components are essential to vectors because they help us break down the vector down into its parts. 
@@ -42,8 +45,11 @@ const Vec = () => {
             <p>
                 Vectors are everywhere in physics. From displacement, velocity, and acceleration, to the electric force and phases between vectors in quantum mechanics, we describe many physical quantities with vectors.  
             </p>
-                <h3>
-                    2.1 Vectors and physics
+                <h3 className={style.h3num}>
+                    2.1
+                </h3>
+                <h3 className={style.h3text}>
+                    Vectors and physics
                 </h3>
                 <p>
                     Knowing how to use vectors will make solving physics problems much easier. For example, when thinking about velocity and acceleration,
@@ -53,20 +59,27 @@ const Vec = () => {
             <h2 className={style.h2SectionColor} id="add">
                 3. Vector addition and subtraction
             </h2>
-                <h3>
-                    3.1 Adding and subtracting components
-                </h3>
                 <p>
-                    Vector addition and subtraction isn&#39;t too bad if you stick to cartesian coordinates. You add and subtract like normal. 
-                    <br></br>
-                    <br></br>
+                    Vector addition and subtraction isn&#39;t too bad if you stick to cartesian coordinates. You add and subtract like normal.
+                </p>
+                <h3 className={style.h3num}>
+                    3.1
+                </h3>
+                <h3 className={style.h3text}>
+                    Adding and subtracting
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 3.1.1 Addition
+                    </h4>
                     <div className={style.centerText}>
                         <p>
+                            Focus on the components of the vector. 
+                            <br />
+                            <br />
                             <b> a</b> = 3 <b>x</b> + 2 <b>y</b> + <b>z</b> plus <b>b</b> = 7 <b>x</b> - 3 <b>y</b> + <b>z </b> 
                             is just <b>a</b> + <b>b</b> = <b>c</b> = 10 <b>x</b> - <b>y</b> + 2 <b>z</b>.
                         </p>
                     </div>
-                </p>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="mult">
@@ -76,15 +89,18 @@ const Vec = () => {
                     Vector multiplication is where it gets a little more complicated to think about. We&#39;ll try to give an intuitive 
                     understanding of what&#39;s going on. No promises! 
                 </p>
-                <h3>
-                    4.1 Scalar &#40;dot&#41; product
+                <h3 className={style.h3num}>
+                    4.1
+                </h3>
+                <h3 className={style.h3text}>
+                    Scalar &#40;dot&#41; product
                 </h3>
                     <p>
                         The dot product between two vectors tells us how much one vector is in the direction of the other. 
-                        Sort of like an overlap. You can define the dot product algebraicly or geometrically. 
+                        Sort of like an overlap. You can define the dot product algebraically or geometrically. 
                     </p>
                     <h4>
-                        4.1.1 Cartesian coordinates
+                        &nbsp; &nbsp; 4.1.1 Cartesian coordinates
                     </h4>
                         <p>
                             When using cartesian coordinates, you define the dot product <em>algebraically</em> as 
@@ -107,7 +123,7 @@ const Vec = () => {
                     <br></br>
                     <br></br>
                     <h4>
-                        4.1.2 Other coordinates
+                        &nbsp; &nbsp; 4.1.2 Other coordinates
                     </h4>
                         <p>
                             We can also use the dot product in other coordinate systems; though, it gets complicated. For one, say you have
@@ -115,8 +131,11 @@ const Vec = () => {
                             it would be easier to just convert it to cartesian and then take the dot product.
                             You get into the realm of more advanced math.    
                         </p>
-                <h3>
-                    4.2 Vector &#40;cross&#41; product
+                <h3 className={style.h3num}>
+                    4.2
+                </h3>
+                <h3 className={style.h3text}>
+                    Vector &#40;cross&#41; product
                 </h3>
                     <p>
                         The cross product tells us how much two vectors are <em>not</em> in the same direction. 
