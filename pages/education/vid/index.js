@@ -29,9 +29,10 @@ const AllVid = () => {
             </h1>
             <br />
             <UnitsVid />
-            <br />
-            <br />
-            <ConstantPosVid />
+            <br />    
+            <br /> 
+             <p className={style.centerText}>  
+                 Buy the position and velocity video on our <Link href="/members">members</Link> page.             
             <br /> 
             <br />
             <AccelVid /> 
