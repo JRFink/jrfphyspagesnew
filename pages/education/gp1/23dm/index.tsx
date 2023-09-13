@@ -68,6 +68,10 @@ const Two3dm = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <Link href="/education/gp1/diff" className={style.backtoLink}>Differential equations crash course &#10140;</Link>  
+             <br />  
+             <br />                 
             <Helpful />
         </>
     );
