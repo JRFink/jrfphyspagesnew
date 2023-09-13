@@ -64,9 +64,18 @@ const Onedm = () => {
             <h2 className={style.h2SectionColor} id="speed">
                 3. Speed
             </h2>
-            <h3>
-                3.1 Average and instantaneous
-            </h3>
+                <h3 className={style.h3num}> 
+                     3.1 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Average and instantaneous
+                 </h3>  
+                 <h4>
+                     &nbsp; &nbsp; 3.1.1 Average  
+                 </h4>
+           <h4> 
+&nbsp; &nbsp; 3.1.2 Instantaneous
+</h4>
             <h2 className={style.h2SectionColor} id="accel">
                 4. Acceleration
             </h2>
