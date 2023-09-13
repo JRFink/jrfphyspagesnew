@@ -22,12 +22,19 @@ const ApplNl = () => {
             <h2 className={style.h2SectionColor} id="flaw">
                 1. Using the first law
             </h2>
-                <h3>
-                    1.1 Equilibrium
-                </h3>
                 <p> 
                    Newton&#39;s first law states that an object in motion remains in motion unless acted on by another. In order to use this law, let&#39;s consider some simple examples. First, consider a block moving on a sheet of ice to the right at 2 m/s. There is no friction, and there are no net external forces acting. What is the change in displacement of the block after 3 seconds?
                 </p> 
+                <h3 className={style.h3num}>
+                    1.1
+                </h3>
+                <h3 className={style.h3text}>
+                    Equilibrium
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 1.1.1 Equilibrium
+                    </h4>
+                
             <h2 className={style.h2SectionColor} id="slaw">
                 2. Using the second
             </h2>
