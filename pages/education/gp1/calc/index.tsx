@@ -100,7 +100,7 @@ const Calc = () => {
                 <p>
                     The development of calculus has a long history. It didn&#39;t simply start with &#34;Newton&#34;. 
                     A huge part of modern day calc is the power rule, what you learn as a shortcut. 
-                    But how do we get the power rule?
+                    But how do you get the power rule?
                 </p>
             <br></br>
             <CalcEx />
