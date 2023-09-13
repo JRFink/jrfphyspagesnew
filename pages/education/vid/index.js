@@ -32,7 +32,8 @@ const AllVid = () => {
             <br />    
             <br /> 
              <p className={style.centerText}>  
-                 Buy the position and velocity video on our <Link href="/members">members</Link> page.             
+                 Buy the position and velocity video on our <Link href="/members">members</Link> page.  
+            </p>           
             <br /> 
             <br />
             <AccelVid /> 
