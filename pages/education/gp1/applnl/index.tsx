@@ -78,23 +78,41 @@ const ApplNl = () => {
                     Friction
                 </h3>
                     <h4>
-                        2.5.1 Static
+                    &nbsp; &nbsp; 2.5.1 Static
                     </h4>
                     <h4>
-                        2.5.2 Kinetic
+                    &nbsp; &nbsp; 2.5.2 Kinetic
                     </h4>
                     <h4>
-                        2.5.3 Rolling
+                    &nbsp; &nbsp; 2.5.3 Rolling
                     </h4>
-                <h3>
-                    2.6 Tension
+                <h3 className={style.h3num}>
+                    2.6
                 </h3>
-                <h3>
-                    2.7 Free-fall with approximate a
+                <h3 className={style.h3text}>
+                    Tension
                 </h3>
-                <h3>
-                    2.8 Drag force
+                    <h4>
+                    &nbsp; &nbsp; 2.6.1 Tension
+                    </h4>
+                <h3 className={style.h3num}>
+                    2.7
                 </h3>
+                <h3 className={style.h3text}>
+                    Free-fall with approximate a
+                </h3>
+                    <h4>
+                    &nbsp; &nbsp; 2.7.1 Free fall
+                    </h4>
+                <h3 className={style.h3num}>
+                    2.8
+                </h3>
+                <h3 className={style.h3text}>
+                    Drag force
+                </h3>
+                    <h4>
+                    &nbsp; &nbsp; 2.8.1 Drag force
+                    </h4>
             <h2 className={style.h2SectionColor} id="third">
                 3. Using the third
             </h2>
