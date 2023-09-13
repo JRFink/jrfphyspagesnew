@@ -22,7 +22,7 @@ const Two3dmEx = () => {
         </p>
         <input type='text'></input> 
       <p>Hm times {count}</p>
-      <button onClick={() => setCount(count + 1)} className={style.greenButton}>Check answer</button>
+      <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
     </div>
   );
 }
