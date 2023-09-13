@@ -57,7 +57,10 @@ const Rm = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/trq" className={style.backtoLink}>Dynamics of rotational motion &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
