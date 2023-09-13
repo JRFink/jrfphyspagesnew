@@ -57,7 +57,7 @@ const Calc = () => {
                     Tangents
                 </h3>
                     <p>
-                        Tangents are cool once you understand what they are. In general, take a simple parabola, and define two points on them. 
+                        Take a simple parabola and define two points on them. 
                         Draw a line connecting them. Find the slope, find it graphically. 
                         Now keep one of the points fixed and drag the other point a little closer to the other one. 
                         Find the slope. 
@@ -65,22 +65,32 @@ const Calc = () => {
                         Find its slope. 
                         Keep doing this. 
                     </p>
-                <h3>
-                    2.2 Rates of change
-                </h3>
+                  <h3 className={style.h3num}> 
+                     2.2 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Rates of change
+                 </h3>              
                     <p>
                         And voila, the rate of change. 
                     </p>
-                <h3>
-                    2.3 Plotting rates of change
-                </h3>
-                    <p>
+
+                 <h3 className={style.h3num}> 
+                     2.3
+                 </h3> 
+                <h3 className={style.h3text}> 
+                     Plotting rates of change 
+                 </h3> 
+                 <p>
                         Now the interesting part. Let&#39;s do some plotting. Keep the independent variable axis the same, but 
                         for the dependent variable axis use what you found above. Start plotting. 
                     </p>
-                <h3>
-                    2.4 Adding rates of change for a certain period
-                </h3>
+                <h3 className={style.h3num}> 
+                     2.4 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Adding rates of change for a certain period
+                 </h3>
                     <p>
                         Now think about how you use a rate to find the change of something.
                     </p>
@@ -89,12 +99,20 @@ const Calc = () => {
             <h2 className={style.h2SectionColor} id="ex">
                 3. Example with 1 dimensional motion
             </h2>
-                <h3>
-                    3.1 Adding up the changes in position
-                </h3>
-                <h3>
-                    3.2 Adding up changes in velocity
-                </h3>
+                
+                <h3 className={style.h3num}> 
+                     3.1 
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Adding up the changes in position
+                 </h3>                
+                <h3 className={style.h3num}> 
+                     3.2
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Adding up changes in velocity 
+                 </h3>
+                  
             <h2 className={style.h2SectionColor} id="pow">
                 Power rule just for fun
             </h2>
