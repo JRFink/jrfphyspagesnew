@@ -428,6 +428,16 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
 }
 
+.h3num {
+    display: inline-block;
+    color: rgb(6, 154, 6);
+}
+
+.h3text {
+    display: inline-block;
+    padding: 15px 0px 15px 15px; 
+}
+
 .markExercise {
     background-color: rgb(252, 255, 161);
     text-decoration: none;

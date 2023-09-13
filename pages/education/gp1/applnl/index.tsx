@@ -35,12 +35,21 @@ const ApplNl = () => {
                     There are many applications of the second law. 
                     One could argue that everything in classical mechanics is an example of the second law. 
                 </p> 
-                <h3>
-                    2.1 Force as function of position
+                <h3 className={style.h3num}>
+                    2.1
                 </h3>
+                <h3 className={style.h3text}>
+                    Force as function of position
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 2.1.1 Solving the differential equation
+                    </h4>
                 <h3>
                     2.2 Force as function of time
                 </h3>
+                    <h4>
+                        2.2.1 Solving the differential equation
+                    </h4>
                 <h3>
                     2.3 Force as function of something else
                 </h3>
