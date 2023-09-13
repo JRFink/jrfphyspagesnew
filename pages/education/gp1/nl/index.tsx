@@ -157,7 +157,7 @@ const NewtLaws = () => {
             <OnedmQz />
             <br />
             <br /> 
-            <Link href="/education/gp1/apnlw" className={style.backtoLink}>Applying Newton&#39;s laws &#10140;</Link>  
+            <Link href="/education/gp1/applnl" className={style.backtoLink}>Applying Newton&#39;s laws &#10140;</Link>  
              <br />  
              <br />                             <Helpful />
         </>
