@@ -51,6 +51,10 @@ const Theat = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <Link href="/education/gp1/kin" className={style.backtoLink}>Gases &#10140;</Link>  
+             <br />  
+             <br />
             <Helpful />
         </>
     );
