@@ -160,7 +160,10 @@ const ApplNl = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/wke" className={style.backtoLink}>Work and kinetic energy &#10140;</Link>  
+             <br />  
+             <br />                             <Helpful />
         </>
     );
 }
