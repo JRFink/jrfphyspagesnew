@@ -150,6 +150,10 @@ const Vec = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+                        <Link href="/education/gp1/calc" className={style.backtoLink}>Calc review &#10140;</Link>  
+            <br /> 
+            <br /> 
             <Helpful />
         </>
     );
