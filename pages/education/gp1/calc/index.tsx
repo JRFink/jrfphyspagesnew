@@ -53,7 +53,7 @@ const Calc = () => {
                 <h3 className={style.h3num}>
                     2.1
                 </h3>
-                <h3 className={style.h3text>
+                <h3 className={style.h3text}>
                     Tangents
                 </h3>
                     <p>
