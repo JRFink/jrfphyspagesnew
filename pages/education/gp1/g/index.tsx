@@ -75,6 +75,10 @@ const Gravity = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <Link href="/education/gp1/fluid" className={style.backtoLink}>Fluids &#10140;</Link>  
+             <br />  
+             <br />
             <Helpful />
         </>
     );
