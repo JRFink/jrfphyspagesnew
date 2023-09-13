@@ -59,7 +59,10 @@ const Taylor = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/g" className={style.backtoLink}>Gravity &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
