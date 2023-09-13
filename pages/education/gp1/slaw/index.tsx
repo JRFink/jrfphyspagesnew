@@ -40,7 +40,10 @@ const Slaw = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp2" className={style.backtoLink}>Gen phys 2 &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
