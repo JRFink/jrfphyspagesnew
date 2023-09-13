@@ -40,7 +40,7 @@ const NewtLaws = () => {
                 2. Second law 
             </h2>
                 <p>
-                    Newton&#39;s second law is the statement that <b>F</b> = m <b>a</b>. 
+                    Newton&#39;s second law is the statement that <b>F</b> = d<b>p</b>&#47;dt. 
                 </p>
                 <h3>
                     2.1 Functions of what
