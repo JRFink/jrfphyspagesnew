@@ -31,7 +31,10 @@ const Flaw = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/slaw" className={style.backtoLink}>Second law &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
