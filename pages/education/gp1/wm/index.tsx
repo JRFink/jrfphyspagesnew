@@ -52,6 +52,10 @@ const Wave = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br /> 
+            <Link href="/education/gp1/theat" className={style.backtoLink}>Temperature &#38; heat &#10140;</Link>  
+             <br />  
+             <br />
             <Helpful />
         </>
     );
