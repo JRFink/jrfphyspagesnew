@@ -84,6 +84,10 @@ const Onedm = () => {
             <br></br>
             <OnedmQz />
             <br />
+            <br />
+            <Link href="/education/gp1/23dm" className={style.backtoLink}>Motion in 2 and 3 dimensions &#10140;</Link> 
+            <br /> 
+            <br />                 
             <Helpful />
         </>
     );
