@@ -41,7 +41,10 @@ const Trq = () => {
             <br></br>
             <OnedmQz />
             <br />
-            <Helpful />
+            <br /> 
+            <Link href="/education/gp1/eq" className={style.backtoLink}>Equilibrium &#38; elasticity &#10140;</Link>  
+             <br />  
+             <br />            <Helpful />
         </>
     );
 }
