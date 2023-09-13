@@ -14,7 +14,7 @@ const Osc = () => {
                 Differential equations 
             </h1>
             <p> 
-                Differential equations isn&#39;t something you typically learn in gen phys 1. Learning a few pieces of it, though, will drastically help you understand Newton&#39;s second law more effectively. They will help you understand the second law and how to solve the equation in different cases. In some cases it is easy to solve, but in other cases it isn&#39;t, and that&#39;s when you have to result to other strategies to solve physical problems.
+                Differential equations isn&#39;t something you typically learn in gen phys 1. Learning a few pieces of it, though, will drastically help you understand Newton&#39;s second law more effectively. They will help you understand how to solve the second law in different cases. In some cases it is easy to solve, but in other cases it isn&#39;t, and that&#39;s when you have to result to other strategies to solve physical problems.
              </p> 
             <ModoverviewDiff />
                 <h2 className={style.h2SectionColor} id="types">
