@@ -32,7 +32,8 @@ const ApplNl = () => {
                 2. Using the second
             </h2>
                 <p> 
-                There are many applications of the second law. One could argue that everything in classical mechanics is an example of the second law. We can apply it to simple cases in order to make sense of it. 
+                    There are many applications of the second law. 
+                    One could argue that everything in classical mechanics is an example of the second law. 
                 </p> 
                 <h3>
                     2.1 Force as function of position
