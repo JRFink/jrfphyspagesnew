@@ -59,7 +59,7 @@ const NewtLaws = () => {
                 Functions of what
             </h3>
     <h4> 
-        &nbsp; &nbsp; 2.1. Functions of what
+        &nbsp; &nbsp; 2.1.1 Functions of what
     </h4>                   
  <p>
                         Forces originate from different things. For example, the gravitational force originates from the masses of the two objects 
@@ -70,37 +70,86 @@ const NewtLaws = () => {
                         Force could be a function of distance, time, or something else. Sometimes solving the differential equation is 
                         straightforward, but other times it is not. We must figure out when we can easily solve it and when we cannot. 
                     </p>
-                <h3>
-                    2.2 Forces and momentum
-                </h3>
-                <h3>
-                    2.3 Forces and mass
-                </h3>
-                <h3>
-                    2.4 Single forces
-                </h3>
-                <h3>
-                    2.5 Superposition of forces
-                </h3>
-                <h3>
-                    2.6 Validity
-                </h3>
+   <h3 className={style.h3num}>
+2.2
+</h3> 
+            <h3 className={style.h3text>
+                Forces and momentum
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.2.1 Forces
+    </h4>
+    <h4> 
+&nbsp; &nbsp; 2.2.2 Momentum
+    </h4>      
+<h3 className={style.h3num}>
+2.3 
+</h3> 
+            <h3 className={style.h3text>
+                Forces and mass
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.3.1 Forces
+    </h4>  
+<h4> 
+&nbsp; &nbsp; 2.3.2 Mass 
+</h4>            
+<h3 className={style.h3num}>
+2.4 
+</h3> 
+            <h3 className={style.h3text>
+               Single forces
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.4.1 Single forces
+    </h4>               
+<h3 className={style.h3num}>
+2.5
+</h3> 
+            <h3 className={style.h3text>
+                Superposition of forces 
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.5.1 Superposition of forces
+    </h4>
+               
+  <h3 className={style.h3num}>
+2.6
+</h3> 
+            <h3 className={style.h3text>
+                Validity
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.6.1 Validity
+    </h4>    
                     <p>
                         Newton&#39;s second law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
                     </p>
             <h2 className={style.h2SectionColor} id="ntl">
                 3. Third law
             </h2>
-                <h3>
-                    3.1 Definition
-                </h3>
+     <h3 className={style.h3num}>
+3.1 
+</h3> 
+            <h3 className={style.h3text>
+                Definition
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 3.1.1 Definition
+    </h4> 
                     <p>
                         Newton&apos;s third law states that when object A exerts a force on object B then 
                         object B exerts a force on object A of the same strength but directionally opposite to the force that A exerts on B. 
                     </p>
-                <h3>
-                    3.2 Validity
-                </h3>
+             <h3 className={style.h3num}>
+3.2
+</h3> 
+            <h3 className={style.h3text>
+                Validity
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 3.2.1 Validity
+    </h4>
                     <p>
                         Newton&#39;s third law is valid at speeds much less than the speed of light and when the particles carry neutral charge.
                         When the particles are charged and moving relative to one another, they exert magnetic forces on each other; 
