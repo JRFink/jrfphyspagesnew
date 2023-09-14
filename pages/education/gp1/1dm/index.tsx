@@ -118,6 +118,9 @@ Speed...
             <h2 className={style.h2SectionColor} id="calc">
                 5. Calculus examples
             </h2>
+<p>
+Examples...
+</p>
             <h3 className={style.h3num}>
                 5.1 
             </h3>
