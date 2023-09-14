@@ -17,33 +17,75 @@ const Fluid = () => {
             <h2 className={style.h2SectionColor} id="fluid">
                 1. Fluids, density, and pressure
             </h2>
-                <h3>
-                    1.1 Types of fluid
+                <p>
+                    Fluids...
+                </p>
+                <h3 className={style.h3num}>
+                    1.1 
                 </h3>
-                <h3>
-                    1.2 Density
-                </h3>
-                <h3>
-                    1.3 Pressure
+                <h3 className={style.h3text}>
+                    Types of fluid
                 </h3>
                     <h4>
-                        1.3.1 Pascal&#39;s law
+                        &nbsp; &nbsp; 1.1.1 Types...
+                    </h4>
+                <h3 className={style.h3num}>
+                    1.2 
+                </h3>
+                <h3 className={style.h3text}>
+                    Density
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 1.2.1 Density
+                    </h4>
+                <h3 className={style.h3num}>
+                    1.3 
+                </h3>
+                <h3 className={style.h3text}>
+                    Pressure
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 1.3.1 Pascal&#39;s law
                     </h4>
             <h2 className={style.h2SectionColor} id="buoy">
                 2. Buoyancy
             </h2>
-                <h3>
-                    2.1 Archimede&#39;s principle
+                <p>
+                    Buoyancy...
+                </p>
+                <h3 className={style.h3num}>
+                    2.1 
                 </h3>
+                <h3 className={style.h3text}>
+                    Archimede&#39;s principle
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 2.1.1 Principle...
+                    </h4>
             <h2 className={style.h2SectionColor} id="mot">
                 3. Fluids in motion
             </h2>
-                <h3>
-                    3.1 Continuity equation
+                <p>
+                    Fluids...
+                </p>
+                <h3 className={style.h3num}>
+                    3.1 
                 </h3>
-                <h3>
-                    3.2 Bernoulli&#39;s equation
+                <h3 className={style.h3text}>
+                    Continuity equation
                 </h3>
+                    <h4>
+                        &nbsp; &nbsp; 3.1.1 Continuity...
+                    </h4>
+                <h3 className={style.h3num}>
+                    3.2
+                </h3>
+                <h3 className={style.h3text}>
+                    Bernoulli&#39;s equation
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 3.1.1 Bernoulli...
+                    </h4>
             <h2 className={style.h2SectionColor} id="visc">
                 4. Viscosity 
             </h2>

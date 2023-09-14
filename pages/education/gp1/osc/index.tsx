@@ -20,61 +20,87 @@ const Osc = () => {
                 <p>
                     Oscillations occur in many areas of our world.
                 </p>
-                    <h3>
-                        1.1 Types of oscillations
-                    </h3>
+                <h3 className={style.h3num}>
+                    1.1 
+                </h3>
+                <h3 className={style.h3text}>
+                    Types of oscillations
+                </h3>
                         <h4>
-                            1.1.1 Simple harmonic motion
+                            &nbsp; &nbsp; 1.1.1 Simple harmonic motion
                         </h4>
                             <h4>
-                                1.1.1.1 Hooke&#39;s law
+                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.1 Hooke&#39;s law
                             </h4>
                             <h4>
-                                1.1.1.2 Pure
+                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.2 Pure
                             </h4>
                             <h4>
-                                1.1.1.3 Damped
+                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.3 Damped
                             </h4>
                             <h4>
-                                1.1.1.4 Forced
+                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.4 Forced
                             </h4>
                             <h4>
-                                1.1.1.5 Resonance
+                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.5 Resonance
                             </h4>
                         <h4>
-                            1.1.2 Chaotic 
+                            &nbsp; &nbsp; 1.1.2 Chaotic 
                         </h4>
                 <h2 className={style.h2SectionColor} id="conn">
                     2. Connection to circular motion
                 </h2>
-                    <h3>
-                        2.1 Simple harmonic
+                    <p>
+                        Connection...
+                    </p>
+                    <h3 className={style.h3num}>
+                        2.1 
                     </h3>
+                    <h3 className={style.h3text}>
+                        Simple harmonic
+                    </h3>
+                        <h4>
+                            &nbsp; &nbsp; 2.1.1 Simple harmonic...
+                        </h4>
                 <h2 className={style.h2SectionColor} id="en">
                     3. Energy in oscillations
                 </h2>
-                    <h3>
-                        3.1 Simple harmonic 
+                    <p>
+                        Energy... 
+                    </p>
+                    <h3 className={style.h3num}>
+                        3.1 
                     </h3>
+                    <h3 className={style.h3text}>
+                        Simple harmonic 
+                    </h3>
+                        <h4>
+                            &nbsp; &nbsp; 3.1.1 Simple harmonic...
+                        </h4>
                 <h2 className={style.h2SectionColor} id="ex">
                     4. Examples of oscillations 
                 </h2>
-                    <h3>
-                        4.1 Simple harmonic 
+                    <p>
+                        Examples...
+                    </p>
+                    <h3 className={style.h3num}>
+                        4.1 
+                    </h3>
+                    <h3 className={style.h3text}>
+                        Simple harmonic 
                     </h3>
                         <h4>
-                            4.1.1 Pendulums
+                            &nbsp; &nbsp; 4.1.1 Pendulums
                         </h4>
                             <h4>
-                                4.1.1.1 Simple pendulum
+                                &nbsp; &nbsp; &nbsp; &nbsp; 4.1.1.1 Simple pendulum
                             </h4>
                             <h4>
-                                4.1.1.2 Physical pendulum
+                                &nbsp; &nbsp; &nbsp; &nbsp; 4.1.1.2 Physical pendulum
                             </h4>
                             <h4>
-                                4.1.1.3 Double pendulum
+                                &nbsp; &nbsp; &nbsp; &nbsp; 4.1.1.3 Double pendulum
                             </h4>
-            <br></br>
             <br></br>
             <OscEx />
             <br></br>
@@ -84,7 +110,8 @@ const Osc = () => {
             <br /> 
             <Link href="/education/gp1/wm" className={style.backtoLink}>Wave motion &#10140;</Link>  
              <br />  
-             <br />            <Helpful />
+             <br />            
+             <Helpful />
         </>
     );
 }
