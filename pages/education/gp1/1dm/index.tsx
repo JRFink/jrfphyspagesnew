@@ -95,10 +95,10 @@ Speed...
                 Average and instantaneous
             </h3>
             <h4> 
-                 &nbsp; nbsp; 4.1.1 Average 
+                 &nbsp; &nbsp; 4.1.1 Average 
             </h4> 
             <h4> 
-                 &nbsp; nbsp; 4.1.2 Instantaneous 
+                 &nbsp; &nbsp; 4.1.2 Instantaneous 
             </h4>           
 <h3 className={style.h3num}>
 4.2
@@ -133,9 +133,12 @@ Examples...
             <h2 className={style.h2SectionColor} id="free">
                 6. Free-falling bodies don&#39;t have constant a
             </h2>  
-  <h3 className={style.h3num}> 
-6.1
-</h3> 
+            <p>
+                Free falling bodies...
+            </p>
+            <h3 className={style.h3num}> 
+                6.1
+            </h3> 
             <h3 className={style.h3text}>
                 Approximations
             </h3> 
