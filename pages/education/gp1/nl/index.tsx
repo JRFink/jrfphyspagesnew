@@ -27,22 +27,41 @@ const NewtLaws = () => {
                     Newton&apos;s first law states that an object in motion will remain in motion unless acted on by another; 
                     it also states that an object at rest will remain at rest unless acted on by another.
                 </p>
-                <h3>
-                    1.1 Inertial frames
-                </h3>
-                <h3>
-                    1.2 Validity 
-                </h3>
-            <h2 className={style.h2SectionColor} id="nslaw">
+ <h3 className={style.h3num}>
+1.1 
+</h3> 
+            <h3 className={style.h3text>
+                Inertial frames
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 1.1.1 Inertial frames
+    </h4>  
+<h3 className={style.h3num}>
+1.2 
+</h3> 
+            <h3 className={style.h3text>
+                Validity
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 1.2.1 Validity
+    </h4>            
+<h2 className={style.h2SectionColor} id="nslaw">
                 2. Second law 
             </h2>
                 <p>
                     Newton&#39;s second law is the statement that <b>F</b> = d<b>p</b>&#47;dt. 
                 </p>
-                <h3>
-                    2.1 Functions of what
-                </h3>
-                    <p>
+ 
+<h3 className={style.h3num}>
+2.1 
+</h3> 
+            <h3 className={style.h3text>
+                Functions of what
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.1. Functions of what
+    </h4>                   
+ <p>
                         Forces originate from different things. For example, the gravitational force originates from the masses of the two objects 
                         and the distance between them. When objects become closer, the force increases; when the distance grows, the force weakens. 
                         A key point to understanding <b>F</b> = m <b>a</b> is knowing the independent variables. 
