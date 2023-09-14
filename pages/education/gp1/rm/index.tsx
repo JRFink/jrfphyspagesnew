@@ -17,18 +17,43 @@ const Rm = () => {
             <br></br>
             <ModoverviewRm />
             <br></br>
+            <RotVid />
+            <br /> 
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="ang">
                 1. Angular velocity and acceleration
             </h2>
-            <h3>
-                1.1 Angular velocity
+                <p>
+                    Angular velocity...
+                </p>
+            <h3 className={style.h3num}>
+                1.1 
             </h3>
-            <h3>
-                1.2 Angular acceleration
+            <h3 className={style.h3text}>
+                Angular velocity
             </h3>
-            <h3>
-                1.3 Connecting uniform and non-uniform circular motion
+                <h4>
+                    &nbsp; &nbsp; 1.1.1 Angular velocity
+                </h4>
+            <h3 className={style.h3num}>
+                1.2 
             </h3>
+            <h3 className={style.h3text}>
+                Angular acceleration
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.2.1 Angular acceleration
+                </h4>
+            <h3 className={style.h3num}>
+                1.3
+            </h3>
+            <h3 className={style.h3text}>
+                Connecting uniform and non-uniform circular motion
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.3.1 Connecting
+                </h4>
             <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
             </h2>
@@ -42,15 +67,27 @@ const Rm = () => {
             <h2 className={style.h2SectionColor} id="moment">
                 4. Moments of inertia
             </h2>
-            <h3>
-                4.1 math
+            <p>
+                Moments of inertia
+            </p>
+            <h3 className={style.h3num}>
+                4.1 
             </h3>
-            <h3>
-                4.2 Parallel axis theorem
+            <h3 className={style.h3text}>
+                Math
             </h3>
-            <br></br>
-            <RotVid />
-            <br></br>
+                <h4>
+                    &nbsp; &nbsp; 1.1.1 Deriving moments
+                </h4>
+            <h3 className={style.h3num}>
+                4.2
+            </h3>
+            <h3 className={style.h3text}>
+                Parallel axis theorem
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 4.2.1 Parallel axis theorem
+                </h4>
             <br></br>
             <RmEx />
             <br></br>
