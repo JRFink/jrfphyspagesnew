@@ -342,6 +342,9 @@ const Gen = () => {
                 <h2>
                     Other
                 </h2>
+<p>
+Behave &#40;size, speed, charge &#40; elec, grav &#41; &#41; ? 
+</p>
                 <p>
                     <ul>
                         <li>
