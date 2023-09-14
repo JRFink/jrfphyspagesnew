@@ -23,21 +23,54 @@ const Two3dm = () => {
             <br></br>
             <Two3Vid />
             <br></br>
-            <h3>
-                1.1 Position and displacement
+<h3 className={style.h3num}>
+1.1 
+</h3> 
+            <h3 className={style.h3text>
+                Position and displacement
             </h3>
-            <h3>
-                1.2 Velocity
+    <h4> 
+        &nbsp; &nbsp; 1.1.1 Position
+    </h4> 
+    <h4> 
+        &nbsp; &nbsp; 1.1.2 Displacement 
+    </h4>   
+<h3 className={style.h3num}>
+1.2
+</h3> 
+            <h3 className={style.h3text>
+                Velocity
             </h3>
-            <h3>
-                1.3 Acceleration 
+    <h4> 
+        &nbsp; &nbsp; 1.2.1 Velocity
+    </h4>         
+<h3 className={style.h3num}>
+1.3
+</h3> 
+            <h3 className={style.h3text>
+                Acceleration
             </h3>
-            <h3>
-                1.4 Projectile motion
+    <h4> 
+        &nbsp; &nbsp; 1.3.1 Position
+    </h4>
+   <h3 className={style.h3num}>
+1.4
+</h3> 
+            <h3 className={style.h3text>
+                Projectile motion
             </h3>
-            <h3>
-                1.5 Uniform circular motion
+    <h4> 
+        &nbsp; &nbsp; 1.4.1 Projectile motion
+    </h4>
+   <h3 className={style.h3num}>
+1.5
+</h3> 
+            <h3 className={style.h3text>
+                Uniform circular motion
             </h3>
+    <h4> 
+        &nbsp; &nbsp; 1.5.1 Uniform circular motion
+    </h4>
             <h2 className={style.h2SectionColor} id="3dm">
                 2. 3 dimensions 
             </h2>
