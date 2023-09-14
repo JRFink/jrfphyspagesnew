@@ -27,6 +27,10 @@ const Gravity = () => {
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
             </h2>
+                <p>
+                    The gravitational field proceeds from the mass of an object, and the gravitational force 
+                    is a result of the interaction of two masses. 
+                </p>
             <h3 className={style.h3num}>
                 1.1 
             </h3>
@@ -36,9 +40,6 @@ const Gravity = () => {
                 <h4>
                     &nbsp; &nbsp; 1.1.1 Gravitational field
                 </h4>
-            <p>
-                The gravitational field results from the mass of an object.
-            </p>
             <h3 className={style.h3num}>
                 1.2
             </h3>
@@ -59,7 +60,6 @@ const Gravity = () => {
             <p> 
             Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
             <br></br>
-            <br></br>
             <h2 className={style.h2SectionColor} id="mot">
                 4. Motion of satellites
             </h2>
@@ -68,6 +68,9 @@ const Gravity = () => {
             <h2 className={style.h2SectionColor} id="kep">
                 5. Kepler&apos;s laws
             </h2>
+                <p>
+                    Kepler&#39;s laws...
+                </p>
             <h3 className={style.h3num}>
                 5.1
             </h3>

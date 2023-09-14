@@ -14,26 +14,79 @@ const Trq = () => {
                 Dynamics of Rotational Motion
             </h1>
             <br></br>
-            <h2>
-                1. Dynamic variables
+            <TrqVid />
+            <br></br>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}>
+                1. Variables
             </h2>
-            <h2>
+            <p>
+                Often the values of the variables of rotational motion change.
+            </p>
+                <h3 className={style.h3num}>
+                    1.1 
+                </h3>
+                <h3 className={style.h3text}>
+                    Dynamic variables
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 1.1.1 Some of the dynamic variables are... 
+                    </h4>
+            <h2 className={style.h2SectionColor}>
                 2. Rolling 
             </h2>
-            <h2>
+                <p>
+                    When an object rolls, we need the variables of rotational motion in order to characterize its motion. 
+                </p>
+                <h3 className={style.h3num}>
+                    2.1 
+                </h3>
+                <h3 className={style.h3text}>
+                    Rolling
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 2.1.1 Rolling... 
+                    </h4>
+            <h2 className={style.h2SectionColor}>
                 3. Torque
             </h2>
-            <h2>
+                <p>
+                    Torque is the rotational equivalent of a force in Newton&#39;s second law. It causes change.
+                </p>
+                <h3 className={style.h3num}>
+                    3.1 
+                </h3>
+                <h3 className={style.h3text}>
+                    Torque
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 3.1.1 Torque... 
+                    </h4>
+            <h2 className={style.h2SectionColor}>
                 4. Angular momentum
             </h2>
-            <h3>
-                4.1 Spin angular momentum
+                <p>
+                    Angular momentum...
+                </p>
+            <h3 className={style.h3num}>
+                4.1
             </h3>
-            <h3>
-                4.2 Orbital angular momentum
+            <h3 className={style.h3text}>
+                Spin angular momentum
             </h3>
-            <br></br>
-            <TrqVid />
+                <h4>
+                    &nbsp; &nbsp; 4.1.1 Spin angular momentum
+                </h4>
+            <h3 className={style.h3num}>
+                4.2
+            </h3>
+            <h3 className={style.h3text}>
+                Orbital angular momentum
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 4.2.1 Spin angular momentum
+                </h4>
             <br></br>
             <br></br>
             <TrqEx />
@@ -44,7 +97,8 @@ const Trq = () => {
             <br /> 
             <Link href="/education/gp1/eq" className={style.backtoLink}>Equilibrium &#38; elasticity &#10140;</Link>  
              <br />  
-             <br />            <Helpful />
+             <br />            
+             <Helpful />
         </>
     );
 }
