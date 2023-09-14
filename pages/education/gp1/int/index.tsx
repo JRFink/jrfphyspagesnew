@@ -22,15 +22,20 @@ const Fluid = () => {
                 In accomplishing this task, we have different methods available. We have to articulate what it is 
                 we are trying to find, and then use the appropriate method. We can divide physics into these categories...
                 <ol>
-                    <li>Big objects whose net electric charge is approximately zero</li>
+                    <li>Big objects moving slow whose net electric charge is approximately zero</li>
                     <p>
-                        This is the physics we will cover in gen phys 1. <br />
-                        You can also cover these subjects using a different method; see the <Link href="/#intro">home page</Link>.
+                        Gen phys 1. <br />
+                        You can also cover these subjects using a different method; <Link href="/#classical">here</Link>.
+                    </p>
+                    <li>Big objects moving fast whose net electric charge is zero</li>
+                    <p>
+                        Relativity
                     </p>
                     <li>Big objects whose net electric charge is not zero</li>
                     <p>
                         You cover this in electricity and magnetism
                     </p>
+
                 </ol>
             </p>
             <p>

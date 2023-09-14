@@ -88,7 +88,7 @@ const indexPage = () => {
           Intro 
       </h2> 
       <p>  
-          Physics is an cool subject, but it&#39;s difficult. There are two reasons you would start to study physics: 1&#41; you took it in high school or college to meet a graduation requirement, or 2&#41; because you heard about all the crazy stuff going on in physics like quantum and string theory, and you had to learn about it.  
+          Physics is a cool subject, but it&#39;s difficult. There are two reasons you would start to study physics: 1&#41; you took it in high school or college to meet a graduation requirement, or 2&#41; because you heard about all the crazy stuff going on in physics like quantum and string theory, and you had to learn about it.  
       </p>
       <p>
           Overall, physics studies how things move. <em>Why does an apple fall from a tree? If it does, how long till it hits the ground? And what&#39;s the deal with light being a particle <Link href="https://theconversation.com/curious-kids-is-light-a-wave-or-a-particle-162514"> and a wave</Link>?</em> 
@@ -108,7 +108,7 @@ const indexPage = () => {
       <p> 
            You build up to maxwell&#39;s equations and learn their definition. You start with the integral forms. You learn them as the capstone of EM theory. 
       </p>
-      <h2> 
+      <h2 id="classical"> 
            Classical mechanics
       </h2>
       <p> 
