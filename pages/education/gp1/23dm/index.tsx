@@ -26,7 +26,7 @@ const Two3dm = () => {
 <h3 className={style.h3num}>
 1.1 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Position and displacement
             </h3>
     <h4> 
@@ -38,7 +38,7 @@ const Two3dm = () => {
 <h3 className={style.h3num}>
 1.2
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Velocity
             </h3>
     <h4> 
@@ -47,7 +47,7 @@ const Two3dm = () => {
 <h3 className={style.h3num}>
 1.3
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Acceleration
             </h3>
     <h4> 
@@ -56,7 +56,7 @@ const Two3dm = () => {
    <h3 className={style.h3num}>
 1.4
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Projectile motion
             </h3>
     <h4> 
@@ -65,7 +65,7 @@ const Two3dm = () => {
    <h3 className={style.h3num}>
 1.5
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Uniform circular motion
             </h3>
     <h4> 
@@ -74,10 +74,13 @@ const Two3dm = () => {
             <h2 className={style.h2SectionColor} id="3dm">
                 2. 3 dimensions 
             </h2>
+            <p>
+                We extend motion in 2 dimensions to 3 dimensions.
+            </p>
    <h3 className={style.h3num}>
 2.1 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Position and displacement
             </h3>
     <h4> 
@@ -89,7 +92,7 @@ const Two3dm = () => {
  <h3 className={style.h3num}>
 2.2
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Velocity
             </h3>
     <h4> 
@@ -98,7 +101,7 @@ const Two3dm = () => {
   <h3 className={style.h3num}>
 2.3 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Acceleration
             </h3>
     <h4> 
@@ -107,10 +110,13 @@ const Two3dm = () => {
             <h2 className={style.h2SectionColor} id="rel">
                 3. Relative motion
             </h2>
- <h3 className={style.h3num}>
-3.1 
-</h3> 
-            <h3 className={style.h3text>
+            <p>
+                Two things can move in relation to one another.
+            </p>
+            <h3 className={style.h3num}>
+                3.1 
+            </h3> 
+            <h3 className={style.h3text}>
                 1 d
             </h3>
     <h4> 
@@ -119,7 +125,7 @@ const Two3dm = () => {
   <h3 className={style.h3num}>
 3.2 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 2 d
             </h3>
     <h4> 

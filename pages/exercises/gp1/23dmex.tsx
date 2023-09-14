@@ -20,7 +20,7 @@ const Two3dmEx = () => {
         <p>
             Write down a two and then a three dimensional vector
         </p>
-        <input type='text'></input> 
+        <input type='text' className={style.inputOnLeft}></input> 
       <p>Hm times {count}</p>
       <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
     </div>
