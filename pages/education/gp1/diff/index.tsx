@@ -26,15 +26,27 @@ const Osc = () => {
                 <h2 className={style.h2SectionColor} id="first">
                     2. First order &#38; second order
                 </h2>
-                    <h3>
-                        2.1 First 
-                    </h3>
+   <h3 className={style.h3num}>
+2.1 
+</h3> 
+            <h3 className={style.h3text>
+                First
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.1.1 First
+    </h4> 
             <p> 
                              A first-order ODE is an equation of the form dg/dt = f(g,t). 
            </p>
-                    <h3>
-                        2.2 Second
-                    </h3>
+  <h3 className={style.h3num}>
+2.2
+</h3> 
+            <h3 className={style.h3text>
+                Second
+            </h3>
+    <h4> 
+        &nbsp; &nbsp; 2.2.1 Second
+    </h4> 
             <br></br>
             <br></br>
             <DiffEx />
