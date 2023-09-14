@@ -15,10 +15,7 @@ const Gen = () => {
                     General research
                 </h1>
                 <p>
-                    Hello, &#38; welcome to the general research page, which gives you information about different countries. 
-                </p>
-                <p>
-                    It&#39;s nice to know how other countries do things. 
+                    This page is really just a smattering of ideas. 
                 </p>
                 <h2>
                     America
