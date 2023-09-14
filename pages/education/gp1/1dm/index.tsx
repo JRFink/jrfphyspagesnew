@@ -97,8 +97,11 @@ const Onedm = () => {
             <br></br>
             <DeriveKinVid />
             <br></br>
-            <h3>
-                4.3 Motion with non-constant a
+            <h3 className={style.h3num}>
+4.3
+</h3>
+            <h3 className={style.h3text}>
+                Motion with non-constant a
             </h3>
             <h2 className={style.h2SectionColor} id="calc">
                 5. Calculus examples
