@@ -18,6 +18,9 @@ const Wke = () => {
             <br></br>
             <WkeVid />
             <br></br>
+            <p>
+                In trying to solve physical problems, sometimes we can apply the kinematic strategy we used in the previous sections. 
+            </p>
             <h2 className={style.h2SectionColor} id="wet">
                 1. The work-energy theorem
             </h2>
