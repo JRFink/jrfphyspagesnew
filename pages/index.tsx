@@ -84,7 +84,7 @@ const indexPage = () => {
         For example, my alma mater <Link href="https://www.colorado.edu/physics/">CU</Link> is one of the best places for &#34;AMO&#34; research, 
         which studies how light interacts with matter.
       </p> 
-      <h2> 
+      <h2 id="intro"> 
           Intro 
       </h2> 
       <p>  

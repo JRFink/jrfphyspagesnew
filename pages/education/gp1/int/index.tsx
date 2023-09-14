@@ -17,8 +17,27 @@ const Fluid = () => {
             {/* <h2 className={style.h2SectionColor} id="">
             </h2> */}
             <p>
-                The whole goal of physics is to describe how something moves on a fundamental level. <em>How do we describe a car going on a track? 
-                How do we describe a satellite going around the earth? How do we describe the motion of the electron around the proton?</em>
+                The whole goal of physics is to describe how something moves on a fundamental level. <em>How do we describe a car moving on a track? 
+                How do we describe a satellite going around the earth? How do we describe the motion of the electron going around the proton? </em>
+                In accomplishing this task, we have different methods available. We have to articulate what it is 
+                we are trying to find, and then use the appropriate method. We can divide physics into these categories...
+                <ol>
+                    <li>Big objects whose net electric charge is approximately zero</li>
+                    <p>
+                        This is the physics we will cover in gen phys 1. <br />
+                        You can also cover these subjects using a different method; see the <Link href="/#intro">home page</Link>.
+                    </p>
+                    <li>Big objects whose net electric charge is not zero</li>
+                    <p>
+                        You cover this in electricity and magnetism
+                    </p>
+                </ol>
+            </p>
+            <p>
+                Throughout history, we have developed methods for attacking these physical problems. 
+                We can divide these problems into categories. 
+                1&#41; 
+                The 
             </p>
             <br></br>
             <br></br>
