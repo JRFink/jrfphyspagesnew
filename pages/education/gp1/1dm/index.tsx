@@ -19,6 +19,7 @@ const Onedm = () => {
                 Motion in 1 Dimension
             </h1>
             <Modoverview1dm />
+            <br />
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
             </h2>

@@ -17,7 +17,8 @@ const Fluid = () => {
             {/* <h2 className={style.h2SectionColor} id="">
             </h2> */}
             <p>
-                Physics is the study of motion, matter, energy, and time. It studies things on a more fundamental level. 
+                The whole goal of physics is to describe how something moves on a fundamental level. <em>How do we describe a car going on a track? 
+                How do we describe a satellite going around the earth? How do we describe the motion of the electron around the proton?</em>
             </p>
             <br></br>
             <br></br>
