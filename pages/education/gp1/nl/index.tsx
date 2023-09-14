@@ -27,41 +27,40 @@ const NewtLaws = () => {
                     Newton&apos;s first law states that an object in motion will remain in motion unless acted on by another; 
                     it also states that an object at rest will remain at rest unless acted on by another.
                 </p>
- <h3 className={style.h3num}>
-1.1 
-</h3> 
+            <h3 className={style.h3num}>
+                1.1 
+            </h3> 
             <h3 className={style.h3text}>
                 Inertial frames
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.1.1 Inertial frames
-    </h4>  
-<h3 className={style.h3num}>
-1.2 
-</h3> 
+                <h4> 
+                    &nbsp; &nbsp; 1.1.1 Inertial frames
+                </h4>  
+            <h3 className={style.h3num}>
+                1.2 
+            </h3> 
             <h3 className={style.h3text}>
                 Validity
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.2.1 Validity
-    </h4>            
-<h2 className={style.h2SectionColor} id="nslaw">
-                2. Second law 
-            </h2>
+                <h4> 
+                    &nbsp; &nbsp; 1.2.1 Validity
+                </h4>            
+        <h2 className={style.h2SectionColor} id="nslaw">
+            2. Second law 
+        </h2>
                 <p>
                     Newton&#39;s second law is the statement that <b>F</b> = d<b>p</b>&#47;dt. 
                 </p>
- 
-<h3 className={style.h3num}>
-2.1 
-</h3> 
+            <h3 className={style.h3num}>
+                2.1 
+            </h3> 
             <h3 className={style.h3text}>
                 Functions of what
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.1.1 Functions of what
-    </h4>                   
- <p>
+                <h4> 
+                    &nbsp; &nbsp; 2.1.1 Functions of what
+                </h4>                   
+                    <p>
                         Forces originate from different things. For example, the gravitational force originates from the masses of the two objects 
                         and the distance between them. When objects become closer, the force increases; when the distance grows, the force weakens. 
                         A key point to understanding <b>F</b> = m <b>a</b> is knowing the independent variables. 
@@ -70,73 +69,75 @@ const NewtLaws = () => {
                         Force could be a function of distance, time, or something else. Sometimes solving the differential equation is 
                         straightforward, but other times it is not. We must figure out when we can easily solve it and when we cannot. 
                     </p>
-   <h3 className={style.h3num}>
-2.2
-</h3> 
+            <h3 className={style.h3num}>
+                2.2
+            </h3> 
             <h3 className={style.h3text}>
                 Forces and momentum
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.2.1 Forces
-    </h4>
-    <h4> 
-&nbsp; &nbsp; 2.2.2 Momentum
-    </h4>      
-<h3 className={style.h3num}>
-2.3 
-</h3> 
+                <h4> 
+                    &nbsp; &nbsp; 2.2.1 Forces
+                </h4>
+                <h4> 
+                    &nbsp; &nbsp; 2.2.2 Momentum
+                </h4>      
+            <h3 className={style.h3num}>
+                2.3 
+            </h3> 
             <h3 className={style.h3text}>
                 Forces and mass
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.3.1 Forces
-    </h4>  
-<h4> 
-&nbsp; &nbsp; 2.3.2 Mass 
-</h4>            
-<h3 className={style.h3num}>
-2.4 
-</h3> 
+                <h4> 
+                    &nbsp; &nbsp; 2.3.1 Forces
+                </h4>  
+                <h4> 
+                    &nbsp; &nbsp; 2.3.2 Mass 
+                </h4>            
+            <h3 className={style.h3num}>
+                2.4 
+            </h3> 
             <h3 className={style.h3text}>
                Single forces
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.4.1 Single forces
-    </h4>               
-<h3 className={style.h3num}>
-2.5
-</h3> 
+            <h4> 
+                &nbsp; &nbsp; 2.4.1 Single forces
+            </h4>               
+            <h3 className={style.h3num}>
+                2.5
+            </h3> 
             <h3 className={style.h3text}>
                 Superposition of forces 
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.5.1 Superposition of forces
-    </h4>
-               
-  <h3 className={style.h3num}>
-2.6
-</h3> 
+            <h4> 
+                &nbsp; &nbsp; 2.5.1 Superposition of forces
+            </h4>  
+            <h3 className={style.h3num}>
+                2.6
+            </h3> 
             <h3 className={style.h3text}>
                 Validity
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.6.1 Validity
-    </h4>    
+            <h4> 
+                &nbsp; &nbsp; 2.6.1 Validity
+            </h4>    
                     <p>
                         Newton&#39;s second law is valid at speeds much less than the speed of light. Suffice it to say, 10% of the speed of light!
                     </p>
             <h2 className={style.h2SectionColor} id="ntl">
                 3. Third law
             </h2>
-     <h3 className={style.h3num}>
-3.1 
-</h3> 
+            <p>
+                The third law...
+            </p>
+            <h3 className={style.h3num}>
+                3.1 
+            </h3> 
             <h3 className={style.h3text}>
                 Definition
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 3.1.1 Definition
-    </h4> 
+            <h4> 
+                &nbsp; &nbsp; 3.1.1 Definition
+            </h4> 
                     <p>
                         Newton&apos;s third law states that when object A exerts a force on object B then 
                         object B exerts a force on object A of the same strength but directionally opposite to the force that A exerts on B. 
