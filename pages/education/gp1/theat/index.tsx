@@ -18,24 +18,51 @@ const Theat = () => {
             <h2 className={style.h2SectionColor} id="temp">
                 1. Temperature 
             </h2>
-                <h3>
-                    1.1 Thermometers
+                <p>
+                    Temperature...
+                </p>
+                <h3 className={style.h3num}>
+                    1.1 
+                </h3>
+                <h3 className={style.h3text}>
+                    Thermometers
                 </h3>
                     <h4>
-                        1.1.1 Scales
+                        &nbsp; &nbsp; 1.1.1 Scales
                     </h4>
-                <h3>
-                    1.2 &#40;Advanced thermo&#41;&#42;
+                <h3 className={style.h3num}>
+                    1.2
                 </h3>
+                <h3 className={style.h3text}>
+                    &#40;Advanced thermo&#41;&#42;
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 1.2.1 Advanced...
+                    </h4>
             <h2 className={style.h2SectionColor} id="zero">
                 2. Zeroth and first law of thermo
             </h2>
-                <h3>
-                    2.1 Zeroth
+                <p>
+                    First two laws...
+                </p>
+                <h3 className={style.h3num}>
+                    2.1 
                 </h3>
-                <h3>
-                    2.2 First
+                <h3 className={style.h3text}>
+                    Zeroth
                 </h3>
+                    <h4>
+                        &nbsp; &nbsp; 2.1.1 Zeroth...
+                    </h4>
+                <h3 className={style.h3num}>
+                    2.2 
+                </h3>
+                <h3 className={style.h3text}>
+                    First
+                </h3>
+                    <h4>
+                        &nbsp; &nbsp; 2.2.1 First law...
+                    </h4>
             <h2 className={style.h2SectionColor} id="therm">
                 3. Thermal expansion
             </h2>
