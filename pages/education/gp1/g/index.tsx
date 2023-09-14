@@ -27,15 +27,27 @@ const Gravity = () => {
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
             </h2>
-            <h3>
-                1.1 Gravitational field
+            <h3 className={style.h3num}>
+                1.1 
             </h3>
+            <h3 className={style.h3text}>
+                Gravitational field
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.1.1 Gravitational field
+                </h4>
             <p>
                 The gravitational field results from the mass of an object.
             </p>
-            <h3>
-                1.2 Gravitational force
+            <h3 className={style.h3num}>
+                1.2
             </h3>
+            <h3 className={style.h3text}>
+                Gravitational force
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.2.1 Gravitational force
+                </h4>
             <h2 className={style.h2SectionColor} id="potent">
                 2. Gravitational potential
             </h2>
@@ -56,9 +68,15 @@ const Gravity = () => {
             <h2 className={style.h2SectionColor} id="kep">
                 5. Kepler&apos;s laws
             </h2>
-            <h3>
-                5.1 Kepler&apos;s first law
+            <h3 className={style.h3num}>
+                5.1
             </h3>
+            <h3 className={style.h3text}>
+                Kepler&#39;s first law
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 1.1.1 Gravitational field
+                </h4>
             <h3>
                 5.2 Kepler&apos;s second law
             </h3>

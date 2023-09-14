@@ -118,18 +118,18 @@ Speed...
             <h2 className={style.h2SectionColor} id="calc">
                 5. Calculus examples
             </h2>
-<p>
-Examples...
-</p>
+            <p>
+                Examples...
+            </p>
             <h3 className={style.h3num}>
                 5.1 
             </h3>
-      <h3 className={style.h3text}>
-              Graphs 
-      </h3>
-    <h4> 
-        &nbsp; &nbsp; 5.1.1 Graphs 
-    </h4>   
+            <h3 className={style.h3text}>
+                Graphs 
+            </h3>
+            <h4> 
+                &nbsp; &nbsp; 5.1.1 Graphs 
+            </h4>   
             <h2 className={style.h2SectionColor} id="free">
                 6. Free-falling bodies don&#39;t have constant a
             </h2>  

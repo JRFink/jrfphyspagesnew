@@ -35,7 +35,8 @@ const Eq = () => {
             <br /> 
             <Link href="/education/gp1/taylor" className={style.backtoLink}>Taylor expansion &#10140;</Link>  
              <br />  
-             <br />            <Helpful />
+             <br />            
+             <Helpful />
         </>
     );
 }

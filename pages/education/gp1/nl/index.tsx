@@ -30,7 +30,7 @@ const NewtLaws = () => {
  <h3 className={style.h3num}>
 1.1 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Inertial frames
             </h3>
     <h4> 
@@ -39,7 +39,7 @@ const NewtLaws = () => {
 <h3 className={style.h3num}>
 1.2 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Validity
             </h3>
     <h4> 
@@ -55,7 +55,7 @@ const NewtLaws = () => {
 <h3 className={style.h3num}>
 2.1 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Functions of what
             </h3>
     <h4> 
@@ -73,7 +73,7 @@ const NewtLaws = () => {
    <h3 className={style.h3num}>
 2.2
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Forces and momentum
             </h3>
     <h4> 
@@ -85,7 +85,7 @@ const NewtLaws = () => {
 <h3 className={style.h3num}>
 2.3 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Forces and mass
             </h3>
     <h4> 
@@ -97,7 +97,7 @@ const NewtLaws = () => {
 <h3 className={style.h3num}>
 2.4 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                Single forces
             </h3>
     <h4> 
@@ -106,7 +106,7 @@ const NewtLaws = () => {
 <h3 className={style.h3num}>
 2.5
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Superposition of forces 
             </h3>
     <h4> 
@@ -116,7 +116,7 @@ const NewtLaws = () => {
   <h3 className={style.h3num}>
 2.6
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Validity
             </h3>
     <h4> 
@@ -131,7 +131,7 @@ const NewtLaws = () => {
      <h3 className={style.h3num}>
 3.1 
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Definition
             </h3>
     <h4> 
@@ -144,7 +144,7 @@ const NewtLaws = () => {
              <h3 className={style.h3num}>
 3.2
 </h3> 
-            <h3 className={style.h3text>
+            <h3 className={style.h3text}>
                 Validity
             </h3>
     <h4> 
@@ -227,7 +227,8 @@ const NewtLaws = () => {
             <br /> 
             <Link href="/education/gp1/applnl" className={style.backtoLink}>Applying Newton&#39;s laws &#10140;</Link>  
              <br />  
-             <br />                             <Helpful />
+             <br />                             
+             <Helpful />
         </>
     );
 }
