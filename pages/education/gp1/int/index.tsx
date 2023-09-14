@@ -22,34 +22,35 @@ const Fluid = () => {
                 In accomplishing this task, we have different methods available. We have to articulate what it is 
                 we are trying to find, and then use the appropriate method. We can divide physics into these categories...
                 <ol>
-                    <li>Big objects moving slow whose net electric charge is approximately zero</li>
+                    <li>Big objects moving slow whose net electric charge is ~ zero</li>
                     <p>
                         Gen phys 1. <br />
                         You can also cover these subjects using a different method; <Link href="/#classical">here</Link>.
                     </p>
-                    <li>Big objects moving fast whose net electric charge is zero</li>
+                    <li>Big objects moving fast whose net electric charge is ~ zero</li>
                     <p>
                         Relativity
                     </p>
-                    <li>Big objects whose net electric charge is not zero</li>
+                    <li>Big objects moving slow or fast whose net electric charge is not zero</li>
                     <p>
-                        You cover this in electricity and magnetism
+                        <Link href="/education/em1">Electricity and magnetism</Link>
                     </p>
-
+                    <li>Small objects moving slow</li>
+                    <p>
+                        <Link href="/education/qm1">Quantum mechanics</Link> 
+                    </p>
+                    <li>Small objects moving fast</li>
+                    <p>
+                        Quantum field theory
+                    </p>
                 </ol>
             </p>
             <p>
-                Throughout history, we have developed methods for attacking these physical problems. 
-                We can divide these problems into categories. 
-                1&#41; 
-                The 
+                So let&#39;s get into it. 
             </p>
             <br></br>
-            <br></br>
-            <FluidEx />
-            <br></br>
-            <br></br>
-            <OnedmQz />
+            <Link href="/education/gp1/frame" className={style.backtoLink}>Frames, units, and measurement &#10140;</Link>
+            <br />
             <br />
             <Helpful />
         </>

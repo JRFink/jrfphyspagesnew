@@ -46,9 +46,11 @@ const Uvec = () => {
             <h3 className={style.h3text}>
                 Frame relative to something else
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 1.2.1 Relative
-                </h4>
+                <p>
+                    We often want to describe a frame relative to something else. Specifically, we want to describe an object moving in a fixed frame. 
+                    For example, say you want to describe a block moving along frictionless ice. If you want to say something 
+                    meaningful about it, then you have to fix...
+                </p>
             <h3 className={style.h3num}>
                 1.3
             </h3>
