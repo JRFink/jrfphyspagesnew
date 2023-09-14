@@ -81,11 +81,8 @@ const SubscribeForm = () => {
         <>
             <div className={style.formDivS}>
                 <form className={style.formClass}>
-                    <h2 className={style.formHeader}>
-                        Subscribe 
-                    </h2>
                     <p>
-                        Next you&#39;ll be able to subscribe with stripe
+                        Thanks. We will be in touch. 
                     </p>
                     <br /> 
                 </form>
