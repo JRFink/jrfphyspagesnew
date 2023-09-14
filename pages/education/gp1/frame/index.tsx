@@ -222,7 +222,7 @@ const Uvec = () => {
             </h3>
                 <p>
                     Every measurement has some kind of uncertainty. Even at the precision of atoms there is some <Link href="https://plato.stanford.edu/entries/qt-uncertainty/">level of uncertainty</Link>. 
-                    Why is an interesting question. At this level, though, we&#39;ll just be covering basic uncertainty and how to deal with it. 
+                    Why is an interesting question. At this level, though, we&#39;ll just cover basic uncertainty and how to deal with it. 
                 </p>
             <br />
             <Summary />
