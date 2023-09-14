@@ -27,12 +27,33 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="moment">
                 2. Momentum
             </h2>
-            <h3>
-                2.1 Mechanical momentum
+            <p>
+                Momentum...
+            </p>
+            <h3 className={style.h3num}>
+                2.1 
             </h3>
-            <h3>
-                2.2 Momentum in 1, 2, and 3 dimensions
+            <h3 className={style.h3text}>
+                Mechanical momentum
             </h3>
+                <h4>
+                    &nbsp; &nbsp; 2.1.1 Mechanical momentum
+                </h4>
+            <h3 className={style.h3num}>
+                2.2 
+            </h3>
+            <h3 className={style.h3text}>
+                Momentum in 1, 2, and 3 dimensions
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 2.2.1 Momentum in 1 dimension
+                </h4>
+                <h4>
+                    &nbsp; &nbsp; 2.2.2 Momentum in 2 dimensions
+                </h4>
+                <h4>
+                    &nbsp; &nbsp; 2.2.3 Momentum in 3 dimensions
+                </h4>
             <h2 className={style.h2SectionColor} id="impulse">
                 3. Impulse
             </h2>
@@ -41,12 +62,27 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="coll">
                 4. Collisions
             </h2>
-            <h3>
-                4.1 Elastic collisions
+            <p>
+                Collisions...
+            </p>
+            <h3 className={style.h3num}>
+                4.1 
             </h3>
-            <h3>
-                4.2 Inelastic collisions
+            <h3 className={style.h3text}>
+                Elastic collisions
             </h3>
+                <h4>
+                    &nbsp; &nbsp; 4.1.1 Elastic collisions
+                </h4>
+            <h3 className={style.h3num}>
+                4.2 
+            </h3>
+            <h3 className={style.h3text}>
+                Inelastic collisions
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 4.2.1 Inelastic collisions
+                </h4>
             <h2 className={style.h2SectionColor} id="var">
                 5. Systems with varying mass
             </h2>
@@ -60,8 +96,8 @@ const Pmv = () => {
             <br />
             <br /> 
             <Link href="/education/gp1/rm" className={style.backtoLink}>Rotational motion &#10140;</Link>  
-             <br />  
-             <br />
+            <br />  
+            <br />
             <Helpful />
         </>
     );

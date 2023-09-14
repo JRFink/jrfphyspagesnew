@@ -21,45 +21,66 @@ const Wke = () => {
             <h2 className={style.h2SectionColor} id="wet">
                 1. The work-energy theorem
             </h2>
-                <h3>
-                    1.1 In 1 d
+            <p>
+                The work-energy theorem...
+            </p>
+                <h3 className={style.h3num}>
+                    1.1 
+                </h3>
+                <h3 className={style.h3text}>
+                    In 1 d
                 </h3>
                     <h4>
-                        1.1.1 Work done by a constant force 
+                        &nbsp; &nbsp; 1.1.1 Work done by a constant force 
                     </h4>
                     <h4>
-                        1.1.2 Work done by a varying force 
+                        &nbsp; &nbsp; 1.1.2 Work done by a varying force 
                     </h4>
                     <h4>
-                        1.1.3 Work done by gravity 
+                        &nbsp; &nbsp; 1.1.3 Work done by gravity 
                     </h4>
-                <h3>
-                    1.2 In 2 d
+                <h3 className={style.h3num}>
+                    1.2
+                </h3>
+                <h3 className={style.h3text}>
+                    In 2 d
                 </h3>
                     <h4>
-                        1.2.1 Work done by a constant force 
+                        &nbsp; &nbsp; 1.2.1 Work done by a constant force 
                     </h4>
                     <h4>
-                        1.2.2 Work done by a varying force 
+                        &nbsp; &nbsp; 1.2.2 Work done by a varying force 
                     </h4>
                     <h4>
-                        1.2.3 Work done by a spring 
+                        &nbsp; &nbsp; 1.2.3 Work done by a spring 
                     </h4>
-                <h3>
-                    1.3 In 3 d
+                <h3 className={style.h3num}>
+                    1.3
+                </h3>
+                <h3 className={style.h3text}>
+                    In 3 d
                 </h3>
                     <h4>
-                        1.3.1 Work done by a constant force 
+                        &nbsp; &nbsp; 1.3.1 Work done by a constant force 
                     </h4>
                     <h4>
-                        1.3.2 Work done by a varying force 
+                        &nbsp; &nbsp; 1.3.2 Work done by a varying force 
                     </h4>
             <h2 className={style.h2SectionColor} id="pow">
                 2. Power
             </h2>
-            <h3>
-                2.1 Rates
+                <p>
+                    Power...
+                </p>
+            <h3 className={style.h3num}>
+                    2.1
             </h3>
+            <h3 className={style.h3text}>
+                Rates
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 2.1.1 Rates
+                </h4>
             <h2 className={style.summaryHeading}>
                 Summary
             </h2>
