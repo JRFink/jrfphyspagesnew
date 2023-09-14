@@ -47,7 +47,7 @@ const [isSubmitted, setSubmitted] = useState(false);
       <>
           {
           isSubmitted ? (
-            <p className={style.centerText}>Thank you. We will be in touch.</p>  
+            <p className={style.centerText}>Thanks. A real human will read this.</p>  
           ) : (
             <>
               <Messageform
