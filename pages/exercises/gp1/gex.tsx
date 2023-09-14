@@ -21,9 +21,9 @@ const GEx = () => {
         </ol>
 
         
-        <input type='text'></input> m/s
+        <input type='text' className={style.inputOnLeft}></input> m/s
       <p>Hm times {count}</p>
-      <button onClick={() => setCount(count + 1)} className={style.greenButton}>Check answer</button>
+      <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
     </div>
   );
 }

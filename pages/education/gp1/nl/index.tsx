@@ -142,15 +142,15 @@ const NewtLaws = () => {
                         Newton&apos;s third law states that when object A exerts a force on object B then 
                         object B exerts a force on object A of the same strength but directionally opposite to the force that A exerts on B. 
                     </p>
-             <h3 className={style.h3num}>
-3.2
-</h3> 
+            <h3 className={style.h3num}>
+                3.2
+            </h3> 
             <h3 className={style.h3text}>
                 Validity
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 3.2.1 Validity
-    </h4>
+                <h4> 
+                    &nbsp; &nbsp; 3.2.1 Validity
+                </h4>
                     <p>
                         Newton&#39;s third law is valid at speeds much less than the speed of light and when the particles carry neutral charge.
                         When the particles are charged and moving relative to one another, they exert magnetic forces on each other; 

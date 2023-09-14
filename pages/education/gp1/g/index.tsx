@@ -75,14 +75,26 @@ const Gravity = () => {
                 Kepler&#39;s first law
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 1.1.1 Gravitational field
+                    &nbsp; &nbsp; 5.1.1 Gravitational field
                 </h4>
-            <h3>
-                5.2 Kepler&apos;s second law
+            <h3 className={style.h3num}>
+                5.2
             </h3>
-            <h3>
-                5.3 Kepler&apos;s third law
+            <h3 className={style.h3text}>
+                Kepler&#39;s second law
             </h3>
+                <h4>
+                    &nbsp; &nbsp; 5.1.2 Gravitational field
+                </h4>
+            <h3 className={style.h3num}>
+                5.3
+            </h3>
+            <h3 className={style.h3text}>
+                Kepler&#39;s third law
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 5.3.1 Gravitational field
+                </h4>
             <h2 className={style.h2SectionColor} id="grav">
                 6. Einstein and gravity
             </h2>
