@@ -57,6 +57,10 @@ const Uvec = () => {
             <h3 className={style.h3text}>
                 Inertial and non-inertial frames
             </h3>
+            <p>
+                An important aspect of physics is the inertial frame. 
+                The inertial frame means a frame in which an object is observed to move with constant velocity. 
+            </p>
                 <h4>
                     &nbsp; &nbsp; 1.3.1 Inertial
                 </h4>
