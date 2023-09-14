@@ -15,7 +15,7 @@ const Gen = () => {
                     General research
                 </h1>
                 <p>
-                    This page is really just a smattering of ideas. 
+                    This page is a smattering of ideas. 
                 </p>
                 <h2>
                     America
