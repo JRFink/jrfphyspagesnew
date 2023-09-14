@@ -82,11 +82,17 @@ const Onedm = () => {
             <br></br>
             <AccelVid />
             <br></br>
-            <h3>
-                4.1 Average and instantaneous
+<h3 className={style.h3num}>
+4.1
+</h3>
+            <h3 className={style.h3text}>
+                Average and instantaneous
             </h3>
-            <h3>
-                4.2 Motion with constant a
+<h3 className={style.h3num}>
+4.2
+</h3>
+            <h3 className={style.h3text}>
+                Motion with constant a
             </h3>
             <br></br>
             <DeriveKinVid />
