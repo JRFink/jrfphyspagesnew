@@ -7,11 +7,17 @@ const DiffEx = () => {
   return (
     <div>
         <Exerciseheading />
-        <ul>
+        <ol>
             <li>
-                Find the fattest differential equation book you can and browse its contents.
+                Find a differential equations book and browse its contents.
             </li>
-        </ul>
+<li> 
+   Come up with a simple differential equation. 
+</li> 
+<li> 
+Solve it. 
+</li> 
+        </ol>
     </div>
   );
 }
