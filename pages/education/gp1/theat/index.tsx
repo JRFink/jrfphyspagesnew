@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewTheat } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import TheatEx from '@/pages/exercises/gp1/theatex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -71,6 +72,8 @@ const Theat = () => {
             <h2 className={style.h2SectionColor} id="heat">
                 4. Heat transfer
             </h2>
+<Summary /> 
+<br />
             <br></br>
             <br></br>
             <TheatEx />
