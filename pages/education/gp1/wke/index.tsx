@@ -19,8 +19,11 @@ const Wke = () => {
             <WkeVid />
             <br></br>
             <p>
-                In trying to solve physical problems, sometimes we can apply the kinematic strategy we used in the previous sections. 
+                In trying to solve physical problems, sometimes we can apply the strategy we used in the previous sections; that is, articulate newton&#39;s law for a situation, amd if the differential equation is easy to solve, then solve it. However, sometimes the differential equation is not easy to solve, and that is when you result to other means to solve physical problems. 
             </p>
+<p> 
+For example...
+</p> 
             <h2 className={style.h2SectionColor} id="wet">
                 1. The work-energy theorem
             </h2>
