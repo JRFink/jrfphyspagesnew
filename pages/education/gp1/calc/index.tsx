@@ -13,13 +13,12 @@ const Calc = () => {
             <h1 className={style.centerText}>
                 Calc review
             </h1>
-                <p> 
-                    This is not meant to teach you calc from the ground up; but it&#39;s meant to help. 
-                </p>
-            <br></br>
             <br></br>
             <ModoverviewCalc />
             <br></br>
+<h2> 
+Introduction 
+</h2>
             <br></br>
             <h2 className={style.h2SectionColor} id="approx">
                 1. Approximations
