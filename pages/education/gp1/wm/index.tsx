@@ -17,6 +17,12 @@ const Wave = () => {
             <br></br>
             <ModoverviewWm />
             <br></br>
+<h2> 
+Introduction
+</h2>
+<p> 
+Moving from oscillations we proceed to waves. We will see a lot of the same sines and cosines, though in a slightly different form. 
+</p> 
             <h2 className={style.h2SectionColor} id="osc">
                 1. Connection to oscillations
             </h2>
