@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewNl } from '@/pages/components/modoverview';
 import NewtVid from '@/public/videos/gp1/newt';
+import Summary from '@/pages/components/summary';
 import NlEx from '@/pages/exercises/gp1/nlex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -164,6 +165,9 @@ const NewtLaws = () => {
             <h2 className={style.h2SectionColor} id="free">
                 4. Free-body diagrams
             </h2>
+<Summary /> 
+<br /> 
+<br />
             <h2>
                 Fundamental forces
             </h2>
