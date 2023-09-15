@@ -19,6 +19,9 @@ const NewtLaws = () => {
             <br></br>
             <NewtVid />
             <br></br>
+<p>
+     Now that we have a basic understanding of differential equations, we can study Newton&#39;s laws.
+</p> 
             <br></br>
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
