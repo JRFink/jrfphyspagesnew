@@ -15,6 +15,9 @@ const Kin = () => {
                 Gases
             </h1>
             <ModoverviewGas />
+<h2> 
+Introduction 
+</h2>
             <h2 className={style.h2SectionColor} id="ideal">
                 Ideal
             </h2>
