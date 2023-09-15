@@ -17,12 +17,16 @@ const PU = () => {
             </h1>
             <br></br>
             <ModoverviewPu />
-            <br></br>
-            <EUKVid />
+<h2> 
+Introduction 
+</h2> 
             <br></br>
 <p> 
     Proceeding from work and kinetic energy we dive into energy more generally. We discuss the different types and the theory of the conservation of energy. 
 </p> 
+<br /> 
+<EUKVid /> 
+<br />
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>
