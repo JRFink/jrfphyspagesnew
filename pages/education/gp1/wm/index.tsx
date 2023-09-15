@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewWm } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import WmEx from '@/pages/exercises/gp1/wmex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -44,6 +45,7 @@ const Wave = () => {
             <h2 className={style.h2SectionColor} id="sup">
                 6. Superposition
             </h2>
+<Summary />
             <br></br>
             <br></br>
             <br></br>
