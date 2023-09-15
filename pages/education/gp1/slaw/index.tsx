@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { Modoverview2nd } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import SlawEx from '@/pages/exercises/gp1/slawex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -32,7 +33,9 @@ const Slaw = () => {
             <br></br>
             <h2 className={style.h2SectionColor} id="stat"> 
                 Statistics 
-            </h2>  
+            </h2>
+<Summary /> 
+<br />  
             <br></br>
             <br></br>
             <SlawEx />
