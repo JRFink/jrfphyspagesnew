@@ -23,6 +23,9 @@ const Onedm = () => {
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
             </h2>
+<p> 
+We begin our formal study of physics with 1 dimensional motion. This is the simplest motion one can study.
+</p>
             <br /> 
             <br />
             <p className={style.centerText}> 
