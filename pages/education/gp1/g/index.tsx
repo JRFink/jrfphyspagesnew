@@ -16,18 +16,26 @@ const Gravity = () => {
             <br></br>
             <ModoverviewG />
             <br></br>
+<h2 className={style.h2SectionColor} id="intro"> 
+            Introduction 
+            </h2>
 <p> 
      Gravity is a large subject, but undoubtedly something you interact with every day. <em> Why does an apple fall? Why does the moon orbit the earth? Why do some galaxies spin? </em> 
 </p>
-<br /> 
-            <h2 className={style.h2SectionColor} id="intro"> 
-            Introduction 
-            </h2> 
-            <p> 
-                Gravity is one of the four fundamental forces. We interact with it every day. In fact you can&#39;t choose not to interact with it. 
-                Studying it will give you a better understanding of how common things in our world work such as satellites, the moon, 
-                and how long before an apple hits the floor. 
-            </p>
+<p> 
+     In the previous section, we learned about taylor expansion. We learned that we can use this approach to solve problems when the change in a physical system is small. 
+</p>
+<p> 
+     Consider again the apple falling. The apple fits in your hand. 
+</p> 
+<p>
+     Have you ever been around the world? To China? India? Hawaii? 
+</p> 
+<p> 
+     The earth is large. Throw an apple up. What is the height it rises compared to the size of the earth? 
+</p> 
+<br />              
+ 
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
             </h2>
