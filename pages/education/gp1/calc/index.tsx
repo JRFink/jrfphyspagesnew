@@ -8,7 +8,7 @@ import Helpful from '@/pages/components/helpful';
 const Calc = () => {
     return (
         <>
-            <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link><br></br>
+            <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
                 Calc review
