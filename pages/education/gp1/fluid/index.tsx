@@ -14,6 +14,11 @@ const Fluid = () => {
                 Fluids
             </h1>
             <ModoverviewFluid />
+<br /> 
+<p>
+      Moving from gravity we proceed to fluids. Fluid motion is complicated, but we can use some idealized models to make it easier. 
+</p>
+<br /> 
             <h2 className={style.h2SectionColor} id="fluid">
                 1. Fluids, density, and pressure
             </h2>
