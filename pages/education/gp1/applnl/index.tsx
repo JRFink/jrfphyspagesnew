@@ -21,7 +21,7 @@ const ApplNl = () => {
 Introduction 
 </h2>
 <p> 
-     Now that we have covered Newton&#39;s laws in theory, we can apply them. Applying them is where we really start to learn how they work.
+     Now that we have covered Newton&#39;s laws in theory, we can apply them. 
 </p> 
             <h2 className={style.h2SectionColor} id="flaw">
                 1. Using the first law
