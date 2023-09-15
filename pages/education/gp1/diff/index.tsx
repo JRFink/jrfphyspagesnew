@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewDiff } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import DiffEx from '@/pages/exercises/gp1/diffex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -50,6 +51,8 @@ const Osc = () => {
     <h4> 
         &nbsp; &nbsp; 2.2.1 Second
     </h4> 
+<Summary /> 
+<br />
             <br></br>
             <br></br>
             <DiffEx />
