@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewGas } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import KinEx from '@/pages/exercises/gp1/kinex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -38,7 +39,9 @@ const Kin = () => {
             degrees of freedom and molar specific heats 
             the adiabatic expansion of an ideal gas  */}
 
-            <br></br>
+<Summary /> 
+<br /> 
+<br /> 
             <br></br>
             <KinEx />
             <br></br>
