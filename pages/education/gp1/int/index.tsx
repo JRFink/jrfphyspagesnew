@@ -46,7 +46,7 @@ const Fluid = () => {
                 </ol>
             </p>
             <p>
-                So let&#39;s get into it. 
+                So, let&#39;s get into it. 
             </p>
             <br></br>
             <Link href="/education/gp1/frame" className={style.backtoLink}>Frames, units, and measurement &#10140;</Link>
