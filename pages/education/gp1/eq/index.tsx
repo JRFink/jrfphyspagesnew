@@ -21,7 +21,7 @@ const Eq = () => {
             </h2>
             <br></br>
 <p> 
-     Moving from dynamics of rotational motion we proceed to equilibrium and elasticity. In order for an object to be in equilibrium, certain things need to balance or be 0. We studied some of these things in the previous section. 
+     Moving from dynamics of rotational motion, we proceed to equilibrium and elasticity. In order for an object to be in equilibrium, certain things need to balance or be 0. We studied some of these things in the previous section. 
 </p> 
             <br></br>
             <h2 className={style.h2SectionColor} id="req">
@@ -37,6 +37,18 @@ We first begin with the requirements for equilibrium.
 <h3 className={style.h3text}> 
 Forces
 </h3>
+<h4>
+&nbsp; &nbsp; 2.1.1 Force balancing 
+</h4> 
+<h3 className={style.h3num}>
+2.2 
+</h3> 
+<h3 className={style.h3text}> 
+Torque 
+</h3> 
+<h4> 
+&nbsp; &nbsp; 2.2.1 Torque balancing 
+</h4> 
             <br></br>
             <br></br>
             <EqEx />
