@@ -16,9 +16,10 @@ const ApplNl = () => {
             </h1>
             <br></br> 
             <ModoverviewANl />
-            {/* <p>
-                Applying Newton&#39;s laws is where you master them and really start to understand how they work. 
-            </p> */}
+   <br /> 
+<p> 
+     Now that we have covered Newton&#39;s laws in theory, we can apply them. Applying them is where we really start to learn how they work.
+</p> 
             <h2 className={style.h2SectionColor} id="flaw">
                 1. Using the first law
             </h2>
