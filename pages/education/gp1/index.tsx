@@ -63,13 +63,13 @@ const Gp1 = () => {
                 <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
             </p>
             <br></br>
-            <div className={style.flexContainer}>
+            <div className={style.flexContainer} id="intro">
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
                 <Link href="" className={style.styleCourseNav}>Course notes coming</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>  
             </div>
             <br></br>
-            <Link href="/education/gp1/int" className={style.generalLinkIntr} id ="intro">Introduction</Link><br></br>
+            <Link href="/education/gp1/int" className={style.generalLinkIntr} >Introduction</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 1
