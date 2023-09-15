@@ -17,11 +17,15 @@ const Pmv = () => {
             </h1>
             <ModoverviewPmv />
             <br></br>
-            <PmvVid />
+<h2> 
+Introduction 
+</h2>
             <br></br>
 <p> 
      Proceeding from energy theory we move to the theory of momentum, impulse, and collisions. We discussed momentum when we learned about Newton&#39;s laws. 
 </p> 
+<br />
+<PmvVid /> 
             <br></br>
             <h2 className={style.h2SectionColor} id="cent">
                 1. Center of mass
