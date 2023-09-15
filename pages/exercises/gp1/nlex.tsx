@@ -13,6 +13,9 @@ const NlEx = () => {
             <li>Write down Newton&#39;s second law for gravity as a general second order ODE. Use p&#39;s and q&#39;s.</li>
             <br></br>
             <li>Solve it.</li>
+<li> 
+     Newton&#39;s first law says that an object in motion will remain in motion unless acted on by another; it also states that an object at rest will remain at rest unless acted on by another. Think of a simple situation where Newton&#39;s first law doesn&#39;t hold. 
+</li>
         </ol>
     </div>
   );
