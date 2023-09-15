@@ -14,6 +14,9 @@ const Osc = () => {
             <h1 className={style.centerText}>
                 Differential equations 
             </h1>
+<h2> 
+Introduction 
+</h2>
 <p> 
     As a prelude to describing what causes changes in motion, we study differential equations. These equations help us understand how to link the changes in motion to what caused them.
 </p> 
