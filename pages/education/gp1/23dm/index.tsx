@@ -18,6 +18,9 @@ const Two3dm = () => {
             <br></br>
             <Modoverview2dm />
     <br /> 
+<h2> 
+Introduction 
+</h2>
 <p>
 From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not only linear but also curvy. How do we deal with these situations?
 </p> 
