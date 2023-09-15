@@ -17,6 +17,9 @@ const ApplNl = () => {
             <br></br> 
             <ModoverviewANl />
    <br /> 
+<h2> 
+Introduction 
+</h2>
 <p> 
      Now that we have covered Newton&#39;s laws in theory, we can apply them. Applying them is where we really start to learn how they work.
 </p> 
