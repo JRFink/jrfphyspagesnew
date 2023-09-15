@@ -10,7 +10,7 @@ import Helpful from '@/pages/components/helpful';
 const Two3dm = () => {
     return (
         <>
-            <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link><br></br>
+            <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
                 Motion in 2-3 Dimensions
