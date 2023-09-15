@@ -16,6 +16,15 @@ const Slaw = () => {
             </h1>
             <Modoverview2nd /> 
             <br></br>
+<h2> 
+Introduction
+</h2> 
+<p> 
+        Moving from the first law we proceed to the second. Its infamous. 
+</p> 
+<p> 
+        The second law is about the arrangements of a system. We use it to understand how systems evolve over time, such as how a clean room becomes dirty. 
+</p> 
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
             </h2>
