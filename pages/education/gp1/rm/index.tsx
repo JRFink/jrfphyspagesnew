@@ -18,6 +18,10 @@ const Rm = () => {
             <br></br>
             <ModoverviewRm />
             <br></br>
+<h2> 
+Introduction 
+</h2>
+<br />
             <RotVid />
             <br /> 
 <p> 
