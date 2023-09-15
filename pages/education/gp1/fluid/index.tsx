@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewFluid } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import FluidEx from '@/pages/exercises/gp1/fluidex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -94,6 +95,8 @@ const Fluid = () => {
             <h2 className={style.h2SectionColor} id="visc">
                 4. Viscosity 
             </h2>
+<Summary /> 
+<br />
             <br></br>
             <br></br>
             <FluidEx />
