@@ -13,6 +13,9 @@ const Osc = () => {
             <h1 className={style.centerText}>
                 Differential equations 
             </h1>
+<p> 
+    As a prelude to describing what causes changes in motion, we study differential equations. These equations help us understand how to link the changes in motion to what caused them.
+</p> 
             <p> 
                 Differential equations isn&#39;t something you typically learn in gen phys 1. Learning a few pieces of it, though, will drastically help you understand Newton&#39;s second law more effectively. They will help you understand how to solve the second law in different cases. In some cases it is easy to solve, but in other cases it isn&#39;t, and that&#39;s when you have to result to other strategies to solve physical problems.
              </p> 
