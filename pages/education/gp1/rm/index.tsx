@@ -19,6 +19,9 @@ const Rm = () => {
             <br></br>
             <RotVid />
             <br /> 
+<p> 
+     Moving moving momentum and collisions we proceed to rotational motion. 
+</p> 
             <br /> 
             <br />
             <h2 className={style.h2SectionColor} id="ang">
