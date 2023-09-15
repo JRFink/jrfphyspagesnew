@@ -18,6 +18,9 @@ const Kin = () => {
 <h2> 
 Introduction 
 </h2>
+<p> 
+Moving from temperature and heat we move to gases. Now, we sort of already covered this when we talked about fluids. Gases is a type of fluid. We apply some of the same methods we used there here. 
+</p> 
             <h2 className={style.h2SectionColor} id="ideal">
                 Ideal
             </h2>
