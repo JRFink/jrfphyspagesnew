@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import RotVid from '@/public/videos/gp1/rm';
 import { ModoverviewRm } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import RmEx from '@/pages/exercises/gp1/rmex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -91,6 +92,9 @@ const Rm = () => {
                 <h4>
                     &nbsp; &nbsp; 4.2.1 Parallel axis theorem
                 </h4>
+<Summary /> 
+<br />
+<br />
             <br></br>
             <RmEx />
             <br></br>
