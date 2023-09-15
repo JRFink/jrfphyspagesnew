@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewOsc } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import OscEx from '@/pages/exercises/gp1/oscex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -101,6 +102,8 @@ const Osc = () => {
                             <h4>
                                 &nbsp; &nbsp; &nbsp; &nbsp; 4.1.1.3 Double pendulum
                             </h4>
+<Summary />
+<br />
             <br></br>
             <OscEx />
             <br></br>
