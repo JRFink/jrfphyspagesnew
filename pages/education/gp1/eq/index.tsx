@@ -17,6 +17,9 @@ const Eq = () => {
             <br></br>
             <ModoverviewEq />
             <br></br>
+<h2> 
+Introduction 
+</h2>
             <h2 className={style.h2SectionColor} id="int">
                 1. Intro
             </h2>
