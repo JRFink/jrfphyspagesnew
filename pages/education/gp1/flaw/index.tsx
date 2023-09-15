@@ -25,6 +25,9 @@ const Flaw = () => {
             heat capacities of an ideal gas 
             adiabatic processes for an ideal gas  */}
             <Modoverview1st />
+<h2> 
+Introduction 
+</h2>
 <Summary /> 
 <br />
             <br></br>
