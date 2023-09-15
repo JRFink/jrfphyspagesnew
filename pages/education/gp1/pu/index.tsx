@@ -20,6 +20,9 @@ const PU = () => {
             <br></br>
             <EUKVid />
             <br></br>
+<p> 
+    Proceeding from work and kinetic energy we dive into energy more generally. We discuss the different types and the theory of the conservation of energy. 
+</p> 
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>
