@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import PmvVid from '@/public/videos/gp1/pmv';
 import { ModoverviewPmv } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -89,6 +90,7 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="var">
                 5. Systems with varying mass
             </h2>
+<Summary />
             <br></br>
             <br></br>
             <br></br>
