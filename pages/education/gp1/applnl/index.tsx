@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewANl } from '@/pages/components/modoverview';
 import Summary from '@/pages/components/summary';
-import FlawEx from '@/pages/exercises/gp1/flawex';
+import ApplnlEx from '@/pages/exercises/gp1/applnlex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
@@ -159,7 +159,7 @@ Introduction
             <br></br>
             <br></br>
             <br></br>
-            <FlawEx />
+            <ApplnlEx />
             <br></br>
             <br></br>
             <OnedmQz />
