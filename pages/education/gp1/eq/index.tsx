@@ -20,6 +20,9 @@ const Eq = () => {
                 1. Intro
             </h2>
             <br></br>
+<p> 
+     Moving from dynamics of rotational motion we proceed to equilibrium and elasticity. In order for an object to be in equilibrium, certain things need to balance or be 0. We studied some of these things in the previous section. 
+</p> 
             <br></br>
             <h2 className={style.h2SectionColor} id="req">
                 2. Requirements for equilibrium
