@@ -7,6 +7,11 @@ const PuEx = () => {
   return (
     <>
       <Exerciseheading />
+      <ol> 
+<li> 
+
+</li> 
+<ol> 
     </>
   );
 }
