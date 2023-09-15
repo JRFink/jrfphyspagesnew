@@ -16,6 +16,12 @@ const Theat = () => {
             </h1>
             <br></br>
             <ModoverviewTheat />
+<h2> 
+Introduction
+</h2>
+<p> 
+Proceeding from waves to heat and temperature, we move into the realm of thermodynamics. Thermodynamics studies the energy, heat, temperature, pressure, volume, density, and arrangement of objects. 
+</p> 
             <h2 className={style.h2SectionColor} id="temp">
                 1. Temperature 
             </h2>
