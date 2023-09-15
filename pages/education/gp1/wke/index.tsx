@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewWke } from '@/pages/components/modoverview';
 import WkeVid from '@/public/videos/gp1/wke';
+import Summary from '@/pages/components/summary';
 import WkeEx from '@/pages/exercises/gp1/wkeex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -90,6 +91,7 @@ For example...
             <h2 className={style.summaryHeading}>
                 Summary
             </h2>
+<Summary />
             <br></br>
             <br></br>
             <br></br>
