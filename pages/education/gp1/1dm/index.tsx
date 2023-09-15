@@ -20,12 +20,15 @@ const Onedm = () => {
             </h1>
             <Modoverview1dm />
             <br />
-            <h2 className={style.h2SectionColor} id="pos">
-                1. Position and displacement
-            </h2>
+<h2>
+Introduction 
+</h2> 
 <p> 
 We begin our formal study of physics with 1 dimensional motion. This is the simplest motion one can study.
 </p>
+            <h2 className={style.h2SectionColor} id="pos">
+                1. Position and displacement
+            </h2>
             <br /> 
             <br />
             <p className={style.centerText}> 
