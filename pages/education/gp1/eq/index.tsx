@@ -28,6 +28,15 @@ const Eq = () => {
                 2. Requirements for equilibrium
             </h2>
             <br></br>
+<p> 
+We first begin with the requirements for equilibrium. 
+</p>
+<h3 className={style.h3num}> 
+2.1 
+</h3> 
+<h3 className={style.h3text}> 
+Forces
+</h3>
             <br></br>
             <br></br>
             <EqEx />
