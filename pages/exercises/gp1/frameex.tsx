@@ -24,6 +24,9 @@ const FrameEx = () => {
           <li>
             Define your position relative to something else.
           </li>
+<li> 
+   Look up the distance from the sun to venus and eastablish a reference frame. 
+</li>
         </ol>
         <h3>
           Standards and units
