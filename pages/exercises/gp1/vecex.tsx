@@ -17,6 +17,11 @@ const VecEx = () => {
           <h3>
             Multiplying vectors
           </h3>
+<ol>
+<li> 
+          Find the dot product of two antiparallel vectors in two ways, one with magnitude 7 units in the x direction and the other with magnitude 2 units antiparallel.
+</li>
+</ol> 
           <h3>
             Dividing vectors &#40;ha&#41;
           </h3>    
