@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewEq } from '@/pages/components/modoverview';
+import Summary from '@/pages/components/summary';
 import EqEx from '@/pages/exercises/gp1/eqex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -49,6 +50,8 @@ Torque
 <h4> 
 &nbsp; &nbsp; 2.2.1 Torque balancing 
 </h4> 
+<Summary /> 
+<br /> 
             <br></br>
             <br></br>
             <EqEx />
