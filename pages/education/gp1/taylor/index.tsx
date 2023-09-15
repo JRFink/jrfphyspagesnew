@@ -4,6 +4,7 @@ import Image from 'next/image';
 import pendulum from '@/public/images/pendulum.svg';
 import { ModoverviewTaylor } from '@/pages/components/modoverview';
 import TaylorVid from '@/public/videos/gp1/taylor';
+import Summary from '@/pages/components/summary';
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -56,6 +57,8 @@ const Taylor = () => {
                     alt="Guy with a blue shirt with trees in the background" 
                 />
             </div>
+<Summary /> 
+<br />
             <br></br>
             <br></br>
             <TaylorEx />
