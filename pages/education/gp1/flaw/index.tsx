@@ -28,6 +28,12 @@ const Flaw = () => {
 <h2> 
 Introduction 
 </h2>
+<p> 
+   Going from gases we proceed to the first law of thermodynamics. The first law of thermodynamics concerns itself with energy and the conservation of energy. 
+</p> 
+<p>
+         In this section we will also cover pressure and volume. 
+</p> 
 <Summary /> 
 <br />
             <br></br>
