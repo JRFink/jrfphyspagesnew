@@ -19,6 +19,9 @@ const OnedmEx = () => {
         <p>You pressed this {count} times</p>
         <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
       <br></br>
+<p>  
+2.  Slide a block on frictionless ice along a flat surface. Define a frame, and then characterize the motion mathematically after you release the block. 
+</p>
       <br></br>
       <h3>
         Average velocity
