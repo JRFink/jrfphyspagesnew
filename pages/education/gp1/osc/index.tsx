@@ -15,6 +15,10 @@ const Osc = () => {
                 Oscillations
             </h1>
             <ModoverviewOsc />
+
+<h2> 
+Introduction 
+</h2>
                 <h2 className={style.h2SectionColor} id="desc">
                     1. Describing oscillations 
                 </h2>
