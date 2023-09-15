@@ -16,6 +16,10 @@ const Gravity = () => {
             <br></br>
             <ModoverviewG />
             <br></br>
+<p> 
+     Gravity is a large subject, but undoubtedly something you interact with every day. <em> Why does an apple fall? Why does the moon orbit the earth? Why do some galaxies spin? </em> 
+</p>
+<br /> 
             <h2 className={style.h2SectionColor} id="intro"> 
             Introduction 
             </h2> 
