@@ -13,8 +13,12 @@ const Two3dmEx = () => {
         projectile motion 
         motion in a circle 
         relative velocity  */}
-
-        <h3>
+<ol> 
+<li> 
+     Slide a block along frictionless ice. Define a frame that is at an angle to the direction of the ice. Characterize the motion of the ice in different directions. 
+</li> 
+</ol> 
+      <h3>
             Multidimensional vectors
         </h3>
         <p>
