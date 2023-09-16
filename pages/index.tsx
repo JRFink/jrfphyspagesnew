@@ -7,7 +7,7 @@ import redhair from '@/public/images/redhair.jpg';
 import publicgroup from '@/public/images/publicgroup.jpg'; 
 import water from '@/public/images/water.jpg';
 import quantspiral from
-'@/public/images/quantspiral';
+'@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits';
 import surface from '@/public/images/surface';
