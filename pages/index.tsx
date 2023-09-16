@@ -68,8 +68,11 @@ const indexPage = () => {
       <h3> 
           If you&#39;re in college&#46;&#46;&#46; 
       </h3>
+<p> 
+     The average cost of a 3 credit college class is about &#36;1500, and that is on the low end. Instead, you can come here and learn all the physics you want for &#36;5 per month. 
+</p>
       <p>
-          If you&#39;re in college and taking gen phys 1, either calculus or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
+          So if you are in college and taking gen phys 1, either calculus or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
       </p>
       <p>
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
