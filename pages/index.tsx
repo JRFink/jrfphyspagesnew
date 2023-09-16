@@ -42,7 +42,7 @@ const indexPage = () => {
           If you&#39;re in high school&#46;&#46;&#46;
       </h3>
       <p> 
-          If you&#39;re in high school and taking physics, head over to our <Link href="/education/gp1">Gen phys 1</Link> page to learn about the topics you&#39;ll cover in class. We&#39;ll cover displacement, the kinematic equations, conservation of energy, and all the essential topics you&#39;ll need to know.
+          If you&#39;re in high school and taking physics, head over to our <Link href="/education/gp1">Gen phys 1</Link> page to learn about the topics you&#39;ll cover in class.
 </p>
 <p>
      You can find your state&#39;s education requirements <Link href="/education">here</Link>
