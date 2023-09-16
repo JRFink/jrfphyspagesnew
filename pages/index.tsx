@@ -3,6 +3,8 @@ import Link from 'next/link';
 import Image from 'next/image';
 import indiangirl from '@/public/images/indiangirl.jpg'; 
 import asiangirl from '@/public/images/asiangirl.jpg';
+import redhair from '@/public/images/redhair.jpg'; 
+import publicgroup from '@/public/images/publicgroup.jpg'; 
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -90,6 +92,27 @@ const indexPage = () => {
       <p> 
           If you&#39;re a physics researcher and need access to the latest news in a certain research area, head on over to our <Link href="/research">research page</Link>. Here you will find links to the latest research papers in each area. 
       </p>
+<br /> 
+<br /> 
+<div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={redhair} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a girl talking to another in front of a white board"  
+                 /> 
+             </div>
+<br /> 
+<br />
       <h3> 
           If your company is getting into quantum computing&#46;&#46;&#46;
       </h3>
@@ -100,9 +123,31 @@ const indexPage = () => {
       <h3> 
           If you&#39;re a member of the general public&#46;&#46;&#46;
       </h3> 
-      <p> 
+<p> 
           If you&#39;re a member of the general public, you can find useful things all over the site. For example, let&#39;s say you work in computer programming and a client wants to experiment with quantum computing. You don&#39;t have to be a quantum expert, but you probably want to know some of the math. You can head on over to our <Link href="/education/qm1/op">math background</Link> section to get an overview of the math used in quantum. 
       </p>
+<br /> 
+<br />
+<div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={publicgroup} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a group of people with an instructor at the front"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
+
       <h2> 
            We&#39;d love your feedback
       </h2> 
