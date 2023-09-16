@@ -265,7 +265,7 @@ Instead, you can come here and learn all the physics you want for &#36;5 per mon
 <br /> 
 <br /> 
       <h2> 
-           Gen phys 
+<Link href="/education/gp1">Gen phys</Link>
       </h2>
       <p> 
           Physics starts with gen phys 1, where you learn about motion, changes in motion, and how to use conservation laws to solve certain physics problems. You also learn about gravity and how to approximate it near earth&#39;s surface; you use that fact to solve a range of physics problems. 
