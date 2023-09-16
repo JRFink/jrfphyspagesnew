@@ -7,6 +7,7 @@ import redhair from '@/public/images/redhair.jpg';
 import publicgroup from '@/public/images/publicgroup.jpg'; 
 import water from '@/public/images/water.jpg';
 import quantspiral from '@/public/images/quantspiral';
+import emcircuits from '@/public/images/emcircuits';
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -264,6 +265,28 @@ const indexPage = () => {
       <p> 
            You&#39;ll cover charge, force, field, potentials, circuits, energy, conservation laws, electromagnetic waves, poynting vector, maxwell&#39;s equations, and relativity. It&#39;s a lot, but it gives you a deeper understanding of our world. 
       </p>
+<br /> 
+<br />
+      </p>
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={emcircuits} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="many wires plugging into a circuit board"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
       <h2>
            Modern physics 
       </h2> 
