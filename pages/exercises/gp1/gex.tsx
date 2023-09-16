@@ -18,12 +18,13 @@ const GEx = () => {
                 A student drops a particle from rest in the field. 
                 What is its velocity after 4 seconds? 
             </li>
-        </ol>
-
-        
+        </ol>       
         <input type='text' className={style.inputOnLeft}></input> m/s
       <p>Hm times {count}</p>
       <button onClick={() => setCount(count + 1)} className={style.greenButtonCont}>Check answer</button>
+<li> 
+Using the form of the gravitational force and Newton&#39;s laws find the acceleration of a 10 kg block at earth&#39;s surface. Now find the acceleration at 500 km.
+</li> 
     </div>
   );
 }
