@@ -6,6 +6,7 @@ import asiangirl from '@/public/images/asiangirl.jpg';
 import redhair from '@/public/images/redhair.jpg'; 
 import publicgroup from '@/public/images/publicgroup.jpg'; 
 import water from '@/public/images/water.jpg';
+import violin from '@/public/images/violin.jpg';
 import quantspiral from
 '@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
@@ -40,9 +41,9 @@ const indexPage = () => {
       </h3>
       <p> 
           If you&#39;re in high school and taking physics, head over to our <Link href="/education/gp1">Gen phys 1</Link> page to learn about the topics you&#39;ll cover in class. We&#39;ll cover displacement, the kinematic equations, conservation of energy, and all the essential topics you&#39;ll need to know.
+</p>
 <br /> 
 <br />
-      </p>
             <div  
                  style={{ 
                      display: "flex", 
@@ -279,6 +280,27 @@ const indexPage = () => {
       <p> 
            Instead of focusing on instantaneous changes and forces as a function, these approaches focus on the energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
       </p> 
+<br /> 
+<br />
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={violin} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="top part of a violin"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
       <h2> 
            Electricity and magnetism 
       </h2> 
