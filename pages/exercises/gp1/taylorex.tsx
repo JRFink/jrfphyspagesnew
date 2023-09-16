@@ -10,7 +10,9 @@ import Exerciseheading from '@/pages/components/exerciseheading';
 <li> 
 Review series.
 </li>
-
+<li> 
+Review what series are able to have series representations. 
+</li>
 </ol> 
   </>
   );
