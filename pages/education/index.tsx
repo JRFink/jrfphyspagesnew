@@ -20,7 +20,9 @@ const Education = () => {
                 <br />   
 <br /> 
 <br />  
-<br />    
+<br /> 
+<br /> 
+<br />   
                 <p> 
 Your state education requirements...
 </p> 
