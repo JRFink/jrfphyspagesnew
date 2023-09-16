@@ -10,8 +10,8 @@ import violin from '@/public/images/violin.jpg';
 import quantspiral from
 '@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
-import emcircuits from '@/public/images/emcircuits';
-import surface from '@/public/images/surface';
+import emcircuits from '@/public/images/emcircuits.jpg';
+import surface from '@/public/images/surface.jpg';
 import nabla from '@/public/images/nabla.svg';
  
 
