@@ -21,7 +21,13 @@ const Education = () => {
                 <p> 
 Find your state education requirements here...
 </p> 
-            </div>
+<ul>
+<li>
+<a href="http://www.cde.state.co.us/standardsandinstruction">Colorado</a></li>
+</ul>
+<br /> 
+<br />         
+ </div>
 
             <h2 className={style.edHeaderSpace}>
                 See what students are saying
