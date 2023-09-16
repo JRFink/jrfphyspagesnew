@@ -6,6 +6,7 @@ import asiangirl from '@/public/images/asiangirl.jpg';
 import redhair from '@/public/images/redhair.jpg'; 
 import publicgroup from '@/public/images/publicgroup.jpg'; 
 import water from '@/public/images/water.jpg';
+import quantspiral from '@/public/images/quantspiral';
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -121,6 +122,28 @@ const indexPage = () => {
           If your company is getting into quantum computing, head on over to our <Link href="/research/qis">quantum computing page</Link>. You will be able to learn about 
           the basics of quantum computing, how quantum computers are built, and the major players in the space. 
       </p>
+<br /> 
+<br />
+      </p>
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={quantspiral} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a red and white spiral nanotube"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
       <h3> 
           If you&#39;re a member of the general public&#46;&#46;&#46;
       </h3> 
