@@ -415,7 +415,7 @@ const indexPage = () => {
                  <Image 
                      src={galaxyhome} 
                      style={{ 
-                         width: '70%', 
+                         width: '80%', 
                          borderRadius: "20px", 
                          height: 'auto' 
                      }} 
