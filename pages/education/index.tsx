@@ -19,7 +19,8 @@ const Education = () => {
                 <Link href="/education/vid" className={style.generalLink}>Videos</Link>
                 <br />   
 <br /> 
-<br />      
+<br />  
+<br />    
                 <p> 
 Your state education requirements...
 </p> 
@@ -31,7 +32,7 @@ Your state education requirements...
 <a href="http://www.cde.state.co.us/standardsandinstruction">Colorado</a></li>
 <br />
 <li>
-<a href="https://cpalms.org">Florida</a> though you have to subscribe </li>
+<a href="https://cpalms.org">Florida</a> - though you have to subscribe </li>
 <br />
 <li> 
 <a href="https://www.isbe.net/Pages/Standards-Courses.aspx">Illinois</a></li>
