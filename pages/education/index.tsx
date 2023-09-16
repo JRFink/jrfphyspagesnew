@@ -33,6 +33,9 @@ Your state education requirements...
 <li>
 <a href="https://cpalms.org">Florida</a> though you have to subscribe </li>
 <br />
+<li> 
+<a href="https://www.isbe.net/Pages/Standards-Courses.aspx">Illinois</a></li>
+<br />
 <li><a href="https://www.doe.mass.edu/frameworks/default.html">Massachusetts</a></li>
 <br />
 <li><a href="https://www.nysed.gov/curriculum-instruction">New York</a></li>
