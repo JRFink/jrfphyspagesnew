@@ -301,7 +301,9 @@ Instead, you can come here and learn all the physics you want for &#36;5 per mon
 <br /> 
 <br />
       <h2 id="classical"> 
+<Link href="/education/cm1">
            Classical mechanics
+</Link> 
       </h2>
       <p> 
            After this, then comes all the stuff from gen phys 1 at a higher level. We call this classical mechanics. 
@@ -334,7 +336,9 @@ Instead, you can come here and learn all the physics you want for &#36;5 per mon
 <br /> 
 <br /> 
       <h2> 
+<Link href="/education/em1">
            Electricity and magnetism 
+</Link>
       </h2> 
       <p> 
            Next comes E and M, which is general physics 2 at a much higher level. This subject has a reputation for being difficult, not without justification. The math is probably the hardest part, though the math gives insight into what is happening physically.  
@@ -364,7 +368,9 @@ Instead, you can come here and learn all the physics you want for &#36;5 per mon
 <br /> 
 <br /> 
       <h2>
+  <Link href="/education/qm1">
            Modern physics 
+  </Link>
       </h2> 
       <p> 
            Modern physics is when you start to learn about relativity and quantum mechanics. 
