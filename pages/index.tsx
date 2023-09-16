@@ -78,7 +78,7 @@ const indexPage = () => {
 Instead, you can come here and learn all the physics you want for &#36;5 per month. 
 </p>
       <p>
-          If you are in college and taking gen phys 1, either calculus or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a bit of a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
+          If you are in college and taking gen phys 1, either calculus or algebra based, head on over to our <Link href="/education/gp1">Gen phys 1</Link> page. We&#39;ll derive the kinematic equations from algebra and calc. We&#39;ll also give you a differential equations crash-course, so you can understand the different contexts of newton&#39;s second law.  
       </p>
       <p>
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
