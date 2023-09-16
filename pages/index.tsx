@@ -1,7 +1,8 @@
 import style from '../styles/general.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
-import indiangirl from '@/public/images/indiangirl.jpg'
+import indiangirl from '@/public/images/indiangirl.jpg'; 
+import asiangirl from '@/public/images/asiangirl.jpg';
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -58,6 +59,23 @@ const indexPage = () => {
       <p>
           We&#39;ll also cover taylor expansions; this is a frequently used method to solve physics problems.  
       </p>
+<div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={asiangirl} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="girl sitting on the floor with books everywhere"  
+                 /> 
+             </div>
       <h3> 
           If you&#39;re a physics researcher&#46;&#46;&#46;
       </h3>
