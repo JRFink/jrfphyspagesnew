@@ -21,7 +21,7 @@ const indexPage = () => {
   return (
     <>
       <p className={style.centerText}>
-        Hello, and welcome to jrfink.net! This site focuses on physics education and research.
+        Hello, and welcome to jrfink.net! 
         <br />
         <br />
         This site is under <span className={style.highlightText}>active construction ⚠️</span>.
