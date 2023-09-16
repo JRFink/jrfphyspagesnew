@@ -6,6 +6,12 @@ import Exerciseheading from '@/pages/components/exerciseheading';
   return (
     <>
     <Exerciseheading />
+ <ol> 
+<li> 
+
+</li>
+
+</ol> 
   </>
   );
 }
