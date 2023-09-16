@@ -64,7 +64,7 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
                         <br />
-                        <li><Link href="https://coldquanta.com/">Cold Quanta</Link> - thank you boulder</li> 
+                        <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li> 
                         <br />
                         <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
                     </ul>
