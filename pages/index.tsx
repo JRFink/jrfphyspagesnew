@@ -13,6 +13,7 @@ import quantspiral from
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits.jpg';
 import surface from '@/public/images/surface.jpg';
+import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -403,6 +404,27 @@ const indexPage = () => {
       <p>
            Going from the small to the large would be cosmology. Cosmology aims to describe the universe macroscopically; 
         <em> how does it evole? how did it begin? where is it going?</em>
+<br /> 
+<br />
+<div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={galaxyhome} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a blue and purple galaxy"  
+                 /> 
+             </div>
+<br /> 
+<br />
       </p>
       <h2>
            Summary
