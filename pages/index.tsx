@@ -1,6 +1,7 @@
 import style from '../styles/general.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
+import indiangirl from '@/public/images/indiangirl.jpg'
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -31,6 +32,23 @@ const indexPage = () => {
       <p> 
           If you&#39;re in high school and taking physics, head over to our <Link href="/education/gp1">Gen phys 1</Link> page to learn about the topics you&#39;ll cover in class. We&#39;ll cover displacement, the kinematic equations, conservation of energy, and all the essential topics you&#39;ll need to know.
       </p>
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={indiangirl} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="Girl in blue outfit sitting at a desk"  
+                 /> 
+             </div>
       <h3> 
           If you&#39;re in college&#46;&#46;&#46; 
       </h3>
