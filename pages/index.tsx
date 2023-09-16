@@ -6,6 +6,7 @@ import asiangirl from '@/public/images/asiangirl.jpg';
 import redhair from '@/public/images/redhair.jpg'; 
 import publicgroup from '@/public/images/publicgroup.jpg'; 
 import water from '@/public/images/water.jpg';
+import symbols from '@/public/images/symbols.jpg';
 import violin from '@/public/images/violin.jpg';
 import quantspiral from
 '@/public/images/quantspiral.jpg';
@@ -232,6 +233,27 @@ const indexPage = () => {
       <p>
           Overall, physics studies how things move. <em>Why does an apple fall from a tree? If it does, how long till it hits the ground? And what&#39;s the deal with light being a particle <Link href="https://theconversation.com/curious-kids-is-light-a-wave-or-a-particle-162514"> and a wave</Link>?</em> 
       </p>
+<br /> 
+<br />
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={symbols} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a green chalkboard with mathematical symbols"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
       <h2> 
            Gen phys 
       </h2>
