@@ -10,6 +10,7 @@ import quantspiral from
 '@/public/images/quantspiral';
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits';
+import surface from '@/public/images/surface';
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -326,6 +327,28 @@ const indexPage = () => {
            can use classical analogies and when you cannot. When you cannot, you need the full machinery of quantum such as wave functions, 
            operators, angular momentum theories, and lots of integrals. 
       </p>
+<br /> 
+<br />
+      </p>
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={surface} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a gray smooth curving surface"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
       <p>
            After quantum comes quantum field theory, which studies just subatomic particles. It&#39;s what we call the physics of the <Link href="/research/particle">standard model</Link>.
            The standard model is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple, though it&#39;s a start. 
