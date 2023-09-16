@@ -24,7 +24,7 @@ Find your state education requirements here...
 <ul>
 <li>
 <a href="http://www.cde.state.co.us/standardsandinstruction">Colorado</a></li>
-</ul>
+<li><a href="https://www.nysed.gov/curriculum-instruction">New York</li></ul>
 <br /> 
 <br />         
  </div>
