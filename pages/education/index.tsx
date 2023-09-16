@@ -18,7 +18,9 @@ const Education = () => {
                 <br />   
                 <Link href="/education/vid" className={style.generalLink}>Videos</Link>
                 <br />         
-                
+                <p> 
+Find your state education requirements here...
+</p> 
             </div>
 
             <h2 className={style.edHeaderSpace}>
