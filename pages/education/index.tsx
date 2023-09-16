@@ -41,6 +41,9 @@ Your state education requirements...
 <a href="https://education.ohio.gov/Topics/Learning-in-Ohio/OLS-Graphic-Sections/Learning-Standards">Ohio</a></li>
 <br />
 <li><a href="https://tea.texas.gov/academics/curriculum-standards">Texas</a></li>
+<br /> 
+<li>
+<a href="https://ospi.k12.wa.us/student-success/learning-standards-instructional-materials">Washington</a></li>
 </ul>
 <br /> 
 <br />         
