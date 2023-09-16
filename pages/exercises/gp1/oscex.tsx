@@ -13,6 +13,12 @@ const OscEx = () => {
         <li>
             How do you mathematically describe something that goes back and forth? Are there other ways to describe it?
         </li>
+        <li> 
+            Solve the differential equation <em> x&#40;z&#41; = x&#39;&#39;&#40;z&#41;
+        </li>
+<li> 
+            Solve the differential equation <em> x&#40;z&#41; = - x&#39;&#39;&#40;z&#41;
+        </li> 
     </ol>
     </>
   );
