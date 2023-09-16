@@ -6,7 +6,9 @@ import asiangirl from '@/public/images/asiangirl.jpg';
 import redhair from '@/public/images/redhair.jpg'; 
 import publicgroup from '@/public/images/publicgroup.jpg'; 
 import water from '@/public/images/water.jpg';
-import quantspiral from '@/public/images/quantspiral';
+import quantspiral from
+'@/public/images/quantspiral';
+import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits';
 import nabla from '@/public/images/nabla.svg';
  
@@ -243,6 +245,27 @@ const indexPage = () => {
       <p> 
            You build up to maxwell&#39;s equations and learn their definition. You start with the integral forms. You learn them as the capstone of EM theory. 
       </p>
+<br /> 
+<br />
+<div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={classapple} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a stack of books and an apple on a desk"  
+                 /> 
+             </div>
+<br /> 
+<br />
       <h2 id="classical"> 
            Classical mechanics
       </h2>
