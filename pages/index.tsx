@@ -5,6 +5,7 @@ import indiangirl from '@/public/images/indiangirl.jpg';
 import asiangirl from '@/public/images/asiangirl.jpg';
 import redhair from '@/public/images/redhair.jpg'; 
 import publicgroup from '@/public/images/publicgroup.jpg'; 
+import water from '@/public/images/water.jpg';
 import nabla from '@/public/images/nabla.svg';
  
 
@@ -162,6 +163,28 @@ const indexPage = () => {
       <p>
         Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
         research, sign-up and login tabs. There is also a search feature. Working on that. <br></br> <br></br>
+
+<br /> 
+<br />
+<div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={water} 
+                     style={{ 
+                         width: '70%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="a water droplet"  
+                 /> 
+             </div>
+<br /> 
+<br /> 
 
         The site isn&#39;t done yet, but it&#39;s a site to which you come to learn about physics. Eventually you will be able to take gen phys 1, 
         a full-on implementation of a gen phys 1 class. 
