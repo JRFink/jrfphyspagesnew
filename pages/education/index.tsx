@@ -30,6 +30,9 @@ Your state education requirements...
 <li>
 <a href="http://www.cde.state.co.us/standardsandinstruction">Colorado</a></li>
 <br />
+<li>
+<a href="https://cpalms.org">Florida</a> though you have to subscribe </li>
+<br />
 <li><a href="https://www.doe.mass.edu/frameworks/default.html">Massachusetts</a></li>
 <br />
 <li><a href="https://www.nysed.gov/curriculum-instruction">New York</a></li>
