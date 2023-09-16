@@ -37,6 +37,9 @@ Your state education requirements...
 <br />
 <li><a href="https://www.nysed.gov/curriculum-instruction">New York</a></li>
 <br />
+<li> 
+<a href="https://education.ohio.gov/Topics/Learning-in-Ohio/OLS-Graphic-Sections/Learning-Standards">Ohio</a></li>
+<br />
 <li><a href="https://tea.texas.gov/academics/curriculum-standards">Texas</a></li>
 </ul>
 <br /> 
