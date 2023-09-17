@@ -52,6 +52,9 @@ Your state education requirements...
 <a href="https://ospi.k12.wa.us/student-success/learning-standards-instructional-materials">Washington</a></li>
 </ul>
 <br /> 
+<p> 
+Also here are <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics">college board</a> requirements.
+</p>
 <br />         
  </div>
 
