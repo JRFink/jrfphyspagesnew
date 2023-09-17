@@ -20,7 +20,8 @@ const Education = () => {
                 <br />   
  <p>
 Part of what we want to do is teach you things that you would be required to learn in class. For example, if you are taking physics in Colorado, what are the requirements? We list some of the state requirements below. 
-
+</p>
+<p> Mind you that these are high school requirements; college requirements can vary. 
 </p>
                 <p> 
 Your state education requirements...
