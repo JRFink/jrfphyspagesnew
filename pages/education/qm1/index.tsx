@@ -24,7 +24,7 @@ const Qm1 = () => {
             <br></br>
             <Link href="/education/qm1/gerlach" className={style.generalLink}>From Experiment to Theory - Stern Gerlach</Link><br></br>
             <br></br>
-            <Link href="/education/qm1/op" className={style.generalLink}>Math Background</Link><br></br>
+            <Link href="/education/qm1/op" className={style.generalLink}>Linear algebra crash course</Link><br></br>
             <br></br>
             <Link href="/education/qm1/dxdp" className={style.generalLink}>Measurement and Uncertainty</Link><br></br>
             <br></br>
