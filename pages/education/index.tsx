@@ -53,7 +53,7 @@ Your state education requirements...
 </ul>
 <br /> 
 <p> 
-Also here are <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics">college board</a> requirements.
+Also here are the <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics">college board</a> requirements.
 </p>
 <br />         
  </div>
