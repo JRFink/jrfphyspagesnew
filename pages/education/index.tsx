@@ -18,7 +18,10 @@ const Education = () => {
                 <br />   
                 <Link href="/education/vid" className={style.generalLink}>Videos</Link>
                 <br />   
-  
+ <p>
+Part of what we want to do is teach you things that you would be required to learn in class. For example, if you are taking physics in Colorado, what are the requirements? We list some of the state requirements below. 
+
+</p>
                 <p> 
 Your state education requirements...
 </p> 
