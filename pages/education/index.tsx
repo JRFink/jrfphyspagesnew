@@ -53,7 +53,7 @@ Your state education requirements...
 </ul>
 <br /> 
 <p> 
-Also here are the college board<a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> calc based</a> requirements.
+Also here are the college board <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based">algebra based</a> requirements and the <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics">calc based</a> requirements.
 </p>
 <br />         
  </div>
