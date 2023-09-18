@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewVec } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import VecEx from '@/pages/exercises/gp1/vecex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -16,7 +17,8 @@ const Vec = () => {
             </h1>
             <br></br>
             <ModoverviewVec />
-            <br></br>
+            <br /> 
+<LearnGoal />
             <h2 className={style.h2SectionColor} id="def">
                 1. Defining vectors
             </h2>
