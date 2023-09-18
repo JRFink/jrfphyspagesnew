@@ -6,6 +6,11 @@ const TheatEx = () => {
   return (
     <>
       <Exerciseheading />
+<ul> 
+<li> 
+       List 3 different temperature scales
+</li> 
+</ul>
     </>
   );
 }
