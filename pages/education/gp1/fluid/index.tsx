@@ -100,6 +100,7 @@ Introduction
             <h2 className={style.h2SectionColor} id="visc">
                 4. Viscosity 
             </h2>
+<br />
 <Summary /> 
 <br />
             <br></br>
