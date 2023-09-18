@@ -6,6 +6,12 @@ const SlawEx = () => {
     return (
       <>
         <Exerciseheading />
+<ul>
+<li> 
+    
+Flip a coin once. What is the probability you get heads? Flip a coin twice. What is the probability you get heads both times? Flip it four times. What&#39;s the probability you get heads four in a row? Say that your state is a sequence of the heads and tails results (HHHT, THTH, TTTT) etc., what state are you most likely to find?     
+</li>
+</ul>
       </>
     );
   }
