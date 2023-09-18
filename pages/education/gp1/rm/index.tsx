@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import RotVid from '@/public/videos/gp1/rm';
 import { ModoverviewRm } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import RmEx from '@/pages/exercises/gp1/rmex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -17,7 +18,8 @@ const Rm = () => {
             </h1>
             <br></br>
             <ModoverviewRm />
-            <br></br>
+            <br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
