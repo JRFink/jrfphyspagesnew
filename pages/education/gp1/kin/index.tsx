@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewGas } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import KinEx from '@/pages/exercises/gp1/kinex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -15,6 +16,8 @@ const Kin = () => {
                 Gases
             </h1>
             <ModoverviewGas />
+<br />
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
