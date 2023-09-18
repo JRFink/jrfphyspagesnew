@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewWm } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import WmEx from '@/pages/exercises/gp1/wmex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -16,7 +17,9 @@ const Wave = () => {
             </h1>
             <br></br>
             <ModoverviewWm />
-            <br></br>
+            <br /> 
+<LearnGoal />
+<br /> 
 <h2> 
 Introduction
 </h2>
