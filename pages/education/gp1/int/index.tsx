@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Helpful from '@/pages/components/helpful';
 
-const Fluid = () => {
+const Int = () => {
     return (
         <>
             <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
@@ -54,4 +54,4 @@ const Fluid = () => {
     );
 }
 
-export default Fluid;
+export default Int;
