@@ -56,6 +56,15 @@ const [isSubmitted, setSubmitted] = useState(false);
             </>
           )
         }
+        <br /> 
+        <br /> 
+        <br />
+        <p>
+          Or write to use at: <br /> <br /> 
+          PO Box 7007 <br /> 
+          Ny, Ny 10150
+
+        </p>
       </>
   );
 }

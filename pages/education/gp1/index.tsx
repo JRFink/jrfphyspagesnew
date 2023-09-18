@@ -15,7 +15,10 @@ const Gp1 = () => {
             <p>
                 Hello, and welcome to gen phys 1! This class is meant to be awesome; 
                 it is the equivalent of a gen phys 1 class you would take in high school or college. You will learn about 
-                forces, motion, vectors, newton&#39;s laws, angular momentum, taylor expansion, and even differential equations. I am offering this as an online class where you can work along at your own pace. I don&#39;t have all the implementation yet, but I have the topical structure. You should also be able to get high school or college credit for this class. We&#39;ll work with your school if needed. 
+                forces, motion, vectors, newton&#39;s laws, angular momentum, taylor expansion, and even differential equations. 
+                I am offering this as an online class where you can work along at your own pace. 
+                I don&#39;t have all the implementation yet, but I have the topical structure. 
+                Take a look below. 
             </p>
             <h2>
                 Description
@@ -27,7 +30,7 @@ const Gp1 = () => {
                 &nbsp; &nbsp; kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, taylor expansion, gravity, waves, fluid motion, and intro thermodynamics. 
                 <br></br><br></br>
                 The class consists of ~ 20 modules, which consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam.
-                I hope you enjoy it, and please give me your <a href="mailto:jeff@jrfink.net">feedback</a> as you go through it.
+                I hope you enjoy it, and please give me your <Link href="/contact">feedback</Link> as you go through it.
                 <br></br>
                 <br></br>
           
