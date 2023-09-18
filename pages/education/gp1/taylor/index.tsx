@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 import Image from 'next/image';
 import pendulum from '@/public/images/pendulum.svg';
 import { ModoverviewTaylor } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import Summary from '@/pages/components/summary';
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
@@ -22,7 +23,8 @@ const Taylor = () => {
             <ModoverviewTaylor />
             <br></br>
             <TaylorVid />
-            <br></br>
+            <br />
+<LearnGoal />
 <p> 
      In the preceeding sections, we solved problems with the kinematic approach, the differential equation approach, as well as used conservation laws to solve problems. Here we learn a mathematical technique that will allow us to solve other types of physics problems. Specifically, when there is a small change to a physical system, we can use a mathematical technique called <em> taylor expansion</em> to solve the problem. This approach gives an approximate solution, and can only be used when a change to the physical system is small. 
 </p> 
