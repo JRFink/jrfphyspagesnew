@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import LearnGoal from '@/pages/components/learngoal';
 import TrqVid from '@/public/videos/gp1/trq';
 import TrqEx from '@/pages/exercises/gp1/trqex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -14,6 +15,8 @@ const Trq = () => {
                 Dynamics of Rotational Motion
             </h1>
             <br></br>
+<LearnGoal /> 
+<br />
             <TrqVid />
             <br></br>
             <br />
