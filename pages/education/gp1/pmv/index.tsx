@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import PmvVid from '@/public/videos/gp1/pmv';
 import { ModoverviewPmv } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -16,7 +17,8 @@ const Pmv = () => {
                 Momentum, Impulse, & Collisions
             </h1>
             <ModoverviewPmv />
-            <br></br>
+            <br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
