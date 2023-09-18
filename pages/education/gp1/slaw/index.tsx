@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { Modoverview2nd } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import SlawEx from '@/pages/exercises/gp1/slawex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -15,7 +16,8 @@ const Slaw = () => {
                 Second law of Thermodynamics
             </h1>
             <Modoverview2nd /> 
-            <br></br>
+            <br /> 
+<LearnGoal />
 <h2> 
 Introduction
 </h2> 
