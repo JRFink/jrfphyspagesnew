@@ -2,6 +2,7 @@ import Link from 'next/link';
 import EUKVid from '@/public/videos/gp1/euk';
 import style from '@/styles/general.module.css';
 import { ModoverviewPu } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -17,6 +18,8 @@ const PU = () => {
             </h1>
             <br></br>
             <ModoverviewPu />
+<br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2> 
