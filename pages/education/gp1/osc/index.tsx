@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewOsc } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import OscEx from '@/pages/exercises/gp1/oscex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -15,7 +16,8 @@ const Osc = () => {
                 Oscillations
             </h1>
             <ModoverviewOsc />
-
+<br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
