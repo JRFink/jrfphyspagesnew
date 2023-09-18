@@ -535,13 +535,7 @@
     padding: 7px 7px 7px 7px;
     margin: 0px 0px 0px 15px;
     background-color: rgb(137, 222, 253);
-}
-
-.summaryHeading {
-    display: inline-block; 
-    padding: 7px 7px 7px 7px;
-    margin: 0px 0px 0px 15px;
-    background-color: rgb(137, 222, 253);
+    border-radius: 8px;
 }
 
 .highlightText {
@@ -549,11 +543,28 @@
     padding: 5px;
 }
 
+.learngoalHeading {
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 15px;
+    background-color: rgb(255, 230, 141);  
+    border-radius: 8px;
+}
+
+.summaryHeading {
+    display: inline-block; 
+    padding: 7px 7px 7px 7px;
+    margin: 0px 0px 0px 15px;
+    background-color: rgb(137, 222, 253);
+    border-radius: 8px;
+}
+
 .exerciseHeading {
     display: inline-block;
     padding: 10px 10px 10px 10px;
     margin: 0px 0px 0px 15px;
     background-color: rgb(252, 255, 161);  
+    border-radius: 8px;
 }
 
 .quizHeading {
@@ -561,6 +572,7 @@
     padding: 10px 10px 10px 10px; 
     margin: 0px 0px 0px 15px; 
     background-color: rgb(255, 230, 141);
+    border-radius: 8px;
 }
 
 .exerciseOl {

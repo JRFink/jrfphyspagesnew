@@ -2,6 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import UnitsVid from '@/public/videos/gp1/units';
 import { ModoverviewFrames } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -20,9 +21,10 @@ const Uvec = () => {
             <br></br>
             <ModoverviewFrames />
             <br></br>
-<h2> 
-Introduction 
-</h2>
+            <LearnGoal />
+            <h2> 
+            Introduction 
+            </h2>
             <h2 className={style.h2SectionColor} id="frames">
                 1. Reference frames 
             </h2>
