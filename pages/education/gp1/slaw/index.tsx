@@ -43,6 +43,7 @@ Introduction
             <h2 className={style.h2SectionColor} id="stat"> 
                 Statistics 
             </h2>
+<br />
 <Summary /> 
 <br />  
             <br></br>
