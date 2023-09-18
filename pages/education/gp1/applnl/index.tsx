@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewANl } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import ApplnlEx from '@/pages/exercises/gp1/applnlex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -17,6 +18,7 @@ const ApplNl = () => {
             <br></br> 
             <ModoverviewANl />
    <br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
