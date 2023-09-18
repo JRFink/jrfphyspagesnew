@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewNl } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import NewtVid from '@/public/videos/gp1/newt';
 import Summary from '@/pages/components/summary';
 import NlEx from '@/pages/exercises/gp1/nlex';
@@ -17,6 +18,8 @@ const NewtLaws = () => {
             </h1>
             <br></br>
             <ModoverviewNl />
+<br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
