@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewCalc } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary'; 
 import CalcEx from '@/pages/exercises/gp1/calcex';
 import Helpful from '@/pages/components/helpful';
@@ -16,6 +17,7 @@ const Calc = () => {
             <br></br>
             <ModoverviewCalc />
             <br></br>
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
