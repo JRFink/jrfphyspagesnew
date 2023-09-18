@@ -29,6 +29,9 @@ const Uvec = () => {
 <li> 
      Be able to describe 3 unit systems and convert between unit systems. 
 /li>
+<li> 
+     Be able to describe measurement, use significant figures, amd determine uncertainty. 
+</li> 
 </ol>
             <h2> 
             Introduction 
