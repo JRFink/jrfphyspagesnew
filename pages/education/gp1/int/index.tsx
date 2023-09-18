@@ -1,8 +1,5 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
-import ModoverviewInt from '@/pages/components/modoverview';
-import FluidEx from '@/pages/exercises/gp1/fluidex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Fluid = () => {
