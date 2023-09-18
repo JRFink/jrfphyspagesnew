@@ -22,6 +22,11 @@ const Uvec = () => {
             <ModoverviewFrames />
             <br></br>
             <LearnGoal />
+<ol> 
+<li>
+     Be able to describe an inertial reference frame. 
+</li>
+</ol>
             <h2> 
             Introduction 
             </h2>
