@@ -2,6 +2,7 @@ import Link from 'next/link';
 import Two3Vid from '@/public/videos/gp1/two3';
 import style from '@/styles/general.module.css';
 import { Modoverview2dm } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -18,6 +19,7 @@ const Two3dm = () => {
             <br></br>
             <Modoverview2dm />
     <br /> 
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
