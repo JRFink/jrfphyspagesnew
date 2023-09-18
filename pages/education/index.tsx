@@ -55,7 +55,7 @@ Your state education requirements...
 <p> 
 Also here are the College Board &#174; <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based">algebra based</a> requirements and the <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics">calc based</a> requirements.
 </p>
-<a href="https://www.ipho-new.org/documentations/">Physics olympiad</a> problems
+<a href="https://www.ipho-new.org/documentations/">Physics olympiad </a>problems
 </div>
 <br />         
 
