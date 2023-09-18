@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewG } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import GEx from '@/pages/exercises/gp1/gex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -16,8 +17,8 @@ const Gravity = () => {
             </h1>
             <br></br>
             <ModoverviewG />
-            <br></br>
-
+            <br />
+<LearnGoal />
 <h2> 
 Introduction 
 </h2>
