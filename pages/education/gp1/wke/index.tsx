@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewWke } from '@/pages/components/modoverview';
+import LearnGoal from '@/pages/components/learngoal';
 import WkeVid from '@/public/videos/gp1/wke';
 import Summary from '@/pages/components/summary';
 import WkeEx from '@/pages/exercises/gp1/wkeex';
@@ -17,6 +18,8 @@ const Wke = () => {
             </h1>
             <ModoverviewWke />
             <br></br>
+<LearnGoal />
+<br />
             <WkeVid />
             <br></br>
             <p>
