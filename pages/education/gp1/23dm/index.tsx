@@ -32,6 +32,9 @@ From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not
 <h2 className={style.h2SectionColor}> 
          Domain of 2 - 3 dimensions  
 </h2>
+<p> 
+ The domain of two and three dimensional motion is... 
+ </p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="2dm">
