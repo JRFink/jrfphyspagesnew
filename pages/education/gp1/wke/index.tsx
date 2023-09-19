@@ -33,6 +33,9 @@ For example...
 <h2 className={style.h2SectionColor}> 
          Domain of work and kinetic energy  
 </h2>
+<p> 
+ The domain of work and kinetic energy is... 
+ </p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="wet">
