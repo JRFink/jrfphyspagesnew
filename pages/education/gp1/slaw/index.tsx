@@ -27,6 +27,13 @@ Introduction
 <p> 
         The second law is about the arrangements of a system. We use it to understand how systems evolve over time, such as how a clean room becomes dirty. 
 </p> 
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of the second law  
+</h2>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
             </h2>
