@@ -24,7 +24,13 @@ Introduction
 <p>
       Moving from gravity we proceed to fluids. Fluid motion is complicated, but we can use some idealized models to make it easier. 
 </p>
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of fluids 
+</h2>
 <br /> 
+<br />
             <h2 className={style.h2SectionColor} id="fluid">
                 1. Fluids, density, and pressure
             </h2>
