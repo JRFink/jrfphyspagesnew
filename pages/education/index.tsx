@@ -16,7 +16,9 @@ const Education = () => {
                 <Link href="/education/topics" className={style.generalLink}>Topics</Link>
                 <br />   
                 <Link href="/education/vid" className={style.generalLink}>Videos</Link>
-                <br />   
+                <br /> 
+            <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based" className={style.generalLink}>AP Physics 1 #&174;</a>
+      <br />
             </div>
             <br />
             <br />
