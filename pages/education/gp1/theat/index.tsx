@@ -31,6 +31,13 @@ Proceeding from waves to heat and temperature, we move into the realm of thermod
 <p> 
         As a simple example, we could consider a block of ice sliding on a frictionless surface. The previous sections taught us how to find the position amd velocity of the block at any given time; thermo teaches us how the ice melts, how long it takes; how cold or &#39;hot&#39; it is; its density, etc. 
 </p>
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of temperature and heat
+</h2>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="temp">
                 1. Temperature 
             </h2>
