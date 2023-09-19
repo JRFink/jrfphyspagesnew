@@ -42,6 +42,9 @@ Introduction
 <h2 className={style.h2SectionColor}> 
          Domain of gravity 
 </h2>
+<p> 
+ The domain of gravity is... 
+ </p>
 <br /> 
 <br />            
             <h2 className={style.h2SectionColor} id="field">
