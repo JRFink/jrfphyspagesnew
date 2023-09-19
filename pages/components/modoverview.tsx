@@ -592,6 +592,55 @@ export function ModoverviewRm() {
     );
 };
 
+export function ModoverviewTrq() {
+    return (
+        <>
+            <h2 className={style.exerciseHeading}>
+                Module Overview
+            </h2>
+            <br></br>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#var">Variables</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#roll">Rolling</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#torq">Torque</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
+                <a href="#amoment">Angular momentum</a>
+            </p>
+            <br></br>
+            <Docicon />
+            <p className={style.inlineContainerSumm}>
+                Summary
+            </p>
+            <br></br>
+            <Pencilicon />
+            <p className={style.inlineContainer}>
+                Exercises
+            </p>
+            <br />
+            <Checkmark />
+            <p className={style.inlineContainer}>
+                Quiz
+            </p>
+            <br></br>
+            <br></br>
+            <br></br>
+        </>
+    );
+};
+
 export function ModoverviewEq() {
     return (
         <>

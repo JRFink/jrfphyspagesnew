@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import { ModoverviewTrq } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import TrqVid from '@/public/videos/gp1/trq';
 import TrqEx from '@/pages/exercises/gp1/trqex';
@@ -14,6 +15,8 @@ const Trq = () => {
             <h1 className={style.centerText}>
                 Dynamics of Rotational Motion
             </h1>
+            <br /> 
+            <ModoverviewTrq />
             <br></br>
 <LearnGoal /> 
 <br />
