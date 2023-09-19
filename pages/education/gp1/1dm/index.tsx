@@ -34,6 +34,9 @@ We begin our formal study of physics with 1 dimensional motion. This is the simp
 <h2 className={style.h2SectionColor}> 
          Domain of 1 dimension  
 </h2>
+<p>
+The domain of one dimensional motion is...
+</p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="pos">
