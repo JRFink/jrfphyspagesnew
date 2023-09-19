@@ -32,7 +32,7 @@ Introduction
 <br />
 <br />
 <h2 className={style.h2SectionColor}> 
-         Domain of momentum, impulse, &#40; collisions 
+         Domain of momentum, impulse, &#38; collisions 
 </h2>
 <br /> 
 <br />
