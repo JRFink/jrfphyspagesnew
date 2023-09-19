@@ -34,6 +34,9 @@ Introduction
 <h2 className={style.h2SectionColor}> 
          Domain of rotational motion 
 </h2>
+<p> 
+ The domain of rotational motion is... 
+ </p>
 <br /> 
 <br />
             <br /> 
