@@ -32,6 +32,9 @@ Introduction
 <h2 className={style.h2SectionColor}> 
          Domain of the second law  
 </h2>
+<p> 
+ The domain of the second law is... 
+ </p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="ent"> 
