@@ -29,6 +29,9 @@ Introduction
 <h2 className={style.h2SectionColor}> 
          Domain of fluids 
 </h2>
+<p> 
+ The domain of fluid mechanics is... 
+ </p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="fluid">
