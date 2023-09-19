@@ -24,6 +24,13 @@ Introduction
 <p> 
 Proceeding from fluids we move to oscillations. This is a foundational topic in physics. Many things in our world oscillate. For example, a pendulum swings back and forth; a building sways slightly in the wind, and financial markets are always going up and down. Studying oscillations will help us characterize this motion. 
 </p> 
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of oscillations  
+</h2>
+<br /> 
+<br />
                 <h2 className={style.h2SectionColor} id="desc">
                     1. Describing oscillations 
                 </h2>
