@@ -35,7 +35,7 @@ We begin our formal study of physics with 1 dimensional motion. This is the simp
          Domain of 1 dimension  
 </h2>
 <p>
-The domain of one dimensional motion is...
+The domain of one dimensional motion is motion which we can characterize by 1 independent variable. 
 </p>
 <br /> 
 <br />
