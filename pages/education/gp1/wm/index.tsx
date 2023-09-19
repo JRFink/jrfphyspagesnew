@@ -34,6 +34,9 @@ Moving from oscillations we proceed to waves. We will see a lot of the same sine
 <h2 className={style.h2SectionColor}> 
          Domain of wave motion
 </h2>
+<p> 
+ The domain of wave motion is... 
+ </p>
 <br /> 
 <br /> 
             <h2 className={style.h2SectionColor} id="osc">
