@@ -8,7 +8,8 @@ const Ap2alg = () => {
         <Link href="/education/AP" className={style.backtoLink}>AP</Link>
         <h1 className={style.centerText}> 
            AP Physics 2 - algebra  
-        </h1> 
+        </h1>
+        <br /> 
          <p>  
             Find the curriculum  
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-2-algebra-based"> here</a>. 

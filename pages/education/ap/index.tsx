@@ -15,19 +15,19 @@ const Ap = () => {
                 <ul>
                 <br /> 
                     <li>
-                        <Link href="/education/ap/ap1alg">AP Physics 1 - algebra based</Link> 
+                        <Link href="/education/ap/ap1alg" className={style.apText}>AP Physics 1 - algebra based</Link> 
                     </li>
                     <br />
                     <li>
-                        <Link href="/education/ap/ap2alg">AP Physics 2 - algebra based</Link> 
+                        <Link href="/education/ap/ap2alg" className={style.apText}>AP Physics 2 - algebra based</Link> 
                     </li>
                     <br />
                     <li>
-                        <Link href="/education/ap/apcmech">AP Physics C - mechanics</Link> 
+                        <Link href="/education/ap/apcmech" className={style.apText}>AP Physics C - mechanics</Link> 
                     </li>
                     <br />
                     <li>
-                        <Link href="/education/ap/apcelec">AP Physics C - electricity and magnetism</Link> 
+                        <Link href="/education/ap/apcelec" className={style.apText}>AP Physics C - electricity and magnetism</Link> 
                     </li>
                 </ul>
             </p>

@@ -9,6 +9,7 @@ const ApCelec = () => {
         <h1 className={style.centerText}> 
            AP Physics C - e and m  
         </h1> 
+        <br />
          <p>  
             Find the curriculum  
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-electricity-and-magnetism"> here</a>. 

@@ -9,6 +9,7 @@ const ApCmech = () => {
         <h1 className={style.centerText}> 
            AP Physics C - mechanics 
         </h1> 
+        <br />
          <p>  
             Find the curriculum  
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> here</a>. 
