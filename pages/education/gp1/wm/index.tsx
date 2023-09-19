@@ -64,6 +64,7 @@ Moving from oscillations we proceed to waves. We will see a lot of the same sine
             <h2 className={style.h2SectionColor} id="sup">
                 6. Superposition
             </h2>
+<br />
 <Summary />
             <br></br>
             <br></br>
