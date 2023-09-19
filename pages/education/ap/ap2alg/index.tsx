@@ -5,7 +5,7 @@ const Ap2alg = () => {
    return (  
       <>  
         <br />
-        <Link href="/education/AP" className={style.backtoLink}>AP</Link>
+        <Link href="/education/ap" className={style.backtoLink}>AP</Link>
         <h1 className={style.centerText}> 
            AP Physics 2 - algebra  
         </h1>
