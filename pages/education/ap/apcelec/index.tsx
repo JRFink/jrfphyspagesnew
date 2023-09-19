@@ -1,10 +1,13 @@
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 const ApCelec = () => {  
    return (  
       <>  
+        <br />
+        <Link href="/education/ap" className={style.backtoLink}>AP</Link>
         <h1 className={style.centerText}> 
-           AP Physics C &#174; - e and m  
+           AP Physics C - e and m  
         </h1> 
          <p>  
             Find the curriculum  

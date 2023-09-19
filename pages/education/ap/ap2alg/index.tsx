@@ -1,10 +1,13 @@
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 const Ap2alg = () => {  
    return (  
       <>  
+        <br />
+        <Link href="/education/AP" className={style.backtoLink}>AP</Link>
         <h1 className={style.centerText}> 
-           AP Physics 2 &#174; - algebra  
+           AP Physics 2 - algebra  
         </h1> 
          <p>  
             Find the curriculum  

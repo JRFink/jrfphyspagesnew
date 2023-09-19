@@ -7,6 +7,7 @@ import Helpful from '@/pages/components/helpful';
 const Gen = () => {
     return (
         <>
+            <br />
             <Link href="/research" className={style.backtoLink}>Research</Link>
             <br></br>
             <br></br>
@@ -16,6 +17,9 @@ const Gen = () => {
                 </h1>
                 <p>
                     This page is a smattering of ideas. 
+                </p>
+                <p>
+                    <a href="https://www.ipho-new.org/documentations/">Physics olympiad </a>problems
                 </p>
                 <h2>
                     America

@@ -19,13 +19,9 @@ const Education = () => {
             </div>
             <br />
             <div className={style.flexContainer}>
-                <Link href="/education/ap/ap1alg" className={style.generalLink}>AP Physics 1 &#174;</Link>
+                <Link href="/education/ap" className={style.generalLink}>AP Physics &#174;</Link>
                 <br />
-                <Link href="/education/ap/ap2alg" className={style.generalLink}>AP Physics 2 &#174;</Link>
-                <br />
-                <Link href="/education/ap/apc" className={style.generalLink}>AP Physics C &#174;</Link>
-                <br />
-                <Link href="/education/ap/ap1alg" className={style.generalLink}>IB Physics</Link>
+                <Link href="/education/ib" className={style.generalLink}>IB Physics</Link>
                 <br />            
             </div>
             <br />
@@ -79,17 +75,6 @@ const Education = () => {
                 </li>
             </ul>
             <br /> 
-            <p> 
-                Here are the College Board &#174; <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based">algebra based </a>
-                and <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics">calc based</a> requirements.
-            </p>
-            <p>
-                <a href="https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/physics/">IB physics</a>
-            </p>
-            <p>
-                <a href="https://www.ipho-new.org/documentations/">Physics olympiad </a>problems
-            </p>
-
             <br />         
 
             <h2 className={style.edHeaderSpace}>
