@@ -34,6 +34,9 @@ Introduction
 <h2 className={style.h2SectionColor}> 
          Domain of momentum, impulse, &#38; collisions 
 </h2>
+<p> 
+ The domain of momentum, impulse, and collisions is... 
+ </p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="cent">
