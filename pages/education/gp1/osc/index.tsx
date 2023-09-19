@@ -29,6 +29,9 @@ Proceeding from fluids we move to oscillations. This is a foundational topic in 
 <h2 className={style.h2SectionColor}> 
          Domain of oscillations  
 </h2>
+<p> 
+ The domain of oscillations is... 
+ </p>
 <br /> 
 <br />
                 <h2 className={style.h2SectionColor} id="desc">
