@@ -40,8 +40,11 @@ Introduction
 <br />
 <br />
 <h2 className={style.h2SectionColor}> 
-         Domain of thr first law
+         Domain of the first law
 </h2>
+<p> 
+ The domain of thr first law is... 
+ </p>
 <br /> 
 <br />
 <Summary /> 
