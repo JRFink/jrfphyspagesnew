@@ -22,6 +22,9 @@ const Education = () => {
                 <Link href="/education/ap" className={style.generalLink}>AP Physics &#174;</Link>
                 <br />
                 <Link href="/education/ib" className={style.generalLink}>IB Physics</Link>
+
+<br /> 
+                <Link href="/education/pgre" className={style.generalLink}>Physics GRE &#174; prep</Link>
                 <br /> 
                 <Link href="/education/mcat" className={style.generalLink}>MCAT &#174; prep</Link>
                 <br />            
