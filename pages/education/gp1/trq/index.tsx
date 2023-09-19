@@ -23,7 +23,14 @@ const Trq = () => {
 <p> 
      In a similar way how we went from linear motion to changes in linear motion, we go from rotational motion to changes in rotational motion. 
 </p> 
-            <br />
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of rotational dynamics  
+</h2>
+<br /> 
+<br />
+
             <h2 className={style.h2SectionColor} id="var">
                 1. Variables
             </h2>
