@@ -1,17 +1,17 @@
 import style from '@/styles/general.module.css';
 
-const Ap2alg = () => {  
+const ApCmech = () => {  
    return (  
       <>  
         <h1 className={style.centerText}> 
-           AP Physics 2 &#174; - algebra  
+           AP Physics C &#174; - mechanics 
         </h1> 
          <p>  
             Find the curriculum  
-            <a href="https://apstudents.collegeboard.org/courses/ap-physics-2-algebra-based"> here</a>. 
+            <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> here</a>. 
          </p>  
       </> 
  ); 
  }  
   
- export default Ap2alg;
+ export default ApCmech;

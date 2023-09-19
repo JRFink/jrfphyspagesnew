@@ -9,21 +9,25 @@ const Education = () => {
                 Education
             </h1>
             <br></br>
-            <div className={style.flexContainer}>
-                
+            <div className={style.flexContainer}>               
                 <Link href="/education/classes" className={style.generalLink}>Classes</Link>
                 <br />
                 <Link href="/education/topics" className={style.generalLink}>Topics</Link>
                 <br />   
                 <Link href="/education/vid" className={style.generalLink}>Videos</Link>
                 <br /> 
-            <Link href="/education/ap/ap1alg" className={style.generalLink}>AP Physics 1 &#174;</Link>
-      <br />
-<a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics" className={style.generalLink}>AP Physics C &#174;</a>
-      <br />
-<a href="https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/physics/" className={style.generalLink}>IB Physics</a>
-      <br />            
-</div>
+            </div>
+            <br />
+            <div className={style.flexContainer}>
+                <Link href="/education/ap/ap1alg" className={style.generalLink}>AP Physics 1 &#174;</Link>
+                <br />
+                <Link href="/education/ap/ap2alg" className={style.generalLink}>AP Physics 2 &#174;</Link>
+                <br />
+                <Link href="/education/ap/apc" className={style.generalLink}>AP Physics C &#174;</Link>
+                <br />
+                <Link href="/education/ap/ap1alg" className={style.generalLink}>IB Physics</Link>
+                <br />            
+            </div>
             <br />
             <br />
             <p>
