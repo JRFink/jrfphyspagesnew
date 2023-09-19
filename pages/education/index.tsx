@@ -23,7 +23,7 @@ const Education = () => {
                 <br />
                 <Link href="/education/ib" className={style.generalLink}>IB Physics</Link>
                 <br /> 
-                <Link href="/education/mcat" className={style.generalLink}>MCAT &#174; phys prep</Link>
+                <Link href="/education/mcat" className={style.generalLink}>MCAT &#174; prep</Link>
                 <br />            
             </div>
             <br />
