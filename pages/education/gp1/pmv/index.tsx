@@ -28,7 +28,14 @@ Introduction
 </p> 
 <br />
 <PmvVid /> 
-            <br></br>
+
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of momentum, impulse, &#40; collisions 
+</h2>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="cent">
                 1. Center of mass
             </h2>
