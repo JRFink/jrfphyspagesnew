@@ -29,6 +29,9 @@ Moving from temperature and heat we move to gases. Now, we sort of already cover
 <h2 className={style.h2SectionColor}> 
          Domain of gases 
 </h2>
+<p> 
+ The domain of gases is... 
+ </p>
 <br /> 
 <br /> 
             <h2 className={style.h2SectionColor} id="ideal">
