@@ -36,6 +36,9 @@ Proceeding from waves to heat and temperature, we move into the realm of thermod
 <h2 className={style.h2SectionColor}> 
          Domain of temperature and heat
 </h2>
+<p> 
+ The domain of temperature and heat is... 
+ </p>
 <br /> 
 <br />
             <h2 className={style.h2SectionColor} id="temp">
