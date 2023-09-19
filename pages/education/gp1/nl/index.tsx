@@ -28,7 +28,13 @@ Introduction
 </p> 
 <br /> 
 <NewtVid />
-            <br></br>
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of Newton&#39;s laws  
+</h2>
+<br /> 
+<br /> 
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
             </h2>
