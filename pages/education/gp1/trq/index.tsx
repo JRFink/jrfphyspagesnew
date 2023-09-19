@@ -28,6 +28,9 @@ const Trq = () => {
 <h2 className={style.h2SectionColor}> 
          Domain of rotational dynamics  
 </h2>
+<p> 
+ The domain of rotational dynamics is... 
+ </p>
 <br /> 
 <br />
 
