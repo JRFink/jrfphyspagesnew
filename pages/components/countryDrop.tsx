@@ -120,11 +120,16 @@ const CountryDrop = () => {
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Romania</li>                     </ul>
                     <li>Middle east</li>
                     <ul>
-                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Afganistan</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Afghanistan</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Bahrain</li>
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Iran</li>
-                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Iraq</li>  
-                    <li className={style.dropdownLi} onClick={handleDropdownClick}>North Korea</li>                    
-                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Oman</li> 
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Iraq</li> 
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Israel</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Kuwait</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Lebanon</li> 
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Oman</li>  
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Syria</li>                  
+                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Turkey</li> 
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Yemen</li>                     
                     </ul>
                     <li>Oceania</li>
