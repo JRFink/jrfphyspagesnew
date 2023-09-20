@@ -26,8 +26,18 @@ const Trq = () => {
 <p> 
      In a similar way how we went from linear motion to changes in linear motion, we go from rotational motion to changes in rotational motion. 
 </p> 
-            <br />
-            <h2 className={style.h2SectionColor}>
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of rotational dynamics  
+</h2>
+<p> 
+ The domain of rotational dynamics is... 
+ </p>
+<br /> 
+<br />
+
+            <h2 className={style.h2SectionColor} id="var">
                 1. Variables
             </h2>
             <p>
@@ -42,7 +52,7 @@ const Trq = () => {
                     <h4>
                         &nbsp; &nbsp; 1.1.1 Some of the dynamic variables are... 
                     </h4>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="roll">
                 2. Rolling 
             </h2>
                 <p>
@@ -57,7 +67,7 @@ const Trq = () => {
                     <h4>
                         &nbsp; &nbsp; 2.1.1 Rolling... 
                     </h4>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="torq">
                 3. Torque
             </h2>
                 <p>
@@ -72,7 +82,7 @@ const Trq = () => {
                     <h4>
                         &nbsp; &nbsp; 3.1.1 Torque... 
                     </h4>
-            <h2 className={style.h2SectionColor}>
+            <h2 className={style.h2SectionColor} id="amoment">
                 4. Angular momentum
             </h2>
                 <p>

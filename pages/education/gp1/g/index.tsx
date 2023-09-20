@@ -36,9 +36,17 @@ Introduction
 </p> 
 <p> 
      The earth is large. Throw an apple up. What is the height it rises compared to the size of the earth? 
-</p> 
-<br />              
- 
+</p>   
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of gravity 
+</h2>
+<p> 
+ The domain of gravity is... 
+ </p>
+<br /> 
+<br />            
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
             </h2>

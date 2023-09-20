@@ -30,6 +30,17 @@ Introduction
 <br /> 
 <EUKVid /> 
 <br />
+
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of potential energy &#38; energy conservation  
+</h2>
+<p> 
+ The domain of potential energy and energy conservation is... 
+ </p>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>

@@ -11,6 +11,18 @@ const Ap1alg = () => {
         </h1>
         <br />
         <p> 
+             The current structure of the class consists of seven units&#59; they are: 
+<ol> 
+   <li>kinematics</li>
+   <li>dynamics</li>
+   <li>circular motion and gravitation</li>
+   <li>energy</li>
+   <li>momentum</li>
+   <li>simple harmonic motion</li>
+   <li>torque and rotational motion</li>
+</ol> 
+        </p> 
+        <p> 
             Find the curriculum 
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based"> here</a>.
         </p> 

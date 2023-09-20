@@ -24,6 +24,16 @@ const Eq = () => {
 Introduction 
 </h2>
 */ } 
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of equilibrium and elasticity  
+</h2>
+<p> 
+ The domain of newton&#39;s laws is... 
+ </p>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="int">
                 1. Intro
             </h2>

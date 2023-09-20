@@ -26,6 +26,17 @@ Introduction
 <p>
 From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not only linear but also curvy. How do we deal with these situations?
 </p> 
+
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of 2 - 3 dimensions  
+</h2>
+<p> 
+ The domain of two and three dimensional motion is motion which we can characterize by two or three independent variables, respectively.
+ </p>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="2dm">
                 1. 2 dimensions 
             </h2>

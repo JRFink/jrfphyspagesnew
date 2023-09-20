@@ -37,6 +37,16 @@ Introduction
 <p>
          In this section we will also cover pressure and volume. 
 </p> 
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of the first law
+</h2>
+<p> 
+ The domain of thr first law is... 
+ </p>
+<br /> 
+<br />
 <Summary /> 
 <br />
             <br></br>

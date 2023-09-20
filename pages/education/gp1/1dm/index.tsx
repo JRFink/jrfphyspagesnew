@@ -28,6 +28,17 @@ Introduction
 <p> 
 We begin our formal study of physics with 1 dimensional motion. This is the simplest motion one can study.
 </p>
+
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of 1 dimension  
+</h2>
+<p>
+The domain of one dimensional motion is motion which we can characterize by 1 independent variable. 
+</p>
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
             </h2>

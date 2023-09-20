@@ -28,7 +28,17 @@ Moving from oscillations we proceed to waves. We will see a lot of the same sine
 </p> 
 <p> 
          Many things in our world are wave-like. For example, water proceeds on the ocean&#39;s surface in the form of a wave; an earthquake propogates through earth&#39;s crust in the form of a wave. And you can shake a long rope to form a wave.  
-</p> 
+</p>
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of wave motion
+</h2>
+<p> 
+ The domain of wave motion is... 
+ </p>
+<br /> 
+<br /> 
             <h2 className={style.h2SectionColor} id="osc">
                 1. Connection to oscillations
             </h2>
@@ -57,6 +67,7 @@ Moving from oscillations we proceed to waves. We will see a lot of the same sine
             <h2 className={style.h2SectionColor} id="sup">
                 6. Superposition
             </h2>
+<br />
 <Summary />
             <br></br>
             <br></br>

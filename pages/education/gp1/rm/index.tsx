@@ -25,10 +25,20 @@ Introduction
 </h2>
 <br />
             <RotVid />
-            <br /> 
+   
 <p> 
      Moving moving momentum and collisions we proceed to rotational motion. 
 </p> 
+<br />
+<br />
+<h2 className={style.h2SectionColor}> 
+         Domain of rotational motion 
+</h2>
+<p> 
+ The domain of rotational motion is... 
+ </p>
+<br /> 
+<br />
             <br /> 
             <br />
             <h2 className={style.h2SectionColor} id="ang">
