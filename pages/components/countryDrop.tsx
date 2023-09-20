@@ -1,100 +1,116 @@
 import React, { useState, useRef, useEffect } from 'react'; 
 import Link from 'next/link';
-import style from '@/styles/general.module.css'; 
+import style from '@/styles/general.module.css';
 
 const CountryDrop = () => {
-
-    const [dropdownState, setDropdownState] = useState({ open: false }); 
+    const [dropdownState, setDropdownState] = useState({ open: false});
 
     const handleDropdownClick = () => {
-        setDropdownState({ open: !dropdownState.open });
+        setDropdownState({ open: !dropdownState.open }); 
     }
 
-    const container = useRef<HTMLInputElement>(null);
+    const container = useRef<HTMLInputElement>(null); 
 
     useEffect(() => {
-        document.addEventListener("mousedown", handleClickOutside);
+        document.addEventListener("mousedown", handleClickOutside); 
 
         return () => document.removeEventListener("mousedown", handleClickOutside);
-    }, []);
+    }, []); 
 
     const handleClickOutside = (e: any) => {
         if (container.current && !container.current.contains(e.target)) {
-            setDropdownState({ open: false });
+            setDropdownState({ open: false }); 
         }
     };
 
     return (
         <div className={style.dropdownContainer} ref={container}>
             <button 
-                    type="button" 
-                    className={style.dropdownButton}
-                    onClick={handleDropdownClick}
-                >
-                Language &#x2228;
+                type="button" 
+                className={style.dropdownButton} 
+                onClick={handleDropdownClick} 
+            >
+            Country &#x2228;
             </button>
-            
-            <br />
+            <br /> 
             {dropdownState.open && (
-            <div className={style.dropdownButtonDiv}>
+            <div className={style.dropdownButtonDiv}> 
                 <ul className={style.dropdownUl}>
-                    <br />
-                    <li><Link href="/glob/alb" className={style.dropdownLi} onClick={handleDropdownClick}>Schqiptare</Link></li> 
-                    <br />
-                    <li><Link href="/glob/arab" className={style.dropdownLi} onClick={handleDropdownClick}>العربية</Link></li>
-                    <br />
-                    <li><Link href="/glob/beng" className={style.dropdownLi} onClick={handleDropdownClick}>বাংলা</Link></li> 
-                    <br />
-                    <li><Link href="/glob/cn" className={style.dropdownLi} onClick={handleDropdownClick}>中文</Link></li> 
-                    <br />
-                    <li><Link href="/glob/croa" className={style.dropdownLi} onClick={handleDropdownClick}>Hrvatski</Link></li>
-                    <br />
-                    <li><Link href="/glob/deut" className={style.dropdownLi} onClick={handleDropdownClick}>Deutsch</Link></li>
-                    <br />
-                    <li><Link href="/glob/neth" className={style.dropdownLi} onClick={handleDropdownClick}>Nederlands</Link></li>   
-                    <br />
-                    <li><Link href="/" className={style.dropdownLi} onClick={handleDropdownClick}>English</Link></li>
-                    <br />
-                    <li><Link href="/glob/esp" className={style.dropdownLi} onClick={handleDropdownClick}>Español</Link></li>
-                    <br />
-                    <li><Link href="/glob/suom" className={style.dropdownLi} onClick={handleDropdownClick}>Suomalainen</Link></li>
-                    <br />
-                    <li><Link href="/glob/fran" className={style.dropdownLi} onClick={handleDropdownClick}>Français</Link></li>
-                    <br />
-                    <li><Link href="/glob/heb" className={style.dropdownLi} onClick={handleDropdownClick}>עברית</Link></li>
-                    <br />
-                    <li><Link href="/glob/hind" className={style.dropdownLi} onClick={handleDropdownClick}>हिंदी</Link></li>
-                    <br />
-                    <li><Link href="/glob/ind" className={style.dropdownLi} onClick={handleDropdownClick}>Indonesia</Link></li>
-                    <br />
-                    <li><Link href="/glob/itl" className={style.dropdownLi} onClick={handleDropdownClick}>Italiano</Link></li>
-                    <br />
-                    <li><Link href="/glob/jap" className={style.dropdownLi} onClick={handleDropdownClick}>日本語</Link></li>
-                    <br />
-                    <li><Link href="/glob/kor" className={style.dropdownLi} onClick={handleDropdownClick}>한국인</Link></li>
-                    <br />
-                    <li><Link href="/glob/mal" className={style.dropdownLi} onClick={handleDropdownClick}>Malayu</Link></li>
                     <br /> 
-                    <li><Link href="/glob/mar" className={style.dropdownLi} onClick={handleDropdownClick}>मराठी</Link></li> 
-                    <br />
-                    <li><Link href="/glob/mong" className={style.dropdownLi} onClick={handleDropdownClick}>Монгол</Link></li>
-                    <br />
-                    <li><Link href="/glob/pers" className={style.dropdownLi} onClick={handleDropdownClick}>فارسی</Link></li> 
-                    <br />
-                    <li><Link href="/glob/port" className={style.dropdownLi} onClick={handleDropdownClick}>Português</Link></li>
-                    <br /> 
-                    <li><Link href="/glob/rus" className={style.dropdownLi} onClick={handleDropdownClick}>русский</Link></li>
-                    <br />
-                    <li><Link href="/glob/viet" className={style.dropdownLi} onClick={handleDropdownClick}>Tiếng việt</Link></li>
-                    <br />
-                    <li><Link href="/glob/turk" className={style.dropdownLi} onClick={handleDropdownClick}>Türk</Link></li>
-                    <br />
-                    <li><Link href="/glob/zul" className={style.dropdownLi} onClick={handleDropdownClick}>Isizulu</Link></li>
-                </ul>
-            </div>
-            )}
-        </div>
-    );
+                    <li>Africa - north</li>
+                    <ul>
+                        <li>Egypt</li>
+                    </ul>
+                    <li>Africa - north</li> 
+                    <ul>
+                        <li>Botswana</li>
+                        <li>South Africa</li>
+                        <li>Zambia</li>
+                    </ul>
+                </ul> 
+            </div> 
+            )} 
+        </div> 
+    ); 
 }
 
 export default CountryDrop;
+        
+            {/* <li>Africa - north</li>
+<ul>
+    <li>Egypt</li>
+</ul>
+
+<li>Africa - south</li>
+<ul>
+    <li>Botswana</li>
+    <li>South Africa</li>
+    <li>Zambia</li>
+</ul>
+
+<li>America - north</li>
+<ul>
+    <li>Canada</li>
+    <li>Mexico</li>
+    <li>United States</li>
+</ul>
+
+<li>America - south</li>
+
+<li>Asia</li>
+<ul>
+    <li>China</li>
+    <li>Japan</li>
+    <li>North Korea</li>
+    <li>South Korea</li>
+    <li>Vietnam</li>
+</ul>
+
+
+
+
+<li>Europe - east</li>
+<ul>
+    <li>Albania</li>
+</ul>
+
+<li>Europe - west</li>
+<ul>
+    <li>England</li>
+</ul>
+
+<li>Middle east</li>
+<ul>
+    <li>Dubai</li>
+    <li>India</li>
+    <li>Saudi Arabia</li>
+    <li>UAE</li>
+    <li>Qatar</li>
+</ul>
+
+<li>Russia</li> */}
+
+
+
+
+

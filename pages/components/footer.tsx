@@ -1,6 +1,7 @@
 import style from '@/styles/general.module.css';
 import Link from 'next/link';
 import CountryDrop from '@/pages/components/countryDrop';
+import LanguageDrop from '@/pages/components/languageDrop';
 import AmFlag from '@/public/images/flags/america';
 
 const Footer = () => {
@@ -35,8 +36,11 @@ const Footer = () => {
                 <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                 <br></br>
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
-                <br></br>    
-                <CountryDrop />
+                <br /> 
+                <CountryDrop /> 
+                <br /> 
+                <br />
+                <LanguageDrop />
                 <br></br>
                 <br></br>
                 <div className={style.footerGenCountry}>
