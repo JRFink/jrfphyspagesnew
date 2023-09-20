@@ -7,7 +7,7 @@ import style from '@/styles/general.module.css';
               Pgre &#174; phys prep 
          </h1> 
  <p> 
-      This page will help you prepare for the physics section of the <a href="https://students-residents.aamc.org/about-mcat-exam/about-mcat-exam">MCAT</a>. 
+      This page will help you prepare for the <Link href="/pdf/fact-sheet-physics.pdf">physics gre</Link>. 
  </p> 
       <p>    
       Find some prep material  
