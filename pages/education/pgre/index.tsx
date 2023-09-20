@@ -4,7 +4,7 @@ import style from '@/styles/general.module.css';
    return (  
       <>  
          <h1 className={style.centerText}> 
-              Pgre &#174; phys prep 
+              Physics GRE &#174; prep 
          </h1> 
  <p> 
       This page will help you prepare for the <Link href="/pdf/fact-sheet-physics.pdf">physics gre</Link>. 
