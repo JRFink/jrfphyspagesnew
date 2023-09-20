@@ -72,18 +72,26 @@ const CountryDrop = () => {
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Columbia</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Peru</li>
                     </ul>
-                    <li>Asia</li>
+                    <li>Asia - central</li>
                     <ul>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>China</li>
                         <li><Link href="/glob/country/japan" className={style.dropdownLi} onClick={handleDropdownClick}>Japan</Link></li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Mongolia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Nepal</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>North Korea</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>South Korea</li>
+                    </ul>
+                    <li>Asia - south east</li>
+                    <ul>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Indonesia</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Singapore</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Thailand</li>
                     </ul>
                     <li>Australia</li>
                     <li>Europe - east</li>
                     <ul>
-                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Albania</li>
-                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Ukraine</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Albania</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Ukraine</li>
                     </ul>
                     <li>Europe - west</li>
                     <ul>
@@ -96,9 +104,16 @@ const CountryDrop = () => {
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Italy</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Poland</li>
                     </ul>
-                    <li className={style.dropdownLi}>Oceania</li>
-                    <ul className={style.dropdownLi}>
-                        <li onClick={handleDropdownClick}>Fiji</li>
+                    <li>Middle east</li>
+                    <ul>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Afganistan</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Iran</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Iraq</li>  
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Pakistan</li>                      
+                    </ul>
+                    <li>Oceania</li>
+                    <ul>
+                    <li onClick={handleDropdownClick}>Fiji</li>
                     </ul>
                     <li className={style.dropdownLi}>Russia</li>
                 </ul> 
@@ -110,59 +125,7 @@ const CountryDrop = () => {
 
 export default CountryDrop;
         
-            {/* <li>Africa - north</li>
-<ul>
-    <li>Egypt</li>
-</ul>
-
-<li>Africa - south</li>
-<ul>
-    <li>Botswana</li>
-    <li>South Africa</li>
-    <li>Zambia</li>
-</ul>
-
-<li>America - north</li>
-<ul>
-    <li>Canada</li>
-    <li>Mexico</li>
-    <li>United States</li>
-</ul>
-
-<li>America - south</li>
-
-<li>Asia</li>
-<ul>
-    <li>China</li>
-    <li>Japan</li>
-    <li>North Korea</li>
-    <li>South Korea</li>
-    <li>Vietnam</li>
-</ul>
-
-
-
-
-<li>Europe - east</li>
-<ul>
-    <li>Albania</li>
-</ul>
-
-<li>Europe - west</li>
-<ul>
-    <li>England</li>
-</ul>
-
-<li>Middle east</li>
-<ul>
-    <li>Dubai</li>
-    <li>India</li>
-    <li>Saudi Arabia</li>
-    <li>UAE</li>
-    <li>Qatar</li>
-</ul>
-
-<li>Russia</li> */}
+   
 
 
 
