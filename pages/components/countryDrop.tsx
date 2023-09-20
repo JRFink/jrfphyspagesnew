@@ -39,21 +39,58 @@ const CountryDrop = () => {
                     <br /> 
                     <li>Africa - north</li>
                     <ul>
-                        <li className={style.dropdownLi}>Egypt</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Egypt</li>
                     </ul>
                     <li>Africa - south</li> 
                     <ul>
-                        <li className={style.dropdownLi}>Botswana</li>
-                        <li className={style.dropdownLi}>South Africa</li>
-                        <li className={style.dropdownLi}>Zambia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Botswana</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Madagascar</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>South Africa</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Zambia</li>
                     </ul>
                     <li>America - north</li>
+                    <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Canada</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Mexico</li>
+                        <li><Link href="/glob/country/usa" className={style.dropdownLi} onClick={handleDropdownClick}>United States</Link></li>
+                    </ul>
                     <li>America - south</li>
+                    <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Argentina</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Bolivia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Brazil</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Columbia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Peru</li>
+                    </ul>
                     <li>Asia</li>
+                    <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>China</li>
+                        <li><Link href="/glob/country/japan" className={style.dropdownLi} onClick={handleDropdownClick}>Japan</Link></li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>North Korea</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>South Korea</li>
+                    </ul>
                     <li>Australia</li>
                     <li>Europe - east</li>
+                    <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Albania</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Ukraine</li>
+                    </ul>
                     <li>Europe - west</li>
-                    <li>Russia</li>
+                    <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>England</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Finland</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>France</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Germany</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Norway</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Ireland</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Italy</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Poland</li>
+                    </ul>
+                    <li className={style.dropdownLi}>Oceania</li>
+                    <ul className={style.dropdownLi}>
+                        <li onClick={handleDropdownClick}>Fiji</li>
+                    </ul>
+                    <li className={style.dropdownLi}>Russia</li>
                 </ul> 
             </div> 
             )} 
