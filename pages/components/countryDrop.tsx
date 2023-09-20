@@ -80,6 +80,8 @@ const CountryDrop = () => {
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>China</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>India</li>
                         <li><Link href="/glob/country/japan" className={style.dropdownLi} onClick={handleDropdownClick}>Japan</Link></li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Kazakhstan</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Kyrgyzstan</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Mongolia</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Nepal</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>North Korea</li>
