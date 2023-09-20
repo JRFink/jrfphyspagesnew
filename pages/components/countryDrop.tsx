@@ -39,14 +39,21 @@ const CountryDrop = () => {
                     <br /> 
                     <li>Africa - north</li>
                     <ul>
-                        <li>Egypt</li>
+                        <li className={style.dropdownLi}>Egypt</li>
                     </ul>
-                    <li>Africa - north</li> 
+                    <li>Africa - south</li> 
                     <ul>
-                        <li>Botswana</li>
-                        <li>South Africa</li>
-                        <li>Zambia</li>
+                        <li className={style.dropdownLi}>Botswana</li>
+                        <li className={style.dropdownLi}>South Africa</li>
+                        <li className={style.dropdownLi}>Zambia</li>
                     </ul>
+                    <li>America - north</li>
+                    <li>America - south</li>
+                    <li>Asia</li>
+                    <li>Australia</li>
+                    <li>Europe - east</li>
+                    <li>Europe - west</li>
+                    <li>Russia</li>
                 </ul> 
             </div> 
             )} 
