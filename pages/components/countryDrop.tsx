@@ -106,10 +106,17 @@ const CountryDrop = () => {
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Ireland</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Italy</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Luxembourg</li>
-                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Poland</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Portugal</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Sweden</li>                    
                     </ul>
+                    <li>Europe - east</li>
+                    <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Bosnia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Estonia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Greece</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Latvia</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Poland</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Romania</li>                     </ul>
                     <li>Middle east</li>
                     <ul>
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Afganistan</li>
