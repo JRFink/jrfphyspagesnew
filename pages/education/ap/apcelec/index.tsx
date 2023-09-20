@@ -14,7 +14,7 @@ const ApCelec = () => {
     The current structure of the class consists of five units&#59; they are: 
 <ol> 
 <li>Electrostatics</li>
-<li>Conductors, capacitors,dielectrics</li>
+<li>Conductors, capacitors, dielectrics</li>
 <li>Electric circuits</li>
 <li>Magnetic fields</li>
 <li>Electromagnetism</li>
