@@ -86,6 +86,8 @@ const CountryDrop = () => {
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Nepal</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>North Korea</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>South Korea</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Tajikstan</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Uzbekistan</li>
                     </ul>
                     <li>Asia - south east</li>
                     <ul>
