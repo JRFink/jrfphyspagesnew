@@ -11,7 +11,7 @@ const Ap2alg = () => {
         </h1>
         <br /> 
 <p> 
-The current structure of the class consists of seven units: 
+The current structure of the class consists of seven units&#59; they are:
 
 <ol> 
      <li>fluids: pressure and forces</li>
