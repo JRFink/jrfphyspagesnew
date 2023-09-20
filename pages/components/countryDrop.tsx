@@ -76,6 +76,7 @@ const CountryDrop = () => {
                     <li>Asia - central</li>
                     <ul>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>China</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>India</li>
                         <li><Link href="/glob/country/japan" className={style.dropdownLi} onClick={handleDropdownClick}>Japan</Link></li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Mongolia</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Nepal</li>
@@ -122,7 +123,9 @@ const CountryDrop = () => {
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Afganistan</li>
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Iran</li>
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Iraq</li>  
-                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Pakistan</li>                      
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>North Korea</li>                    
+                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Oman</li> 
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Yemen</li>                     
                     </ul>
                     <li>Oceania</li>
                     <ul>
