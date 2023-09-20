@@ -10,6 +10,16 @@ const ApCmech = () => {
            AP Physics C - mechanics 
         </h1> 
         <br />
+<p> 
+The class consists of seven units&#59; they are: 
+<li>Kinematics</li>
+<li>Newton&#39;s laws of motion</li>
+<li>Work, energy, and power</li>
+<li>Systems of particles and linear momentum</li>
+<li>Rotation</li>
+<li>Oscillations</li>
+<li>Gravitation</li>
+</p>
          <p>  
             Find the curriculum  
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> here</a>. 
