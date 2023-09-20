@@ -75,6 +75,8 @@ const CountryDrop = () => {
                     </ul>
                     <li>Asia - central</li>
                     <ul>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Bangladesh</li>
+                        <li className={style.dropdownLi} onClick={handleDropdownClick}>Bhutan</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>China</li>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>India</li>
                         <li><Link href="/glob/country/japan" className={style.dropdownLi} onClick={handleDropdownClick}>Japan</Link></li>
