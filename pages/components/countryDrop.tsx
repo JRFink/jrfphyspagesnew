@@ -50,10 +50,14 @@ const CountryDrop = () => {
                     </ul>
                     <li>America - central</li>
                     <ul>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Costa Rica</li>
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Cuba</li>
                     <li className={style.dropdownLi} onClick={handleDropdownClick}>Dominican Republic</li>
-                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Nicaragua</li>  
-                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Panama</li>                    </ul>
+                   <li className={style.dropdownLi} onClick={handleDropdownClick}>Guatemala</li>
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Honduras</li>
+                   <li className={style.dropdownLi} onClick={handleDropdownClick}>Nicaragua</li>  
+                    <li className={style.dropdownLi} onClick={handleDropdownClick}>Panama</li>                           
+                    </ul>
                     <li>America - north</li>
                     <ul>
                         <li className={style.dropdownLi} onClick={handleDropdownClick}>Canada</li>
