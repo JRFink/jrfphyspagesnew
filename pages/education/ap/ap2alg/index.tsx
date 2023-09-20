@@ -16,7 +16,7 @@ The current structure of the class consists of seven units:
 <ol> 
      <li>fluids: pressure and forces</li>
      <li>thermodynamics</li>
-     <li>electric force, field, amd potential<li> 
+     <li>electric force, field, and potential</li> 
      <li>electric circuits</li>
      <li>magnetism and electromagnetic       induction</li>
      <li>geometric and physical optics</li>
