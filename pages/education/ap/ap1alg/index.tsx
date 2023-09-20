@@ -11,7 +11,7 @@ const Ap1alg = () => {
         </h1>
         <br />
         <p> 
-             The current structure of the class has seven units; they are: 
+             The current structure of the class consists of seven units; they are: 
 <ol> 
    <li>kinematics</li>
    <li>dynamics</li>
