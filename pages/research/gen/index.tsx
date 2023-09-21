@@ -41,6 +41,7 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
+<br />
 <li>
                                         <Link href="https://www.cia.gov" className={style.noUnder}>Cia</Link>
                                     </li>
@@ -217,12 +218,13 @@ const Gen = () => {
                             <li>
                                 <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
                             </li>
-<li>
-                                <Link href="https://en.12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
-                            </li>
                             <br></br>
                             <li>
                                 <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
+                            </li>
+<br />
+<li>
+                                <Link href="https://12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
                             </li>
                         </ul>
                     </p>
@@ -312,6 +314,7 @@ const Gen = () => {
                         <li>
                             <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
                         </li>
+<br />
  <li>
                             <Link href="https://svr.gov.ru" className={style.noUnder}>Svr</Link>
                         </li>
