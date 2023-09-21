@@ -316,7 +316,7 @@ const Gen = () => {
                         </li>
 <br />
  <li>
-                            <Link href="https://svr.gov.ru" className={style.noUnder}>Svr</Link>
+                            <Link href="http://svr.gov.ru" className={style.noUnder}>Svr</Link>
                         </li>
                     </ul>
                 </p>
