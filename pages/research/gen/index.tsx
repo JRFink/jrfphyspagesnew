@@ -41,6 +41,9 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
+<li>
+                                        <Link href="https://www.cia.gov" className={style.noUnder}>Cia</Link>
+                                    </li>
                                 </ul>
 
                         Google - <ul>
