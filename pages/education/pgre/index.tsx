@@ -47,9 +47,17 @@ import style from '@/styles/general.module.css';
              <p className={style.numberLink}> 
                  7 
              </p> 
-             <Link href="/education/pgre/spc" className={style.generalLink}>Special relativity</Link><br />
-        
-      
+             <Link href="/education/pgre/rel" className={style.generalLink}>Special relativity</Link><br />
+            <br></br> 
+             <p className={style.numberLink}> 
+                 8 
+             </p> 
+             <Link href="/education/pgre/lab" className={style.generalLink}>Lab methods</Link><br></br>        
+            <br></br> 
+             <p className={style.numberLink}> 
+                 9
+             </p> 
+             <Link href="/education/pgre/spec" className={style.generalLink}>Special topics</Link><br></br>      
       </> 
    );   
  } 
