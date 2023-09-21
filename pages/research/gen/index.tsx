@@ -217,6 +217,9 @@ const Gen = () => {
                             <li>
                                 <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
                             </li>
+<li>
+                                <Link href="https://en.12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
+                            </li>
                             <br></br>
                             <li>
                                 <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
