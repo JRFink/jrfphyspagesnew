@@ -4,7 +4,7 @@ const Op = () => {
   return ( 
      <>
          <h1 className={style.centerText}>
-           Optics amd waves
+           Optics and waves
          </h1>
      </>
   );
