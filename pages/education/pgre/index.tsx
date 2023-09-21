@@ -27,7 +27,7 @@ import style from '@/styles/general.module.css';
              <p className={style.numberLink}> 
                  3 
              </p> 
-             <Link href="/education/pgre/op" className={style.generalLink}>Optics amd waves</Link><br></br>
+             <Link href="/education/pgre/op" className={style.generalLink}>Optics and waves</Link><br></br>
             <br></br> 
              <p className={style.numberLink}> 
                  4 
