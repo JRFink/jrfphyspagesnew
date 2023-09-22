@@ -8,12 +8,12 @@ const Spc = () => {
          </h1>
          <p>The special topics section will test you on: 
 
-<ol> 
-   <li>Current research areas</li>
-   <li>Nobel prizes</li>
-   <li>...</li>
-</ol>
-</p>
+        <ol> 
+          <li>Current research areas</li>
+          <li>Nobel prizes</li>
+          <li>...</li>
+        </ol>
+        </p>
      </>
   );
 }
