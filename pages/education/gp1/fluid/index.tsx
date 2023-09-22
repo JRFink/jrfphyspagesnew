@@ -103,9 +103,15 @@ Introduction
                 <h3 className={style.h3text}>
                     Bernoulli&#39;s equation
                 </h3>
-                    <h4>
-                        &nbsp; &nbsp; 3.1.1 Bernoulli...
-                    </h4>
+               <p> 
+ Bernoulli&#39;s equation is  
+ </p> 
+ <br /> 
+                  <div className={style.equationBox}>  
+                      <div className={style.equation}> p<span><sub>1</sub></span> + 1/2 &#961; v<span><sub>1</sub></span><span><sup>2</sup></span> + &#961; g y<span><sub>1</sub></span> =  p<span><sub>2</sub></span> + 1/2 &#961; v<span><sub>2</sub></span><span><sup>2</sup></span> + &#961; g y<span><sub>2</sub></span></div>  
+                      <div className={style.equationNumber}>&#40;1&#41;</div>  
+                  </div>  
+                  <br /> 
             <h2 className={style.h2SectionColor} id="visc">
                 4. Viscosity 
             </h2>
