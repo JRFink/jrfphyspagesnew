@@ -168,6 +168,29 @@ const Rm = () => {
             </h2>
             <br />
             <br />
+                <h3 className={style.h3num}>
+                    4.1
+                </h3>
+                <h3 className={style.h3text}>
+                    Simple system
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    4.2
+                </h3>
+                <h3 className={style.h3text}>
+                    Extended system
+                </h3>
+                <p>
+                    The energy is given by 
+                </p>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}>E = 1/2 I &#969; <sup>2</sup></div>
+                    <div className={style.equationNumber}>&#40;4&#41;</div>
+                </div>
+            <br />
+            <br />
             <Summary /> 
             <br />
             <br />
