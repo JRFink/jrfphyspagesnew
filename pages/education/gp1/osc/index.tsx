@@ -49,8 +49,8 @@ Proceeding from fluids we move to oscillations. This is a foundational topic in 
                      <div className={style.equationNumber}>&#40;1&#41;</div> 
                  </div> 
 <p>
-where a is a poaitive constant.
-</p
+where a is a positive constant.
+</p>
                  <br />
                 <h3 className={style.h3num}>
                     1.1 
@@ -64,6 +64,14 @@ where a is a poaitive constant.
                             <h4>
                                 &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.1 Hooke&#39;s law
                             </h4>
+<p> 
+                     We can characterize Hooke&#39;s law by   
+                 </p> 
+                 <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
+                     <div className={style.equationNumber}>&#40;2&#41;</div> 
+                 </div> 
                             <h4>
                                 &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.2 Pure
                             </h4>
