@@ -458,11 +458,6 @@
     padding: 15px 0px 15px 15px; 
 }
 
-.markExercise {
-    background-color: rgb(252, 255, 161);
-    text-decoration: none;
-}
-
 .markQuiz {
     background-color: rgb(255, 230, 141);
     text-decoration: none;
@@ -579,14 +574,6 @@
     border-radius: 8px;
 }
 
-.exerciseHeading {
-    display: inline-block;
-    padding: 10px 10px 10px 10px;
-    margin: 0px 0px 0px 15px;
-    background-color: rgb(252, 255, 161);  
-    border-radius: 8px;
-}
-
 .quizHeading {
     display: inline-block;
     padding: 10px 10px 10px 10px; 
@@ -606,8 +593,21 @@
     text-decoration: underline;
 }
 
+.exerciseHeading {
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 0px 0px 15px;
+    background-color: rgb(252, 255, 161);  
+    border-radius: 8px;
+}
+
+.markExercise {
+    background-color: rgb(252, 255, 161);
+    text-decoration: none;
+}
+
 .exerciseOl {
-    padding: 0px 30px 0px 40px;
+    padding: 10px 30px 0px 60px;
 }
 
 .small {
