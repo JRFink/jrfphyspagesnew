@@ -13,6 +13,7 @@ const Spc = () => {
    <li>Nobel prizes</li>
    <li>...</li>
 </ol>
+</p>
      </>
   );
 }
