@@ -131,10 +131,10 @@ Speed...
 <p>
    The four governing equations of motion with constant <b>a</b> are 
 <ul>
-   <li className={style.highlightText}> x = x_0 + v t 
-   <li className={style.highlightText}> v = v_0 + a t
+   <li className={style.highlightText}> x = x_0 + v t</li>
+   <li className={style.highlightText}> v = v_0 + a t</li>
    <li className={style.highlightText}>x = x_0 + v_0 t + 1/2 a t^2 </li>
-   <li className={style.highlightText}> v = v_0 ^ 2 + 2 a &#916; r
+   <li className={style.highlightText}> v = v_0 ^ 2 + 2 a &#916; r</li>
 </ul>     
 </p>
 <br />
