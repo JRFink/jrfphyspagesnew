@@ -18,26 +18,26 @@ const Wke = () => {
             </h1>
             <ModoverviewWke />
             <br></br>
-<LearnGoal />
-<br />
+            <LearnGoal />
+            <br />
             <WkeVid />
             <br></br>
             <p>
                 In trying to solve physical problems, sometimes we can apply the strategy we used in the previous sections; that is, articulate newton&#39;s law for a situation, amd if the differential equation is easy to solve, then solve it. However, sometimes the differential equation is not easy to solve, and that is when you result to other means to solve physical problems. 
             </p>
-<p> 
-For example...
-</p> 
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of work and kinetic energy  
-</h2>
-<p> 
- The domain of work and kinetic energy is... 
- </p>
-<br /> 
-<br />
+            <p> 
+                For example...
+            </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of work and kinetic energy  
+            </h2>
+            <p> 
+                The domain of work and kinetic energy is... 
+            </p>
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="wet">
                 1. The work-energy theorem
             </h2>
@@ -50,6 +50,13 @@ For example...
                 <h3 className={style.h3text}>
                     In 1 d
                 </h3>
+                    <p>
+                        The work energy theorem is 
+                    </p>
+                    <div className={style.equationBox}>
+                        <div className={style.equation}>W = &#916;KE = 1/2 m v<sup>2</sup></div>
+                        <div className={style.equationNumber}>&#40;1&#41;</div>
+                    </div>
                     <h4>
                         &nbsp; &nbsp; 1.1.1 Work done by a constant force 
                     </h4>
@@ -104,7 +111,7 @@ For example...
             <h2 className={style.summaryHeading}>
                 Summary
             </h2>
-<Summary />
+            <Summary />
             <br></br>
             <br></br>
             <br></br>
