@@ -63,6 +63,15 @@ Moving from oscillations we proceed to waves. We will see a lot of the same sine
                 5. Wave equation
             </h2>
             <br></br>
+                <p> 
+                     The wave equation is   
+                 </p> 
+                 <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}>&#948; <span><sup>2</sup></span>f / dg<span><sup>2</sup></span> = a &nbsp; &#948; <span><sup>2</sup></span> / dq<span><sup>2</sup></span></div> 
+                     <div className={style.equationNumber}>&#40;1&#41;</div> 
+                 </div> 
+                 <br />
             <br></br>
             <h2 className={style.h2SectionColor} id="sup">
                 6. Superposition
