@@ -1,4 +1,4 @@
-import Link from 'next/link';
+timport Link from 'next/link';
 import style from '@/styles/general.module.css';
 import PmvVid from '@/public/videos/gp1/pmv';
 import { ModoverviewPmv } from '@/pages/components/modoverview';
@@ -47,9 +47,6 @@ Introduction
             <h2 className={style.h2SectionColor} id="moment">
                 2. Momentum
             </h2>
-            <p>
-                Momentum...
-            </p>
             <h3 className={style.h3num}>
                 2.1 
             </h3>
@@ -84,6 +81,15 @@ Introduction
                 3. Impulse
             </h2>
             <br></br>
+<p> 
+ We define as
+ </p> 
+ <br /> 
+                  <div className={style.equationBox}>  
+                      <div className={style.equation}><b>J</b> = F &#916; t </div>  
+                      <div className={style.equationNumber}>&#40;2&#41;</div>  
+                  </div>  
+                  <br />
             <br></br>
             <h2 className={style.h2SectionColor} id="coll">
                 4. Collisions
