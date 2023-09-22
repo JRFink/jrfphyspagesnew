@@ -66,14 +66,42 @@ const Trq = () => {
                     <h4>
                         &nbsp; &nbsp; 2.1.1 Rolling... 
                     </h4>
+                    <h2 className={style.h2SectionColor} id="amoment">
+                3. Angular momentum
+            </h2>
+                <p>
+                    We define angular momentum as 
+                </p>
+                <div className={style.equationBox}>
+                    <div className={style.equation}><b>L</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>p</b></div> 
+                    <div className={style.equationNumber}>&#40;1&#41;</div>
+                </div>
+            <h3 className={style.h3num}>
+                3.1
+            </h3>
+            <h3 className={style.h3text}>
+                Orbital angular momentum
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 3.1.1 Orbital angular momentum
+                </h4>
+            <h3 className={style.h3num}>
+                3.2
+            </h3>
+            <h3 className={style.h3text}>
+                Spin angular momentum
+            </h3>
+                <h4>
+                    &nbsp; &nbsp; 3.2.1 Spin angular momentum
+                </h4>
             <h2 className={style.h2SectionColor} id="torq">
-                3. Torque
+                4. Torque
             </h2>
                 <p>
                     Torque is the rotational equivalent of a force in Newton&#39;s second law. It causes change.
                 </p>
                 <h3 className={style.h3num}>
-                    3.1 
+                    4.1 
                 </h3>
                 <h3 className={style.h3text}>
                     Torque
@@ -83,38 +111,13 @@ const Trq = () => {
                 </p>
                 <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}>&#964; &nbsp; = &nbsp; d<b>L</b>/dt</div> 
+                    <div className={style.equation}> <b>&#964;</b> &nbsp; = &nbsp; d<b>L</b> &nbsp; / dt</div> 
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                 </div>
                 <br />
                     <h4>
-                        &nbsp; &nbsp; 3.1.1 Torque... 
+                        &nbsp; &nbsp; 4.1.1 Torque... 
                     </h4>
-            <h2 className={style.h2SectionColor} id="amoment">
-                4. Angular momentum
-            </h2>
-                <p>
-                    Angular momentum...
-                </p>
-            <h3 className={style.h3num}>
-                4.1
-            </h3>
-            <h3 className={style.h3text}>
-                Orbital angular momentum
-            </h3>
-                <h4>
-                    &nbsp; &nbsp; 4.1.1 Orbital angular momentum
-                </h4>
-            <h3 className={style.h3text}>
-                Spin angular momentum
-            </h3>
-                <h4>
-                    &nbsp; &nbsp; 4.2.1 Spin angular momentum
-                </h4>
-            <h3 className={style.h3num}>
-                4.2
-            </h3>
-            
             <br></br>
             <br></br>
             <TrqEx />

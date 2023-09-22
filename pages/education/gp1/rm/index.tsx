@@ -19,11 +19,11 @@ const Rm = () => {
             <br></br>
             <ModoverviewRm />
             <br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<br />
+            <LearnGoal />
+            <h2> 
+            Introduction 
+            </h2>
+            <br />
             <RotVid />
    
 <p> 

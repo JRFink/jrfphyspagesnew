@@ -612,12 +612,12 @@ export function ModoverviewTrq() {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
-                <a href="#torq">Torque</a>
+                <a href="#amoment">Angular momentum</a>
             </p>
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
-                <a href="#amoment">Angular momentum</a>
+                <a href="#torq">Torque</a>
             </p>
             <br></br>
             <Docicon />
