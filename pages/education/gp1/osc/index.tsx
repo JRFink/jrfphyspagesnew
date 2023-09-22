@@ -72,6 +72,13 @@ where a is a positive constant.
                      <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
                      <div className={style.equationNumber}>&#40;2&#41;</div> 
                  </div> 
+<p> We apply Newton&#39;s second law amd obtain </p> 
+ <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r = m r &#39; &#39; &#40;t &#41; </div> 
+                     <div className={style.equationNumber}>&#40;3&#41;</div> 
+                 </div> 
+
                             <h4>
                                 &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.2 Pure
                             </h4>
