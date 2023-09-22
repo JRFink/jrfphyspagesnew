@@ -37,7 +37,7 @@ const indexPage = () => {
       </p>
       <br />
       <p> 
-         Nike &#174; sells shoes, Coca-Cola &#174; sells a drink, and Wells Fargo &#174; sells checking accounts&#59; we sell physics education.
+         Nike &#174; sells shoes, Coca-Cola &#174; sells drinks, and Wells Fargo &#174; sells checking accounts&#59; we sell physics education.
       </p>
       <h2>
           How does it work? 
@@ -106,6 +106,14 @@ Instead, you can come here and learn all the physics you want for &#36;5 per mon
                      alt="girl sitting on the floor with books everywhere"  
                  /> 
              </div>
+    <br /> 
+    <br />
+    <h3> 
+        If you&#39;re a homeschooler&#46;&#46;&#46;
+    </h3>
+    <p>
+            If you&#39;re a homeschooler...
+    </p>
 <br /> 
 <br />
       <h3> 
