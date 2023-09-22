@@ -428,6 +428,26 @@
     box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.14);
 }
 
+.equationBox {
+    display: flex; 
+    flex-flow: row wrap;
+    border: solid 2px #09D4CD;
+    justify-content: center;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 0px rgba(92, 99, 105, 0.8);
+    padding: 5px 5px 5px 5px;
+    margin: 0px 30px 0px 30px;
+}
+
+.equation {
+    display: flex; 
+}
+
+.equationNumber {
+    padding: 0px 0px 0px 40px; 
+}
+
 .h3num {
     display: inline-block;
     color: rgb(6, 154, 6);
@@ -533,7 +553,7 @@
 .h2SectionColor {
     display: inline-block; 
     padding: 7px 7px 7px 7px;
-    margin: 0px 0px 0px 15px;
+    margin: 0px 15px 0px 15px;
     background-color: rgb(137, 222, 253);
     border-radius: 8px;
 }
