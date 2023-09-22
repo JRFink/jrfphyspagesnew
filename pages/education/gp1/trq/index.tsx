@@ -72,10 +72,12 @@ const Trq = () => {
                 <p>
                     We define angular momentum as 
                 </p>
+                <br />
                 <div className={style.equationBox}>
                     <div className={style.equation}><b>L</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>p</b></div> 
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                 </div>
+            <br />
             <h3 className={style.h3num}>
                 3.1
             </h3>
@@ -98,7 +100,7 @@ const Trq = () => {
                 4. Torque
             </h2>
                 <p>
-                    Torque is the rotational equivalent of a force in Newton&#39;s second law. It causes change.
+                    Torque is the rotational equivalent of a force in Newton&#39;s second law. It causes angular acceleration.
                 </p>
                 <h3 className={style.h3num}>
                     4.1 
