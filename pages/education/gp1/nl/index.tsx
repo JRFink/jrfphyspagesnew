@@ -18,26 +18,26 @@ const NewtLaws = () => {
             </h1>
             <br></br>
             <ModoverviewNl />
-<br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p>
-     Now that we have a basic understanding of differential equations, we can study Newton&#39;s laws.
-</p> 
-<br /> 
-<NewtVid />
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of Newton&#39;s laws  
-</h2>
-<p>
-     Where are Newton&#39;s laws valid? Well, it would simply be the domain where experiment agrees with what Newton&#39;s laws predict.  
-</p>
-<br /> 
-<br /> 
+            <br /> 
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2>
+                <p>
+                    Now that we have a basic understanding of differential equations, we can study Newton&#39;s laws.
+                </p> 
+            <br /> 
+            <NewtVid />
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of Newton&#39;s laws  
+            </h2>
+                <p>
+                    Where are Newton&#39;s laws valid? Well, it would simply be the domain where experiment agrees with what Newton&#39;s laws predict.  
+                </p>
+            <br /> 
+            <br /> 
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
             </h2>
@@ -67,8 +67,14 @@ Introduction
             2. Second law 
         </h2>
                 <p>
-                    Newton&#39;s second law is the statement that <b>F</b> = d<b>p</b>&#47;dt. 
+                    Newton&#39;s second law is the statement that  
                 </p>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}><b>F </b> &nbsp; = d<b>p</b>&#47;dt</div>
+                    <div className={style.equationNumber}>&#40;1&#41;</div>
+                </div>
+                <br />
             <h3 className={style.h3num}>
                 2.1 
             </h3> 

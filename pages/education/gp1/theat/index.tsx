@@ -23,13 +23,18 @@ const Theat = () => {
                 Introduction
             </h2>
                 <p> 
-                    Proceeding from waves to heat and temperature, we move into the realm of thermodynamics. Thermodynamics studies the energy, heat, temperature, pressure, volume, density, and arrangement of objects. 
+                    Proceeding from waves to heat and temperature, we move into the realm of thermodynamics. 
+                    Thermodynamics studies the energy, heat, temperature, pressure, volume, density, and arrangement of objects. 
                 </p> 
                 <p> 
-                    It is slightly different from the previous sections in the sense that it is not so much concerned with finding the positions amd velocities of objects as it is concerned with finding the states of objects, and how those states evolve over time. 
+                    It is slightly different from the previous sections, 
+                    in the sense that it is not so much concerned with finding the positions and velocities of objects 
+                    as it is concerned with finding the states of objects, and how those states evolve over time. 
                 </p> 
                 <p> 
-                        As a simple example, we could consider a block of ice sliding on a frictionless surface. The previous sections taught us how to find the position amd velocity of the block at any given time; thermo teaches us how the ice melts, how long it takes; how cold or &#39;hot&#39; it is; its density, etc. 
+                    As a simple example, we could consider a block of ice sliding on a frictionless surface. 
+                    The previous sections taught us how to find the position amd velocity of the block at any given time; 
+                    thermo teaches us how the ice melts, how long it takes; how cold or &#39;hot&#39; it is; its density, etc. 
                 </p>
                 <br />
                 <br />
@@ -89,10 +94,12 @@ const Theat = () => {
                     <p>
                         The first law of thermodynamics is
                     </p>
+                    <br />
                     <div className={style.equationBox}>
                         <div className={style.equation}>&#916;U = Q + W</div>
                         <div className={style.equationNumber}>&#40;1&#41;</div>
                     </div>
+                    <br />
                     <h4>
                         &nbsp; &nbsp; 2.2.1 First law...
                     </h4>
