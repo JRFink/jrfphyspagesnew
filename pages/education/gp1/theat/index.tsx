@@ -17,30 +17,30 @@ const Theat = () => {
             </h1>
             <br></br>
             <ModoverviewTheat />
-<br /> 
-<LearnGoal />
-<h2> 
-Introduction
-</h2>
-<p> 
-Proceeding from waves to heat and temperature, we move into the realm of thermodynamics. Thermodynamics studies the energy, heat, temperature, pressure, volume, density, and arrangement of objects. 
-</p> 
-<p> 
-      It is slightly different from the previous sections in the sense that it is not so much concerned with finding the positions amd velocities of objects as it is concerned with finding the states of objects, and how those states evolve over time. 
-</p> 
-<p> 
-        As a simple example, we could consider a block of ice sliding on a frictionless surface. The previous sections taught us how to find the position amd velocity of the block at any given time; thermo teaches us how the ice melts, how long it takes; how cold or &#39;hot&#39; it is; its density, etc. 
-</p>
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of temperature and heat
-</h2>
-<p> 
- The domain of temperature and heat is... 
- </p>
-<br /> 
-<br />
+            <br /> 
+            <LearnGoal />
+            <h2> 
+                Introduction
+            </h2>
+                <p> 
+                    Proceeding from waves to heat and temperature, we move into the realm of thermodynamics. Thermodynamics studies the energy, heat, temperature, pressure, volume, density, and arrangement of objects. 
+                </p> 
+                <p> 
+                    It is slightly different from the previous sections in the sense that it is not so much concerned with finding the positions amd velocities of objects as it is concerned with finding the states of objects, and how those states evolve over time. 
+                </p> 
+                <p> 
+                        As a simple example, we could consider a block of ice sliding on a frictionless surface. The previous sections taught us how to find the position amd velocity of the block at any given time; thermo teaches us how the ice melts, how long it takes; how cold or &#39;hot&#39; it is; its density, etc. 
+                </p>
+                <br />
+                <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of temperature and heat
+            </h2>
+            <p> 
+                The domain of temperature and heat is... 
+            </p>
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="temp">
                 1. Temperature 
             </h2>
@@ -86,6 +86,13 @@ Proceeding from waves to heat and temperature, we move into the realm of thermod
                 <h3 className={style.h3text}>
                     First
                 </h3>
+                    <p>
+                        The first law of thermodynamics is
+                    </p>
+                    <div className={style.equationBox}>
+                        <div className={style.equation}>&#916;U = Q + W</div>
+                        <div className={style.equationNumber}>&#40;1&#41;</div>
+                    </div>
                     <h4>
                         &nbsp; &nbsp; 2.2.1 First law...
                     </h4>
@@ -97,8 +104,10 @@ Proceeding from waves to heat and temperature, we move into the realm of thermod
             <h2 className={style.h2SectionColor} id="heat">
                 4. Heat transfer
             </h2>
-<Summary /> 
-<br />
+            <br />
+            <br />
+            <Summary /> 
+            <br />
             <br></br>
             <br></br>
             <TheatEx />

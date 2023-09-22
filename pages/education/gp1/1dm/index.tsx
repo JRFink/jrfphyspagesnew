@@ -132,23 +132,26 @@ const Onedm = () => {
     </p>
    <br />
    <div className={style.equationBox}>
-        <div className={style.equation}>x = x_0 + v t</div>
+        <div className={style.equation}>x = x<span><sub>0</sub></span> + v t</div>
         
         <div className={style.equationNumber}>&#40;1&#41;</div>
     </div>
    <br />
    <div className={style.equationBox}>
-        <div className={style.equation}>v = v_0 + a t</div>
+        <div className={style.equation}>v = v<span><sub>0</sub></span> + a t</div>
         <div className={style.equationNumber}>&#40;2&#41;</div>
+   </div>
+   <div>
+   h2<sub>0</sub>
    </div>
    <br />
    <div className={style.equationBox}>
-        <div className={style.equation}>x = x_0 + v_0 t + 1/2 a t^2</div>
+        <div className={style.equation}>x = x<span><sub>0</sub></span> + v<span><sub>0</sub></span> t + 1/2 a t<sup> 2</sup></div>
         <div className={style.equationNumber}>&#40;3&#41;</div>
    </div>
    <br />
    <div className={style.equationBox}>
-        <div className={style.equation}>v = v_0 ^ 2 + 2 a &#916; r</div>
+        <div className={style.equation}>v = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; r</div>
         <div className={style.equationNumber}>&#40;4&#41;</div>
    </div>
     <br />
