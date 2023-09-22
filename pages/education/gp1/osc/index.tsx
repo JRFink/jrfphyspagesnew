@@ -40,6 +40,18 @@ Proceeding from fluids we move to oscillations. This is a foundational topic in 
                 <p>
                     Oscillations occur in many areas of our world.
                 </p>
+<p> 
+                     We describe oscillations in the solution to the differential equation   
+                 </p> 
+                 <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}> f&#40;q&#41; = - a &nbsp; f &#39; &#39; &#40;q &#41;  </div> 
+                     <div className={style.equationNumber}>&#40;1&#41;</div> 
+                 </div> 
+<p>
+where a is a poaitive constant.
+</p
+                 <br />
                 <h3 className={style.h3num}>
                     1.1 
                 </h3>
