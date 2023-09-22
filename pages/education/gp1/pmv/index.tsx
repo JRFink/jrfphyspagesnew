@@ -56,9 +56,15 @@ Introduction
             <h3 className={style.h3text}>
                 Mechanical momentum
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 2.1.1 Mechanical momentum
-                </h4>
+                        <p> 
+ We define mechanical momentum by 
+ </p> 
+ <br /> 
+                  <div className={style.equationBox}>  
+                      <div className={style.equation}><b>P</b> = m <b>v</b> </div>  
+                      <div className={style.equationNumber}>&#40;1&#41;</div>  
+                  </div>  
+                  <br />
             <h3 className={style.h3num}>
                 2.2 
             </h3>
