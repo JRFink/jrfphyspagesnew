@@ -69,9 +69,16 @@ Introduction
             <h3 className={style.h3text}>
                 Gravitational force
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 1.2.1 Gravitational force
-                </h4>
+                  <p> 
+                     The gravitational force is defined by  
+                 </p> 
+                 <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</span></sub> / r<span><sup><2</sup></span>
+</div> 
+                     <div className={style.equationNumber}>&#40;1&#41;</div> 
+                 </div> 
+                 <br />
             <h2 className={style.h2SectionColor} id="potent">
                 2. Gravitational potential
             </h2>
