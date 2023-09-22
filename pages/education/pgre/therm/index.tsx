@@ -13,6 +13,7 @@ The thermo section of the gre will test you on:
  <li>Cycles</li> 
  <li>Particle statistics/li>
  <li>...</li>
+</p>
      </>
   );
 }
