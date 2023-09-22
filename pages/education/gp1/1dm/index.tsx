@@ -29,6 +29,7 @@ Introduction
 We begin our formal study of physics with 1 dimensional motion. This is the simplest motion one can study.
 </p>
 
+
 <br />
 <br />
 <h2 className={style.h2SectionColor}> 
@@ -127,6 +128,16 @@ Speed...
             <br></br>
             <DeriveKinVid />
             <br></br>
+<p>
+   The four governing equations of motion with constant <b>a</b> are 
+<ul>
+   <li className={style.highlightText}> x = x_0 + v t 
+   <li className={style.highlightText}> v = v_0 + a t
+   <li className={style.highlightText}>x = x_0 + v_0 t + 1/2 a t^2 </li>
+   <li className={style.highlightText}> v = v_0 ^ 2 + 2 a &#916; r
+</ul>     
+</p>
+<br />
             <h3 className={style.h3num}>
 4.3
 </h3>
