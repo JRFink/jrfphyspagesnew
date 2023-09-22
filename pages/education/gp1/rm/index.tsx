@@ -53,38 +53,25 @@ const Rm = () => {
             <h3 className={style.h3text}>
                 Angular position
             </h3>
-                <p>
-                    Angular position is given by
-                </p>
-                <br />
-                <div className={style.equationBox}>
-                    <div className={style.equation}>s = r &#952;</div>
-                    <div className={style.equationNumber}>&#40;1&#41;</div>
-                </div>
-                <br />
+            <br />
             <h3 className={style.h3num}>
                 1.2
             </h3>
             <h3 className={style.h3text}>
                 Angular velocity
             </h3>
-                <p>
-                    Angular velocity is given by
-                </p>
-                <br /> 
-                <div className={style.equationBox}>
-                    <div className={style.equation}>v = r &#969;</div>
-                    <div className={style.equationNumber}>&#40;2&#41;</div>
-                </div>
+            <br />
             <h3 className={style.h3num}>
                 1.3
             </h3>
             <h3 className={style.h3text}>
                 Angular acceleration
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 1.3.1 Angular acceleration
-                </h4>
+            <br /> 
+            {/* <div className={style.equationBox}>
+                <div className={style.equation}></div>
+                <div className={style.equationNumber}></div>
+            </div> */}
             <h3 className={style.h3num}>
                 1.4
             </h3>
@@ -97,37 +84,90 @@ const Rm = () => {
             <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
             </h2>
-            <br></br>
-            <br></br>
-            <h2 className={style.h2SectionColor} id="en">
-                3. Energy in rotational motion
-            </h2>
+            <br />
+            <br />
+            <h3 className={style.h3num}>
+                2.1
+            </h3>
+            <h3 className={style.h3text}>
+                Position and angular position
+            </h3>
+            <p>
+                    Angular position is given by
+                </p>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}>s = r &#952;</div>
+                    <div className={style.equationNumber}>&#40;1&#41;</div>
+                </div>
+                <br />
+            <h3 className={style.h3num}>
+                2.2
+            </h3>
+            <h3 className={style.h3text}>
+                Speed and angular speed
+            </h3>
+                <p>
+                    The relationship is given by
+                </p>
+                <br /> 
+                <div className={style.equationBox}>
+                    <div className={style.equation}>v = r &#969;</div>
+                    <div className={style.equationNumber}>&#40;2&#41;</div>
+                </div>
+            <br />
+            <h3 className={style.h3num}>
+                2.3
+            </h3>
+            <h3 className={style.h3text}>
+                Acceleration and angular acceleration
+            </h3>
+                <p>
+                    The relationships are given by
+                </p>
+                <br /> 
+                <div className={style.equationBox}>
+                    <div className={style.equation}>a &nbsp;<span><sub>rad</sub></span> &nbsp; = 
+                    &nbsp; v<span><sup>2</sup></span> / r = &#969;<sup>2</sup> &nbsp;r</div>
+                    <div className={style.equationNumber}></div>
+                </div>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}>a &nbsp;<span><sub>tan</sub></span> &nbsp; = r &#945;</div>
+                    <div className={style.equationNumber}>&#40;3&#41;</div>
+                </div>          
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="moment">
-                4. Moments of inertia
+                3. Moments of inertia
             </h2>
             <p>
                 Moments of inertia
             </p>
             <h3 className={style.h3num}>
-                4.1 
+                3.1 
             </h3>
             <h3 className={style.h3text}>
                 Math
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 1.1.1 Deriving moments
+                    &nbsp; &nbsp; 3.1.1 Deriving moments
                 </h4>
             <h3 className={style.h3num}>
-                4.2
+                3.2
             </h3>
             <h3 className={style.h3text}>
                 Parallel axis theorem
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 4.2.1 Parallel axis theorem
+                    &nbsp; &nbsp; 3.2.1 Parallel axis theorem
                 </h4>
+            <br /> 
+            <h2 className={style.h2SectionColor} id="en">
+                4. Energy in rotational motion
+            </h2>
+            <br />
+            <br />
             <Summary /> 
             <br />
             <br />
