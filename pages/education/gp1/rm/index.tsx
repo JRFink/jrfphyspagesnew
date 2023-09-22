@@ -26,53 +26,73 @@ const Rm = () => {
             <br />
             <RotVid />
    
-<p> 
-     Moving moving momentum and collisions we proceed to rotational motion. 
-</p> 
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of rotational motion 
-</h2>
-<p> 
- The domain of rotational motion is... 
- </p>
-<br /> 
-<br />
+            <p> 
+                Moving moving momentum and collisions we proceed to rotational motion. 
+            </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of rotational motion 
+            </h2>
+            <p> 
+            The domain of rotational motion is... 
+            </p>
+            <br /> 
+            <br />
             <br /> 
             <br />
             <h2 className={style.h2SectionColor} id="ang">
-                1. Angular velocity and acceleration
+                1. Angular kinematics
             </h2>
                 <p>
-                    Angular velocity...
+                    Angular kinematics...
                 </p>
             <h3 className={style.h3num}>
                 1.1 
             </h3>
             <h3 className={style.h3text}>
+                Angular position
+            </h3>
+                <p>
+                    Angular position is given by
+                </p>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}>s = r &#952;</div>
+                    <div className={style.equationNumber}>&#40;1&#41;</div>
+                </div>
+                <br />
+            <h3 className={style.h3num}>
+                1.2
+            </h3>
+            <h3 className={style.h3text}>
                 Angular velocity
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 1.1.1 Angular velocity
-                </h4>
+                <p>
+                    Angular velocity is given by
+                </p>
+                <br /> 
+                <div className={style.equationBox}>
+                    <div className={style.equation}>v = r &#969;</div>
+                    <div className={style.equationNumber}>&#40;2&#41;</div>
+                </div>
             <h3 className={style.h3num}>
-                1.2 
+                1.3
             </h3>
             <h3 className={style.h3text}>
                 Angular acceleration
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 1.2.1 Angular acceleration
+                    &nbsp; &nbsp; 1.3.1 Angular acceleration
                 </h4>
             <h3 className={style.h3num}>
-                1.3
+                1.4
             </h3>
             <h3 className={style.h3text}>
                 Connecting uniform and non-uniform circular motion
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 1.3.1 Connecting
+                    &nbsp; &nbsp; 1.4.1 Connecting
                 </h4>
             <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
@@ -108,9 +128,9 @@ const Rm = () => {
                 <h4>
                     &nbsp; &nbsp; 4.2.1 Parallel axis theorem
                 </h4>
-<Summary /> 
-<br />
-<br />
+            <Summary /> 
+            <br />
+            <br />
             <br></br>
             <RmEx />
             <br></br>

@@ -43,114 +43,114 @@ From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not
             <br></br>
             <Two3Vid />
             <br></br>
-<h3 className={style.h3num}>
-1.1 
-</h3> 
+            <h3 className={style.h3num}>
+                1.1 
+            </h3> 
             <h3 className={style.h3text}>
                 Position and displacement
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.1.1 Position
-    </h4> 
-    <h4> 
-        &nbsp; &nbsp; 1.1.2 Displacement 
-    </h4>   
-<h3 className={style.h3num}>
-1.2
-</h3> 
-            <h3 className={style.h3text}>
-                Velocity
-            </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.2.1 Velocity
-    </h4>         
-<h3 className={style.h3num}>
-1.3
-</h3> 
-            <h3 className={style.h3text}>
-                Acceleration
-            </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.3.1 Position
-    </h4>
-   <h3 className={style.h3num}>
-1.4
-</h3> 
+                <h4> 
+                    &nbsp; &nbsp; 1.1.1 Position
+                </h4> 
+                <h4> 
+                    &nbsp; &nbsp; 1.1.2 Displacement 
+                </h4>   
+            <h3 className={style.h3num}>
+            1.2
+            </h3> 
+                        <h3 className={style.h3text}>
+                            Velocity
+                        </h3>
+                <h4> 
+                    &nbsp; &nbsp; 1.2.1 Velocity
+                </h4>         
+            <h3 className={style.h3num}>
+            1.3
+            </h3> 
+                        <h3 className={style.h3text}>
+                            Acceleration
+                        </h3>
+                <h4> 
+                    &nbsp; &nbsp; 1.3.1 Position
+                </h4>
+            <h3 className={style.h3num}>
+            1.4
+            </h3> 
             <h3 className={style.h3text}>
                 Projectile motion
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.4.1 Projectile motion
-    </h4>
-   <h3 className={style.h3num}>
-1.5
-</h3> 
+                <h4> 
+                    &nbsp; &nbsp; 1.4.1 Projectile motion
+                </h4>
+            <h3 className={style.h3num}>
+                1.5
+            </h3> 
             <h3 className={style.h3text}>
                 Uniform circular motion
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.5.1 Uniform circular motion
-    </h4>
-            <h2 className={style.h2SectionColor} id="3dm">
-                2. 3 dimensions 
-            </h2>
+                <h4> 
+                    &nbsp; &nbsp; 1.5.1 Uniform circular motion
+                </h4>
+        <h2 className={style.h2SectionColor} id="3dm">
+            2. 3 dimensions 
+        </h2>
             <p>
                 We extend motion in 2 dimensions to 3 dimensions.
             </p>
-   <h3 className={style.h3num}>
-2.1 
-</h3> 
+            <h3 className={style.h3num}>
+            2.1 
+            </h3> 
             <h3 className={style.h3text}>
                 Position and displacement
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.1.1 Position
-    </h4>  
-<h4>
- &nbsp; &nbsp; 2.1.2 Displacement 
-</h4>      
- <h3 className={style.h3num}>
-2.2
-</h3> 
-            <h3 className={style.h3text}>
-                Velocity
-            </h3>
-    <h4> 
-        &nbsp; &nbsp; 1.2.1 Velocity
-    </h4> 
-  <h3 className={style.h3num}>
-2.3 
-</h3> 
-            <h3 className={style.h3text}>
-                Acceleration
-            </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.3.1 Acceleration
-    </h4> 
-            <h2 className={style.h2SectionColor} id="rel">
-                3. Relative motion
-            </h2>
-            <p>
-                Two things can move in relation to one another.
-            </p>
+                <h4> 
+                    &nbsp; &nbsp; 2.1.1 Position
+                </h4>  
+            <h4>
+            &nbsp; &nbsp; 2.1.2 Displacement 
+            </h4>      
             <h3 className={style.h3num}>
-                3.1 
+            2.2
             </h3> 
-            <h3 className={style.h3text}>
-                1 d
-            </h3>
-    <h4> 
-        &nbsp; &nbsp; 3.1.1 1 d
-    </h4> 
-  <h3 className={style.h3num}>
-3.2 
-</h3> 
-            <h3 className={style.h3text}>
-                2 d
-            </h3>
-    <h4> 
-        &nbsp; &nbsp; 3.2.1 2 d
-    </h4> 
+                        <h3 className={style.h3text}>
+                            Velocity
+                        </h3>
+                <h4> 
+                    &nbsp; &nbsp; 1.2.1 Velocity
+                </h4> 
+            <h3 className={style.h3num}>
+            2.3 
+            </h3> 
+                        <h3 className={style.h3text}>
+                            Acceleration
+                        </h3>
+                <h4> 
+                    &nbsp; &nbsp; 2.3.1 Acceleration
+                </h4> 
+                        <h2 className={style.h2SectionColor} id="rel">
+                            3. Relative motion
+                        </h2>
+                        <p>
+                            Two things can move in relation to one another.
+                        </p>
+                        <h3 className={style.h3num}>
+                            3.1 
+                        </h3> 
+                        <h3 className={style.h3text}>
+                            1 d
+                        </h3>
+                <h4> 
+                    &nbsp; &nbsp; 3.1.1 1 d
+                </h4> 
+            <h3 className={style.h3num}>
+            3.2 
+            </h3> 
+                        <h3 className={style.h3text}>
+                            2 d
+                        </h3>
+                <h4> 
+                    &nbsp; &nbsp; 3.2.1 2 d
+                </h4> 
             <Summary />
             <br></br>
             <br></br>
