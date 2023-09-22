@@ -108,9 +108,6 @@ const Wke = () => {
                 <h4>
                     &nbsp; &nbsp; 2.1.1 Rates
                 </h4>
-            <h2 className={style.summaryHeading}>
-                Summary
-            </h2>
             <Summary />
             <br></br>
             <br></br>

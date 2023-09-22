@@ -18,25 +18,24 @@ const Trq = () => {
             <br /> 
             <ModoverviewTrq />
             <br></br>
-<LearnGoal /> 
-<br />
+            <LearnGoal /> 
+            <br />
             <TrqVid />
             <br></br>
             <br />
-<p> 
-     In a similar way how we went from linear motion to changes in linear motion, we go from rotational motion to changes in rotational motion. 
-</p> 
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of rotational dynamics  
-</h2>
-<p> 
- The domain of rotational dynamics is... 
- </p>
-<br /> 
-<br />
-
+                <p> 
+                    In a similar way how we went from linear motion to changes in linear motion, we go from rotational motion to changes in rotational motion. 
+                </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of rotational dynamics  
+            </h2>
+            <p> 
+            The domain of rotational dynamics is... 
+            </p>
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="var">
                 1. Variables
             </h2>
@@ -79,6 +78,15 @@ const Trq = () => {
                 <h3 className={style.h3text}>
                     Torque
                 </h3>
+                <p>
+                    The torque about a single point due to a force <b>F</b> is 
+                </p>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}>&#964; &nbsp; = &nbsp; <b>R</b> &nbsp; x &nbsp; <b>F</b></div> 
+                    <div className={style.equationNumber}>&#40;1&#41;</div>
+                </div>
+                <br />
                     <h4>
                         &nbsp; &nbsp; 3.1.1 Torque... 
                     </h4>
@@ -92,20 +100,21 @@ const Trq = () => {
                 4.1
             </h3>
             <h3 className={style.h3text}>
-                Spin angular momentum
+                Orbital angular momentum
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 4.1.1 Spin angular momentum
+                    &nbsp; &nbsp; 4.1.1 Orbital angular momentum
                 </h4>
-            <h3 className={style.h3num}>
-                4.2
-            </h3>
             <h3 className={style.h3text}>
-                Orbital angular momentum
+                Spin angular momentum
             </h3>
                 <h4>
                     &nbsp; &nbsp; 4.2.1 Spin angular momentum
                 </h4>
+            <h3 className={style.h3num}>
+                4.2
+            </h3>
+            
             <br></br>
             <br></br>
             <TrqEx />
