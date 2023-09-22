@@ -79,11 +79,11 @@ const Trq = () => {
                     Torque
                 </h3>
                 <p>
-                    The torque about a single point due to a force <b>F</b> is 
+                    The torque about a single point is 
                 </p>
                 <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}>&#964; &nbsp; = &nbsp; <b>R</b> &nbsp; x &nbsp; <b>F</b></div> 
+                    <div className={style.equation}>&#964; &nbsp; = &nbsp; d<b>L</b>/dt</div> 
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                 </div>
                 <br />
