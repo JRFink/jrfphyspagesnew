@@ -35,6 +35,9 @@ const indexPage = () => {
       <p className={style.centerText}>
          Our mission is to educate people about physics.
       </p>
+<p> 
+Nike &#174; sells shoes, Coca-Cola sells a drink, and Wells Fargo &#174; sells checking accounts&#59; we sell physics education.
+</p>
       <h2>
           How does it work? 
       </h2> 
