@@ -83,7 +83,7 @@ A mass subject to the gravitational force is subject to
 </p>
  <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</span></sub> / r<span><sup><2</sup></span> = m r &#39; &#39; &#40; t &#41;
+                     <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span> / r<span><sup><2</sup></span> = m r &#39; &#39; &#40; t &#41;
 </div> 
                      <div className={style.equationNumber}>&#40;2&#41;</div> 
                  </div> 
