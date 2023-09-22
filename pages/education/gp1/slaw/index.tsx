@@ -40,6 +40,15 @@ Introduction
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
             </h2>
+            <p>
+The second law is the statement that 
+</p>
+<br />
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}>S = k &nbsp; Ln &nbsp; &#937;</div> 
+                     <div className={style.equationNumber}>&#40;1&#41;</div> 
+                 </div> 
+                 <br />
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="eng"> 
