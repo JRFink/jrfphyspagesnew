@@ -103,6 +103,15 @@ Introduction
                     Conservative forces are forces where, when acting in a system, we can &#34;get the energy back.&#34; 
                     Examples are the gravitational force and the electric force.
                 </p>
+                <p> 
+                     Conservation of energy in a conservative system is the statement that   
+                 </p> 
+                 <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}>&#916; E &nbsp; = 0 = &#916; U + &#916; K</div> 
+                     <div className={style.equationNumber}>&#40;1&#41;</div> 
+                 </div> 
+                 <br />
                 <h3 className={style.h3num}>
                     2.2
                 </h3>
