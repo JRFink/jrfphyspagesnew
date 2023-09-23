@@ -67,6 +67,17 @@ Torque
 <h4> 
 &nbsp; &nbsp; 2.2.1 Torque balancing 
 </h4> 
+<br />
+ <h2 className={style.h2SectionColor} id="elas">
+                3. Elasticity
+            </h2>
+<h3 className={style.h3num}>
+3.1
+</h3> 
+<h3 className={style.h3text}>
+Young&#39;s modulus 
+</h3>
+
 <Summary /> 
 <br /> 
             <br></br>
