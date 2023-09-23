@@ -142,7 +142,6 @@ const Onedm = () => {
         <div className={style.equationNumber}>&#40;2&#41;</div>
    </div>
    <div>
-   h2<sub>0</sub>
    </div>
    <br />
    <div className={style.equationBox}>
@@ -151,7 +150,7 @@ const Onedm = () => {
    </div>
    <br />
    <div className={style.equationBox}>
-        <div className={style.equation}>v = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; r</div>
+        <div className={style.equation}>v <span><sup>2</sup></span> = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; r</div>
         <div className={style.equationNumber}>&#40;4&#41;</div>
    </div>
     <br />
