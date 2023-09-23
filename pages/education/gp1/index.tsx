@@ -68,8 +68,9 @@ const Gp1 = () => {
             <br></br>
             <div className={style.flexContainer} id="intro">
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
-                <Link href="" className={style.styleCourseNav}>Course notes coming</Link>
-                <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>  
+                <Link href="" className={style.styleCourseNav}>Course notes...</Link>
+                <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
+                <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equation page</Link>
             </div>
             <br></br>
             <Link href="/education/gp1/int" className={style.generalLinkIntr} >Introduction</Link><br></br>
