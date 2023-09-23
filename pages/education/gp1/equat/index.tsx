@@ -174,6 +174,11 @@ const Equat = () => {
                     <div className={style.equation}> <b>&#964;</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>F</b> &nbsp; </div> 
                 </div>
             <br />
+                <br />  
+                  <div className={style.equationBox}>  
+                      <div className={style.equation}> &#964; &nbsp; = I &#945;</div>   
+                  </div>  
+              <br />
             <h2 className={style.numberLink}>
                 10
             </h2>
