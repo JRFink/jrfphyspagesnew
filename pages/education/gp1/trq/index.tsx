@@ -124,9 +124,15 @@ const Trq = () => {
                     <div className={style.equationNumber}>&#40;2&#41;</div>
                 </div>
                 <br />
-                    <h4>
-                        &nbsp; &nbsp; 4.1.1 Torque... 
-                    </h4>
+<p> 
+We can also write the magnitude as 
+</p>
+                <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}> L &nbsp; = I &#945;</div>  
+                 </div> 
+             <br />
+       
             <br></br>
             <br></br>
             <TrqEx />
