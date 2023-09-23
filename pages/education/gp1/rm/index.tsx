@@ -27,7 +27,7 @@ const Rm = () => {
             <RotVid />
    
             <p> 
-                Moving moving momentum and collisions we proceed to rotational motion. 
+                Moving from momentum and collisions we proceed to rotational motion. 
             </p> 
             <br />
             <br />
