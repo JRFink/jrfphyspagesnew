@@ -129,7 +129,7 @@ We can also write the magnitude as
 </p>
                 <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}> L &nbsp; = I &#945;</div>  
+                     <div className={style.equation}> &#964; &nbsp; = I &#945;</div>  
                  </div> 
              <br />
        
