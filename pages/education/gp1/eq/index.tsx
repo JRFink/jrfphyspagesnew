@@ -77,7 +77,15 @@ Torque
 <h3 className={style.h3text}>
 Young&#39;s modulus 
 </h3>
-
+    <p> 
+         Young&#39;s modulus is given by  
+     </p> 
+    <br /> 
+    <div className={style.equationBox}> 
+         <div className={style.equation}>E = &#963; / &#949; = F L<span><sub>0</sub></span> / A &#916; L</div>   
+         <div className={style.equationNumber}>&#40;1&#41;</div> 
+     </div> 
+    <br />
 <Summary /> 
 <br /> 
             <br></br>
