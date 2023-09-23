@@ -74,9 +74,10 @@ const Gravity = () => {
                 </p> 
             <br /> 
                 <div className={style.equationBox}> 
-                    <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span>/ r<span><sup>2</sup></span>
-            </div> 
-                    <div className={style.equationNumber}>&#40;1&#41;</div> 
+                    <div className={style.equation}><b>F</b> &nbsp; = 
+                        G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span>/ r<span><sup>2</sup></span>
+                    </div> 
+                <div className={style.equationNumber}>&#40;1&#41;</div> 
                 </div> 
             <p> 
                 A mass subject to the gravitational force is subject to 

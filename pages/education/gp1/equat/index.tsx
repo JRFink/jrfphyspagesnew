@@ -185,6 +185,20 @@ const Equat = () => {
                 Gravity
             </h2>
             <br />
+            <br /> 
+                <div className={style.equationBox}> 
+                    <div className={style.equation}><b>F</b> &nbsp; = 
+                        G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span>/ r<span><sup>2</sup></span>
+                    </div> 
+                <div className={style.equationNumber}>&#40;1&#41;</div> 
+                </div> 
+            <br />
+                <div className={style.equationBox}> 
+                    <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span> / r<span><sup>2</sup></span> = m r &#39; &#39; &#40; t &#41;
+                    </div> 
+                    <div className={style.equationNumber}>&#40;2&#41;</div> 
+                </div> 
+            <br />
             <h2 className={style.numberLink}>
                 13
             </h2>
