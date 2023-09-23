@@ -1,4 +1,4 @@
-timport Link from 'next/link';
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import PmvVid from '@/public/videos/gp1/pmv';
 import { ModoverviewPmv } from '@/pages/components/modoverview';
@@ -18,27 +18,26 @@ const Pmv = () => {
             </h1>
             <ModoverviewPmv />
             <br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2>
             <br></br>
-<p> 
-     Proceeding from energy theory we move to the theory of momentum, impulse, and collisions. We discussed momentum when we learned about Newton&#39;s laws. 
-</p> 
-<br />
-<PmvVid /> 
-
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of momentum, impulse, &#38; collisions 
-</h2>
-<p> 
- The domain of momentum, impulse, and collisions is... 
- </p>
-<br /> 
-<br />
+            <p> 
+                Proceeding from energy theory we move to the theory of momentum, impulse, and collisions. We discussed momentum when we learned about Newton&#39;s laws. 
+            </p> 
+            <br />
+            <PmvVid /> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Domain of momentum, impulse, &#38; collisions 
+            </h2>
+            <p> 
+                The domain of momentum, impulse, and collisions is... 
+            </p>
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="cent">
                 1. Center of mass
             </h2>
@@ -53,15 +52,15 @@ Introduction
             <h3 className={style.h3text}>
                 Mechanical momentum
             </h3>
-                        <p> 
- We define mechanical momentum by 
- </p> 
- <br /> 
+                <p> 
+                    We define mechanical momentum by 
+                </p> 
+                <br /> 
                   <div className={style.equationBox}>  
-                      <div className={style.equation}><b>P</b> = m <b>v</b> </div>  
+                      <div className={style.equation}><b>P</b> &nbsp; = m <b>v</b> </div>  
                       <div className={style.equationNumber}>&#40;1&#41;</div>  
                   </div>  
-                  <br />
+            <br />
             <h3 className={style.h3num}>
                 2.2 
             </h3>

@@ -150,7 +150,7 @@ const Onedm = () => {
    </div>
    <br />
    <div className={style.equationBox}>
-        <div className={style.equation}>v <span><sup>2</sup></span> = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; r</div>
+        <div className={style.equation}>v <span><sup>2</sup></span> = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; x</div>
         <div className={style.equationNumber}>&#40;4&#41;</div>
    </div>
     <br />

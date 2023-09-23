@@ -17,14 +17,14 @@ const ApplNl = () => {
             </h1>
             <br></br> 
             <ModoverviewANl />
-   <br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p> 
-     Now that we have covered Newton&#39;s laws in theory, we can apply them. 
-</p> 
+            <br /> 
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2>
+                <p> 
+                    Now that we have covered Newton&#39;s laws in theory, we can apply them. 
+                </p> 
             <h2 className={style.h2SectionColor} id="flaw">
                 1. Using the first law
             </h2>

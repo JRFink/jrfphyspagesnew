@@ -18,29 +18,28 @@ const PU = () => {
             </h1>
             <br></br>
             <ModoverviewPu />
-<br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2> 
+            <br /> 
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2> 
             <br></br>
-<p> 
-    Proceeding from work and kinetic energy we dive into energy more generally. We discuss the different types and the theory of the conservation of energy. 
-</p> 
-<br /> 
-<EUKVid /> 
-<br />
-
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of potential energy &#38; energy conservation  
-</h2>
-<p> 
- The domain of potential energy and energy conservation is... 
- </p>
-<br /> 
-<br />
+            <p> 
+                Proceeding from work and kinetic energy we dive into energy more generally. We discuss the different types and the theory of the conservation of energy. 
+            </p> 
+            <br /> 
+            <EUKVid /> 
+            <br />
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Domain of potential energy &#38; energy conservation  
+            </h2>
+            <p> 
+                The domain of potential energy and energy conservation is... 
+            </p>
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
             </h2>
@@ -108,7 +107,7 @@ Introduction
                  </p> 
                  <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}>&#916; E &nbsp; = 0 = &#916; U + &#916; K</div> 
+                     <div className={style.equation}>&#916; E = 0 = &#916; U + &#916; K</div> 
                      <div className={style.equationNumber}>&#40;1&#41;</div> 
                  </div> 
                  <br />
