@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Helpful from '@/pages/components/helpful';
 
 const Ap = () => {
     return (
@@ -31,6 +32,9 @@ const Ap = () => {
                     </li>
                 </ul>
             </p>
+<br /> 
+<Helpful /> 
+<br />
         </>
     );
 }
