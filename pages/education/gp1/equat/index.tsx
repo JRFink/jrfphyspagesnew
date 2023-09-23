@@ -190,13 +190,11 @@ const Equat = () => {
                     <div className={style.equation}><b>F</b> &nbsp; = 
                         G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span>/ r<span><sup>2</sup></span>
                     </div> 
-                <div className={style.equationNumber}>&#40;1&#41;</div> 
                 </div> 
             <br />
                 <div className={style.equationBox}> 
                     <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span> / r<span><sup>2</sup></span> = m r &#39; &#39; &#40; t &#41;
                     </div> 
-                    <div className={style.equationNumber}>&#40;2&#41;</div> 
                 </div> 
             <br />
             <h2 className={style.numberLink}>
@@ -211,7 +209,6 @@ const Equat = () => {
                       <div className={style.equation}> p<span><sub>1</sub></span> &nbsp; + &nbsp; 1/2 &#961; v<span><sub>1</sub></span><span><sup>2</sup></span>
                       &nbsp; + &#961; g y<span><sub>1</sub></span> &nbsp; = &nbsp; p<span><sub>2</sub></span> &nbsp; + &nbsp; 1/2 &#961; 
                       v<span><sub>2</sub></span><span><sup>2</sup></span> &nbsp; + &nbsp; &#961; g y<span><sub>2</sub></span></div>  
-                      <div className={style.equationNumber}>&#40;1&#41;</div>  
                   </div>  
             <br />
             <h2 className={style.numberLink}>
@@ -224,7 +221,6 @@ const Equat = () => {
             <br /> 
                  <div className={style.equationBox}> 
                      <div className={style.equation}> f&#40;q&#41; = - a &nbsp; f &#39; &#39; &#40;q &#41;  </div> 
-                     <div className={style.equationNumber}>&#40;1&#41;</div> 
                  </div> 
             <br /> 
             <p>
@@ -234,8 +230,8 @@ const Equat = () => {
             </p>
                  <div className={style.equationBox}> 
                      <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
-                     <div className={style.equationNumber}>&#40;2&#41;</div> 
                  </div> 
+            <br />
             <h2 className={style.numberLink}>
                 15
             </h2>
@@ -243,12 +239,22 @@ const Equat = () => {
                 Waves
             </h2>
             <br />
+            <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}>&#948; <span><sup>2</sup></span>f / dg<span><sup>2</sup></span> = a &nbsp; &#948; <span><sup>2</sup></span>f / dq<span><sup>2</sup></span></div> 
+                 </div> 
+            <br />
             <h2 className={style.numberLink}>
                 16
             </h2>
             <h2 className={style.h3text}>
                 Temperature and heat
             </h2>
+            <br />
+            <br />
+                    <div className={style.equationBox}>
+                        <div className={style.equation}>&#916;U = Q + W</div>
+                    </div>
             <br />
             <h2 className={style.numberLink}>
                 17
@@ -270,6 +276,12 @@ const Equat = () => {
             <h2 className={style.h3text}>
                 Second law of thermo
             </h2>
+            <br />
+            <br />
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}>S = k Ln &#937;</div> 
+                 </div> 
+                 <br />
             <br />
         </>
     );

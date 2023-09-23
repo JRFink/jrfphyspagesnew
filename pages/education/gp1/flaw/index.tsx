@@ -26,29 +26,30 @@ const Flaw = () => {
             heat capacities of an ideal gas 
             adiabatic processes for an ideal gas  */}
             <Modoverview1st />
-<br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p> 
-   Going from gases we proceed to the first law of thermodynamics. The first law of thermodynamics concerns itself with energy and the conservation of energy. 
-</p> 
-<p>
-         In this section we will also cover pressure and volume. 
-</p> 
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of the first law
-</h2>
-<p> 
- The domain of thr first law is... 
- </p>
-<br /> 
-<br />
-<Summary /> 
-<br />
+            <br /> 
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2>
+            <p> 
+                Going from gases we proceed to the first law of thermodynamics. 
+                The first law of thermodynamics concerns itself with energy and the conservation of energy. 
+            </p> 
+            <p>
+                In this section we will also cover pressure and volume. 
+            </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Domain of the first law
+            </h2>
+            <p> 
+                The domain of thr first law is... 
+            </p>
+            <br /> 
+            <br />
+            <Summary /> 
+            <br />
             <br></br>
             <br></br>
             <FlawEx />
@@ -59,7 +60,8 @@ Introduction
             <br /> 
             <Link href="/education/gp1/slaw" className={style.backtoLink}>Second law &#10140;</Link>  
              <br />  
-             <br />            <Helpful />
+             <br />            
+             <Helpful />
         </>
     );
 }

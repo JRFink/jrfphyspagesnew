@@ -16,24 +16,26 @@ const Kin = () => {
                 Gases
             </h1>
             <ModoverviewGas />
-<br />
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p> 
-Moving from temperature and heat we move to gases. Now, we sort of already covered this when we talked about fluids. Gases is a type of fluid. We apply some of the same methods we used there here. 
-</p>
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of gases 
-</h2>
-<p> 
- The domain of gases is... 
- </p>
-<br /> 
-<br /> 
+            <br />
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2>
+            <p> 
+                Moving from temperature and heat we move to gases. 
+                Now, we sort of already covered this when we talked about fluids. 
+                Gases is a type of fluid. We apply some of the same methods we used there here. 
+            </p>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Domain of gases 
+            </h2>
+            <p> 
+                The domain of gases is... 
+            </p>
+            <br /> 
+            <br /> 
             <h2 className={style.h2SectionColor} id="ideal">
                 Ideal
             </h2>
@@ -58,9 +60,9 @@ Moving from temperature and heat we move to gases. Now, we sort of already cover
             degrees of freedom and molar specific heats 
             the adiabatic expansion of an ideal gas  */}
 
-<Summary /> 
-<br /> 
-<br /> 
+            <Summary /> 
+            <br /> 
+            <br /> 
             <br></br>
             <KinEx />
             <br></br>

@@ -17,35 +17,35 @@ const Slaw = () => {
             </h1>
             <Modoverview2nd /> 
             <br /> 
-<LearnGoal />
-<h2> 
-Introduction
-</h2> 
-<p> 
-        Moving from the first law we proceed to the second. Its infamous. 
-</p> 
-<p> 
-        The second law is about the arrangements of a system. We use it to understand how systems evolve over time, such as how a clean room becomes dirty. 
-</p> 
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of the second law  
-</h2>
-<p> 
- The domain of the second law is... 
- </p>
-<br /> 
-<br />
+            <LearnGoal />
+            <h2> 
+                Introduction
+            </h2> 
+            <p> 
+                Moving from the first law we proceed to the second. Its infamous. 
+            </p> 
+            <p> 
+                The second law is about the arrangements of a system. We use it to understand how systems evolve over time, such as how a clean room becomes dirty. 
+            </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Domain of the second law  
+            </h2>
+            <p> 
+                The domain of the second law is... 
+            </p>
+            <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
             </h2>
             <p>
-The second law is the statement that 
-</p>
-<br />
+                The second law is the statement that 
+            </p>
+            <br />
                  <div className={style.equationBox}> 
-                     <div className={style.equation}>S = k &nbsp; Ln &nbsp; &#937;</div> 
+                     <div className={style.equation}>S = k Ln &#937;</div> 
                      <div className={style.equationNumber}>&#40;1&#41;</div> 
                  </div> 
                  <br />
