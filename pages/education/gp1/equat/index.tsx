@@ -175,6 +175,11 @@ const Equat = () => {
             <h2 className={style.h3text}>
                 Equilibrium and elasticity
             </h2>
+<br /> 
+<br />
+    <div className={style.equationBox}>  
+          <div className={style.equation}>E = &#963; / &#949; = F L<span><sub>0</sub></span> / A &#916; L</div>    
+      </div> 
             <br />
             <h2 className={style.numberLink}>
                 11
