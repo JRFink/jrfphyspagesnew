@@ -77,6 +77,13 @@ const Trq = () => {
                     <div className={style.equation}><b>L</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>p</b></div> 
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                 </div>
+<p>
+    The length gives the magnitude of the vector. We can also write the magnitude of the angular momentum as
+                </p>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}> L &nbsp; = I &#969;</div> 
+                </div>
             <br />
             <h3 className={style.h3num}>
                 3.1
