@@ -113,7 +113,7 @@ const Trq = () => {
                 </p>
                 <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}> <b>&#964;</b> &nbsp; = &nbsp; d<b>L</b> &nbsp; / dt</div> 
+                    <div className={style.equation}> <b>&#964;</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>F</b> &nbsp;</div> 
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                 </div>
                 <br />

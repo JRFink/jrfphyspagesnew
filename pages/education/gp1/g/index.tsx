@@ -18,35 +18,35 @@ const Gravity = () => {
             <br></br>
             <ModoverviewG />
             <br />
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p> 
-     Gravity is a large subject, but undoubtedly something you interact with every day. <em> Why does an apple fall? Why does the moon orbit the earth? Why do some galaxies spin? </em> 
-</p>
-<p> 
-     In the previous section, we learned about taylor expansion. We learned that we can use this approach to solve problems when the change in a physical system is small. 
-</p>
-<p> 
-     Consider again the apple falling. The apple fits in your hand. 
-</p> 
-<p>
-     Have you ever been around the world? To China? India? Hawaii? 
-</p> 
-<p> 
-     The earth is large. Throw an apple up. What is the height it rises compared to the size of the earth? 
-</p>   
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of gravity 
-</h2>
-<p> 
- The domain of gravity is... 
- </p>
-<br /> 
-<br />            
+            <LearnGoal />
+            <h2> 
+                Introduction 
+            </h2>
+            <p> 
+                Gravity is a large subject, but undoubtedly something you interact with every day. <em> Why does an apple fall? Why does the moon orbit the earth? Why do some galaxies spin? </em> 
+            </p>
+            <p> 
+                In the previous section, we learned about taylor expansion. We learned that we can use this approach to solve problems when the change in a physical system is small. 
+            </p>
+            <p> 
+                Consider again the apple falling. The apple fits in your hand. 
+            </p> 
+            <p>
+                Have you ever been around the world? To China? India? Hawaii? 
+            </p> 
+            <p> 
+                The earth is large. Throw an apple up. What is the height it rises compared to the size of the earth? 
+            </p>   
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of gravity 
+            </h2>
+            <p> 
+            The domain of gravity is... 
+            </p>
+            <br /> 
+            <br />            
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
             </h2>
@@ -69,25 +69,25 @@ Introduction
             <h3 className={style.h3text}>
                 Gravitational force
             </h3>
-                  <p> 
-                     The gravitational force is defined by  
-                 </p> 
-                 <br /> 
-                 <div className={style.equationBox}> 
-                     <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</span></sub> / r<span><sup><2</sup></span>
-</div> 
-                     <div className={style.equationNumber}>&#40;1&#41;</div> 
-                 </div> 
-<p> 
-A mass subject to the gravitational force is subject to 
-</p>
- <br /> 
-                 <div className={style.equationBox}> 
-                     <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span> / r<span><sup><2</sup></span> = m r &#39; &#39; &#40; t &#41;
-</div> 
-                     <div className={style.equationNumber}>&#40;2&#41;</div> 
-                 </div> 
-                 <br />
+                <p> 
+                    The gravitational force is defined by  
+                </p> 
+            <br /> 
+                <div className={style.equationBox}> 
+                    <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span>/ r<span><sup>2</sup></span>
+            </div> 
+                    <div className={style.equationNumber}>&#40;1&#41;</div> 
+                </div> 
+            <p> 
+                A mass subject to the gravitational force is subject to 
+            </p>
+            <br /> 
+                <div className={style.equationBox}> 
+                    <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span> / r<span><sup>2</sup></span> = m r &#39; &#39; &#40; t &#41;
+                    </div> 
+                    <div className={style.equationNumber}>&#40;2&#41;</div> 
+                </div> 
+                <br />
             <h2 className={style.h2SectionColor} id="potent">
                 2. Gravitational potential
             </h2>
@@ -97,7 +97,7 @@ A mass subject to the gravitational force is subject to
                 3. Gravitation near earth&apos;s surface
             </h2>
             <p> 
-            Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
+                Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
             <br></br>
             <h2 className={style.h2SectionColor} id="mot">
                 4. Motion of satellites
@@ -140,8 +140,10 @@ A mass subject to the gravitational force is subject to
             <h2 className={style.h2SectionColor} id="grav">
                 6. Einstein and gravity
             </h2>
-<Summary /> 
-<br /> 
+            <br />
+            <br />
+            <Summary /> 
+            <br /> 
             <br></br>
             <br></br>
             <GEx />
