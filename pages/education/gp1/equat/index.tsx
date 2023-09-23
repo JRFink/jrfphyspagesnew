@@ -206,6 +206,14 @@ const Equat = () => {
                 Fluids
             </h2>
             <br />
+            <br /> 
+                  <div className={style.equationBox}>  
+                      <div className={style.equation}> p<span><sub>1</sub></span> &nbsp; + &nbsp; 1/2 &#961; v<span><sub>1</sub></span><span><sup>2</sup></span>
+                      &nbsp; + &#961; g y<span><sub>1</sub></span> &nbsp; = &nbsp; p<span><sub>2</sub></span> &nbsp; + &nbsp; 1/2 &#961; 
+                      v<span><sub>2</sub></span><span><sup>2</sup></span> &nbsp; + &nbsp; &#961; g y<span><sub>2</sub></span></div>  
+                      <div className={style.equationNumber}>&#40;1&#41;</div>  
+                  </div>  
+            <br />
             <h2 className={style.numberLink}>
                 14
             </h2>
@@ -213,6 +221,21 @@ const Equat = () => {
                 Oscillations
             </h2>
             <br />
+            <br /> 
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}> f&#40;q&#41; = - a &nbsp; f &#39; &#39; &#40;q &#41;  </div> 
+                     <div className={style.equationNumber}>&#40;1&#41;</div> 
+                 </div> 
+            <br /> 
+            <p>
+                Hooke&#39;s law
+            <br />
+            <br />
+            </p>
+                 <div className={style.equationBox}> 
+                     <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
+                     <div className={style.equationNumber}>&#40;2&#41;</div> 
+                 </div> 
             <h2 className={style.numberLink}>
                 15
             </h2>

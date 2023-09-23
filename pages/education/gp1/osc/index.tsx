@@ -16,31 +16,31 @@ const Osc = () => {
                 Oscillations
             </h1>
             <ModoverviewOsc />
-<br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p> 
-Proceeding from fluids we move to oscillations. This is a foundational topic in physics. Many things in our world oscillate. For example, a pendulum swings back and forth; a building sways slightly in the wind, and financial markets are always going up and down. Studying oscillations will help us characterize this motion. 
-</p> 
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of oscillations  
-</h2>
-<p> 
- The domain of oscillations is... 
- </p>
-<br /> 
-<br />
+            <br /> 
+            <LearnGoal />
+            <h2> 
+            Introduction 
+            </h2>
+            <p> 
+            Proceeding from fluids we move to oscillations. This is a foundational topic in physics. Many things in our world oscillate. For example, a pendulum swings back and forth; a building sways slightly in the wind, and financial markets are always going up and down. Studying oscillations will help us characterize this motion. 
+            </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of oscillations  
+            </h2>
+            <p> 
+            The domain of oscillations is... 
+            </p>
+            <br /> 
+            <br />
                 <h2 className={style.h2SectionColor} id="desc">
                     1. Describing oscillations 
                 </h2>
                 <p>
                     Oscillations occur in many areas of our world.
                 </p>
-<p> 
+                <p> 
                      We describe oscillations in the solution to the differential equation   
                  </p> 
                  <br /> 
@@ -48,9 +48,9 @@ Proceeding from fluids we move to oscillations. This is a foundational topic in 
                      <div className={style.equation}> f&#40;q&#41; = - a &nbsp; f &#39; &#39; &#40;q &#41;  </div> 
                      <div className={style.equationNumber}>&#40;1&#41;</div> 
                  </div> 
-<p>
-where a is a positive constant.
-</p>
+                <p>
+                where a is a positive constant.
+                </p>
                  <br />
                 <h3 className={style.h3num}>
                     1.1 
@@ -72,8 +72,8 @@ where a is a positive constant.
                      <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
                      <div className={style.equationNumber}>&#40;2&#41;</div> 
                  </div> 
-<p> We apply Newton&#39;s second law amd obtain </p> 
- <br /> 
+                <p> We apply Newton&#39;s second law amd obtain </p> 
+                <br /> 
                  <div className={style.equationBox}> 
                      <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r = m r &#39; &#39; &#40;t &#41; </div> 
                      <div className={style.equationNumber}>&#40;3&#41;</div> 
