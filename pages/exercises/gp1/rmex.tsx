@@ -9,7 +9,7 @@ const RmEx = () => {
         <Exerciseheading />
       
         <ol className={style.exerciseOl}>
-          <li>A point particle orbits around an axis. What is its kinetic energy?</li>
+          <li>A point particle orbits an axis. What is its kinetic energy?</li>
         </ol>
       </>
     );
