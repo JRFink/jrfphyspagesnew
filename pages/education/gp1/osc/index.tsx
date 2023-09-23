@@ -64,36 +64,58 @@ const Osc = () => {
                             <h4>
                                 &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.1 Hooke&#39;s law
                             </h4>
-<p> 
+                    <p> 
                      We can characterize Hooke&#39;s law by   
-                 </p> 
-                 <br /> 
-                 <div className={style.equationBox}> 
-                     <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
-                     <div className={style.equationNumber}>&#40;2&#41;</div> 
-                 </div> 
-                <p> We apply Newton&#39;s second law amd obtain </p> 
+                </p> 
+                <br /> 
+                <div className={style.equationBox}> 
+                    <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
+                    <div className={style.equationNumber}>&#40;2&#41;</div> 
+                </div> 
+                <p>
+                    where c is a positive constant. 
+                </p>
+                <p> We apply Newton&#39;s second law and obtain </p> 
                 <br /> 
                  <div className={style.equationBox}> 
                      <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r = m r &#39; &#39; &#40;t &#41; </div> 
                      <div className={style.equationNumber}>&#40;3&#41;</div> 
                  </div> 
-
-                            <h4>
-                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.2 Pure
-                            </h4>
-                            <h4>
-                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.3 Damped
-                            </h4>
-                            <h4>
-                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.4 Forced
-                            </h4>
-                            <h4>
-                                &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.5 Resonance
-                            </h4>
+                 <br />
+                <p>
+                    Notice that the force is a function of r. r is the independent variable. What we can do, though,
+                    is say that r is a function of time. 
+                    <br />
+                    We can rewrite this as <b>F</b> = - c r&#40;t&#41;. And thus, now it is a second order ODE. And the solution is 
+                </p>
+                <br />
+                <div className={style.equationBox}> 
+                     <div className={style.equation}> r&#40;t&#41; = A sin &#40; &#969;t + &#966; &#41; + 
+                     B cos &#40;&#969;t + &#966; &#41;
+                      </div> 
+                     <div className={style.equationNumber}>&#40;3&#41;</div> 
+                 </div> 
+               
+                 <p>
+                 The solution can also be written as 
+                    r&#40;t&#41; = C e <span><sup>i &#40; &#969;t + &#966; &#41; </sup></span>  
+                    + D e <span><sup>- i &#40; &#969;t + &#966; &#41;</sup></span> 
+                </p>
                         <h4>
-                            &nbsp; &nbsp; 1.1.2 Chaotic 
+                            &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.2 Pure
                         </h4>
+                        <h4>
+                            &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.3 Damped
+                        </h4>
+                        <h4>
+                            &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.4 Forced
+                        </h4>
+                        <h4>
+                            &nbsp; &nbsp; &nbsp; &nbsp; 1.1.1.5 Resonance
+                        </h4>
+                    <h4>
+                        &nbsp; &nbsp; 1.1.2 Chaotic 
+                    </h4>
                 <h2 className={style.h2SectionColor} id="conn">
                     2. Connection to circular motion
                 </h2>
