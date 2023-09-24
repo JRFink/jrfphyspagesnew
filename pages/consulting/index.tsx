@@ -24,7 +24,7 @@ const Consult = () => {
           </ul>
           </p>
           <p>
-            Find some sample reports <Link href="/consulting/reports">here</Link>
+            Find some <span className={style.highlightTextBlue}>sample reports</span> <Link href="/consulting/reports">here</Link>
           </p>
             <p>
               Find some stats at the <Link href="https://nces.ed.gov">National center for education statistics </Link> 

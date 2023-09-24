@@ -556,6 +556,13 @@
 .highlightText {
     background-color: rgb(252, 255, 161);
     padding: 5px;
+    
+}
+
+.highlightTextBlue {
+    background-color: rgb(185, 235, 253); 
+    padding: 3px; 
+    border-radius: 5px;
 }
 
 .learngoalHeading {
