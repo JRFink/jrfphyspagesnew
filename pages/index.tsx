@@ -76,7 +76,7 @@ const indexPage = () => {
           If you&#39;re in college&#46;&#46;&#46; 
       </h3>
 <p> 
-     The average cost of a 3 credit college class in the United states is about &#36;1500, and that is on the low end.
+     The average cost of a 3 credit college class in the United states is about <Link href="https://collegescorecard.ed.gov/">&#36;1700</Link>.
 </p>
 <p> 
 Instead, you can come here and learn all the physics you want for &#36;5 per month. 

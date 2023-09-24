@@ -33,9 +33,13 @@ const Consult = () => {
             <p>
               There are 
                 <ul>
-                  <li>12 in person colleges in Rhode island that offer Bachelors + degrees</li>
+                  <li>12 in-person colleges in Rhode island that offer Bachelors+ degrees</li>
                   <li>26 senior members of the department of education, with their roles found <Link href="https://www2.ed.gov/news/staff/bios/index.html">here</Link></li>
+                  <li>Mexico&#39;s department of education found <Link href="https://www.gob.mx/sep">here</Link></li>
                 </ul>
+            </p>
+            <p>
+              Policy makers can learn more <Link href="https://www2.ed.gov/rschstat/">here</Link>. 
             </p>
       </>
   ); 
