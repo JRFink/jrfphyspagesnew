@@ -11,7 +11,7 @@ const Consult = () => {
             Welcome to the consulting page
           </p>
           <p> 
-              As part of the business we are going to offer some consulting services. 
+              As part of the business, we are going to offer some consulting services. 
           </p> 
           <p> 
               Our main areas will be 
@@ -20,12 +20,22 @@ const Consult = () => {
               <li>Physics research</li>
               <li>Higher ed</li>
               <li>Education policy</li>
-              <li>Government research</li>
+              <li>Government res</li>
           </ul>
           </p>
             <p>
               Find some stats at the <Link href="https://nces.ed.gov">National center for education statistics </Link> 
               and the <Link href="https://ies.ed.gov">Institute of education sciences</Link>.
+            </p>
+            <p>
+              Some sample research... 
+            </p>
+            <p>
+              There are 
+                <ul>
+                  <li>12 in person colleges in Rhode island that offer Bachelors + degrees</li>
+                  <li>26 senior members of the department of education, with their roles found <Link href="https://www2.ed.gov/news/staff/bios/index.html">here</Link></li>
+                </ul>
             </p>
       </>
   ); 
