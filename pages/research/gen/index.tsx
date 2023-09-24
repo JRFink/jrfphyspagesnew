@@ -43,6 +43,8 @@ const Gen = () => {
                                         Some of the largest utility companies are 
                                         <ul>
                                             <li><Link href="https://www.nexteraenergy.com/">NextEra</Link></li>
+                                            <li><Link href="https://www.duke-energy.com/home">Duke energy</Link></li>
+                                            <li><Link href="https://www.pge.com/?ref=bbbsite">Pacific gas and electric</Link></li>
                                         </ul>
                                     </p>
                                     <br></br>
@@ -54,6 +56,10 @@ const Gen = () => {
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
                                     <br /> 
+                                    <li>
+                                        <Link href="https://www.commerce.gov/" className={style.noUnder}>Communication</Link>
+                                    </li>
+                                    <br />
                                     <li>
                                         <Link href="https://constitution.congress.gov/constitution/" className={style.noUnder}>Constitution - 1789</Link>
                                     </li>
