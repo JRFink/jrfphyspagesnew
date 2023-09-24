@@ -42,6 +42,12 @@ const Nuclear = () => {
                     alt="An atom with three electrons" 
                 />
             </div>
+<h2> 
+      Nuclear theory crash course 
+</h2>
+<p> 
+    Nuclear theory starts with the number of protons and neutrons in a nucleus. This is the basis of the elements.
+</p>
             <h2>
                 Locations
             </h2>
