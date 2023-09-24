@@ -59,6 +59,14 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.commerce.gov/" className={style.noUnder}>Communication</Link>
                                     </li>
+                                    <p>
+                                        Some of the largest network providers in the US are 
+                                        <ul>
+                                            <li><Link href="https://www.verizon.com/">Verizon</Link></li>
+                                            <li><Link href="https://www.att.com/">AT&#38;T</Link></li>
+                                            <li><Link href="https://www.t-mobile.com/">T Mobile</Link></li>
+                                        </ul>
+                                    </p>
                                     <br />
                                     <li>
                                         <Link href="https://constitution.congress.gov/constitution/" className={style.noUnder}>Constitution - 1789</Link>
