@@ -44,7 +44,7 @@ const Gen = () => {
                                     </li>
                                     <br /> 
                                     <li>
-                                        <Link href="https://constitution.congress.gov/constitution/" className={style.noUnder}>Constitution - 1776</Link>
+                                        <Link href="https://constitution.congress.gov/constitution/" className={style.noUnder}>Constitution - 1789</Link>
                                     </li>
                                     <br />
                                     <li>
