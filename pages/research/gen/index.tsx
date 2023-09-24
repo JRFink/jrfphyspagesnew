@@ -219,8 +219,11 @@ const Gen = () => {
                             <li>
                                 <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
                             </li>
-<br />
-<li>
+                            <p>
+                                There are about <Link href="http://en.moe.gov.cn/documents/reports/202304/t20230403_1054100.html">15,000</Link> senior high schools in china.
+                            </p>
+                            <br />
+                            <li>
                                 <Link href="https://12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
                             </li>
                         </ul>
