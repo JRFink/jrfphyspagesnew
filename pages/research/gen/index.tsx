@@ -42,6 +42,10 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
+                                    <br /> 
+                                    <li>
+                                        <Link href="https://constitution.congress.gov/constitution/" className={style.noUnder}>Constitution - 1776</Link>
+                                    </li>
                                     <br />
                                     <li>
                                         <Link href="https://www.cia.gov" className={style.noUnder}>Cia</Link>
@@ -211,6 +215,9 @@ const Gen = () => {
                 </h2>
                     <p>
                         <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
+                        <p>
+                            China has a one party system, enacted through the <Link href="http://en.npc.gov.cn.cdurl.cn/">NPC</Link>.
+                        </p>
                         <ul>
                             <li>
                                 <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
@@ -226,6 +233,10 @@ const Gen = () => {
                             <p>
                                 There are about <Link href="http://en.moe.gov.cn/documents/reports/202304/t20230403_1054100.html">15,000</Link> senior high schools in china.
                             </p>
+                            <br />
+                                <li>
+                                    <Link href="https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html" className={style.noUnder}>Constitution - 1982</Link>
+                                </li>
                             <br />
                             <li>
                                 <Link href="https://12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
@@ -319,8 +330,12 @@ const Gen = () => {
                         <li>
                             <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
                         </li>
-<br />
- <li>
+                        <br />
+                        <li>
+                            <Link href="http://www.constitution.ru/en/10003000-01.htm" className={style.noUnder}>Constitution - 1993</Link>
+                        </li>
+                        <br />
+                        <li>
                             <Link href="http://svr.gov.ru" className={style.noUnder}>Svr</Link>
                         </li>
                     </ul>
