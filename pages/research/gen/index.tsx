@@ -39,6 +39,12 @@ const Gen = () => {
                                         <br />
                                         That &#39;s about 1,000 kWh / month; and about 30 kWh / day. 
                                     </p>
+                                    <p>
+                                        Some of the largest utility companies are 
+                                        <ul>
+                                            <li><Link href="https://www.nexteraenergy.com/">NextEra</Link></li>
+                                        </ul>
+                                    </p>
                                     <br></br>
                                     <li>
                                         <Link href="https://www.energy.gov/science/office-science" className={style.noUnder}>Science</Link>
