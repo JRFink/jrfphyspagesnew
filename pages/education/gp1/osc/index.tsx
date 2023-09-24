@@ -93,7 +93,7 @@ const Osc = () => {
                      <div className={style.equation}> r&#40;t&#41; = A sin &#40; &#969;t + &#966; &#41; + 
                      B cos &#40;&#969;t + &#966; &#41;
                       </div> 
-                     <div className={style.equationNumber}>&#40;3&#41;</div> 
+                     <div className={style.equationNumber}>&#40;4&#41;</div> 
                  </div> 
                
                  <p>

@@ -10,7 +10,7 @@ const Consult = () => {
   Welcome to the consulting page
 </p>
 <p> 
-    As part of the business model we are going to offer consulting services. 
+    As part of the business we are going to offer some consulting services. 
 </p> 
 <p> 
      Our main areas will be 
