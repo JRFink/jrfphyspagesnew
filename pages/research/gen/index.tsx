@@ -259,6 +259,10 @@ const Gen = () => {
                         </li>
                         <br />
                         <li>
+                            <Link href="https://www.gesetze-im-internet.de/gg/" className={style.noUnder}>Constitution - Grundgesetz - 1949</Link>
+                        </li>
+                        <br />
+                        <li>
                             <Link href="https://www.bnd.bund.de" className={style.noUnder}>Bnd</Link>
                         </li> 
                     </ul>
