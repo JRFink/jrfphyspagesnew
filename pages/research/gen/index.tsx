@@ -228,10 +228,10 @@ const Gen = () => {
                                 <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
                             </li>
                             <p>
-                                    In China, the average electricity usage per year per capita is around 30,000 kWh. 
-                                    <br />
-                                    That &#39;s about 3,000 kWh / month; and about 100 kWh / day. 
-                                </p>
+                                In China, the average electricity usage per year per capita is around 30,000 kWh. 
+                                <br />
+                                That &#39;s about 3,000 kWh / month; and about 100 kWh / day. 
+                            </p>
                             <br></br>
                             <li>
                                 <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
@@ -340,6 +340,11 @@ const Gen = () => {
                         <li>
                             <Link href="http://minenergo.gov.ru" className={style.noUnder}>Energy</Link>
                         </li>
+                        <p>
+                            In China, the average electricity usage per year per capita is around 60,000 kWh. 
+                            <br />
+                            That &#39;s about 600 kWh / month; and about 20 kWh / day. 
+                        </p>
                         <br></br>
                         <li>
                             <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
