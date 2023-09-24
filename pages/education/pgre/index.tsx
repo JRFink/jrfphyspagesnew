@@ -4,15 +4,17 @@ import style from '@/styles/general.module.css';
  const Pgre = () => {  
    return (  
       <>  
+         <br />
+         <Link href="/education" className={style.backtoLink}>Education</Link>
          <h1 className={style.centerText}> 
               Physics GRE &#174; prep 
          </h1> 
- <p> 
-      This page will help you prepare for the <Link href="/pdf/fact-sheet-physics.pdf">physics gre</Link>. 
- </p> 
-      <p>    
-      The test covers the following topics...
-      </p>
+        <p> 
+            This page will help you prepare for the <Link href="/pdf/fact-sheet-physics.pdf">physics gre</Link>. 
+        </p> 
+        <p>    
+        The test covers the following topics...
+        </p>
              <br></br> 
              <p className={style.numberLink}> 
                  1 
