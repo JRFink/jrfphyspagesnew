@@ -306,6 +306,11 @@ const Gen = () => {
                         <li>
                             <Link href="https://moe.gov.ir" className={style.noUnder}>Energy</Link>
                         </li>
+                        <p>
+                            In Iran, the average electricity usage per year per capita is about 2,000 kWh. 
+                            <br />
+                            That &#39;s about 200 kWh / month; and about 10 kWh / day. 
+                        </p>
                         <br></br>
                         <li>
                             <Link href="https://irangov.ir/cat/558" className={style.noUnder}>Science</Link>
@@ -368,6 +373,11 @@ const Gen = () => {
                         <li>
                             <Link href="https://www.ema.gov.sg/index.aspx" className={style.noUnder}>Energy</Link>
                         </li>
+                        <p>
+                            In Singapore, the average electricity usage per year per capita is about 500 kWh. 
+                            <br />
+                            That &#39;s about 50 kWh / month; and about 2 kWh / day. 
+                        </p>
                         <br></br>
                         <li>
                             <Link href="https://snas.org.sg" className={style.noUnder}>Science</Link>
