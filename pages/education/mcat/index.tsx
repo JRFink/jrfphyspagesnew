@@ -1,8 +1,11 @@
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 const Mcat = () => { 
   return ( 
      <> 
+     <br />
+         <Link href="/education" className={style.backtoLink}>Education</Link>
         <h1 className={style.centerText}>
              MCAT &#174; phys prep
         </h1>
