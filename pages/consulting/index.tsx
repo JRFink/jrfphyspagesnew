@@ -22,6 +22,9 @@ const Consult = () => {
      <li>Government research</li>
 </ul>
 </p>
+<p>
+Some sample research...
+</p>
       </>
   ); 
 } 
