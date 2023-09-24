@@ -30,6 +30,7 @@ const Consult = () => {
               Find some stats at the <Link href="https://nces.ed.gov">National center for education statistics </Link> 
               and the <Link href="https://ies.ed.gov">Institute of education sciences</Link>.
             </p>
+            <p>The US department of education has a <Link href="/pdf/usedbudget24.pdf">budget</Link> of &#36;90 Billion for 2024.</p>
             <p>
               Some sample research... 
             </p>
