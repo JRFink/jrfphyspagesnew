@@ -23,6 +23,9 @@ const Consult = () => {
               <li>Government res</li>
           </ul>
           </p>
+          <p>
+            Find some sample reports <Link href="/consulting/reports">here</Link>
+          </p>
             <p>
               Find some stats at the <Link href="https://nces.ed.gov">National center for education statistics </Link> 
               and the <Link href="https://ies.ed.gov">Institute of education sciences</Link>.
