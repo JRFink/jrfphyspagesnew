@@ -2,17 +2,17 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 
-const Hop2 = () => {
+const Hist = () => {
     return (
         <>
             <br />
-            <Link href="/education/topics" className={style.backtoLink}>Topics</Link><br></br>
+            <Link href="/education/topics/hop2" className={style.backtoLink}>Topics</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                History of Physics 2
+                More historical survey
             </h1>
         </>
     );
 }
 
-export default Hop2;
+export default Hist;
