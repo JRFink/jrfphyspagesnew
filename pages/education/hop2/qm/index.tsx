@@ -49,7 +49,7 @@ const Qm = () => {
              </h2> 
              <Link href="/education/hop2/qm/ruth" className={style.generalLink}> 
                  Rutherford&#39;s gold foil
-             </Link>* 
+             </Link>
              <br />  
              <h2 className={style.numberLink}> 
                  5.7 
