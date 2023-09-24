@@ -357,6 +357,11 @@ const Gen = () => {
                         <li>
                             <Link href="https://www.moe.gov.sg" className={style.noUnder}>Education</Link>
                         </li>
+                        <br />
+                        <li>
+                            <Link href="https://sso.agc.gov.sg/Act/CONS1963?ProvIds=P11-#pr1-" className={style.noUnder}>Constitution - 1965</Link>
+                        </li>
+                        <br></br>
                     </ul>
                 </p>
                 <h2>
@@ -381,18 +386,17 @@ const Gen = () => {
                 <h2>
                     Other
                 </h2>
-<p>
-Behave &#40;size, speed, charge &#40; elec, grav &#41; &#41; ? 
-</p>
-<p> 
-Charge is conserved and invariant; energy is conserved but not invariant; mass is not conserved but invariant? 
-</p>
+                <p>
+                Behave &#40;size, speed, charge &#40; elec, grav &#41; &#41; ? 
+                </p>
+                <p> 
+                Charge is conserved and invariant; energy is conserved but not invariant; mass is not conserved but invariant? 
+                </p>
                 <p>
                     <ul>
                         <li>
                             <Link href="https://www.ietf.org/">Internet engineering task force</Link> - Wilmington, DE
                         </li>
-                        <br></br>
                         <br></br>
                         <li>
                             <Link href="https://www.iso.org">International organization for standardization</Link> - Geneva, CH
