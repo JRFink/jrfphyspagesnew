@@ -5,6 +5,9 @@ const Consult = () => {
         <h1 className={style.centerText}>
            Consulting 
         </h1>
+ <p>
+  Welcome to the consulting page
+</p>
       </>
   ); 
 } 
