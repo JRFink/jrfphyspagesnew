@@ -70,7 +70,7 @@ const Hist = () => {
             <h2 className={style.numberLink}>
                 1.9
             </h2>
-            <Link href="/education/hop2/hist/eur" className={style.generalLink}>
+            <Link href="/education/hop2/hist/mod" className={style.generalLink}>
                 Modern europe
             </Link>
         </>
