@@ -37,7 +37,7 @@ const Gen = () => {
                                     <p>
                                         In America, the average electricity usage per year per household is about 10,000 kWh. 
                                         <br />
-                                        That &#39;s about 1,000 kWh / year; and about 30 kWh / day. 
+                                        That &#39;s about 1,000 kWh / month; and about 30 kWh / day. 
                                     </p>
                                     <br></br>
                                     <li>
@@ -227,6 +227,11 @@ const Gen = () => {
                             <li>
                                 <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
                             </li>
+                            <p>
+                                    In China, the average electricity usage per year per capita is around 30,000 kWh. 
+                                    <br />
+                                    That &#39;s about 3,000 kWh / month; and about 100 kWh / day. 
+                                </p>
                             <br></br>
                             <li>
                                 <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
