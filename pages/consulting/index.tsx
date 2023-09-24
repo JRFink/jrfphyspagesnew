@@ -1,4 +1,5 @@
 import style from '@/styles/general.module.css';
+
 const Consult = () => { 
   return ( 
       <> 
@@ -7,6 +8,19 @@ const Consult = () => {
         </h1>
  <p>
   Welcome to the consulting page
+</p>
+<p> 
+    As part of the business model we are going to offer consulting services. 
+</p> 
+<p> 
+     Our main areas will be 
+<ul> 
+     <li>Physics education</li>
+     <li>Physics research</li>
+     <li>Higher ed</li>
+     <li>Education policy</li>
+     <li>Government research</li>
+</ul>
 </p>
       </>
   ); 
