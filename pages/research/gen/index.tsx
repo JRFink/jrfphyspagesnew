@@ -18,9 +18,6 @@ const Gen = () => {
                 <p>
                     This page is a smattering of ideas. 
                 </p>
-                <p>
-                    <a href="https://www.ipho-new.org/documentations/">Physics olympiad </a>problems
-                </p>
                 <h2>
                     America
                 </h2>
