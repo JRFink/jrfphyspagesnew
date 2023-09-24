@@ -61,7 +61,8 @@ const Navbar = () => {
             <div className={style.flexContainer}>
                 <Link href="/" className={style.styleNav}>Home</Link>
                 <Link href="/education" className={style.styleNav}>Education</Link>
-                <Link href="/research" className={style.styleNav}>Research</Link>  
+                <Link href="/research" className={style.styleNav}>Research</Link>
+                <Link href="/consulting" className={style.styleNav}>Consulting</Link>  
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
                 <Link href="/auth/signup" className={style.styleNav}>Sign up</Link>
                 <Link href="/members" className={style.styleNav}>Member access</Link>
