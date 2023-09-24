@@ -239,7 +239,8 @@ const Gen = () => {
                         <li>
                             <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html" className={style.noUnder}>Education - Erziehung</Link>
                         </li>
-<li>
+                        <br />
+                        <li>
                             <Link href="https://www.bnd.bund.de" className={style.noUnder}>Bnd</Link>
                         </li> 
                     </ul>
