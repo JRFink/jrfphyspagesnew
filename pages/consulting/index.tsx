@@ -42,9 +42,6 @@ const Consult = () => {
                   <li>Mexico&#39;s department of education found <Link href="https://www.gob.mx/sep">here</Link></li>
                 </ul>
             </p>
-            <p>
-              Policy makers can learn more <Link href="https://www2.ed.gov/rschstat/">here</Link>. 
-            </p>
       </>
   ); 
 } 
