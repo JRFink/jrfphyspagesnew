@@ -39,6 +39,21 @@ const Particle = () => {
 <p> 
     As we said, particle phsysics studies the fundamental constituents of matter, and we organize these constituents in a model called the standard model. 
 </p>
+{ /*
+<p> 
+    The standard model initially makes two divisions, that between charge carriers and that between force carriers. 
+
+ See the image below; the charge carriers are on the left, and the force carriers are on the right.   
+</p>
+<h3> 
+  Charge carriers    
+</h3>
+
+<h3>
+  Force carriers 
+</h3>
+*/}
+
             <br></br>
             <div 
                 style={{
