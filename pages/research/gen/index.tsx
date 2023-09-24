@@ -397,6 +397,9 @@ const Gen = () => {
                         </li>
                     </ul>
                 </p>
+                <p>
+                    The countries that have the highest electricity usage per capita are Iceland, Norway, and Bahrain. 
+                </p>
                 <h2>
                     Other
                 </h2>
