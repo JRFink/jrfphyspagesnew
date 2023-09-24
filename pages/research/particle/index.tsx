@@ -33,6 +33,12 @@ const Particle = () => {
                 Learn more about them <Link href="https://www.energy.gov/articles/how-particle-accelerators-work">here</Link>.
             </p>
             <br></br>
+<h2> 
+     Particle physics crash course
+</h2>
+<p> 
+
+</p>
             <br></br>
             <div 
                 style={{
