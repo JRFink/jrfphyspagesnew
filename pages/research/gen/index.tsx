@@ -26,6 +26,10 @@ const Gen = () => {
                     <br />
                     <br />
                         <Link href="https://www.usa.gov/" className={style.noUnder}>Government</Link>
+                        <p>
+                            There are 3 branches to the american government. They are: <Link href="https://www.congress.gov/">legislative</Link>, 
+                            <Link href="https://www.whitehouse.gov/"> executive</Link>, and <Link href="https://www.supremecourt.gov/">judicial</Link>. 
+                        </p>
                                 <ul>
                                     <li>
                                         <Link href="https://www.energy.gov/" className={style.noUnder}>Energy</Link>
@@ -38,8 +42,8 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
-<br />
-<li>
+                                    <br />
+                                    <li>
                                         <Link href="https://www.cia.gov" className={style.noUnder}>Cia</Link>
                                     </li>
                                 </ul>
