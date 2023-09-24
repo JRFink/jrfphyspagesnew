@@ -12,28 +12,28 @@ const West = () => {
             <h2 className={style.numberLink}>
                 2.1
             </h2>
-            <Link href="/education/hop1/first/greece" className={style.generalLink}>
+            <Link href="/education/hop1/west/greece" className={style.generalLink}>
                 Physics in greece
             </Link>
             <br />
             <h2 className={style.numberLink}>
                 2.2
             </h2>
-            <Link href="/education/hop1/first/rome" className={style.generalLink}>
+            <Link href="/education/hop1/west/rome" className={style.generalLink}>
                 Physics in rome
             </Link>
             <br />
             <h2 className={style.numberLink}>
                 2.3
             </h2>
-            <Link href="/education/hop1/first/byz" className={style.generalLink}>
+            <Link href="/education/hop1/west/byz" className={style.generalLink}>
                 Physics in byzantine empire
             </Link>
             <br /> 
             <h2 className={style.numberLink}>
                 2.4
             </h2>
-            <Link href="/education/hop1/first/hre" className={style.generalLink}>
+            <Link href="/education/hop1/west/hre" className={style.generalLink}>
                 Physics in holy roman empire
             </Link>
        </> 
