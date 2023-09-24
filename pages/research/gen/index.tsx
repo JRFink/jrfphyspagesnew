@@ -252,6 +252,12 @@ const Gen = () => {
                                 <br />
                                 That &#39;s about 3,000 kWh / month; and about 100 kWh / day. 
                             </p>
+                            <p>
+                                Some of the largest electric companies in China are 
+                                <ul>
+                                    <li><Link href="http://www.sgcc.com.cn/">State grid corporation</Link></li>
+                                </ul>
+                            </p>
                             <br></br>
                             <li>
                                 <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
