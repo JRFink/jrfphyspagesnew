@@ -49,7 +49,7 @@ const Twent = () => {
              </h2> 
              <Link href="/education/hop2/20/quant" className={style.generalLink}> 
                 Quantum encryption
-             </Link>* 
+             </Link> 
              <br />  
        </> 
     );
