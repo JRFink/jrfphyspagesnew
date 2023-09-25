@@ -67,8 +67,6 @@ const QuantI = () => {
                         <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
                         <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
-                         
-                        
                     </ul>
                     <br />
                     <br />
@@ -133,6 +131,11 @@ const QuantI = () => {
             <h3>
                 Russia
             </h3>
+            <ul>
+                <li><Link href="https://www.rqc.ru/?amp&amp" className={style.noUnder}>Russia Quantum Center - Российский квантовый центр</Link></li>
+                <br />
+                <li><Link href="https://lrc-quantum.ru/#platform" className={style.noUnder}>Quantum Platform - квантовый платформа</Link></li>
+            </ul>
             <br></br>
             <br></br>
             <Helpful />
