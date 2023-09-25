@@ -55,6 +55,13 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
+<br /> 
+<p>Some of the best colleges in America are
+<ul> 
+  <li><Link href="https://www.harvard.edu/">Harvard</Link></li>
+  <li><Link href="https://www.mit.edu/">MIT</Link></li>
+  <li><Link href="https://www.stanford.edu/">Stanford</Link></li>
+</ul>
                                     <br /> 
                                     <li>
                                         <Link href="https://www.commerce.gov/" className={style.noUnder}>Communication</Link>
