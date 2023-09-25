@@ -33,21 +33,6 @@ const Particle = () => {
                 Learn more about them <Link href="https://www.energy.gov/articles/how-particle-accelerators-work">here</Link>.
             </p>
             <br></br>
-{ /*
-<p> 
-    The standard model initially makes two divisions, that between charge carriers and that between force carriers. 
-
- See the image below; the charge carriers are on the left, and the force carriers are on the right.   
-</p>
-<h3> 
-  Charge carriers    
-</h3>
-
-<h3>
-  Force carriers 
-</h3>
-*/}
-
             <br></br>
             <div 
                 style={{
@@ -66,6 +51,8 @@ const Particle = () => {
                     alt="The table of elementary particles" 
                 />
             </div>
+    <br />
+    <br />
 <h2> 
      Particle physics crash course
 </h2>
