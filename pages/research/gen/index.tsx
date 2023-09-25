@@ -396,6 +396,11 @@ Vice pres - Kamala Harris
                 </h2>
                 <p>
                     <Link href="http://government.ru" className={style.noUnder}>Government - правительство</Link>
+<br /> 
+<p> 
+     President - Vladimir Putin 
+     Prime Minister - Mikhail Mishustin
+</p>
                     <ul>
                         <li>
                             <Link href="http://minenergo.gov.ru" className={style.noUnder}>Energy</Link>
