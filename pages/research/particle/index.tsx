@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Image from 'next/image';
-import sm from '@/public/images/sm.png';
+import smdes from '@/public/images/smdes.png';
 import Helpful from '@/pages/components/helpful';
 
 const Particle = () => {
@@ -41,7 +41,7 @@ const Particle = () => {
                 }}
             >
                 <Image
-                    src={sm}
+                    src={smdes}
                     style={{
                         width: '60%',
                         borderRadius: "20px",
