@@ -78,6 +78,8 @@ const QuantI = () => {
                 <br />
                 <Link href="/research/qis#exp" className={style.generalLink}>Experiment</Link>
                 <br />
+                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <br />
             </div>
             <h2 className={style.h2SectionColor} id="his"> 
                 History
@@ -85,17 +87,29 @@ const QuantI = () => {
                 <p>
                     History ... 
                 </p>
+            <br />
             <h2 className={style.h2SectionColor} id="theor"> 
                 Theory
             </h2>
                 <p>
                     Theory ... 
                 </p>
+            <br />
             <h2 className={style.h2SectionColor} id="exp"> 
                 Experiment
             </h2>
                 <p>
                     Experiment ... 
+                </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="news"> 
+                News
+            </h2>
+                <p>
+                    <ul>
+                       <li><Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/" 
+                       className={style.noUnder}>China beats Google&#39;s quantum computer</Link></li> 
+                    </ul>
                 </p>
             <h2>
                 Locations
@@ -116,6 +130,22 @@ const QuantI = () => {
             <h3>
                 China
             </h3>
+            <ul>
+                <li><Link href="https://www.alibabacloud.com/knowledge/hot/quantum-computing-a-brief-overview">Alibaba</Link></li>
+                <br />
+                <li><Link href="">Baidu</Link></li>
+                <br />
+                <li><Link href="">Tencent</Link></li>
+                <br />
+                <li><Link href="">Huawei</Link></li>
+                <br />
+                <li><Link href="">ZTE</Link></li>
+            </ul>
+            <p>
+                And apparently 
+                <Link href="https://quantumzeitgeist.com/chinas-176-qubit-quantum-computing-platform-zuchongzhi-goes-global/"> Zuchongzhi </Link>
+                is one of the best in the world.
+            </p>
             <h3>
                 England
             </h3>
