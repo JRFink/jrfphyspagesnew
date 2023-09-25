@@ -92,7 +92,13 @@ const QuantI = () => {
                 Theory
             </h2>
                 <p>
-                    Theory ... 
+                    In general, quantum information studies objects such as molecules and atoms and how they store information.  
+                </p>
+                <h3 className={style.h3num}>
+                    Domain
+                </h3>
+                <p>
+                    The largest molecules are about 10 nm and the smallest are about 1 angstrom.  
                 </p>
             <br />
             <h2 className={style.h2SectionColor} id="exp"> 
@@ -131,7 +137,7 @@ const QuantI = () => {
                 China
             </h3>
             <ul>
-                <li><Link href="https://www.alibabacloud.com/knowledge/hot/quantum-computing-a-brief-overview">Alibaba</Link></li>
+                <li><Link href="https://www.alibabacloud.com/knowledge/hot/quantum-computing-a-brief-overview" className={style.noUnder}>Alibaba - 阿里巴巴</Link></li>
                 <br />
                 <li><Link href="https://quantum.baidu.com/">Baidu</Link></li>
                 <br />
