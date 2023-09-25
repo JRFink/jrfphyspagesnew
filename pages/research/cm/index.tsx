@@ -42,6 +42,34 @@ const CondensedM = () => {
                     alt="A crystal like structure with white nodes on a dark background" 
                 />
             </div>
+            <br />
+            <br />
+            <div className={style.flexContainer}>
+                <Link href="/research/cm#his" className={style.generalLink}>History</Link>
+                <br />
+                <Link href="/research/cm#theor" className={style.generalLink}>Theory</Link>
+                <br />
+                <Link href="/research/cm#exp" className={style.generalLink}>Experiment</Link>
+                <br />
+            </div>
+            <h2 className={style.h2SectionColor} id="his"> 
+                History
+            </h2>
+            <p>
+                History ... 
+            </p>
+            <h2 className={style.h2SectionColor} id="theor"> 
+                Theory
+            </h2>
+            <p>
+                Theory ... 
+            </p>
+            <h2 className={style.h2SectionColor} id="exp"> 
+                Experiment
+            </h2>
+            <p>
+                Experiment ... 
+            </p>
             <h2>
                 Locations
             </h2>
