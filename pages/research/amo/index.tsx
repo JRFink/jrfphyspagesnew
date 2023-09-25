@@ -42,6 +42,34 @@ const Amo = () => {
                     alt="Laser with red light" 
                 />
             </div>
+            <br />
+            <br />
+            <div className={style.flexContainer}>
+                <Link href="/research/amo#his" className={style.generalLink}>History</Link>
+                <br />
+                <Link href="/research/amo#theor" className={style.generalLink}>Theory</Link>
+                <br />
+                <Link href="/research/amo#exp" className={style.generalLink}>Experiment</Link>
+                <br />
+            </div>
+            <h2 className={style.h2SectionColor} id="his"> 
+                History
+            </h2>
+            <p>
+                History ... 
+            </p>
+            <h2 className={style.h2SectionColor} id="theor"> 
+                Theory
+            </h2>
+            <p>
+                Theory ... 
+            </p>
+            <h2 className={style.h2SectionColor} id="exp"> 
+                Experiment
+            </h2>
+            <p>
+                Experiment ... 
+            </p>
             <h2>
                 Locations
             </h2>

@@ -43,7 +43,7 @@ const Particle = () => {
                 <Image
                     src={smdes}
                     style={{
-                        width: '60%',
+                        width: '80%',
                         borderRadius: "20px",
                         height: 'auto'
                     }}
@@ -53,12 +53,32 @@ const Particle = () => {
             </div>
     <br />
     <br />
-<h2> 
-     Particle physics crash course
-</h2>
-<p> 
-    As we said, particle physics studies the fundamental constituents of matter, and we organize these constituents in a model called the standard model. 
-</p>
+    <div className={style.flexContainer}>
+        <Link href="/research/particle#his" className={style.generalLink}>History</Link>
+        <br />
+        <Link href="/research/particle#theor" className={style.generalLink}>Theory</Link>
+        <br />
+        <Link href="/research/particle#exp" className={style.generalLink}>Experiment</Link>
+        <br />
+    </div>
+    <h2 className={style.h2SectionColor} id="his"> 
+        History
+    </h2>
+    <p>
+        History ... 
+    </p>
+    <h2 className={style.h2SectionColor} id="theor"> 
+        Theory
+    </h2>
+    <p>
+        Theory ... 
+    </p>
+    <h2 className={style.h2SectionColor} id="exp"> 
+        Experiment
+    </h2>
+    <p>
+        Experiment ... 
+    </p>
             <h2>
                 Locations
             </h2>
