@@ -52,6 +52,8 @@ const Nuclear = () => {
                 <br />
                 <Link href="/research/nuc#exp" className={style.generalLink}>Experiment</Link>
                 <br />
+                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <br />
             </div>
             <h2 className={style.h2SectionColor} id="his"> 
                 History
@@ -71,13 +73,21 @@ const Nuclear = () => {
                 <p>
                     Domain .. 
                 </p>
-            <br />
+                <br />
             <h2 className={style.h2SectionColor} id="exp"> 
                 Experiment
             </h2>
                 <p>
                     Experiment ... 
                 </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="news"> 
+                News
+            </h2>
+                    <p>
+                        News ... 
+                    </p>
+            <br />
             <h2>
                 Locations
             </h2>

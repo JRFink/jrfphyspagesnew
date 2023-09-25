@@ -45,6 +45,27 @@ const PhysEd = () => {
                     alt="The word physics spelled out in Scrabble (tm) tiles" 
                 />
             </div>
+            <br />
+            <br />
+            <div className={style.flexContainer}>
+                <Link href="/research/qis#his" className={style.generalLink}>History</Link>
+                <br />
+                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+            </div>
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                History
+            </h2>
+                <p>
+                    History ... 
+                </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="news"> 
+                News
+            </h2>
+                    <p>
+                        News ... 
+                    </p>
             <h2>
                 Locations
             </h2>

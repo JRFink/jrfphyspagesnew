@@ -51,6 +51,8 @@ const CondensedM = () => {
                 <br />
                 <Link href="/research/cm#exp" className={style.generalLink}>Experiment</Link>
                 <br />
+                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <br />
             </div>
             <h2 className={style.h2SectionColor} id="his"> 
                 History
@@ -77,6 +79,13 @@ const CondensedM = () => {
             <p>
                 Experiment ... 
             </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="news"> 
+                News
+            </h2>
+                    <p>
+                        News ... 
+                    </p>
             <h2>
                 Locations
             </h2>
