@@ -133,7 +133,7 @@ const QuantI = () => {
             <ul>
                 <li><Link href="https://www.alibabacloud.com/knowledge/hot/quantum-computing-a-brief-overview">Alibaba</Link></li>
                 <br />
-                <li><Link href="">Baidu</Link></li>
+                <li><Link href="https://quantum.baidu.com/">Baidu</Link></li>
                 <br />
                 <li><Link href="">Tencent</Link></li>
                 <br />
