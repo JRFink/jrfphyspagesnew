@@ -51,7 +51,8 @@ const Res = () => {
               <Link href="/education/hop2/20/quant" className={style.generalLink}>  
                  Biophysics
               </Link>
- <h2 className={style.numberLink}>  
+              <br />
+            <h2 className={style.numberLink}>  
                   7.7  
               </h2>  
               <Link href="/education/hop2/20/quant" className={style.generalLink}>  
