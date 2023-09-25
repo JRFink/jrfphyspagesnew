@@ -314,8 +314,8 @@ const Gen = () => {
 <br />  
  <p>Some of the best colleges in America are 
  <ul>  
-   <li><Link href="">Technical University of Munich</Link></li> 
-   <li><Link href="">University of Munich</Link></li> 
+   <li><Link href="https://www.tum.de/">Technical University of Munich</Link></li> 
+   <li><Link href="https://www.lmu.de/de/index.html">Ludwig Maximilian University of Munich</Link></li> 
    <li><Link href="https://www.uni-heidelberg.de">Heidelberg University</Link></li> 
  </ul> 
  </p>                                      
