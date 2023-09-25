@@ -11,7 +11,7 @@ const QuantI = () => {
             <br></br>
             <div className={style.centerText}>
                 <h1>
-                    Quantum Info &#38; Quantum Computing
+                    Quantum Information &#38; Computing
                 </h1>
             </div>
             <h2>
@@ -62,12 +62,43 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
                         <br />
+                        <li><Link href="https://www.rigetti.com/">Rigetti</Link></li>
+                        <br />
+                        <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
+                        <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
-                        <br />
-                        <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li> 
-                        <br />
-                        <li><Link href="https://www.xanadu.ai/">Xanadu</Link></li>
+                         
+                        
                     </ul>
+                    <br />
+                    <br />
+            <br />
+            <div className={style.flexContainer}>
+                <Link href="/research/qis#his" className={style.generalLink}>History</Link>
+                <br />
+                <Link href="/research/qis#theor" className={style.generalLink}>Theory</Link>
+                <br />
+                <Link href="/research/qis#exp" className={style.generalLink}>Experiment</Link>
+                <br />
+            </div>
+            <h2 className={style.h2SectionColor} id="his"> 
+                History
+            </h2>
+                <p>
+                    History ... 
+                </p>
+            <h2 className={style.h2SectionColor} id="theor"> 
+                Theory
+            </h2>
+                <p>
+                    Theory ... 
+                </p>
+            <h2 className={style.h2SectionColor} id="exp"> 
+                Experiment
+            </h2>
+                <p>
+                    Experiment ... 
+                </p>
             <h2>
                 Locations
             </h2>

@@ -13,7 +13,7 @@ const Research = () => {
                 <Link href="/research/particle" className={style.generalLink}>Particle physics</Link><br></br>
                 <Link href="/research/nuc" className={style.generalLink}>Nuclear</Link><br></br>
                 <Link href="/research/amo" className={style.generalLink}>Atomic, Molecular, & Optical</Link><br></br>
-                <Link href="/research/qis" className={style.generalLink}>Quantum Information & Quantum Computing</Link><br></br>
+                <Link href="/research/qis" className={style.generalLink}>Quantum Information & Computing</Link><br></br>
                 <Link href="/research/cm" className={style.generalLink}>Condensed Matter</Link><br></br>
                 <Link href="/research/bio" className={style.generalLink}>Biophysics</Link><br></br>
                 <Link href="/research/geo" className={style.generalLink}>Geophysics</Link><br></br>
