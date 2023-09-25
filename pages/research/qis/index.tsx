@@ -135,11 +135,9 @@ const QuantI = () => {
                 <br />
                 <li><Link href="https://quantum.baidu.com/">Baidu</Link></li>
                 <br />
-                <li><Link href="https://www.tencent.com/en-us/business/quantum-computing.html">Tencent</Link></li>
+                <li><Link href="https://originqc.com.cn/en/index.html">Origin Quantum</Link></li>
                 <br />
-                <li><Link href="">Huawei</Link></li>
-                <br />
-                <li><Link href="">ZTE</Link></li>
+                <li><Link href="https://www.huaweicloud.com/intl/en-us/solution/hiq/">Huawei</Link></li>
             </ul>
             <p>
                 And apparently 
