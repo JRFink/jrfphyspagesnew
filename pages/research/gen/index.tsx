@@ -309,6 +309,9 @@ Premier - Li Qiang
                </h2>               
                <p>  
                   <Link href="https://www.bundestag.de/" className={style.noUnder}>Government - Regierung</Link>
+<br /> 
+President - Frank-Walter Steinmeier
+Chancellor - Olaf Scholz 
                     <ul> 
                         <li> 
                             <Link href="https://www.bundesnetzagentur.de/EN/Home/home_node.html" className={style.noUnder}>Energy - Energie</Link> 
