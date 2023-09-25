@@ -41,14 +41,23 @@ const Elecstatics = () => {
                      Point charge electrostatics 
                  </h3> 
                  <br /> 
+                 <h3 className={style.h3num}> 
+                     1.2 
+                 </h3>
 <h3 className={style.h3text}> 
                      Line charge electrostatics 
                  </h3> 
                  <br />
+                 <h3 className={style.h3num}> 
+                     1.3 
+                 </h3>
 <h3 className={style.h3text}> 
                      Sheet charge electrostatics 
                  </h3> 
                  <br />
+                 <h3 className={style.h3num}> 
+                     1.4 
+                 </h3>
 <h3 className={style.h3text}> 
                      Volume charge electrostatics 
                  </h3> 
