@@ -11,8 +11,47 @@ const Elecstatics = () => {
             <h1 className={style.centerText}>
                 Electrostatics
             </h1>
-            {/* electric field 
-            divergence and curl of elec */}
+           {/* <ModoverviewElec /> */ }
+             <br />  
+             <LearnGoal /> 
+             <h2>  
+             Introduction  
+             </h2> 
+     
+           
+             <br /> 
+             <br /> 
+             <h2 className={style.h2SectionColor}>  
+                     Domain of electrostatics   
+             </h2> 
+             <p>  
+             The domain of electrostatics is...  
+             </p> 
+             <br />  
+             <br /> 
+                 <h2 className={style.h2SectionColor} id="desc"> 
+                     1. Describing electrostatics 
+                 </h2> 
+                  <br /> 
+                 <h3 className={style.h3num}> 
+                     1.1  
+                 </h3> 
+                 <h3 className={style.h3text}> 
+                     Point charge electrostatics 
+                 </h3> 
+                 <br /> 
+<h3 className={style.h3text}> 
+                     Line charge electrostatics 
+                 </h3> 
+                 <br />
+<h3 className={style.h3text}> 
+                     Sheet charge electrostatics 
+                 </h3> 
+                 <br />
+<h3 className={style.h3text}> 
+                     Volume charge electrostatics 
+                 </h3> 
+                 <br />
             <ElecEx />
             <Helpful />
         </>
