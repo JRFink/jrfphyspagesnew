@@ -253,6 +253,9 @@ Vice pres - Kamala Harris
                         <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
                         <p>
                             China has a one party system, enacted through the <Link href="http://en.npc.gov.cn.cdurl.cn/">NPC</Link>.
+<br /> 
+General secretary - Xi Jinping
+Premier - Li Qiang
                         </p>
                         <ul>
                             <li>
