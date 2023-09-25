@@ -36,6 +36,13 @@ const Geo = () => {
             <p>
                 Theory ... 
             </p>
+            <h3 className={style.h3num}>
+                    Domain
+                </h3>
+                <p>
+                    Domain .. 
+                </p>
+            <br />
             <h2 className={style.h2SectionColor} id="exp"> 
                 Experiment
             </h2>
