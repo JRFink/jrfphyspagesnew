@@ -62,6 +62,7 @@ const Gen = () => {
   <li><Link href="https://www.mit.edu/">MIT</Link></li>
   <li><Link href="https://www.stanford.edu/">Stanford</Link></li>
 </ul>
+</p>
                                     <br /> 
                                     <li>
                                         <Link href="https://www.commerce.gov/" className={style.noUnder}>Communication</Link>
@@ -387,7 +388,7 @@ const Gen = () => {
                             <Link href="http://minenergo.gov.ru" className={style.noUnder}>Energy</Link>
                         </li>
                         <p>
-                            In China, the average electricity usage per year per capita is around 60,000 kWh. 
+                            In Russia, the average electricity usage per year per capita is around 60,000 kWh. 
                             <br />
                             That &#39;s about 600 kWh / month; and about 20 kWh / day. 
                         </p>
@@ -395,7 +396,15 @@ const Gen = () => {
                         <li>
                             <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
                         </li>
-                        <br />
+                        <br /> 
+ <p>Some of the best universities in Russia are 
+ <ul>  
+   <li><Link href="https://www.msu.ru/index.php">Moscow State University</Link></li> 
+   <li><Link href="https://spbu.ru/">St. Petersburg State University</Link></li> 
+   <li><Link href="https://mipt.ru">Moscow Institute of Physics &#38; Technology</Link></li> 
+ </ul> 
+</p>
+                                     <br /> 
                         <li>
                             <Link href="http://www.constitution.ru/en/10003000-01.htm" className={style.noUnder}>Constitution - 1993</Link>
                         </li>
