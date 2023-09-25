@@ -57,7 +57,7 @@ const Particle = () => {
      Particle physics crash course
 </h2>
 <p> 
-    As we said, particle phsysics studies the fundamental constituents of matter, and we organize these constituents in a model called the standard model. 
+    As we said, particle physics studies the fundamental constituents of matter, and we organize these constituents in a model called the standard model. 
 </p>
             <h2>
                 Locations
