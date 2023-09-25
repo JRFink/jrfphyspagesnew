@@ -28,34 +28,34 @@ const Res = () => {
                   7.3  
               </h2>  
               <Link href="/education/hop2/20/wein" className={style.generalLink}>  
-                  Quantum computing 
+                  Atomic, molecular, &#38; optical 
               </Link>  
               <br />   
               <h2 className={style.numberLink}>  
                   7.4  
               </h2>  
               <Link href="/education/hop2/20/dirac" className={style.generalLink}>  
-                  
+                 Quantum info &#38; quantum computing 
               </Link>  
               <br />  
               <h2 className={style.numberLink}>  
                   7.5  
               </h2>  
               <Link href="/education/hop2/20/cern" className={style.generalLink}>  
-                   
+                 Condensed matter  
               </Link>  
               <br />  
               <h2 className={style.numberLink}>  
                   7.6  
               </h2>  
               <Link href="/education/hop2/20/quant" className={style.generalLink}>  
-                 
+                 Biophysics
               </Link>
  <h2 className={style.numberLink}>  
                   7.7  
               </h2>  
               <Link href="/education/hop2/20/quant" className={style.generalLink}>  
-                 
+                 Astrophysics
               </Link>
               <br />  
        </> 
