@@ -311,6 +311,14 @@ const Gen = () => {
                         <li>
                             <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html" className={style.noUnder}>Education - Erziehung</Link>
                         </li>
+<br />  
+ <p>Some of the best colleges in America are 
+ <ul>  
+   <li><Link href="">Technical University of Munich</Link></li> 
+   <li><Link href="">University of Munich</Link></li> 
+   <li><Link href="https://www.uni-heidelberg.de">Heidelberg University</Link></li> 
+ </ul> 
+ </p>                                      
                         <br />
                         <li>
                             <Link href="https://www.gesetze-im-internet.de/gg/" className={style.noUnder}>Constitution - Grundgesetz - 1949</Link>
