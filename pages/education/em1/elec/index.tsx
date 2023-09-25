@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import LearnGoal from '@/pages/components/learngoal';
 import ElecEx from '@/pages/exercises/em1/elecex';
 import Helpful from '@/pages/components/helpful';
 
