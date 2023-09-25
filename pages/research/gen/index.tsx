@@ -273,6 +273,14 @@ const Gen = () => {
                             <li>
                                 <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
                             </li>
+<br /> 
+<p>Some of the best universities in China are
+<ul> 
+  <li><Link href="https://www.tsinghua.edu.cn/" className={style.noUnder}>Tsinghua University</Link></li>
+  <li><Link href="https://www.pku.edu.cn/" className={style.noUnder}>Peking University</Link></li>
+  <li><Link href="https://www.zju.edu.cn/mainm.htm" className={style.noUnder}>Zhejiang University</Link></li>
+</ul>                                    <br /> 
+     
                             <p>
                                 There are about <Link href="http://en.moe.gov.cn/documents/reports/202304/t20230403_1054100.html">15,000</Link> senior high schools in china.
                             </p>
