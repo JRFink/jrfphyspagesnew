@@ -41,7 +41,7 @@ const Elecstatics = () => {
                      Point charge electrostatics 
                  </h3> 
                  <div className={style.equationBox}>
-                    <div className={style.equation}>E = - &#8711; V </div>
+                    <div className={style.equation}><b>E</b> &nbsp; = - <b>&#8711;</b> &nbsp;  V </div>
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                  </div>
                  <br /> 

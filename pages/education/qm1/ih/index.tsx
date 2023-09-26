@@ -15,10 +15,14 @@ const Ih = () => {
             <h3 className={style.h3num}>
                 Domain
             </h3>
-         
+            <p>
+                ...
+            </p>
+            <br />
             <div className={style.equationBox}>
-                {/* <div className={style.equation}>i &#8463;</div>
-                <div className={style.equationNumber}>&#40;1&#41;</div> */}
+                <div className={style.equation}> i &#8463; &#8706; <b>&#936;</b>  / &#8706; t  = &#94;H <b>&#936;</b>  </div>
+                <div className={style.equationNumber}> &#40;1&#41; </div>
+          
             </div>
             <br /> 
             <br />
