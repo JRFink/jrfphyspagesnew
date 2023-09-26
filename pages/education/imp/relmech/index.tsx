@@ -11,6 +11,15 @@ const Relmech = () => {
             <h1 className={style.centerText}>
                 Relativistic Mechanics
             </h1>
+<p> 
+ The famous mass-emergy relation is given by
+ </p>  
+             <div className={style.equationBox}>  
+                  <div className={style.equation}> E = &#916;mc<span><sup>2</sup></span> 
+ </div>  
+ </div> 
+                  <div className={style.equationNumber}> &#40;1&#41; </div> 
+ <br />
             <RelmechEx />
             <Helpful />
         </>
