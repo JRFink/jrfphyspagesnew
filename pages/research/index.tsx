@@ -20,7 +20,6 @@ const Research = () => {
                 <Link href="/research/astr" className={style.generalLink}>Astrophysics</Link><br></br>
                 <Link href="/research/per" className={style.generalLink}>Physics education research</Link><br></br>
                 <Link href="/research/stand" className={style.generalLink}>Standards and constants</Link><br></br>
-                <Link href="/research/gen" className={style.generalLink}>government res</Link><br></br>
             </div>
         </>
     );
