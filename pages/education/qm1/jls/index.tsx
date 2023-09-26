@@ -38,7 +38,7 @@ const Jls = () => {
 <p>
 The total angular momentum is given by 
             <div className={style.equationBox}> 
-                 <div className={style.equation}><b>J</b>= <b>L</b> + <b> S </b> </div> 
+                 <div className={style.equation}><b>J</b>= <b>L</b> + <b> S </b> </div> </div>
                  <div className={style.equationNumber}> &#40;1&#41; </div>
 </p>
             <h2>
