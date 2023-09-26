@@ -25,6 +25,13 @@ And the proper time is given by
                  <div className={style.equation}> &#964; <span><sub>0</sub></span> = &#964; / &#947; </div> 
                  <div className={style.equationNumber}> &#40;2&#41; </div>
 <br />
+<p>
+The relativistic momentum is given by 
+</p> 
+            <div className={style.equationBox}> 
+                 <div className={style.equation}> <b>p</b> = &#947;  m<b>v</b> </div> 
+                 <div className={style.equationNumber}> &#40;3&#41; </div>
+<br />
             <RelEx />
             <Helpful />
         </>
