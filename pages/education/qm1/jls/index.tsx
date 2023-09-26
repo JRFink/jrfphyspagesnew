@@ -35,6 +35,12 @@ const Jls = () => {
             <h4>
                 2.2.1 Spin eigenvalue equation
             </h4>
+<p>
+The total angular momentum is given by 
+            <div className={style.equationBox}> 
+                 <div className={style.equation}><b>J</b>= <b>L</b> + <b> S </b> </div> 
+                 <div className={style.equationNumber}> &#40;1&#41; </div>
+</p>
             <h2>
                 3. Quantum numbers
             </h2>
