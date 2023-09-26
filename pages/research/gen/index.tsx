@@ -8,7 +8,7 @@ const Gen = () => {
     return (
         <>
             <br />
-            <Link href="/research" className={style.backtoLink}>Research</Link>
+            <Link href="/consulting" className={style.backtoLink}>Consulting</Link>
             <br></br>
             <br></br>
 
