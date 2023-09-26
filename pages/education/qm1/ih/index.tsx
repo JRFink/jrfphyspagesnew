@@ -12,6 +12,12 @@ const Ih = () => {
             <h1 className={style.centerText}>
                 Schrodinger Equation 
             </h1>
+            <div className={style.equationBox}>
+                {/* <div className={style.equation}>i &#8463;</div>
+                <div className={style.equationNumber}>&#40;1&#41;</div> */}
+            </div>
+            <br /> 
+            <br />
             <IhEx />
             <Helpful />
         </>

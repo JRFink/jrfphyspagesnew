@@ -29,9 +29,10 @@ const Gen = () => {
                         <p>
                             There are 3 branches to the american government. They are: <Link href="https://www.congress.gov/">legislative</Link>, 
                             <Link href="https://www.whitehouse.gov/"> executive</Link>, and <Link href="https://www.supremecourt.gov/">judicial</Link>. 
-<br />
-President - Joe Biden. 
-Vice pres - Kamala Harris 
+                        <br />
+                        <br />
+                            President - Joe Biden. 
+                            Vice pres - Kamala Harris 
                         </p>
                                 <ul>
                                     <li>
@@ -254,6 +255,7 @@ Vice pres - Kamala Harris
                         <p>
                             China has a one party system, enacted through the <Link href="http://en.npc.gov.cn.cdurl.cn/">NPC</Link>.
 <br /> 
+<br />
 General secretary - Xi Jinping
 Premier - Li Qiang
                         </p>
@@ -403,6 +405,7 @@ Chancellor - Olaf Scholz
                 <p>
                     <Link href="http://government.ru" className={style.noUnder}>Government - правительство</Link>
 <br /> 
+<br />
 <p> 
      President - Vladimir Putin 
      Prime Minister - Mikhail Mishustin
