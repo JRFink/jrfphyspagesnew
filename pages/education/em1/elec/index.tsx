@@ -66,6 +66,14 @@ const Elecstatics = () => {
                      Volume charge electrostatics 
                  </h3> 
                  <br />
+<p> 
+    The voltage is given by 
+</p>
+<div className={style.equationBox}>
+                    <div className={style.equation}> &#916; V = -  &#8747; E · dl  </div>
+                    <div className={style.equationNumber}>&#40;2&#41;</div>
+</div> 
+<br />
             <ElecEx />
             <Helpful />
         </>
