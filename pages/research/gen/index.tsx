@@ -321,7 +321,7 @@ Chancellor - Olaf Scholz
                             <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html" className={style.noUnder}>Education - Erziehung</Link>
                         </li>
 <br />  
- <p>Some of the best colleges in America are 
+ <p>Some of the best colleges in Germany are 
  <ul>  
    <li><Link href="https://www.tum.de/">Technical University of Munich</Link></li> 
    <li><Link href="https://www.lmu.de/de/index.html">Ludwig Maximilian University of Munich</Link></li> 
