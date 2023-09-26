@@ -11,35 +11,7 @@ const Rel = () => {
             <h1 className={style.centerText}>
                 Intro to Relativity
             </h1>
-<p>
-The proper length is given by 
-</p> 
-            <div className={style.equationBox}> 
-                 <div className={style.equation}> &#916; l<span><sub>0</sub></span> = &#947; &#916;l  </div> 
-                 <div className={style.equationNumber}> &#40;1&#41; </div>
-<br />
-<p>
-And the proper time is given by 
-</p> 
-            <div className={style.equationBox}> 
-                 <div className={style.equation}> &#964; <span><sub>0</sub></span> = &#964; / &#947; </div> 
-                 <div className={style.equationNumber}> &#40;2&#41; </div>
-<br />
-<p>
-The relativistic momentum is given by 
-</p> 
-            <div className={style.equationBox}> 
-                 <div className={style.equation}> <b>p</b> = &#947;  m<b>v</b> </div> 
-                 <div className={style.equationNumber}> &#40;3&#41; </div>
-<br />
-<p>
-The energy mass and momentum relation is 
-</p> 
-            <div className={style.equationBox}> 
-                 <div className={style.equation}> E<span><sup>2</sup</span> = &#40;mc<span><sup>2</sup></span>&#41;<span><sup>2</sup</span> + &#40;pc&#41;<span><sup>2</sup</span>
-</div> 
-                 <div className={style.equationNumber}> &#40;4&#41; </div>
-<br />
+
             <RelEx />
             <Helpful />
         </>
