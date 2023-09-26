@@ -11,6 +11,13 @@ const Dxdp = () => {
             <h1 className={style.centerText}>
                 Measurement and uncertainty 
             </h1>
+            <br />
+            <div className={style.equationBox}>
+                    <div className={style.equation}>&#8710;x&#8710;p = &#8463; / 2 </div>
+                    <div className={style.equationNumber}>&#40;1&#41;</div>
+            </div>
+            <br />
+            <br />
             <DxdpEx />
             <Helpful />
         </>
