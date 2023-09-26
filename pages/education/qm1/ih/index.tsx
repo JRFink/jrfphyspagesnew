@@ -15,9 +15,7 @@ const Ih = () => {
             <h3 className={style.h3num}>
                 Domain
             </h3>
-            $$\begin{equation} \label{eq1}
-            e=mc^2 
-            \end{equation}$$
+         
             <div className={style.equationBox}>
                 {/* <div className={style.equation}>i &#8463;</div>
                 <div className={style.equationNumber}>&#40;1&#41;</div> */}
