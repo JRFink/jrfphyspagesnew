@@ -41,8 +41,15 @@ const Elecstatics = () => {
                      Point charge electrostatics 
                  </h3> 
                  <div className={style.equationBox}>
-                    <div className={style.equation}><b>E</b> &nbsp; = - <b>&#8711;</b> &nbsp;  V </div>
+                    <div className={style.equation}><b>E</b> = q / 4 &#960; &#949;<span><sub>0</sub></span> 
+                        r <span><sup>2</sup></span> &nbsp; <b>&#120111;</b> </div>
                     <div className={style.equationNumber}>&#40;1&#41;</div>
+                </div>
+                <br />
+                <br />
+                 <div className={style.equationBox}>
+                    <div className={style.equation}><b>E</b> &nbsp; = - <b>&#8711;</b> &nbsp;  V </div>
+                    <div className={style.equationNumber}>&#40;2&#41;</div>
                  </div>
                  <br /> 
                  <h3 className={style.h3num}> 
@@ -71,7 +78,7 @@ const Elecstatics = () => {
 </p>
 <div className={style.equationBox}>
                     <div className={style.equation}> &#916; V = -  &#8747; E · dl  </div>
-                    <div className={style.equationNumber}>&#40;2&#41;</div>
+                    <div className={style.equationNumber}>&#40;3&#41;</div>
 </div> 
 <br />
             <ElecEx />
