@@ -45,7 +45,7 @@ const Spc = () => {
             <br />
             <div className={style.equationBox}> 
                  <div className={style.equation}> E<span><sup>2</sup></span> &nbsp; &#8776;
-                    &#40;mc<span><sup>2</sup></span>&#41;<span><sup>2</sup></span> + &#40;pc&#41;<span><sup>2</sup></span></div>
+                    &#40;mc<span><sup>2</sup></span>&#41;<span><sup>2</sup></span> &nbsp; + &#40;pc&#41;<span><sup>2</sup></span></div>
                  <div className={style.equationNumber}> &#40;4&#41; </div>
             </div>
             <br />
