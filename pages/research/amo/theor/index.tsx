@@ -7,7 +7,7 @@ const Theor = () => {
     return (
         <>
             <br />
-            <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
+            <Link href="/research/amo" className={style.backtoLink}>AMO phys</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
@@ -18,8 +18,6 @@ const Theor = () => {
                 Below you will find some theories for amo physics. 
             </p>
             <br />
-
-            
         </>
     );
 }
