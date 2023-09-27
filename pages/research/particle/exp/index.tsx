@@ -6,6 +6,8 @@ const Exp = () => {
         <>
             <br />
             <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
+            <br />
+            <br />
             <h1 className={style.centerText}>
                 Particle experiment
             </h1>

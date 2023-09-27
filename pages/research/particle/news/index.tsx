@@ -8,6 +8,8 @@ const Theor = () => {
         <>
             <br />
             <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
+            <br />
+            <br />
             <h1 className={style.centerText}>
                 Particle phys news
             </h1>
