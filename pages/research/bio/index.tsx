@@ -41,52 +41,20 @@ const Bio = () => {
             </div>
             <br />
             <br />
+            <div className={style.flexContainer} id="intro">
+                        <Link href="/research/bio/theor" className={style.generalLink}>Theory</Link>
+                        <Link href="/research/bio/exp" className={style.generalLink}>Experiment</Link>
+                        <Link href="/research/bio/equat" className={style.generalLink}>Equation page</Link>  
+                        <Link href="/research/bio/news" className={style.generalLink}>News</Link>
+                    </div>
             <br />
             <br />
-            <div className={style.flexContainer}>
-                <Link href="/research/bio#his" className={style.generalLink}>History</Link>
-                <br />
-                <Link href="/research/bio#theor" className={style.generalLink}>Theory</Link>
-                <br />
-                <Link href="/research/bio#exp" className={style.generalLink}>Experiment</Link>
-                <br />
-                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
-                <br />
-            </div>
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
             <p>
                 History ... 
             </p>
-            <br />
-            <h2 className={style.h2SectionColor} id="theor"> 
-                Theory
-            </h2>
-                <p>
-                    Theory ... 
-                </p>
-            <h3 className={style.h3num}>
-                    Domain
-                </h3>
-                <p>
-                    Domain .. 
-                </p>
-                <br />
-            <h2 className={style.h2SectionColor} id="exp"> 
-                Experiment
-            </h2>
-            <p>
-                Experiment ... 
-            </p>
-
-            <br />
-            <h2 className={style.h2SectionColor} id="news"> 
-                News
-            </h2>
-                    <p>
-                        News ... 
-                    </p>
             <br />
             <h2>
                 Locations
