@@ -32,6 +32,7 @@ The relativistic momentum is given by
                  <div className={style.equation}> <b>p</b> = &#947;  m<b>v</b> </div> 
                  <div className={style.equationNumber}> &#40;3&#41; </div>
 <br />
+<br />
 <p>
 The energy mass and momentum relation is 
 </p> 
