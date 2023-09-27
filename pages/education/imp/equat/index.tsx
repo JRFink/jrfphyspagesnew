@@ -4,6 +4,8 @@ import style from '@/styles/general.module.css';
 const Equat = () => {
     return (
         <>
+            <br />
+            <Link href="/education/imp" className={style.backtoLink}>Intro to modern</Link>
             <h1 className={style.centerText}>
                 Equations
             </h1>
