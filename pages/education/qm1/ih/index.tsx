@@ -22,7 +22,6 @@ const Ih = () => {
             <div className={style.equationBox}>
                 <div className={style.equation}> i &#8463; &#8706; <b>&#936;</b>  / &#8706; t  = &#94;H <b>&#936;</b>  </div>
                 <div className={style.equationNumber}> &#40;1&#41; </div>
-          
             </div>
             <br /> 
             <br />

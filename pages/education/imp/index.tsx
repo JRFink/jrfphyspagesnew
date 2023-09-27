@@ -11,6 +11,12 @@ const Imp = () => {
                 Intro to Modern Physics
             </h1>
             <br></br>
+            <div className={style.flexContainer} id="intro">
+                <Link href="/education/imp/vid" className={style.styleCourseNav}>Videos</Link>
+                <Link href="" className={style.styleCourseNav}>Course notes...</Link>
+                <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
+                <Link href="/education/imp/equat" className={style.styleCourseNav}>Equation page</Link>
+            </div>
             <br></br>
             <Link href="/education/imp/spc" className={style.generalLink}>Space, time, and relativity</Link><br></br>
             <br></br>
