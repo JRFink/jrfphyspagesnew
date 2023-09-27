@@ -7,7 +7,7 @@ const News = () => {
     return (
         <>
             <br />
-            <Link href="/research/amo" className={style.backtoLink}>Condensed matter</Link>
+            <Link href="/research/cm" className={style.backtoLink}>Condensed matter</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
