@@ -3,23 +3,22 @@ import Image from 'next/image';
 import stmeq from '@/public/images/stmeq.png';
 import style from '@/styles/general.module.css';
 
-const News = () => {
+const Equat = () => {
     return (
         <>
             <br />
-            <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
+            <Link href="/research/amo" className={style.backtoLink}>AMO</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
-                Particle phys news
+                Equations
             </h1>
-            <br />
             <p>
-                Find some <Link href="https://journals.aps.org/prd">here</Link>.
+                Below you will find the equations you will use in AMO. 
             </p>
-            <br />
+            
         </>
     );
 }
 
-export default News;
+export default Equat;

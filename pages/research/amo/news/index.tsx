@@ -7,17 +7,14 @@ const News = () => {
     return (
         <>
             <br />
-            <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
+            <Link href="/research/amo" className={style.backtoLink}>AMO</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
-                Particle phys news
+                AMO news
             </h1>
             <br />
-            <p>
-                Find some <Link href="https://journals.aps.org/prd">here</Link>.
-            </p>
-            <br />
+           
         </>
     );
 }
