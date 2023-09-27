@@ -1,11 +1,13 @@
 import Link from 'next/link'; 
+import Image from 'next/image';
+import stmeq from '@/public/images/stmeq.png';
 import style from '@/styles/general.module.css';
 
 const Equat = () => {
     return (
         <>
             <br />
-            <Link href="/education/cm1" className={style.backtoLink}>Class mech 1</Link>
+            <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
             <h1 className={style.centerText}>
                 Equations
             </h1>
@@ -13,10 +15,30 @@ const Equat = () => {
                 Below you will find the equations you will use in particle physics. 
             </p>
             <br />
-            <div className={style.equationBox}>
-                {/* <div className={style.equation}> <b>F</b> = d<b>p</b> / dt  </div>
-                <div className={style.equationNumber}> &#40;1&#41; </div> */}
+            <p>
+                Here is a mathematical formulation of the standard model. 
+            </p>
+            <br /> 
+            <br />
+            <div 
+                style={{
+                    display: "flex",
+                    justifyContent: "center",
+                }}
+            >
+                <Image
+                    src={stmeq}
+                    style={{
+                        width: '70%',
+                        height: 'auto'
+                    }}
+                    sizes="100vw"
+                    alt="A mathematical formulation of the standard model" 
+                />
             </div>
+            <p className={style.small}>
+                Courtesy to T.D. Gutierrez
+            </p>
         </>
     );
 }
