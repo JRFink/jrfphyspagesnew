@@ -7,7 +7,7 @@ const Theor = () => {
     return (
         <>
             <br />
-            <Link href="/research/amo" className={style.backtoLink}>Astrophysics</Link>
+            <Link href="/research/astr" className={style.backtoLink}>Astrophysics</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
