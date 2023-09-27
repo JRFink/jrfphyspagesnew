@@ -1,9 +1,7 @@
 import Link from 'next/link'; 
-import Image from 'next/image';
-
 import style from '@/styles/general.module.css';
 
-const Theor = () => {
+const Exp = () => {
     return (
         <>
             <br />
@@ -11,15 +9,15 @@ const Theor = () => {
             <br />
             <br />
             <h1 className={style.centerText}>
-                AMO theory
+                AMO experiment
             </h1>
             <br />
             <p>
-                Below you will find some theories for amo physics. 
+                Below you will find some experiments in AMO physics. 
             </p>
-            <br />
+            
         </>
     );
 }
 
-export default Theor;
+export default Exp;
