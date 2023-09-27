@@ -59,14 +59,14 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.ed.gov" className={style.noUnder}>Education</Link>
                                     </li>
-<br /> 
-<p>Some of the best colleges in America are
-<ul> 
-  <li><Link href="https://www.harvard.edu/">Harvard</Link></li>
-  <li><Link href="https://www.mit.edu/">MIT</Link></li>
-  <li><Link href="https://www.stanford.edu/">Stanford</Link></li>
-</ul>
-</p>
+                                    <br /> 
+                                    <p>Some of the best colleges in America are
+                                    <ul> 
+                                    <li><Link href="https://www.harvard.edu/">Harvard</Link></li>
+                                    <li><Link href="https://www.mit.edu/">MIT</Link></li>
+                                    <li><Link href="https://www.stanford.edu/">Stanford</Link></li>
+                                    </ul>
+                                    </p>
                                     <br /> 
                                     <li>
                                         <Link href="https://www.commerce.gov/" className={style.noUnder}>Communication</Link>
@@ -254,10 +254,10 @@ const Gen = () => {
                         <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
                         <p>
                             China has a one party system, enacted through the <Link href="http://en.npc.gov.cn.cdurl.cn/">NPC</Link>.
-<br /> 
-<br />
-General secretary - Xi Jinping
-Premier - Li Qiang
+                            <br /> 
+                            <br />
+                            General secretary - Xi Jinping
+                            Premier - Li Qiang
                         </p>
                         <ul>
                             <li>
@@ -282,14 +282,14 @@ Premier - Li Qiang
                             <li>
                                 <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
                             </li>
-<br /> 
-<p>Some of the best universities in China are
-<ul> 
-  <li><Link href="https://www.tsinghua.edu.cn/" className={style.noUnder}>Tsinghua University</Link></li>
-  <li><Link href="https://www.pku.edu.cn/" className={style.noUnder}>Peking University</Link></li>
-  <li><Link href="https://www.zju.edu.cn/mainm.htm" className={style.noUnder}>Zhejiang University</Link></li>
-</ul> 
-</p>
+                            <br /> 
+                            <p>Some of the best universities in China are
+                            <ul> 
+                            <li><Link href="https://www.tsinghua.edu.cn/" className={style.noUnder}>Tsinghua University</Link></li>
+                            <li><Link href="https://www.pku.edu.cn/" className={style.noUnder}>Peking University</Link></li>
+                            <li><Link href="https://www.zju.edu.cn/mainm.htm" className={style.noUnder}>Zhejiang University</Link></li>
+                            </ul> 
+                            </p>
                                    <br /> 
      
                             <p>
@@ -311,9 +311,9 @@ Premier - Li Qiang
                </h2>               
                <p>  
                   <Link href="https://www.bundestag.de/" className={style.noUnder}>Government - Regierung</Link>
-<br /> 
-President - Frank-Walter Steinmeier
-Chancellor - Olaf Scholz 
+                <br /> 
+                President - Frank-Walter Steinmeier
+                Chancellor - Olaf Scholz 
                     <ul> 
                         <li> 
                             <Link href="https://www.bundesnetzagentur.de/EN/Home/home_node.html" className={style.noUnder}>Energy - Energie</Link> 
@@ -322,14 +322,14 @@ Chancellor - Olaf Scholz
                         <li>
                             <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html" className={style.noUnder}>Education - Erziehung</Link>
                         </li>
-<br />  
- <p>Some of the best colleges in Germany are 
- <ul>  
-   <li><Link href="https://www.tum.de/">Technical University of Munich</Link></li> 
-   <li><Link href="https://www.lmu.de/de/index.html">Ludwig Maximilian University of Munich</Link></li> 
-   <li><Link href="https://www.uni-heidelberg.de">Heidelberg University</Link></li> 
- </ul> 
- </p>                                      
+                        <br />  
+                        <p>Some of the best colleges in Germany are 
+                        <ul>  
+                        <li><Link href="https://www.tum.de/">Technical University of Munich</Link></li> 
+                        <li><Link href="https://www.lmu.de/de/index.html">Ludwig Maximilian University of Munich</Link></li> 
+                        <li><Link href="https://www.uni-heidelberg.de">Heidelberg University</Link></li> 
+                        </ul> 
+                        </p>                                      
                         <br />
                         <li>
                             <Link href="https://www.gesetze-im-internet.de/gg/" className={style.noUnder}>Constitution - Grundgesetz - 1949</Link>
@@ -404,12 +404,12 @@ Chancellor - Olaf Scholz
                 </h2>
                 <p>
                     <Link href="http://government.ru" className={style.noUnder}>Government - правительство</Link>
-<br /> 
-<br />
-<p> 
-     President - Vladimir Putin 
-     Prime Minister - Mikhail Mishustin
-</p>
+                <br /> 
+                <br />
+                <p> 
+                    President - Vladimir Putin 
+                    Prime Minister - Mikhail Mishustin
+                </p>
                     <ul>
                         <li>
                             <Link href="http://minenergo.gov.ru" className={style.noUnder}>Energy</Link>
@@ -424,14 +424,14 @@ Chancellor - Olaf Scholz
                             <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
                         </li>
                         <br /> 
- <p>Some of the best universities in Russia are 
- <ul>  
-   <li><Link href="https://www.msu.ru/index.php">Moscow State University</Link></li> 
-   <li><Link href="https://spbu.ru/">St. Petersburg State University</Link></li> 
-   <li><Link href="https://mipt.ru">Moscow Institute of Physics &#38; Technology</Link></li> 
- </ul> 
-</p>
-                                     <br /> 
+                        <p>Some of the best universities in Russia are 
+                        <ul>  
+                        <li><Link href="https://www.msu.ru/index.php">Moscow State University</Link></li> 
+                        <li><Link href="https://spbu.ru/">St. Petersburg State University</Link></li> 
+                        <li><Link href="https://mipt.ru">Moscow Institute of Physics &#38; Technology</Link></li> 
+                        </ul> 
+                        </p>
+                        <br /> 
                         <li>
                             <Link href="http://www.constitution.ru/en/10003000-01.htm" className={style.noUnder}>Constitution - 1993</Link>
                         </li>
@@ -453,7 +453,7 @@ Chancellor - Olaf Scholz
                         <p>
                             In Singapore, the average electricity usage per year per capita is about 500 kWh. 
                             <br />
-                            That &#39;s about 50 kWh / month; and about 2 kWh / day. 
+                            That&#39;s about 50 kWh / month; and about 2 kWh / day. 
                         </p>
                         <br></br>
                         <li>
