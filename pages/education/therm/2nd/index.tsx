@@ -11,6 +11,15 @@ const Second = () => {
             <h1 className={style.centerText}>
                 The Second Law 
             </h1>
+            <p> 
+                 The second law is the statement that  
+             </p> 
+             <br /> 
+                  <div className={style.equationBox}>  
+                      <div className={style.equation}>S = k Ln &#937;</div>  
+                      <div className={style.equationNumber}>&#40;1&#41;</div>  
+                  </div>  
+                  <br />
             <SecondEx />
             <Helpful />
         </>
