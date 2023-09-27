@@ -59,6 +59,7 @@ const Particle = () => {
                 <Link href="/research/particle/equat" className={style.styleCourseNav}>Equation page</Link>  
                 <Link href="/research/particle/news" className={style.styleCourseNav}>News</Link>
             </div>
+    <br />
     <h2 className={style.h2SectionColor} id="his"> 
         History
     </h2>

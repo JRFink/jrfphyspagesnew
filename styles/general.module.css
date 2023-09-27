@@ -621,6 +621,12 @@
     font-size: small;
 }
 
+.small {
+    font-size: small;
+    color: rgb(124, 124, 124);
+    text-align: center;
+}
+
 .footerDiv {
     background-color:blueviolet;
     text-align: center;
