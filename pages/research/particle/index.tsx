@@ -53,48 +53,19 @@ const Particle = () => {
             </div>
     <br />
     <br />
-    <div className={style.flexContainer}>
-        <Link href="/research/particle#his" className={style.generalLink}>History</Link>
-        <br />
-        <Link href="/research/particle#theor" className={style.generalLink}>Theory</Link>
-        <br />
-        <Link href="/research/particle#exp" className={style.generalLink}>Experiment</Link>
-        <br />
-        <Link href="/research/qis#news" className={style.generalLink}>News</Link>
-        <br />
-    </div>
+    <div className={style.flexContainer} id="intro">
+                <Link href="/research/particle/theor" className={style.styleCourseNav}>Theory</Link>
+                <Link href="/research/particle/exp" className={style.styleCourseNav}>Experiment</Link>
+                <Link href="/research/particle/equat" className={style.styleCourseNav}>Equation page</Link>  
+                <Link href="/research/particle/news" className={style.styleCourseNav}>News</Link>
+            </div>
     <h2 className={style.h2SectionColor} id="his"> 
         History
     </h2>
     <p>
         History ... 
     </p>
-    <h2 className={style.h2SectionColor} id="theor"> 
-        Theory
-    </h2>
-    <p>
-        Theory ... 
-    </p>
-            <h3 className={style.h3num}>
-                Domain
-            </h3>
-                <p>
-                    Domain .. 
-                </p>
-            <br />
-    <h2 className={style.h2SectionColor} id="exp"> 
-        Experiment
-    </h2>
-        <p>
-            Experiment ... 
-        </p>
-    <br />
-    <h2 className={style.h2SectionColor} id="news"> 
-        News
-    </h2>
-            <p>
-                News ... 
-            </p>
+   
             <h2>
                 Locations
             </h2>
