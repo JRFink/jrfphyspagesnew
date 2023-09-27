@@ -4,6 +4,8 @@ import style from '@/styles/general.module.css';
 const Vid = () => {
     return (
         <>
+            <br />
+            <Link href="/education/gp2" className={style.backtoLink}>Gen phys 2</Link>
             <h1 className={style.centerText}>
                 Videos
             </h1>

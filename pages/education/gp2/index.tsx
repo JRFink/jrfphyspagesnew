@@ -13,7 +13,7 @@ const Gp2 = () => {
             </h1>
             <br></br>
             <div className={style.flexContainer} id="intro">
-                <Link href="/education/gp2/vid" className={style.styleCourseNav}>Videos...</Link>
+                <Link href="/education/gp2/vid" className={style.styleCourseNav}>Videos</Link>
                 <Link href="" className={style.styleCourseNav}>Course notes...</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/gp2/equat" className={style.styleCourseNav}>Equation page</Link>
