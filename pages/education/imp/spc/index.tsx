@@ -16,7 +16,9 @@ The proper length is given by
 </p> 
             <div className={style.equationBox}> 
                  <div className={style.equation}> &#916; l<span><sub>0</sub></span> = &#947; &#916;l  </div> 
+
                  <div className={style.equationNumber}> &#40;1&#41; </div>
+</div>
 <br />
 <p>
 And the proper time is given by 
@@ -24,6 +26,7 @@ And the proper time is given by
             <div className={style.equationBox}> 
                  <div className={style.equation}> &#964; <span><sub>0</sub></span> = &#964; / &#947; </div> 
                  <div className={style.equationNumber}> &#40;2&#41; </div>
+</div>
 <br />
 <p>
 The relativistic momentum is given by 
