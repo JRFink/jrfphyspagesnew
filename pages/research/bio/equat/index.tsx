@@ -6,7 +6,7 @@ const Equat = () => {
     return (
         <>
             <br />
-            <Link href="/research/amo" className={style.backtoLink}>Biophysics</Link>
+            <Link href="/research/bio" className={style.backtoLink}>Biophysics</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
