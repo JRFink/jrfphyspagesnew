@@ -51,22 +51,22 @@ const Particle = () => {
                     alt="The table of elementary particles" 
                 />
             </div>
-    <br />
-    <br />
-    <div className={style.flexContainer} id="intro">
-                <Link href="/research/particle/theor" className={style.generalLink}>Theory</Link>
-                <Link href="/research/particle/exp" className={style.generalLink}>Experiment</Link>
-                <Link href="/research/particle/equat" className={style.generalLink}>Equation page</Link>  
-                <Link href="/research/particle/news" className={style.generalLink}>News</Link>
-            </div>
-    <br />
-    <br />
-    <h2 className={style.h2SectionColor} id="his"> 
-        History
-    </h2>
-    <p>
-        History ... 
-    </p>
+            <br />
+            <br />
+            <div className={style.flexContainer} id="intro">
+                        <Link href="/research/particle/theor" className={style.generalLink}>Theory</Link>
+                        <Link href="/research/particle/exp" className={style.generalLink}>Experiment</Link>
+                        <Link href="/research/particle/equat" className={style.generalLink}>Equation page</Link>  
+                        <Link href="/research/particle/news" className={style.generalLink}>News</Link>
+                    </div>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                History
+            </h2>
+            <p>
+                History ... 
+            </p>
    
             <h2>
                 Locations
