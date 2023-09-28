@@ -17,7 +17,7 @@ const Exp = () => {
             </p>
             <ul> 
                   <li>
-<Link href="https://www.ligo.caltech.edu/">Gravitational waves - Ligo</Link</li>
+<Link href="https://www.ligo.caltech.edu/">Gravitational waves - Ligo</Link></li>
             </ul>
         </>
     );
