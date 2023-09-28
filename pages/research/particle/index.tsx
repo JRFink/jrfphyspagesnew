@@ -58,6 +58,7 @@ const Particle = () => {
                 <Link href="/research/particle/exp" className={style.generalLink}>Experiment</Link>
                 <Link href="/research/particle/equat" className={style.generalLink}>Equation page</Link>  
                 <Link href="/research/particle/news" className={style.generalLink}>News</Link>
+                <Link href="/research/particle/diss" className={style.generalLink}>Dissertations</Link>
             </div>
             <br />
             <br />
