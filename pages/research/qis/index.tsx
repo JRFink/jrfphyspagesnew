@@ -45,31 +45,7 @@ const QuantI = () => {
             <br /> 
             <br />
             <br />
-            <p>
-                Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
-            </p>
-            <br />
-            <h2>
-                Major players 
-            </h2>
-                <p>
-                    There are some major players in the space. They include
-                </p>
-                    <ul>
-                        <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
-                        <br />
-                        <li><Link href="https://quantumai.google">Google</Link></li>
-                        <br />
-                        <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
-                        <br />
-                        <li><Link href="https://www.rigetti.com/">Rigetti</Link></li>
-                        <br />
-                        <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
-                        <br />
-                        <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
-                    </ul>
-                    <br />
-                    <br />
+            
             <br />
             <div className={style.flexContainer}>
                 <Link href="/research/qis/theor" className={style.generalLink}>Theory</Link>
@@ -118,6 +94,31 @@ const QuantI = () => {
                     History ... 
                 </p>
             <br />  
+<br />
+            <h2>
+                Major players 
+            </h2>
+                <p>
+                    There are some major players in the space. They include
+                </p>
+                    <ul>
+                        <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>
+                        <br />
+                        <li><Link href="https://quantumai.google">Google</Link></li>
+                        <br />
+                        <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
+                        <br />
+                        <li><Link href="https://www.rigetti.com/">Rigetti</Link></li>
+                        <br />
+                        <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
+                        <br />
+                        <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
+                    </ul>
+                    <br />
+<p>
+                Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
+            </p>
+                    <br />
             <h2>
                 Locations
             </h2>
