@@ -61,6 +61,29 @@ const Particle = () => {
                     </div>
             <br />
             <br />
+ <h2 className={style.h2SectionColor} id="mot"> 
+                Motion
+            </h2>
+            <p>
+                Motion ... 
+            </p>
+<br /> 
+<br />
+ <h2 className={style.h2SectionColor} id="struc"> 
+                Structure
+            </h2>
+            <p>
+                Structure ... 
+<br />
+<br />
+
+ <h2 className={style.h2SectionColor} id="rel"> 
+                Relations &#40; forces &#41;
+            </h2>
+            <p>
+                Relations ...       
+            </p>
+<br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
