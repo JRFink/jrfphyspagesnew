@@ -44,6 +44,7 @@ const CondensedM = () => {
             </div>
             <br />
             <br />
+            <div className={style.flexContainer} id="intro">
                 <Link href="/research/cm/theor" className={style.generalLink}>Theory</Link>
                 <br />
                 <Link href="/research/cm/exp" className={style.generalLink}>Experiment</Link>
