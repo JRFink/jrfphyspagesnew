@@ -44,14 +44,13 @@ const CondensedM = () => {
             </div>
             <br />
             <br />
-            <div className={style.flexContainer}>
-                <Link href="/research/cm#his" className={style.generalLink}>History</Link>
+                <Link href="/research/cm/theor" className={style.generalLink}>Theory</Link>
                 <br />
-                <Link href="/research/cm#theor" className={style.generalLink}>Theory</Link>
+                <Link href="/research/cm/exp" className={style.generalLink}>Experiment</Link>
                 <br />
-                <Link href="/research/cm#exp" className={style.generalLink}>Experiment</Link>
+                <Link href="/research/cm/equat" className={style.generalLink}>Equation page</Link>
                 <br />
-                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <Link href="/research/cm/news" className={style.generalLink}>News</Link>
                 <br />
             </div>
             <br />
@@ -91,35 +90,7 @@ const CondensedM = () => {
             <p>
                 History ... 
             </p>
-            <h2 className={style.h2SectionColor} id="theor"> 
-                Theory
-            </h2>
-            <p>
-                Theory ... 
-            </p>
-            <h3 className={style.h3num}>
-                    Domain
-                </h3>
-                <p>
-                    Domain .. 
-                </p>
             <br />
-            <h2 className={style.h2SectionColor} id="exp"> 
-                Experiment
-            </h2>
-            <p>
-                Experiment ... 
-            </p>
-            <br />
-            <h2 className={style.h2SectionColor} id="news"> 
-                News
-            </h2>
-                    <p>
-                        News ... 
-                    </p>
-            <h2>
-                Locations
-            </h2>
             <p>
                 Some of the best places to do this research are... 
             </p>
