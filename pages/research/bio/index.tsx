@@ -58,6 +58,28 @@ const Bio = () => {
             <br />
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
+                Motion
+            </h2>
+                <p>
+                    Motion ... 
+                </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                Structure
+            </h2>
+                <p>
+                    Structure ... 
+                </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                Relations &#40;forces&#41;
+            </h2>
+                <p>
+                    Relations ... 
+                </p>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
             <p>

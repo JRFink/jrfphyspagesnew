@@ -46,13 +46,13 @@ const Nuclear = () => {
             <br />
             <br />
             <div className={style.flexContainer}>
-                <Link href="/research/nuc#his" className={style.generalLink}>History</Link>
+                <Link href="/research/nuc/theor" className={style.generalLink}>Theory</Link>
                 <br />
-                <Link href="/research/nuc#theor" className={style.generalLink}>Theory</Link>
+                <Link href="/research/nuc/exp" className={style.generalLink}>Experiment</Link>
                 <br />
-                <Link href="/research/nuc#exp" className={style.generalLink}>Experiment</Link>
+                <Link href="/research/nuc/equat" className={style.generalLink}>Equation page</Link>
                 <br />
-                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <Link href="/research/nuc/news" className={style.generalLink}>News</Link>
                 <br />
             </div>
             <br />
@@ -64,39 +64,34 @@ const Nuclear = () => {
                 Domain ... 
             </p>
             <br />
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                Motion
+            </h2>
+                <p>
+                    Motion ... 
+                </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                Structure
+            </h2>
+                <p>
+                    Structure ... 
+                </p>
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                Relations &#40;forces&#41;
+            </h2>
+                <p>
+                    Relations ... 
+                </p>
+            <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
                 <p>
                     History ... 
-                </p>
-            <h2 className={style.h2SectionColor} id="theor"> 
-                Theory
-            </h2>
-                <p>
-                    Theory ... 
-                </p>
-            <h3 className={style.h3num}>
-                Domain
-            </h3>
-                <p>
-                    Domain .. 
-                </p>
-                <br />
-            <h2 className={style.h2SectionColor} id="exp"> 
-                Experiment
-            </h2>
-                <p>
-                    Experiment ... 
-                </p>
-            <br />
-            <h2 className={style.h2SectionColor} id="news"> 
-                News
-            </h2>
-                    <p>
-                        News ... 
-                    </p>
-            <br />
+                </p>    
             <h2>
                 Locations
             </h2>
