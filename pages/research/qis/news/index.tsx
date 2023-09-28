@@ -13,6 +13,13 @@ const News = () => {
                 Quantum information news
             </h1>
             <br />
+            <p>
+                <ul>
+                    <li><Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/" 
+                       className={style.noUnder}>China beats Google&#39;s quantum computer</Link>
+                    </li> 
+                </ul>
+                </p>
            
         </>
     );

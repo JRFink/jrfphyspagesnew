@@ -52,6 +52,13 @@ const Amo = () => {
                     </div>
             <br />
             <br />
+            <h2 className={style.h3num}>
+                Domain
+            </h2>
+            <p>
+                Domain ... 
+            </p>
+            <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>

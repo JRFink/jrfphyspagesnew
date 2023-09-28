@@ -72,51 +72,34 @@ const QuantI = () => {
                     <br />
             <br />
             <div className={style.flexContainer}>
-                <Link href="/research/qis#his" className={style.generalLink}>History</Link>
+                <Link href="/research/qis/theor" className={style.generalLink}>Theory</Link>
                 <br />
-                <Link href="/research/qis#theor" className={style.generalLink}>Theory</Link>
+                <Link href="/research/qis/exp" className={style.generalLink}>Experiment</Link>
                 <br />
-                <Link href="/research/qis#exp" className={style.generalLink}>Experiment</Link>
+                <Link href="/research/qis/equat" className={style.generalLink}>Equation page</Link>
                 <br />
-                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <Link href="/research/qis/news" className={style.generalLink}>News</Link>
                 <br />
             </div>
+            <br />
+            <br />
+            <h2 className={style.h3num}>
+                Domain
+            </h2>
+            <p>
+                    The largest molecules are about 10 nm and the smallest are about 1 angstrom.  
+            </p>
+            <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
                 <p>
                     History ... 
                 </p>
+   
             <br />
-            <h2 className={style.h2SectionColor} id="theor"> 
-                Theory
-            </h2>
-                <p>
-                    In general, quantum information studies objects such as molecules and atoms and how they store information.  
-                </p>
-                <h3 className={style.h3num}>
-                    Domain
-                </h3>
-                <p>
-                    The largest molecules are about 10 nm and the smallest are about 1 angstrom.  
-                </p>
-            <br />
-            <h2 className={style.h2SectionColor} id="exp"> 
-                Experiment
-            </h2>
-                <p>
-                    Experiment ... 
-                </p>
-            <br />
-            <h2 className={style.h2SectionColor} id="news"> 
-                News
-            </h2>
-                <p>
-                    <ul>
-                       <li><Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/" 
-                       className={style.noUnder}>China beats Google&#39;s quantum computer</Link></li> 
-                    </ul>
-                </p>
+    
+                
             <h2>
                 Locations
             </h2>

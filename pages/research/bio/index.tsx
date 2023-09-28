@@ -49,6 +49,14 @@ const Bio = () => {
                     </div>
             <br />
             <br />
+            <h2 className={style.h3num}>
+                Domain
+            </h2>
+            <p>
+                Domain ... 
+            </p>
+            <br />
+            <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
