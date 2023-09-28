@@ -15,7 +15,10 @@ const Exp = () => {
             <p>
                 Below you will find some experiments in astrophysics. 
             </p>
-            
+            <ul> 
+                  <li>
+<Link href="https://www.ligo.caltech.edu/">Gravitational waves - Ligo</Link</li>
+            </ul>
         </>
     );
 }
