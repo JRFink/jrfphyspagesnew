@@ -15,6 +15,9 @@ const Exp = () => {
             <p>
                 Below you will find some experiments in Quantum information. 
             </p>
+            <ul> 
+             <li><Link href="http://schoi.mit.edu/research">Information preservation and loss</Link></li>
+           </ul>
             
         </>
     );
