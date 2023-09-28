@@ -74,10 +74,11 @@ const Particle = () => {
                 </h2>
                     <p>
                         Structure ... 
+                    </p>
             <br />
             <br />
             <h2 className={style.h2SectionColor} id="rel"> 
-                    Relations&#40;forces &#41;
+                    Relations &#40;forces&#41;
                 </h2>
                     <p>
                         Relations ...       

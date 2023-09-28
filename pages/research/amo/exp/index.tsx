@@ -16,7 +16,9 @@ const Exp = () => {
                 Below you will find some experiments in AMO physics. 
             </p>
             <ul> 
-                 <li><Link href="https://jila.colorado.edu/cornell-group/research/edm-molecular-ions">shape of the electron</Link> - boulder - cornell </li>
+                <li><Link href="https://jila.colorado.edu/cornell-group/research/edm-molecular-ions">shape of the electron</Link> - boulder - cornell </li>
+                <br />
+                <li><Link href="https://www.science.org/doi/10.1126/science.abi9917">optical tweezers</Link> - lukin </li>
             </ul>          
         </>
     );
