@@ -20,7 +20,7 @@ const Consult = () => {
               <li>Physics research</li>
               <li>Higher ed</li>
               <li>Education policy</li>
-              <li><Link href="/research/gen">government res</Link></li>
+              <li><Link href="/research/gov">government res</Link></li>
           </ul>
           </p>
           <p>
