@@ -77,15 +77,17 @@ const Nuclear = () => {
                 Structure
             </h2>
                 <p>
-                    The structure of atomic nuclei starts with protons and neutrons. The number of protons determines the element, but the number of neutrons does not. A proton consists of two up and one down quark, while a neutron consists of one up and two down quarks. 
+                    The structure of atomic nuclei starts with protons and neutrons. 
+                    The number of protons determines the element, but the number of neutrons does not. 
+                    A proton consists of two up quarks and one down quark, while a neutron consists of one up and two down quarks. 
                 </p>
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 Relations &#40;forces&#41;
             </h2>
                 <p>
-The relations within the nucleus are the electromagnetic and the strong force. 
-   </p>
+                    The relations within the nucleus are the electromagnetic, the strong, and the weak force. 
+                </p>
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
