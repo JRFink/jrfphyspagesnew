@@ -489,9 +489,29 @@ const Gen = () => {
                         </li>
                     </ul>
                 </p>
+            <h2 className={style.h2SectionColor}>
+                Energy
+            </h2>
                 <p>
+                    A large project under development for producing energy is the tokamak project through <Link href="https://www.iter.org/">ITER</Link>. .
+                    <br />
+                    <br />
                     The countries that have the highest electricity usage per capita are Iceland, Norway, and Bahrain. 
                 </p>
+            <h2 className={style.h2SectionColor}>
+                Information
+            </h2>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}>
+                Education
+            </h2>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}>
+                Communication
+            </h2>
+                
                 <h2>
                     Other
                 </h2>
