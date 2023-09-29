@@ -81,9 +81,33 @@ const Astr = () => {
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
-            <p>
-                History ... 
-            </p>
+            <br />
+            <br />
+                <h3 className={style.h3num}>
+                    Ancient astronomy
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Medieval astronomy
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Enlightenment astronomy
+                </h3>
+                <p>
+                    Copernicus publishes <em>De revolutionibus orbium coelestium</em> in 1543.  
+                </p>
+                <br />
+                <h3 className={style.h3num}>
+                    20<span><sup>th</sup></span> century astronomy
+                </h3> 
+                <p>
+                    Einstein publishes his theory of general relativity in 1915.
+                </p>
+                <br />
+                <h3 className={style.h3num}>
+                    Astronomy today
+                </h3> 
             <h2>
                 Locations
             </h2>
