@@ -14,10 +14,12 @@ const Exp = () => {
             <br />
             <p>
                 Below you will find some experiments in nuclear physics. 
+            
+                <ul>
+                    <li><Link href="http://web.mit.edu/lns/research/hig.html">Quark gluon plasma</Link></li>
+                </ul>
+                Also the division in the <Link href="https://science.osti.gov/np/Research">Department of energy</Link> highlights current experiments.
             </p>
-            <ul>
-                 <li><Link href="http://web.mit.edu/lns/research/hig.html">Quark gluon plasma</Link></li>
-            </ul>
         </>
     );
 }

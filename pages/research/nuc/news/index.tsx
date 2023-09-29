@@ -13,6 +13,9 @@ const News = () => {
                 News
             </h1>
             <br />
+            <p>
+                You can find some of the latest research <a href="https://journals.aps.org/prc/">here</a>.  
+            </p>
            
         </>
     );

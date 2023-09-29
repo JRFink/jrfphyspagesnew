@@ -20,8 +20,6 @@ const Nuclear = () => {
                 - quarks and gluons.  
                 Nuclear matter focuses on different compositions of nuclei - the quark gluon plasma (created in high-energy collisions), 
                 neutron stars, and nucleon gases, to name a few. 
-                You can find some of the latest research <a href="https://journals.aps.org/prc/">here</a>.  
-                The division in the <a href="https://science.osti.gov/np/Research">Department of Energy</a> will also keep you busy. 
             </p>
             <br></br>
             <br></br>
