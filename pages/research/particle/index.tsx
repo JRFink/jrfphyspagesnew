@@ -95,6 +95,9 @@ const Particle = () => {
                 <h3 className={style.h3num}>
                     From atomic physics to particle physics
                 </h3>
+  <p>
+We can begin our journey into particle physics by starting with atomic physics.
+</p>
                 <br />
                 <h3 className={style.h3num}>
                     Finding particles
