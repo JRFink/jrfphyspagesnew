@@ -44,7 +44,8 @@ const Bio = () => {
             <div className={style.flexContainer} id="intro">
                         <Link href="/research/bio/theor" className={style.generalLink}>Theory</Link>
                         <Link href="/research/bio/exp" className={style.generalLink}>Experiment</Link>
-                        <Link href="/research/bio/equat" className={style.generalLink}>Equation page</Link>  
+                        <Link href="/research/bio/equat" className={style.generalLink}>Equation page</Link>
+                        <Link href="/research/bio/diss" className={style.generalLink}>Dissertations</Link>  
                         <Link href="/research/bio/news" className={style.generalLink}>News</Link>
                     </div>
             <br />
