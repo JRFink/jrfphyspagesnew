@@ -91,7 +91,22 @@ const Particle = () => {
             <p>
                 History ... 
             </p>
-   
+            <br />
+                <h3 className={style.h3num}>
+                    From atomic physics to particle physics
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Finding particles
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Development of the standard model
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Standard model today
+                </h3>  
             <h2>
                 Locations
             </h2>

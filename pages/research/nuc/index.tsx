@@ -92,9 +92,23 @@ const Nuclear = () => {
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
-                <p>
-                    History ... 
-                </p>    
+            <br />
+            <br />
+                <h3 className={style.h3num}>
+                    From the atom to the nucleus
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Discovery of the proton
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Discovery of the neutron
+                </h3>
+                <br />
+                <h3 className={style.h3num}>
+                    Development of QED
+                </h3>    
             <h2>
                 Locations
             </h2>
