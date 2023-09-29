@@ -38,7 +38,13 @@ const Gen = () => {
                                     <li>
                                         <Link href="https://www.energy.gov/" className={style.noUnder}>Energy</Link>
                                     </li>
-                                    <p>
+<p>
+<ul>
+<li> <Link href="https://www.nerc.com/Pages/default.aspx">Nerc</Link>
+</li>
+</ul>
+
+                                    
                                         In America, the average electricity usage per year per household is about 10,000 kWh. 
                                         <br />
                                         That &#39;s about 1,000 kWh / month; and about 30 kWh / day. 
