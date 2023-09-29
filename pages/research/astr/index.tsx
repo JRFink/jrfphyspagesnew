@@ -45,6 +45,7 @@ const Astr = () => {
                     <Link href="/research/astr/exp" className={style.generalLink}>Experiment</Link>
                     <Link href="/research/astr/equat" className={style.generalLink}>Equation page</Link>  
                     <Link href="/research/astr/news" className={style.generalLink}>News</Link>
+                    <Link href="/research/astr/diss" className={style.generalLink}>Dissertations</Link>
             </div>
             <br />
             <h2 className={style.h3num}>
