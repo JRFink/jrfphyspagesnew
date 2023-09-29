@@ -1,5 +1,6 @@
 import Link from 'next/link'; 
 import style from '@/styles/general.module.css';
+import America, { Albania } from './countComponents';
 
 const Countr = () => {
     return (
@@ -13,9 +14,13 @@ const Countr = () => {
             </h1>
             <br />
             <p>
-                Below you will find some info about different countries around the globe. 
-            
+                Below you will find some info about different countries. 
             </p>
+            <br />
+            <Albania />
+            <br />
+            <br />
+            <America />
         </>
     );
 }

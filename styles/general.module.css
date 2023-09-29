@@ -458,6 +458,10 @@
     padding: 15px 0px 15px 15px; 
 }
 
+.colorDarkBlue {
+    color: rgb(62, 71, 243)
+}
+
 .markQuiz {
     background-color: rgb(255, 230, 141);
     text-decoration: none;
