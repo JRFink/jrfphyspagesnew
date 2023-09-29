@@ -13,6 +13,9 @@ import Link from 'next/link';
                  Astrophysics news 
              </h1> 
              <br /> 
+             <p>
+                Find some of the latest research <a href="https://journals.aps.org/prresearch/subjects/astrophysics">here</a>.
+            </p>
   
          </> 
      ); 
