@@ -7,6 +7,7 @@ const Ap = () => {
         <>
             <br />
             <Link href="/education" className={style.backtoLink}>Education</Link>
+            <br />
             <h1 className={style.centerText}>
                 AP Physics &#174;
             </h1>
