@@ -16,6 +16,29 @@ const Science = () => {
                 Below you will find some info about science around the globe. 
             </p>
             <br />
+            <br />
+<h2 className={style.h2SectionColor}>
+   Bio research  
+</h2>
+<br /> 
+<p> 
+    Some of the leading centers for bio research are...
+</p>
+<br />
+<h2 className={style.h2SectionColor}>
+   Chemistry research  
+</h2>
+<br /> 
+<p> 
+    Some of the leading centers for chemistry research are...
+</p>
+<br /> 
+<h2 className={style.h2SectionColor}>
+   Physics research  
+</h2>
+<p> 
+    Some of the leading centers for physics research are...
+</p>
             &nbsp; &nbsp; Labs - 
                 <ul>
                     Office of science 
