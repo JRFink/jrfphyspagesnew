@@ -13,7 +13,7 @@ const mysql = require('mysql');
  export default function handler(req, res) { 
   
   
-     const sql = "INSERT INTO "+process.env.UCH_UCH+" (helpful) VALUES ("helpful")";  
+     const sql = "INSERT INTO "+process.env.UCH_UCH+" (helpful) VALUES ('helpful')";  
   
      con.query(sql, function(err, response) { 
          if (err) { 
