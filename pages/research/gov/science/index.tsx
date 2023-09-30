@@ -24,10 +24,11 @@ const Science = () => {
 <p> 
     Some of the leading centers for bio research are...
 </p>
-<br />
 <ul> 
  <li><Link href="https://www.mit.edu/">MIT</Link></li> 
+<br />
  <li><Link href="https://www.tsinghua.edu.cn/">Tsinghua University</Link></li> 
+<br />
  <li><Link href="https://www.msu.ru/index.php">Moscow state university</Link></li>
 </ul>
 <br />
@@ -37,11 +38,12 @@ const Science = () => {
 <br /> 
 <p> 
     Some of the leading centers for chemistry research are...
-</p>
-<br /> 
+</p> 
 <ul> 
- <li><Link href="https://www.mit.edu/">MIT</Link></li> 
+ <li><Link href="https://www.mit.edu/">MIT</Link></li>
+<br /> 
  <li><Link href="https://www.tsinghua.edu.cn/">Tsinghua University</Link></li> 
+<br />
  <li><Link href="https://www.msu.ru/index.php">Moscow state university</Link></li>
 </ul>
 <br />
@@ -53,7 +55,9 @@ const Science = () => {
 </p>
 <ul>
 <li><Link href="https://www.mit.edu/">MIT</Link></li>
+<br />
 <li><Link href="https://www.tsinghua.edu.cn/">Tsinghua University</Link></li>
+<br />
 <li><Link href="https://www.msu.ru/index.php">Moscow state university</Link></li>
 </ul>
             &nbsp; &nbsp; Labs - 
