@@ -34,32 +34,23 @@ The class consists of seven units&#59; they are:
                 <p className={style.numberLink}>   
                     4   
                 </p>    
-                <Link href="/education/ap/ap2alg/circ" className={style.generalLink}>Electric circuits</Link><br></br>    
+                <Link href="/education/ap/apcmech/sys" className={style.generalLink}>Systems of particles and linear momentum</Link><br></br>    
                 <br />    
                 <p className={style.numberLink}>   
                     5  
                 </p>    
-                <Link href="/education/ap/ap2alg/mag" className={style.generalLink}>Magnetism and electromagnetic induction</Link><br></br>    
+                <Link href="/education/ap/apcmech/rot" className={style.generalLink}>Rotation</Link><br></br>    
                 <br />     
    <p className={style.numberLink}>   
                     6  
                 </p>    
-                <Link href="/education/ap/ap2alg/geo" className={style.generalLink}>Geometric and physical objects</Link><br></br>    
+                <Link href="/education/ap/apcmech/osc" className={style.generalLink}>Oscillations</Link><br></br>    
                 <br />      
    <p className={style.numberLink}>   
                     7   
                 </p>    
-                <Link href="/education/ap/ap2alg/quant" className={style.generalLink}>Quantum, atomic, and nuclear physics</Link><br></br>    
+                <Link href="/education/ap/apcmech/grav" className={style.generalLink}>Gravitation</Link><br></br>    
                 <br /> 
-
-<li>Kinematics</li>
-<li>Newton&#39;s laws of motion</li>
-<li>Work, energy, and power</li>
-<li>Systems of particles and linear momentum</li>
-<li>Rotation</li>
-<li>Oscillations</li>
-<li>Gravitation</li>
-</p>
          <p>  
             Find the curriculum  
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> here</a>. 
