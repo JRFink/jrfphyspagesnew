@@ -40,9 +40,9 @@ const Science = () => {
     Some of the leading centers for physics research are...
 </p>
 <ul>
-<li><Link href="https://www.mit.edu/">MIT</Link><li>
-<li><Link href="https://www.tsinghua.edu.cn/">Tsinghua University</Link><li>
-<li><Link href="https://www.msu.ru/index.php">Moscow state university</Link><li>
+<li><Link href="https://www.mit.edu/">MIT</Link></li>
+<li><Link href="https://www.tsinghua.edu.cn/">Tsinghua University</Link></li>
+<li><Link href="https://www.msu.ru/index.php">Moscow state university</Link></li>
             &nbsp; &nbsp; Labs - 
                 <ul>
                     Office of science 
