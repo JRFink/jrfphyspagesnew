@@ -11,7 +11,17 @@ const Ap1alg = () => {
         </h1>
         <br />
         <p> 
-             The current structure of the class consists of seven units&#59; they are: 
+             The current structure of the class consists of seven units&#59; they are:
+
+            <br></br> 
+             <p className={style.numberLink}> 
+                 1
+             </p> 
+             <Link href="/education/ap/apalg1/kin" className={style.generalLink}>Kinematics</Link><br></br> 
+             <br></br> 
+             <p className={style.numberLink}>
+
+ 
 <ol> 
    <li>kinematics</li>
    <li>dynamics</li>
