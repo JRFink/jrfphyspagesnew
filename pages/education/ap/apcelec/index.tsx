@@ -12,14 +12,34 @@ const ApCelec = () => {
         <br />
 <p>
     The current structure of the class consists of five units&#59; they are: 
-<ol> 
-<li>Electrostatics</li>
-<li>Conductors, capacitors, dielectrics</li>
-<li>Electric circuits</li>
-<li>Magnetic fields</li>
-<li>Electromagnetism</li>
-</ol>
-</p>
+</p> 
+               <p className={style.numberLink}>    
+                    1   
+                </p>    
+                <Link href="/education/ap/apcelec/stat" className={style.generalLink}>Electrostatics</Link><br></br>    
+                <br></br>    
+                <p className={style.numberLink}>   
+                <br />     
+                 <p className={style.numberLink}>     
+                     2    
+                 </p>     
+                 <Link href="/education/ap/apcelec/cond" className={style.generalLink}>Conductors, capacitors, &#38; dielectrics</Link><br></br>                   
+                 <br />     
+                 <p className={style.numberLink}>     
+                     3   
+                 </p>     
+                 <Link href="/education/ap/apcelec/circ" className={style.generalLink}>Electric circuits</Link><br></br>     
+                 <br />     
+                 <p className={style.numberLink}>    
+                     4    
+                 </p>     
+                 <Link href="/education/ap/apcelec/mag" className={style.generalLink}>Magnetic fields</Link><br></br>     
+                 <br />     
+                 <p className={style.numberLink}>    
+                     5   
+                 </p>     
+                 <Link href="/education/ap/apcelec/emag" className={style.generalLink}>Electromagnetism</Link><br></br>          
+                 <br />
          <p>  
             Find the curriculum  
             <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-electricity-and-magnetism"> here</a>. 
