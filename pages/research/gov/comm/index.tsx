@@ -73,7 +73,15 @@ const Comm = () => {
                                 <Link href="https://uscode.house.gov/view.xhtml;jsessionid=2C85B8DEBFB1BB15A7D31E29A34C3DAA?req=granuleid%3AUSC-prelim-title21&amp;saved=%7CZ3JhbnVsZWlkOlVTQy1wcmVsaW0tdGl0bGUyMS1zZWN0aW9uODAx%7C%7C%7C0%7Cfalse%7Cprelim&amp;edition=prelim">Controlled substances act</Link>
                             </li>
                           </ul>
-                                
+            Other - <ul>
+                        <li>
+                            <Link href="https://www.ietf.org/">Internet engineering task force</Link> - Wilmington, DE
+                        </li>
+                        <br></br>
+                        <li>
+                            <Link href="https://www.iso.org">International organization for standardization</Link> - Geneva, CH
+                        </li>
+                    </ul>                 
         </>
     );
 }

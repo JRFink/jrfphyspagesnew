@@ -188,11 +188,12 @@ export function 中國 () {
                         General secretary - Xi Jinping
                         Premier - Li Qiang
                     </p>
-                    <br />
+                    <p>
                         <Link href="https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html" className={style.noUnder}>Constitution - 1982</Link>
-                    <br />
+                    </p>
+                    <p>
                         <Link href="https://12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
-                    <br />
+                    </p>
                 <h3 className={style.colorDarkBlue}>
                     Energy - 精力
                 </h3>
@@ -330,35 +331,40 @@ export function भारत () {
 export function  ایران () {
     return (
         <>
-            <h2 className={style.h2SectionColor} id="albania">
-                Deutschland
+            <h2 className={style.h2SectionColor} id="ایران">
+                Iran -  ایران
             </h2>
                 <h3 className={style.colorDarkBlue}>
                     Laws
                 </h3>
                 <h3 className={style.colorDarkBlue}>
-                    Gobierno
+                    Government
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
+                        <Link href="https://dolat.ir" className={style.noUnder}>Government</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Energía
+                    Energy
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
+                        <Link href="https://moe.gov.ir" className={style.noUnder}>Energy</Link>
+                    </p>
+                    <p>
+                        In Iran, the average electricity usage per year per capita is about 2,000 kWh. 
+                        <br />
+                        That &#39;s about 200 kWh / month; and about 10 kWh / day. 
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Ciencia
+                    Science
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
+                        <Link href="https://irangov.ir/cat/558" className={style.noUnder}>Science</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Educacíon
+                    Education
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
+                        <Link href="https://irangov.ir/cat/547" className={style.noUnder}>Education</Link>
                     </p>
         </>
     ); 
@@ -367,35 +373,34 @@ export function  ایران () {
 export function 日本 () {
     return (
         <>
-            <h2 className={style.h2SectionColor} id="albania">
-                Deutschland
+            <h2 className={style.h2SectionColor} id="日本">
+                Japan - 日本
             </h2>
                 <h3 className={style.colorDarkBlue}>
                     Laws
                 </h3>
                 <h3 className={style.colorDarkBlue}>
-                    Gobierno
+                    Government
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
+                        <Link href="https://www.japan.go.jp" className={style.noUnder}>Government</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Energía
+                    Energy
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
+                        <Link href="https://www.enecho.meti.go.jp" className={style.noUnder}>Energy</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Ciencia
+                    Science
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Educacíon
+                    Education
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
+                        <Link href="https://www.mext.go.jp" className={style.noUnder}>Science &#38; Education</Link>
                     </p>
         </>
     ); 
@@ -404,35 +409,52 @@ export function 日本 () {
 export function Россия () {
     return (
         <>
-            <h2 className={style.h2SectionColor} id="albania">
-                Deutschland
+            <h2 className={style.h2SectionColor} id="pоссия">
+                Russia - Россия
             </h2>
                 <h3 className={style.colorDarkBlue}>
                     Laws
                 </h3>
                 <h3 className={style.colorDarkBlue}>
-                    Gobierno
+                    Government - правительство
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
+                        <Link href="http://government.ru" className={style.noUnder}>Government - правительство</Link>   
+                    </p>
+                    <p> 
+                        President - Vladimir Putin 
+                        Prime Minister - Mikhail Mishustin
+                    </p>
+                    <p>
+                        <Link href="http://www.constitution.ru/en/10003000-01.htm" className={style.noUnder}>Constitution - 1993</Link>
+                    </p>
+                    <p>
+                        <Link href="http://svr.gov.ru" className={style.noUnder}>Svr</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Energía
+                    Energy
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
+                        <Link href="http://minenergo.gov.ru" className={style.noUnder}>Energy</Link>
+                    </p>
+                    <p>
+                        In Russia, the average electricity usage per year per capita is around 60,000 kWh. 
+                        <br />
+                        That &#39;s about 600 kWh / month; and about 20 kWh / day. 
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Ciencia
+                    Science &#38; Education
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
+                        <Link href="https://minobrnauki.gov.ru" className={style.noUnder}>Science &#38; Education</Link>
                     </p>
-                <h3 className={style.colorDarkBlue}>
-                    Educacíon
-                </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
+                        Some of the best universities in Russia are 
+                        <ul>  
+                            <li><Link href="https://www.msu.ru/index.php">Moscow State University</Link></li> 
+                            <li><Link href="https://spbu.ru/">St. Petersburg State University</Link></li> 
+                            <li><Link href="https://mipt.ru">Moscow Institute of Physics &#38; Technology</Link></li> 
+                        </ul> 
                     </p>
         </>
     ); 
@@ -441,35 +463,43 @@ export function Россия () {
 export function Singapura () {
     return (
         <>
-            <h2 className={style.h2SectionColor} id="albania">
-                Deutschland
+            <h2 className={style.h2SectionColor} id="singapura">
+                Singapura
             </h2>
                 <h3 className={style.colorDarkBlue}>
                     Laws
                 </h3>
                 <h3 className={style.colorDarkBlue}>
-                    Gobierno
+                    Government
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
+                        <Link href="https://www.gov.sg" className={style.noUnder}>Government</Link>
+                    </p>
+                    <p>
+                        <Link href="https://sso.agc.gov.sg/Act/CONS1963?ProvIds=P11-#pr1-" className={style.noUnder}>Constitution - 1965</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Energía
+                    Energy
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
+                        <Link href="https://www.ema.gov.sg/index.aspx" className={style.noUnder}>Energy</Link>
+                    </p>
+                    <p>
+                        In Singapore, the average electricity usage per year per capita is about 500 kWh. 
+                        <br />
+                        That&#39;s about 50 kWh / month; and about 2 kWh / day. 
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Ciencia
+                    Science
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
+                        <Link href="https://snas.org.sg" className={style.noUnder}>Science</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Educacíon
+                    Education
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
+                        <Link href="https://www.moe.gov.sg" className={style.noUnder}>Education</Link>
                     </p>
         </>
     ); 
@@ -478,35 +508,36 @@ export function Singapura () {
 export function Türkiye () {
     return (
         <>
-            <h2 className={style.h2SectionColor} id="albania">
-                Deutschland
+            <h2 className={style.h2SectionColor} id="türkiye">
+                Türkiye
             </h2>
                 <h3 className={style.colorDarkBlue}>
                     Laws
                 </h3>
                 <h3 className={style.colorDarkBlue}>
-                    Gobierno
+                    Government - Hükümet
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
+                        <Link href="https://www.turkiye.gov.tr/" className={style.noUnder}>Government - Hükümet</Link>
+                        
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Energía
+                    Enerji
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
+                        <Link href="https://enerji.gov.tr/homepage" className={style.noUnder}>Enerji</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Ciencia
+                    Science - Bilim 
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
+                        <Link href="https://www.sanayi.gov.tr" className={style.noUnder}>Science - Bilim</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
-                    Educacíon
+                    Education - Eğitim
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
+                        <Link href="https://www.meb.gov.tr/" className={style.noUnder}>Education - Eğitim</Link>
                     </p>
         </>
     );

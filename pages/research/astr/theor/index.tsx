@@ -18,6 +18,13 @@ const Theor = () => {
                 Below you will find some theories for astrophysics. 
             </p>
             <br />
+    
+                <p>
+                    Behaviour &#40;size, speed, charge &#40; elec, grav &#41; &#41; ? 
+                </p>
+                <p> 
+                    Charge is conserved and invariant; energy is conserved but not invariant; mass is not conserved but invariant? 
+                </p>
         </>
     );
 }
