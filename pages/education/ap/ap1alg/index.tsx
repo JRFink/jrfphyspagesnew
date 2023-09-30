@@ -12,15 +12,13 @@ const Ap1alg = () => {
         <br />
         <p> 
              The current structure of the class consists of seven units&#59; they are:
-</p>
+        </p>
 
             <br /> 
              <p className={style.numberLink}> 
                  1
              </p> 
              <Link href="/education/ap/ap1alg/kin" className={style.generalLink}>Kinematics</Link><br></br> 
-             <br></br> 
-             <p className={style.numberLink}>
              <br />  
               <p className={style.numberLink}>  
                   2 
@@ -42,23 +40,22 @@ const Ap1alg = () => {
               </p>  
               <Link href="/education/ap/ap1alg/energ" className={style.generalLink}>Momentum</Link><br></br>  
               <br />   
- <p className={style.numberLink}> 
+              <p className={style.numberLink}> 
                   6
               </p>  
               <Link href="/education/ap/ap1alg/harm" className={style.generalLink}>Sime harmonic motion</Link><br></br>  
               <br />  
-
- <p className={style.numberLink}> 
+              <p className={style.numberLink}> 
                   7 
               </p>  
               <Link href="/education/ap/ap1alg/torq" className={style.generalLink}>Torque and rotational motion</Link><br></br>  
               <br />  
-        <p> 
-            Find the curriculum 
-            <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based"> here</a>.
-        </p> 
+              <p> 
+                Find the curriculum 
+                    <a href="https://apstudents.collegeboard.org/courses/ap-physics-1-algebra-based"> here</a>.
+              </p> 
        </>
-  );
-  } 
+    );
+} 
   
   export default Ap1alg;

@@ -10,17 +10,15 @@ const ApCmech = () => {
            AP Physics C - mechanics 
         </h1> 
         <br />
-<p> 
-The class consists of seven units&#59; they are: 
-</p>
+        <p> 
+            The class consists of seven units&#59; they are: 
+        </p>
             <br />   
-               <p className={style.numberLink}>   
+                <p className={style.numberLink}>   
                    1  
-               </p>   
-               <Link href="/education/ap/apcmech/kin" className={style.generalLink}>Kinematics</Link><br></br>   
-               <br></br>   
-               <p className={style.numberLink}>  
-               <br />    
+                </p>   
+                <Link href="/education/ap/apcmech/kin" className={style.generalLink}>Kinematics</Link><br></br>     
+                <br />    
                 <p className={style.numberLink}>    
                     2   
                 </p>    
@@ -29,7 +27,7 @@ The class consists of seven units&#59; they are:
                 <p className={style.numberLink}>    
                     3  
                 </p>    
-                <Link href="/education/ap/apcmech/energ" className={style.generalLink}>Work, energy, &#39; power</Link><br></br>    
+                <Link href="/education/ap/apcmech/energ" className={style.generalLink}>Work, energy, &#38; power</Link><br></br>    
                 <br />    
                 <p className={style.numberLink}>   
                     4   
@@ -41,22 +39,22 @@ The class consists of seven units&#59; they are:
                 </p>    
                 <Link href="/education/ap/apcmech/rot" className={style.generalLink}>Rotation</Link><br></br>    
                 <br />     
-   <p className={style.numberLink}>   
+                <p className={style.numberLink}>   
                     6  
                 </p>    
                 <Link href="/education/ap/apcmech/osc" className={style.generalLink}>Oscillations</Link><br></br>    
                 <br />      
-   <p className={style.numberLink}>   
+                <p className={style.numberLink}>   
                     7   
                 </p>    
                 <Link href="/education/ap/apcmech/grav" className={style.generalLink}>Gravitation</Link><br></br>    
                 <br /> 
-         <p>  
-            Find the curriculum  
-            <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> here</a>. 
-         </p>  
+                <p>  
+                    Find the curriculum  
+                    <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-mechanics"> here</a>. 
+                </p>  
       </> 
- ); 
+    ); 
  }  
   
  export default ApCmech;

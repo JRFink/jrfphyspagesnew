@@ -20,8 +20,6 @@ The current structure of the class consists of seven units&#59; they are:
                   1 
               </p>  
               <Link href="/education/ap/ap2alg/fluid" className={style.generalLink}>Fluids: pressure and forces</Link><br></br>  
-              <br></br>  
-              <p className={style.numberLink}> 
               <br />   
                <p className={style.numberLink}>   
                    2  
@@ -43,22 +41,22 @@ The current structure of the class consists of seven units&#59; they are:
                </p>   
                <Link href="/education/ap/ap2alg/mag" className={style.generalLink}>Magnetism and electromagnetic induction</Link><br></br>   
                <br />    
-  <p className={style.numberLink}>  
+               <p className={style.numberLink}>  
                    6 
                </p>   
                <Link href="/education/ap/ap2alg/geo" className={style.generalLink}>Geometric and physical objects</Link><br></br>   
                <br />     
-  <p className={style.numberLink}>  
+               <p className={style.numberLink}>  
                    7  
                </p>   
                <Link href="/education/ap/ap2alg/quant" className={style.generalLink}>Quantum, atomic, and nuclear physics</Link><br></br>   
                <br /> 
-         <p>  
-            Find the curriculum  
-            <a href="https://apstudents.collegeboard.org/courses/ap-physics-2-algebra-based"> here</a>. 
-         </p>  
+               <p>  
+                    Find the curriculum  
+                    <a href="https://apstudents.collegeboard.org/courses/ap-physics-2-algebra-based"> here</a>. 
+               </p>  
       </> 
- ); 
+    ); 
  }  
   
  export default Ap2alg;

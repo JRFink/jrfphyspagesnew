@@ -10,15 +10,13 @@ const ApCelec = () => {
            AP Physics C - e and m  
         </h1> 
         <br />
-<p>
-    The current structure of the class consists of five units&#59; they are: 
-</p> 
+            <p>
+                The current structure of the class consists of five units&#59; they are: 
+            </p> 
                <p className={style.numberLink}>    
                     1   
                 </p>    
                 <Link href="/education/ap/apcelec/stat" className={style.generalLink}>Electrostatics</Link><br></br>    
-                <br></br>    
-                <p className={style.numberLink}>   
                 <br />     
                  <p className={style.numberLink}>     
                      2    
@@ -40,12 +38,12 @@ const ApCelec = () => {
                  </p>     
                  <Link href="/education/ap/apcelec/emag" className={style.generalLink}>Electromagnetism</Link><br></br>          
                  <br />
-         <p>  
-            Find the curriculum  
-            <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-electricity-and-magnetism"> here</a>. 
-         </p>  
+                    <p>  
+                        Find the curriculum  
+                        <a href="https://apstudents.collegeboard.org/courses/ap-physics-c-electricity-and-magnetism"> here</a>. 
+                    </p>  
       </> 
- ); 
- }  
+    ); 
+}  
   
  export default ApCelec;
