@@ -21,6 +21,7 @@ const Cm1 = () => {
 <p> 
 A nice textbook for classical mechanics is <Link href="https://www.amazon.com/Classical-Mechanics-John-R-Taylor/dp/189138922X">Classical Mechanics</Link> by John Taylor
 </p>
+<br />
                 <Link href="/education/cm1/over" className={style.generalLink}>Overview of classical mechanics</Link><br></br>
                 <br></br>
                 <Link href="/education/cm1/nlaw" className={style.generalLink}>Newton&apos;s Laws</Link><br></br>
