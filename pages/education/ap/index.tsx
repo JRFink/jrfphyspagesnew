@@ -12,7 +12,8 @@ const Ap = () => {
             </h1>
             <p>
                 There are four different AP classes you could take:                               
-                    <br />                   
+                    <br />  
+      <br />                 
                         <Link href="/education/ap/ap1alg" className={style.generalLink}>AP Physics 1 - algebra based</Link>                    
                     <br />                   
                         <Link href="/education/ap/ap2alg" className={style.generalLink}>AP Physics 2 - algebra based</Link> 
