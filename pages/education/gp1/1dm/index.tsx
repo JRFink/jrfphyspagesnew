@@ -80,22 +80,39 @@ const Onedm = () => {
                 <h3 className={style.h3text}> 
                     Average and instantaneous
                 </h3>  
-                <h4>
-                    &nbsp; &nbsp; 2.1.1 Average  
-                </h4>
+                    <h4>
+                        &nbsp; &nbsp; 2.1.1 Average  
+                    </h4>
+                    <br />
+                    <p>
+                        We define the average velocity as
+                    </p>
+                    <br />
+                    <div className={style.equationBox}>
+                        <div className={style.equation}> <b>v</b> <span><sub>avg </sub></span> &nbsp; = &#40; <b>x</b> <span><sub>2</sub></span> &nbsp; - 
+                            <b>x</b> <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; 
+                            = &#916;  <b> x</b> &nbsp; / &#916; t    </div>  
+                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                    </div>
+                    <h4>
+                        &nbsp; &nbsp; 2.1.2 Instantaneous
+                    </h4>
+                    <p>
+                        We define the instantaneous velocity as
+                    </p>
+                    <br />
+                    <div className={style.equationBox}>
+                        <div className={style.equation}> <b>v</b> <span><sub>inst </sub></span> &nbsp; = Lim <span><sub>&#916; t &#10140; 0 &nbsp; </sub></span> 
+                            &#40; <b>x</b> <span><sub>2</sub></span> &nbsp; - &nbsp; <b>x</b> <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41;
+                            = &#916; <b>x</b> &nbsp; / &#916; t
+                        </div>  
+                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                    </div>
+                    <br />
+                    <p>
+                        It is what the slope approaches at a very short change in time. 
+                    </p>
                 <br />
-                <p>
-                    We define the average velocity as
-                </p>
-                <div className={style.equationBox}>
-                    <div className={style.equation}> v<span><sub>avg</sub></span> = &#40; x<span><sub>2</sub></span> &nbsp; - x<span><sub>1</sub></span> &#41;
-                        / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; 
-                        = &#916; x / &#916; t    </div>  
-                    {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
-                </div>
-                <h4>
-                &nbsp; &nbsp; 2.1.2 Instantaneous
-                </h4>
                 <h2 className={style.h2SectionColor} id="speed">
                     3. Speed
                 </h2>
@@ -111,15 +128,39 @@ const Onedm = () => {
                  <h4>
                      &nbsp; &nbsp; 3.1.1 Average  
                  </h4>
+                    <p>
+                        We define the average speed as
+                    </p>
+                    <br />
+                    <div className={style.equationBox}>
+                        <div className={style.equation}> v <span><sub>avg </sub></span> &nbsp; = &#40; x <span><sub>2</sub></span> &nbsp; - 
+                            x <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; 
+                            = &#916;  x &nbsp; / &#916; t    
+                        </div>  
+                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                    </div>
                 <h4> 
                     &nbsp; &nbsp; 3.1.2 Instantaneous
-                    </h4>
-                                <h2 className={style.h2SectionColor} id="accel">
-                                    4. Acceleration
-                                </h2>
-                                <br></br>
-                                <AccelVid />
-                                <br></br>
+                </h4>
+                    <p>
+                        We define the instantaneous speed as
+                    </p>
+                    <br />
+                    <div className={style.equationBox}>
+                        <div className={style.equation}> v <span><sub>inst </sub></span> &nbsp; = Lim <span><sub>&#916; t &#10140; 0 &nbsp; </sub></span> 
+                            &#40; x <span><sub>2</sub></span> &nbsp; - &nbsp; x <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41;
+                            = &#916; x &nbsp; / &#916; t
+                        </div>  
+                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                    </div>
+                    <br />
+                    <br />
+                <h2 className={style.h2SectionColor} id="accel">
+                    4. Acceleration
+                </h2>
+                <br></br>
+                <AccelVid />
+                <br></br>
                     <h3 className={style.h3num}>
                     4.1
                     </h3>
