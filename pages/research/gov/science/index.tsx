@@ -60,6 +60,8 @@ const Science = () => {
 <br />
 <li><Link href="https://www.msu.ru/index.php">Moscow state university</Link></li>
 </ul>
+<br /> 
+<br />
             &nbsp; &nbsp; Labs - 
                 <ul>
                     Office of science 
