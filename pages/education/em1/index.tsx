@@ -17,6 +17,11 @@ const Em1 = () => {
                 <Link href="/education/em1/equat" className={style.styleCourseNav}>Equation page</Link>
             </div>
             <br />
+<p> 
+  Here is a useful book for <Link href="https://www.amazon.com/gp/aw/d/0321856562/ref=dp_ob_neva_mobile">
+Electricity and magnetism</Link>
+</p>
+<br />
             <Link href="/education/em1/math" className={style.generalLink}>Math background</Link><br></br>
             <br></br>
             <Link href="/education/em1/elec" className={style.generalLink}>Electrostatics</Link><br></br>
