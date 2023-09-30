@@ -17,7 +17,7 @@ const Helpful = () => {
     return (
         <>
             <h4 className={style.helpButtonHeader}>Was this helpful?</h4> 
-            <button className={style.helpButton} onClick={() => handleSubmit}>
+            <button className={style.helpButton} onClick={handleSubmit}>
                 <svg width="18px" height="18px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" transform="rotate(180)">
                 <g id="SVGRepo_bgCarrier" stroke-width="0"/>
                 <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
