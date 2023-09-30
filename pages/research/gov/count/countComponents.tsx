@@ -271,7 +271,7 @@ export function Deutschland () {
                     Science - Wissenschaft
                 </h3>
                     <p>
-                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
+                        <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Wissenschaft</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
                     Educacation - Erziehung
@@ -423,6 +423,7 @@ export function Россия () {
                     </p>
                     <p> 
                         President - Vladimir Putin 
+<br />
                         Prime Minister - Mikhail Mishustin
                     </p>
                     <p>
