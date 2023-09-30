@@ -11,26 +11,15 @@ const Ap = () => {
                 AP Physics &#174;
             </h1>
             <p>
-                There are four different AP classes you could take:
-                
-                <ul>
-                <br /> 
-                    <li>
-                        <Link href="/education/ap/ap1alg" className={style.apText}>AP Physics 1 - algebra based</Link> 
-                    </li>
+                There are four different AP classes you could take:                               
+                    <br />                   
+                        <Link href="/education/ap/ap1alg" className={style.generalLink}>AP Physics 1 - algebra based</Link>                    
+                    <br />                   
+                        <Link href="/education/ap/ap2alg" className={style.generalLink}>AP Physics 2 - algebra based</Link> 
                     <br />
-                    <li>
-                        <Link href="/education/ap/ap2alg" className={style.apText}>AP Physics 2 - algebra based</Link> 
-                    </li>
+                        <Link href="/education/ap/apcmech" className={style.generalLink}>AP Physics C - mechanics</Link> 
                     <br />
-                    <li>
-                        <Link href="/education/ap/apcmech" className={style.apText}>AP Physics C - mechanics</Link> 
-                    </li>
-                    <br />
-                    <li>
-                        <Link href="/education/ap/apcelec" className={style.apText}>AP Physics C - electricity and magnetism</Link> 
-                    </li>
-                </ul>
+                        <Link href="/education/ap/apcelec" className={style.generalLink}>AP Physics C - electricity and magnetism</Link>      
             </p>
 <br /> 
 <Helpful /> 
