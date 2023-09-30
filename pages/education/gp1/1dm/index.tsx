@@ -29,6 +29,8 @@ const Onedm = () => {
             We begin our formal study of physics with 1 dimensional motion. This is the simplest motion one can study.
             </p>
             <br />
+<h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>
+<br />
             <br />
             <h2 className={style.h2SectionColor}> 
                     Domain of 1 dimension  
