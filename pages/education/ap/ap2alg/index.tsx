@@ -44,7 +44,7 @@ The current structure of the class consists of seven units&#59; they are:
                <p className={style.numberLink}>  
                    6 
                </p>   
-               <Link href="/education/ap/ap2alg/geo" className={style.generalLink}>Geometric and physical objects</Link><br></br>   
+               <Link href="/education/ap/ap2alg/geo" className={style.generalLink}>Geometric and physical optics</Link><br></br>   
                <br />     
                <p className={style.numberLink}>  
                    7  
