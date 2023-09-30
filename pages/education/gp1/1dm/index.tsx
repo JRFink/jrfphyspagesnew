@@ -167,12 +167,35 @@ const Onedm = () => {
                     <h3 className={style.h3text}>
                         Average and instantaneous
                     </h3>
-                        <h4> 
-                            &nbsp; &nbsp; 4.1.1 Average 
-                        </h4> 
+                    <br />
+                        <p>
+                            We define the average acceleration as
+                        </p>
+                        <br />
+                        <div className={style.equationBox}>
+                            <div className={style.equation}> <b>a</b> <span><sub>avg </sub></span> &nbsp; = &#40; <b>v</b>
+                                <span><sub>2</sub></span> &nbsp; - &nbsp; <b>v</b> <span><sub>1</sub></span> &#41; / &#40; 
+                                t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; = &#916;  
+                                <b>v</b> &nbsp; / &#916; t    
+                            </div>  
+                            {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                        </div> 
                         <h4> 
                             &nbsp; &nbsp; 4.1.2 Instantaneous 
-                        </h4>           
+                        </h4>  
+                        <p>
+                            We define the instantaneous acceleration as
+                        </p>
+                        <br />
+                        <div className={style.equationBox}>
+                            <div className={style.equation}> <b>a</b> <span><sub>inst </sub></span> &nbsp; = Lim <span><sub>&#916; 
+                                t &#10140; 0 &nbsp; </sub></span> &#40; <b>v</b> <span><sub>2</sub></span> &nbsp; - &nbsp; 
+                                <b>v</b> <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - 
+                                t<span><sub>1</sub></span> &#41;= &#916; <b>v</b> &nbsp; / &#916; t
+                            </div>  
+                            {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                        </div>     
+                <br />    
             <h3 className={style.h3num}>
             4.2
             </h3>
