@@ -271,7 +271,10 @@ const Onedm = () => {
             </h4> 
             <Summary />
             <br></br>
-            The equations you will use in one dimensional motion are 
+                <p>
+                    The equations you will use in one dimensional motion are 
+                </p>
+            
             <br></br>
             <div className={style.equationBox}>
                 <div className={style.equation}>x = x<span><sub>0</sub></span> + v t</div>
