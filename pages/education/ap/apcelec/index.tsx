@@ -5,7 +5,7 @@ const ApCelec = () => {
    return (  
       <>  
         <br />
-        <Link href="/education/ap" className={style.backtoLink}>AP</Link>
+        <Link href="/education/ap" className={style.backtoLink}>AP classes</Link>
         <h1 className={style.centerText}> 
            AP Physics C - e and m  
         </h1> 

@@ -15,10 +15,13 @@ const Ap = () => {
                 <br />  
                 <br />                 
                     <Link href="/education/ap/ap1alg" className={style.generalLink}>AP Physics 1 - algebra based</Link>                    
-                <br />                   
+                <br /> 
+                <br />                  
                     <Link href="/education/ap/ap2alg" className={style.generalLink}>AP Physics 2 - algebra based</Link> 
                 <br />
+                <br />
                     <Link href="/education/ap/apcmech" className={style.generalLink}>AP Physics C - mechanics</Link> 
+                <br />
                 <br />
                     <Link href="/education/ap/apcelec" className={style.generalLink}>AP Physics C - electricity and magnetism</Link>      
             </p>

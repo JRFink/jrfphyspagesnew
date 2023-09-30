@@ -5,7 +5,7 @@ const Ap1alg = () => {
     return ( 
        <> 
         <br />
-        <Link href="/education/ap" className={style.backtoLink}>AP</Link>
+        <Link href="/education/ap" className={style.backtoLink}>AP classes</Link>
         <h1 className={style.centerText}>
             AP Physics 1 - algebra 
         </h1>
@@ -38,7 +38,7 @@ const Ap1alg = () => {
               <p className={style.numberLink}> 
                   5
               </p>  
-              <Link href="/education/ap/ap1alg/energ" className={style.generalLink}>Momentum</Link><br></br>  
+              <Link href="/education/ap/ap1alg/mom" className={style.generalLink}>Momentum</Link><br></br>  
               <br />   
               <p className={style.numberLink}> 
                   6
