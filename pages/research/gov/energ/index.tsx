@@ -14,7 +14,12 @@ const Energ = () => {
             <br />
             <p>
                 Below you will find some info about energy around the globe. 
-            
+            </p>
+            <p>
+                A large project under development for producing energy is the tokamak project through <Link href="https://www.iter.org/">ITER</Link>. 
+                <br />
+                <br />
+                The countries that have the highest electricity usage per capita are Iceland, Norway, and Bahrain. 
             </p>
         </>
     );

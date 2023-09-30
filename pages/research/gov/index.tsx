@@ -32,140 +32,24 @@ const Gen = () => {
                 <Link href="/research/gov/count" className={style.generalLink}>Countries</Link>
                 <br />
             </div>
-                
 
-                        
-                        
-                <h2>
-                    Argentina
-                </h2>
-                    <p>
-                        <Link href="https://www.argentina.gob.ar/" className={style.noUnder}>Gobierno</Link>
-                        <ul>
-                            <li>
-                                <Link href="https://www.argentina.gob.ar/economia/energia" className={style.noUnder}>Energía</Link>
-                            </li>
-                            <br></br>
-                            <li>
-                                <Link href="https://www.argentina.gob.ar/ciencia" className={style.noUnder}>Ciencia</Link>
-                            </li>
-                            <br></br>
-                            <li>
-                                <Link href="https://www.argentina.gob.ar/educacion" className={style.noUnder}>Educación</Link>
-                            </li>
-                        </ul>
-                    </p>
-                <br />
-                <h2>
-                    China - 中國
-                </h2>
-                    <p>
-                        <Link href="https://www.gov.cn" className={style.noUnder}>Government - 政府</Link>
-                        <p>
-                            China has a one party system, enacted through the <Link href="http://en.npc.gov.cn.cdurl.cn/">NPC</Link>.
-                            <br /> 
-                            <br />
-                            General secretary - Xi Jinping
-                            Premier - Li Qiang
-                        </p>
-                        <ul>
-                            <li>
-                                <Link href="http://www.nea.gov.cn" className={style.noUnder}>Energy - 精力</Link>
-                            </li>
-                            <p>
-                                In China, the average electricity usage per year per capita is around 30,000 kWh. 
-                                <br />
-                                That &#39;s about 3,000 kWh / month; and about 100 kWh / day. 
-                            </p>
-                            <p>
-                                Some of the largest electric companies in China are 
-                                <ul>
-                                    <li><Link href="http://www.sgcc.com.cn/">State grid corporation</Link></li>
-                                </ul>
-                            </p>
-                            <br></br>
-                            <li>
-                                <Link href="https://en.most.gov.cn" className={style.noUnder}>Science - 科学</Link>
-                            </li>
-                            <br></br>
-                            <li>
-                                <Link href="http://en.moe.gov.cn" className={style.noUnder}>Education - 教育</Link>
-                            </li>
-                            <br /> 
-                            <p>Some of the best universities in China are
-                            <ul> 
-                            <li><Link href="https://www.tsinghua.edu.cn/" className={style.noUnder}>Tsinghua University</Link></li>
-                            <li><Link href="https://www.pku.edu.cn/" className={style.noUnder}>Peking University</Link></li>
-                            <li><Link href="https://www.zju.edu.cn/mainm.htm" className={style.noUnder}>Zhejiang University</Link></li>
-                            </ul> 
-                            </p>
-                                   <br /> 
-     
-                            <p>
-                                There are about <Link href="http://en.moe.gov.cn/documents/reports/202304/t20230403_1054100.html">15,000</Link> senior high schools in china.
-                            </p>
-                            <br />
-                                <li>
-                                    <Link href="https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html" className={style.noUnder}>Constitution - 1982</Link>
-                                </li>
-                            <br />
-                            <li>
-                                <Link href="https://12339.gov.cn" className={style.noUnder}>Mss - 国家安全部</Link>
-                            </li>
-                        </ul>
-                    </p>
-                <br /> 
-               <h2> 
-               Germany - Deutschland 
-               </h2>               
-               <p>  
-                  <Link href="https://www.bundestag.de/" className={style.noUnder}>Government - Regierung</Link>
-                <br /> 
-                President - Frank-Walter Steinmeier
-                Chancellor - Olaf Scholz 
-                    <ul> 
-                        <li> 
-                            <Link href="https://www.bundesnetzagentur.de/EN/Home/home_node.html" className={style.noUnder}>Energy - Energie</Link> 
-                        </li>
-                        <br />
-                        <li>
-                            <Link href="https://www.bmbf.de/bmbf/de/home/home_node.html" className={style.noUnder}>Education - Erziehung</Link>
-                        </li>
-                        <br />  
-                        <p>Some of the best colleges in Germany are 
-                        <ul>  
-                        <li><Link href="https://www.tum.de/">Technical University of Munich</Link></li> 
-                        <li><Link href="https://www.lmu.de/de/index.html">Ludwig Maximilian University of Munich</Link></li> 
-                        <li><Link href="https://www.uni-heidelberg.de">Heidelberg University</Link></li> 
-                        </ul> 
-                        </p>                                      
-                        <br />
-                        <li>
-                            <Link href="https://www.gesetze-im-internet.de/gg/" className={style.noUnder}>Constitution - Grundgesetz - 1949</Link>
-                        </li>
-                        <br />
-                        <li>
-                            <Link href="https://www.bnd.bund.de" className={style.noUnder}>Bnd</Link>
-                        </li> 
-                    </ul>
-                </p>
-                <br />
+    
                 <h2>
                     India - भारत
                 </h2>
                     <p>
-                        <Link href="https://www.india.gov.in" className={style.noUnder}>Government</Link>
+                        
                         <ul>
                             <li>
-                                <Link href="https://mnre.gov.in/" className={style.noUnder}>Energy</Link>
+                                
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://dst.gov.in" className={style.noUnder}>Science</Link>
+                                
                             </li>
                             <br></br>
                             <li>
-                                <Link href="https://www.education.gov.in" className={style.noUnder}>Education</Link>
+                                
                             </li>
                         </ul>
                     </p>
@@ -297,30 +181,7 @@ const Gen = () => {
                             <Link href="https://www.meb.gov.tr/" className={style.noUnder}>Education - Eğitim</Link>
                         </li>
                     </ul>
-                </p>
-            <h2 className={style.h2SectionColor}>
-                Energy
-            </h2>
-                <p>
-                    A large project under development for producing energy is the tokamak project through <Link href="https://www.iter.org/">ITER</Link>. 
-                    <br />
-                    <br />
-                    The countries that have the highest electricity usage per capita are Iceland, Norway, and Bahrain. 
-                </p>
-            <h2 className={style.h2SectionColor}>
-                Information
-            </h2>
-            <br />
-            <br />
-            <h2 className={style.h2SectionColor}>
-                Education
-            </h2>
-            <br />
-            <br />
-            <h2 className={style.h2SectionColor}>
-                Communication
-            </h2>
-                
+                </p>                         
                 <h2>
                     Other
                 </h2>

@@ -1,6 +1,6 @@
 import Link from 'next/link'; 
 import style from '@/styles/general.module.css';
-import America, { Albania } from './countComponents';
+import Shqipëria, {America, Argentina, 中國, Deutschland, भारत, ایران, 日本, Россия, Singapura, Türkiye} from './countComponents';
 
 const Countr = () => {
     return (
@@ -17,10 +17,38 @@ const Countr = () => {
                 Below you will find some info about different countries. 
             </p>
             <br />
-            <Albania />
+            <Shqipëria />
             <br />
             <br />
             <America />
+            <br />
+            <br />
+            <Argentina />
+            <br />
+            <br />
+            <中國 />
+            <br />
+            <br />
+            <Deutschland />
+            <br />
+            <br />
+            <भारत />
+            <br />
+            <br />
+            <ایران />
+            <br />
+            <br />
+            <日本 />
+            <br />
+            <br />
+            <Россия />
+            <br />
+            <br />
+            <Singapura />
+            <br />
+            <br />
+            <Türkiye />
+
         </>
     );
 }
