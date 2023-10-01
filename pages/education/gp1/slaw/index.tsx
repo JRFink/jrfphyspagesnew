@@ -36,6 +36,9 @@ const Slaw = () => {
                 The domain of the second law is... 
             </p>
             <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br />
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
