@@ -13,6 +13,14 @@ const Therm = () => {
                 Thermodynamics
             </h1>
             <br></br>
+            <div className={style.flexContainer}> 
+                 <Link href="/education/therm/vid" className={style.styleCourseNav}>Videos</Link> 
+                 <Link href="" className={style.styleCourseNav}>Course notes coming</Link> 
+                 <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>   
+                 <Link href="/education/therm/equat" className={style.styleCourseNav}>Equation page</Link>  
+                 <Link href="/education/therm/stuff" className={style.styleCourseNav}>Stuff you should know</Link> 
+             </div> 
+             <br></br>
             <br></br>
             <FirstthermVid />
             <br></br>
