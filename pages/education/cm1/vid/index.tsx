@@ -6,6 +6,7 @@ const Vid = () => {
         <>
             <br />
             <Link href="/education/cm1" className={style.backtoLink}>Class mech 1</Link>
+    <br />
             <h1 className={style.centerText}>
                 Videos
             </h1>
