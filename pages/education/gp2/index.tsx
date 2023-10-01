@@ -18,6 +18,7 @@ const Gp2 = () => {
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/gp2/equat" className={style.styleCourseNav}>Equation page</Link>
                 <Link href="/education/gp2/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
+                <Link href="/education/gp2/prob" className={style.styleCourseNav}>Real world problems</Link>
             </div>
             <br></br>
             <Link href="/education/gp2/elec" className={style.generalLink}>Electric Charge, Force, and Field</Link><br></br>
