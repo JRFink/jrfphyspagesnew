@@ -36,6 +36,9 @@ Introduction
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Consider water flowing through a large pipe and then through the small nozzle of a fire hydrant.   
+ </p>
 <br />
             <h2 className={style.h2SectionColor} id="fluid">
                 1. Fluids, density, and pressure
