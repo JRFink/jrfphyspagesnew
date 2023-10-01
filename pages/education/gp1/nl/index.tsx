@@ -37,6 +37,9 @@ const NewtLaws = () => {
                     Where are Newton&#39;s laws valid? Well, it would simply be the domain where experiment agrees with what Newton&#39;s laws predict.  
                 </p>
             <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br /> 
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
