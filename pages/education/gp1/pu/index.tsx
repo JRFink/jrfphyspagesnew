@@ -42,6 +42,9 @@ const PU = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      A star and a planet are in space. Consider the star as the main object. Where is the planet after 1 year, 10 years, 1 second?    
+ </p>
             <br />
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
