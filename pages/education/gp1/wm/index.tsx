@@ -38,6 +38,9 @@ const Wave = () => {
                 The domain of wave motion is... 
             </p>
             <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br /> 
             <h2 className={style.h2SectionColor} id="osc">
                 1. Connection to oscillations
