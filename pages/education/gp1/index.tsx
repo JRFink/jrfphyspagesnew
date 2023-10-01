@@ -80,11 +80,13 @@ const Gp1 = () => {
                 1
             </p>
             <Link href="/education/gp1/frame" className={style.generalLink}>Frames, units, and measurement</Link><br></br>
+&nbsp; &#10140; with real-world problems
             <br></br>
             <p className={style.numberLink}>
                 2
             </p>
             <Link href="/education/gp1/vec" className={style.generalLink}>Vector review</Link><br></br>
+&nbsp; &#10140; with real-world problems
             <br></br>
             <p className={style.numberLink}>
                 3
