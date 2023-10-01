@@ -33,6 +33,9 @@ Introduction
  The domain of fluid mechanics is... 
  </p>
 <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
 <br />
             <h2 className={style.h2SectionColor} id="fluid">
                 1. Fluids, density, and pressure
