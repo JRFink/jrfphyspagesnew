@@ -12,6 +12,14 @@ const Qm2 = () => {
                 Quantum Mechanics 2
             </h1>
             <br></br>
+            <div className={style.flexContainer}> 
+                 <Link href="/education/qm2/vid" className={style.styleCourseNav}>Videos</Link> 
+                 <Link href="" className={style.styleCourseNav}>Course notes coming</Link> 
+                 <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>   
+                 <Link href="/education/qm2/equat" className={style.styleCourseNav}>Equation page</Link>  
+                 <Link href="/education/qm2/stuff" className={style.styleCourseNav}>Stuff you should know</Link> 
+             </div> 
+             <br></br>
             <br></br>
             <Link href="/education/qm2/q3d" className={style.generalLink}>Quantum in 3 Dimensions</Link><br></br>
             <br></br>
