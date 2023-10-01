@@ -17,6 +17,7 @@ const Qm1 = () => {
                 <Link href="" className={style.styleCourseNav}>Course notes coming</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>  
                 <Link href="/education/qm1/equat" className={style.styleCourseNav}>Equation page</Link> 
+                <Link href="/education/qm1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
             </div>
             <br></br>
             <br></br>
