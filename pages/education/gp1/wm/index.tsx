@@ -41,6 +41,9 @@ const Wave = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Consider a clothes line, about 10 m long. One end is fixed, and you snap the other end with an 
+ </p>
             <br /> 
             <h2 className={style.h2SectionColor} id="osc">
                 1. Connection to oscillations
