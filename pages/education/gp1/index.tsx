@@ -71,7 +71,7 @@ const Gp1 = () => {
                 <Link href="" className={style.styleCourseNav}>Course notes...</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equation page</Link>
-                <Link href="/education/gp1/stuff" className={style.styleCourseNav}>Stuff every gp1 student should know</Link>
+                <Link href="/education/gp1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
             </div>
             <br></br>
             <Link href="/education/gp1/int" className={style.generalLinkIntr} >Introduction</Link><br></br>
