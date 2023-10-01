@@ -49,6 +49,9 @@ const Gravity = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Drop an apple from a height <em>h</em>. How long till it hits the floor?  
+ </p>
             <br />            
             <h2 className={style.h2SectionColor} id="field">
                 1. Gravitational field and force
