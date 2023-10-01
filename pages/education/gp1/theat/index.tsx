@@ -30,7 +30,10 @@ const Theat = () => {
                     It is slightly different from the previous sections, 
                     in the sense that it is not so much concerned with finding the positions and velocities of objects 
                     as it is concerned with finding the states of objects, and how those states evolve over time. 
-                </p> 
+                </p>
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br /> 
                 <p> 
                     As a simple example, we could consider a block of ice sliding on a frictionless surface. 
                     The previous sections taught us how to find the position amd velocity of the block at any given time; 
