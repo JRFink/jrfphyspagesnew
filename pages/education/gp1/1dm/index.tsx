@@ -40,6 +40,9 @@ const Onedm = () => {
             <br /> 
  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
  <br />
+<p>
+     Consider the problem of a block sliding on frictionless ice to the right.  
+</p>
             <br />
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
