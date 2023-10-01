@@ -33,6 +33,9 @@ Introduction
  The domain of newton&#39;s laws is... 
  </p>
 <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
 <br />
             <h2 className={style.h2SectionColor} id="int">
                 1. Intro
