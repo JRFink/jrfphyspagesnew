@@ -39,6 +39,9 @@ From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not
             <br /> 
  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
  <br />
+<p> 
+      Consider the problem of a rock tied to a rope that is swung around an axis, the block resting on frictionless ice.   
+ </p>
 <br />
             <h2 className={style.h2SectionColor} id="2dm">
                 1. 2 dimensions 
