@@ -18,24 +18,22 @@ const Eq = () => {
             <br></br>
             <ModoverviewEq />
             <br></br>
-<LearnGoal /> 
-{ /* 
-<h2> 
-Introduction 
-</h2>
-*/ } 
+<LearnGoal />  
 <br />
 <br />
 <h2 className={style.h2SectionColor}> 
          Domain of equilibrium and elasticity  
 </h2>
 <p> 
- The domain of newton&#39;s laws is... 
+ The domain of equilibrium and elasticity is... 
  </p>
 <br /> 
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Consider a bridge spanning a river. The bridge does not collapse.   
+ </p>
 <br />
             <h2 className={style.h2SectionColor} id="int">
                 1. Intro
