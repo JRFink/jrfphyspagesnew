@@ -40,6 +40,9 @@ const NewtLaws = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Consider a rocket going up. How would you characterize its motion?  
+ </p>
             <br /> 
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
