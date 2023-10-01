@@ -36,6 +36,9 @@ const Osc = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Consider a building that sways slightly back and forth in the wind, about 10 cm on each side. How would you model this situation, the position as a function of time?
+ </p>
             <br />
                 <h2 className={style.h2SectionColor} id="desc">
                     1. Describing oscillations 
