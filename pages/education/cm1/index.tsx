@@ -17,6 +17,7 @@ const Cm1 = () => {
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/cm1/equat" className={style.styleCourseNav}>Equation page</Link>
                 <Link href="/education/cm1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
+                <Link href="/education/cm1/prob" className={style.styleCourseNav}>Real world problems</Link>
             </div>
             <br />
 <p> 
