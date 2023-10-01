@@ -36,6 +36,9 @@ From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not
  The domain of two and three dimensional motion is motion which we can characterize by two or three independent variables, respectively.
  </p>
 <br /> 
+            <br /> 
+ <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
+ <br />
 <br />
             <h2 className={style.h2SectionColor} id="2dm">
                 1. 2 dimensions 
