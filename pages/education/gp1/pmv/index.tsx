@@ -37,6 +37,9 @@ const Pmv = () => {
                 The domain of momentum, impulse, and collisions is... 
             </p>
             <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br />
             <h2 className={style.h2SectionColor} id="cent">
                 1. Center of mass
