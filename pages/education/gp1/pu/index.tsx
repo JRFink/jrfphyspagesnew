@@ -39,6 +39,9 @@ const PU = () => {
                 The domain of potential energy and energy conservation is... 
             </p>
             <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br />
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
