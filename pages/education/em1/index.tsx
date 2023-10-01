@@ -15,6 +15,7 @@ const Em1 = () => {
                 <Link href="" className={style.styleCourseNav}>Course notes...</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/em1/equat" className={style.styleCourseNav}>Equation page</Link>
+                <Link href="/education/em1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
             </div>
             <br />
 <p> 
