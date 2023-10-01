@@ -35,6 +35,9 @@ const Kin = () => {
                 The domain of gases is... 
             </p>
             <br /> 
+            <br />  
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br /> 
             <h2 className={style.h2SectionColor} id="ideal">
                 Ideal
