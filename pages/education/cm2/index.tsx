@@ -15,6 +15,7 @@ const Cm2 = () => {
                 <Link href="" className={style.styleCourseNav}>Course notes...</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/cm2/equat" className={style.styleCourseNav}>Equation page</Link>
+                <Link href="/education/cm2/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
             </div>
             <br />
             <Link href="/education/cm2/cvar" className={style.generalLink}>Math background</Link><br></br>
