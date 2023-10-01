@@ -40,6 +40,9 @@ const Pmv = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Two pool balls collide. Where are they after the collision?  
+ </p>
             <br />
             <h2 className={style.h2SectionColor} id="cent">
                 1. Center of mass
