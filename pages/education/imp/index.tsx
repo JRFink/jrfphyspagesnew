@@ -16,7 +16,8 @@ const Imp = () => {
                 <Link href="" className={style.styleCourseNav}>Course notes...</Link>
                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
                 <Link href="/education/imp/equat" className={style.styleCourseNav}>Equation page</Link>
-            </div>
+                <Link href="/education/imp/stuff" className={style.styleCourseNav}>Stuff you should know</Link>           
+           </div>
             <br></br>
             <Link href="/education/imp/spc" className={style.generalLink}>Space, time, and relativity</Link><br></br>
             <br></br>
