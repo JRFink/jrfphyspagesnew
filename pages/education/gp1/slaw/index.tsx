@@ -39,6 +39,9 @@ const Slaw = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<p> 
+      Consider an object A with 3 bit slots and object B with 3 bit slots. The bit slots can either be 0 or 1. If each bit is randomly generated, in what state are you most likely to find A and B collectively, as in A: _ _ _ B : _ _ _ .  
+ </p>
             <br />
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
