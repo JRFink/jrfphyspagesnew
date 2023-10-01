@@ -39,7 +39,8 @@ const Rm = () => {
             </p>
             <br /> 
             <br />
-            <br /> 
+  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+  <br />
             <br />
             <h2 className={style.h2SectionColor} id="ang">
                 1. Angular kinematics
