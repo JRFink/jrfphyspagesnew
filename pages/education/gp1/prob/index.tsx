@@ -1,5 +1,6 @@
 import Link from 'next/link'; 
 import style from '@/styles/general.module.css'; 
+import Helpful from '@/pages/components/helpful/$gp1$prob';
   
  const Prob = () => { 
      return ( 
@@ -27,6 +28,8 @@ import style from '@/styles/general.module.css';
                     <li>Solve for the position of a airplane as a function of time along the x axis</li>
                 </ul>
             </p>
+            <br />
+            <Helpful />
          </> 
      ); 
  } 

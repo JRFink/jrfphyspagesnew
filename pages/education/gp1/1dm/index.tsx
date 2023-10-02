@@ -53,6 +53,8 @@ const Onedm = () => {
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
             </h2>
+            <br />
+            <br />
             <p className={style.centerText}> 
                 Buy the position and velocity video on our <Link href="/members">members</Link> page. 
             </p>
