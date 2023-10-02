@@ -25,7 +25,7 @@ import Helpful from '@/pages/components/helpful/$gp1$prob';
              <p>
                 After going through this section, you should be able to 
                 <ul>
-                    <li>Solve for the position of a airplane as a function of time along the x axis</li>
+                    <li>Solve for the position of an airplane as a function of time along the x axis</li>
                 </ul>
             </p>
             <br />
