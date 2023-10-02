@@ -14,7 +14,7 @@ import emcircuits from '@/public/images/emcircuits.jpg';
 import surface from '@/public/images/surface.jpg';
 import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
-import Helpful from '@/pages/components/helpful';
+import Helpful from '@/pages/components/helpful/hindex';
  
 
 const indexPage = () => {

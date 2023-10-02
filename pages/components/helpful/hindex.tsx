@@ -3,7 +3,7 @@ import style from '@/styles/general.module.css';
 const handleSubmitHelp = async () => { 
   
   console.log('logged');
-   const endpoint = '/api/helpful' 
+   const endpoint = '/api/helpful/hindex' 
    const options = { 
      method: 'POST', 
      headers: { 
@@ -19,7 +19,7 @@ const handleSubmitHelp = async () => {
  const handleSubmitNotHelp = async () => { 
   
   console.log('logged');
-   const endpoint = '/api/nothelpful' 
+   const endpoint = '/api/nothelpful/nhindex' 
    const options = { 
      method: 'POST', 
      headers: { 
