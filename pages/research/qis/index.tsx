@@ -94,7 +94,7 @@ const QuantI = () => {
                     History ... 
                 </p>
             <br />  
-<br />
+            <br />
             <h2>
                 Major players 
             </h2>
