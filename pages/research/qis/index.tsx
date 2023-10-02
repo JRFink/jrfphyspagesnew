@@ -18,8 +18,8 @@ const QuantI = () => {
                 Intro
             </h2>
             <p>
-                Quantum information studies how information is stored at the atomic and subatomic levels; 
-                quantum computing studies how to use that information to solve practical problems. Quantum information is stored differently than classical information,
+                Quantum information studies how information is stored at the atomic and subatomic levels.
+                Quantum computing studies how to use that information to solve practical problems. Quantum information is stored differently than classical information,
                 and ones uses that fact to solve problems that are difficult to solve classicaly. 
                 Find some of the latest research <a href="https://journals.aps.org/prxquantum/">here</a>.      
             </p>
@@ -63,7 +63,7 @@ const QuantI = () => {
                 Domain
             </h2>
             <p>
-                    The largest molecules are about 10 nm and the smallest are about 1 angstrom.  
+                    The largest molecules are about 10 nm and the smallest molecules are about 1 angstrom.  
             </p>
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
@@ -99,7 +99,7 @@ const QuantI = () => {
                 Major players 
             </h2>
                 <p>
-                    There are some major players in the space. They include
+                    There are some major players in the space. They include:
                 </p>
                     <ul>
                         <li><Link href="https://www.ibm.com/quantum">IBM</Link></li>

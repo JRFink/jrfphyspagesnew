@@ -11,6 +11,8 @@ import EUKVid from '@/public/videos/gp1/euk';
 import RotVid from '@/public/videos/gp1/rm';
 import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
+import Helpful from '@/pages/components/helpful/$gp1$vid';
+
 // import { unstable_getServerSession } from "next-auth/next"; 
 // import { authOptions } from "./api/auth/[...nextauth]"
 // import { useSession } from "next-auth/react"
@@ -85,7 +87,10 @@ const Gp1Vid = () => {
             <br /> 
             <br /> 
             <TaylorVid />
-
+            <br /> 
+            <br /> 
+            <Helpful />
+            <br />
         </>
     );
 }

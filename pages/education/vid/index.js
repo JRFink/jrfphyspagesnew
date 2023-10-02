@@ -16,6 +16,7 @@ import TaylorVid from '@/public/videos/gp1/taylor';
 import FirstthermVid from '@/public/videos/therm/firstthermvid';
 import IhVid from '@/public/videos/qm1/ihvid';
 const stripe = require('stripe')(process.env.NEXT_PUBLIC_SKTEST);
+import Helpful from '@/pages/components/helpful/$allvid';
 
 const AllVid = () => {
     return (
@@ -82,6 +83,8 @@ const VidFlow = () => {
     return (
         <>
             <AllVid />
+            <br />
+            <Helpful />
         </>
     )
 }
