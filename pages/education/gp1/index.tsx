@@ -100,47 +100,47 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 5
             </p>
-            <Link href="/education/gp1/23dm" className={style.generalLink}>Motion in 2 and 3 Dimensions</Link><br></br>
+            <Link href="/education/gp1/23dm" className={style.generalLink}>Linear motion in 2 and 3 Dimensions</Link><br></br>
+            <br></br>
+<p className={style.numberLink}>
+                6
+            </p>
+            <Link href="/education/gp1/rm" className={style.generalLink}>Rotational Motion</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/1" className={style.testLink}>Test 1</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
-                6
+                7
             </p>
             <Link href="/education/gp1/diff" className={style.generalLink}>Differential equations crash course</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
-                7
+                8
             </p>
             <Link href="/education/gp1/nl" className={style.generalLink}>Newton&apos;s Laws of Motion</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
-                8
+                9
             </p>
             <Link href="/education/gp1/applnl" className={style.generalLink}>Applying Newton&apos;s Laws</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
-                9
+                10
             </p>
             <Link href="/education/gp1/wke" className={style.generalLink}>Work and Kinetic Energy</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
-                10
+                11
             </p>
             <Link href="/education/gp1/pu" className={style.generalLink}>Potential Energy &#38; Energy Conservation</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/2" className={style.testLink}>Test 2</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
-                11
-            </p>
-            <Link href="/education/gp1/pmv" className={style.generalLink}>Momentum, Impulse, Collisions</Link><br></br>
-            <br></br>
-            <p className={style.numberLink}>
                 12
             </p>
-            <Link href="/education/gp1/rm" className={style.generalLink}>Rotational Motion</Link><br></br>
-            <br></br>
+            <Link href="/education/gp1/pmv" className={style.generalLink}>Momentum, Impulse, Collisions</Link><br></br>
+            <br></br>     
             <p className={style.numberLink}>
                 13
             </p>
