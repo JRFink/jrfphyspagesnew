@@ -8,8 +8,7 @@ import publicgroup from '@/public/images/publicgroup.jpg';
 import water from '@/public/images/water.jpg';
 import symbols from '@/public/images/symbols.jpg';
 import violin from '@/public/images/violin.jpg';
-import quantspiral from
-'@/public/images/quantspiral.jpg';
+import quantspiral from '@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits.jpg';
 import surface from '@/public/images/surface.jpg';
