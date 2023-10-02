@@ -14,6 +14,7 @@ import emcircuits from '@/public/images/emcircuits.jpg';
 import surface from '@/public/images/surface.jpg';
 import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
+import Helpful from '@/pages/components/helpful';
  
 
 const indexPage = () => {
@@ -468,6 +469,8 @@ Instead, you can come here and learn all the physics you want for &#36;5 per mon
                     alt="The black gradient symbol" 
                 />
             </div>  
+            <br /> 
+            <Helpful />
     </>
   );
 }
