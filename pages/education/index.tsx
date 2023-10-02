@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Helpful from '@/pages/components/helpful/$ed';
 
 const Education = () => {
 
@@ -22,8 +23,7 @@ const Education = () => {
                 <Link href="/education/ap" className={style.generalLink}>AP Physics &#174;</Link>
                 <br />
                 <Link href="/education/ib" className={style.generalLink}>IB Physics</Link>
-
-<br /> 
+                <br /> 
                 <Link href="/education/pgre" className={style.generalLink}>Physics GRE &#174; prep</Link>
                 <br /> 
                 <Link href="/education/mcat" className={style.generalLink}>MCAT &#174; prep</Link>
@@ -88,7 +88,9 @@ const Education = () => {
             <h3 className={style.edHeaderSpace}>
                 Reviews
             </h3>
-            <br></br>
+            <br />
+            <Helpful />
+            <br />
         </>
     );
 }

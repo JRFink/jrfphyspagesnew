@@ -8,7 +8,7 @@ import style from '@/styles/general.module.css';
              <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link> 
              <br /> 
              <h1 className={style.centerText}> 
-                 Real world problems
+                Real world problems
              </h1> 
          </> 
      ); 

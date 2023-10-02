@@ -10,11 +10,8 @@ const con = mysql.createConnection({
 }) 
   
  export default function handler(req, res) { 
-    console.log(
-        'quesyyyy'
-    )
 
-     const sql = "INSERT INTO "+process.env.UCH_UCH+" (helpful) VALUES ('index')";  
+     const sql = "INSERT INTO "+process.env.UCH_UCH+" (helpful) VALUES ('ed')";  
      con.query(sql, function(err, response) { 
          if (err) { 
              console.log(err); 

@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Helpful from '@/pages/components/helpful/$gp1'
 
 
 const Gp1 = () => {
@@ -10,8 +11,7 @@ const Gp1 = () => {
             <br></br>
             <h1 className={style.centerText}>
                 General Physics 1
-            </h1>
-            
+            </h1>    
             <p>
                 Hello, and welcome to gen phys 1! This class is meant to be awesome; 
                 it is the equivalent of a gen phys 1 class you would take in high school or college. You will learn about 
@@ -81,13 +81,11 @@ const Gp1 = () => {
                 1
             </p>
             <Link href="/education/gp1/frame" className={style.generalLink}>Frames, units, and measurement</Link><br></br>
-&nbsp; &#10140; with real-world problems
             <br></br>
             <p className={style.numberLink}>
                 2
             </p>
             <Link href="/education/gp1/vec" className={style.generalLink}>Vector review</Link><br></br>
-&nbsp; &#10140; with real-world problems
             <br></br>
             <p className={style.numberLink}>
                 3
@@ -205,7 +203,11 @@ const Gp1 = () => {
             <Link href="/education/gp1/sum" className={style.generalLinkSumm}>Summary</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/final" className={style.testLink}>Final exam</Link><br></br>
-            <br></br>
+            <br />
+            <br /> 
+            <Helpful />
+            <br />
+            <br />
         </>
     );
 }
