@@ -21,10 +21,8 @@ const Two3dm = () => {
     <br /> 
 <LearnGoal />
             <p> 
-                 After going through this section, you should be able to  
-                 <ul> 
-                     <li>Solve for the speed of a planet going around a atar.</li> 
-                 </ul> 
+                 After going through this section, you should be able to...  
+                
              </p>
 <h2> 
 Introduction 
