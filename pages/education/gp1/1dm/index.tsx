@@ -22,6 +22,12 @@ const Onedm = () => {
             <Modoverview1dm />
             <br />
             <LearnGoal />
+            <p>
+                After going through this section, you should be able to 
+                <ul>
+                    <li>Solve for the position of a airplane as a function of time along the x axis</li>
+                </ul>
+            </p>
             <h2>
             Introduction 
             </h2> 
@@ -38,11 +44,11 @@ const Onedm = () => {
             </p>
             <br /> 
             <br /> 
- <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
- <br />
-<p>
-     Consider the problem of a block sliding on frictionless ice to the right.  
-</p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
+            <br />
+            <p>
+                Consider the problem of a block sliding on frictionless ice to the right.  
+            </p>
             <br />
             <h2 className={style.h2SectionColor} id="pos">
                 1. Position and displacement
