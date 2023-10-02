@@ -11,7 +11,7 @@ const con = mysql.createConnection({
   
  export default function handler(req, res) { 
 
-     const sql = "INSERT INTO "+process.env.UCH_UCH+" (helpful) VALUES ('helpful')";  
+     const sql = "INSERT INTO "+process.env.UCH_UCH+" (notHelpful) VALUES ('nothelpful')";  
      con.query(sql, function(err, response) { 
          if (err) { 
              console.log(err); 
