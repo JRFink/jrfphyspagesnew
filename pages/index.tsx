@@ -9,6 +9,7 @@ import water from '@/public/images/water.jpg';
 import symbols from '@/public/images/symbols.jpg';
 import indexvec from '@/public/images/indexvecs.svg';
 import violin from '@/public/images/violin.jpg';
+import indexlagr from '@/public/images/indexlagr.svg';
 import quantspiral from '@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits.jpg';
@@ -330,12 +331,33 @@ const indexPage = () => {
                     After this, then comes all the stuff from gen phys 1 at a higher level. We call this classical mechanics. 
                 </p>
                 <p>
-                    In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. In class mech, we revisit the classical regime but approach it differently; we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
+                    In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. 
+                    In class mech, we revisit the classical regime but approach it differently; 
+                    we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
                 </p> 
+                <div  
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+                > 
+                <Image 
+                    src={indexlagr} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The euler-lagrange equation written in pink"  
+                /> 
+            </div>
                 <p> 
                     Instead of focusing on instantaneous changes and forces as a function, these approaches focus on the energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
                 </p> 
             <br /> 
+            <br />
+            <br />
             <br />
             <div  
                  style={{ 
