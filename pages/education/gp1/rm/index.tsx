@@ -25,7 +25,7 @@ const Rm = () => {
             <p> 
                  After going through this section, you should be able to 
                  <ul> 
-                     <li>Solve for the speed of a planet going around a atar.</li> 
+                     <li>Solve for the speed of a planet going around a star.</li> 
                  </ul> 
              </p>
             <h2> 
