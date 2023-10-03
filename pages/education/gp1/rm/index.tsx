@@ -84,15 +84,7 @@ const Rm = () => {
              <h3 className={style.h3text}> 
                  Uniform circular motion
              </h3>
-            <h3 className={style.h3num}>
-                1.5
-            </h3>
-            <h3 className={style.h3text}>
-                Connecting uniform and non-uniform circular motion
-            </h3>
-                <h4>
-                    &nbsp; &nbsp; 1.5.1 Connecting
-                </h4>
+   
             <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
             </h2>
@@ -138,6 +130,16 @@ const Rm = () => {
                     The relationships are given by
                 </p>
                 <br /> 
+   <h3 className={style.h3num}>
+                2.4
+            </h3>
+            <h3 className={style.h3text}>
+                Connecting uniform and non-uniform circular motion
+            </h3>
+<br />
+                <h4>
+                    &nbsp; &nbsp; 1.5.1 Connecting
+                </h4>
                 <div className={style.equationBox}>
                     <div className={style.equation}>a &nbsp;<span><sub>rad</sub></span> &nbsp; = 
                     &nbsp; v<span><sup>2</sup></span> / r = &#969;<sup>2</sup> &nbsp;r</div>
