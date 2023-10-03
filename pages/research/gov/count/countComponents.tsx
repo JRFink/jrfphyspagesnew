@@ -568,6 +568,11 @@ export function Caelominum () {
                  </h3> 
                      <p> 
                          <Link href="" className={style.noUnder}></Link> 
+Energy through a variety of sources:
+<ul>
+<li>electric</li>
+<li>nuclear</li>
+</ul>
                      </p> 
                  <h3 className={style.colorDarkBlue}> 
                      Science
