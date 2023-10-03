@@ -44,6 +44,8 @@ const LanguageDrop = () => {
                     <li><Link href="/glob/lang/arab" className={style.dropdownLi} onClick={handleDropdownClick}>العربية</Link></li>
                     <br />
                     <li><Link href="/glob/lang/beng" className={style.dropdownLi} onClick={handleDropdownClick}>বাংলা</Link></li> 
+   <br />
+                    <li><Link href="/glob/lang/cael" className={style.dropdownLi} onClick={handleDropdownClick}>Caelominum</Link></li> 
                     <br />
                     <li><Link href="/glob/lang/cn" className={style.dropdownLi} onClick={handleDropdownClick}>中文</Link></li> 
                     <br />
