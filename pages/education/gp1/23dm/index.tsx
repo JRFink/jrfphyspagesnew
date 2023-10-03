@@ -1,7 +1,9 @@
 import Link from 'next/link';
-import Two3Vid from '@/public/videos/gp1/two3';
+import Image from 'next/image';
 import style from '@/styles/general.module.css';
+import Two3Vid from '@/public/videos/gp1/two3';
 import { Modoverview2dm } from '@/pages/components/modoverview';
+import vec from '@/public/images/vec.svg';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
@@ -18,35 +20,50 @@ const Two3dm = () => {
             </h1>
             <br></br>
             <Modoverview2dm />
-    <br /> 
-<LearnGoal />
-            <p> 
-                 After going through this section, you should be able to...  
-                
-             </p>
-<h2> 
-Introduction 
-</h2>
-<p>
-From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not only linear but also curvy. How do we deal with these situations?
-</p> 
-
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of 2 - 3 dimensions  
-</h2>
-<p> 
- The domain of two and three dimensional motion is motion which we can characterize by two or three independent variables, respectively.
- </p>
-<br /> 
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={vec} 
+                     style={{ 
+                         width: '80%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="A green, purple, and red arrow which indicate vectors"  
+                 /> 
+             </div>
             <br /> 
- <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
- <br />
-<p> 
-      Consider the problem of a rock tied to a rope that is swung around an axis, the block resting on frictionless ice.   
- </p>
-<br />
+            <LearnGoal />
+                <p> 
+                    After going through this section, you should be able to...    
+                </p>
+            <h2> 
+            Introduction 
+            </h2>
+                <p>
+                    From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not only linear but also curvy. How do we deal with these situations?
+                </p> 
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of 2 - 3 dimensions  
+            </h2>
+                <p> 
+                    The domain of two and three dimensional motion is motion which we can characterize by two or three independent variables, respectively.
+                </p>
+            <br /> 
+            <br /> 
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2> 
+            <br />
+            <p> 
+                Consider the problem of a rock tied to a rope that is swung around an axis, the block resting on frictionless ice.   
+            </p>
+            <br />
             <h2 className={style.h2SectionColor} id="2dm">
                 1. 2 dimensions 
             </h2>
@@ -68,9 +85,9 @@ From 1 dimension we move to 2 and 3 dimensions. Now, motion is allowed to be not
             <h3 className={style.h3num}>
             1.2
             </h3> 
-                        <h3 className={style.h3text}>
-                            Velocity
-                        </h3>
+            <h3 className={style.h3text}>
+                Velocity
+            </h3>
                 <h4> 
                     &nbsp; &nbsp; 1.2.1 Velocity
                 </h4>         
