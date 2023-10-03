@@ -13,6 +13,7 @@ import indexlagr from '@/public/images/indexlagr.svg';
 import quantspiral from '@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits.jpg';
+import indexpsi from '@/public/images/indexpsi.svg';
 import surface from '@/public/images/surface.jpg';
 import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
@@ -360,22 +361,22 @@ const indexPage = () => {
             <br />
             <br />
             <div  
-                 style={{ 
-                     display: "flex", 
-                     justifyContent: "center", 
-                 }} 
-             > 
-                 <Image 
-                     src={violin} 
-                     style={{ 
-                         width: '70%', 
-                         borderRadius: "20px", 
-                         height: 'auto' 
-                     }} 
-                     sizes="100vw" 
-                     alt="top part of a violin"  
-                 /> 
-             </div>
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+            > 
+                <Image 
+                    src={violin} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="top part of a violin"  
+                /> 
+            </div>
             <br /> 
             <br /> 
                 <h2> 
@@ -420,6 +421,23 @@ const indexPage = () => {
                     We divide relativity into special and general, and special is the one you&#39;ll cover first. 
                     You usually don&#39;t cover general till grad level classes. 
                 </p> 
+                <div  
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+                > 
+                <Image 
+                    src={indexpsi} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The schrodinger equation written in green"  
+                /> 
+            </div>
                 <p>
                     Special relativity covers position, velocity, time, momentum, and energy between reference frames which are moving relative to one another. 
                     S.r. addresses these topics when things are moving close to the speed of light. 
