@@ -1,8 +1,10 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import style from '@/styles/general.module.css';
 import UnitsVid from '@/public/videos/gp1/units';
 import { ModoverviewFrames } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
+import frames from '@/public/images/frames.svg';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -22,17 +24,17 @@ const Uvec = () => {
             <ModoverviewFrames />
             <br></br>
             <LearnGoal />
-<ol> 
-<li>
-     Be able to describe an inertial reference frame. 
-</li>
-<li> 
-     Be able to describe 3 unit systems and convert between unit systems. 
-</li>
-<li> 
-     Be able to describe measurement, use significant figures, amd determine uncertainty. 
-</li> 
-</ol>
+            <ol> 
+            <li>
+                Be able to describe an inertial reference frame. 
+            </li>
+            <li> 
+                Be able to describe 3 unit systems and convert between unit systems. 
+            </li>
+            <li> 
+                Be able to describe measurement, use significant figures, amd determine uncertainty. 
+            </li> 
+            </ol>
             <h2> 
             Introduction 
             </h2>
@@ -62,6 +64,25 @@ const Uvec = () => {
             <h3 className={style.h3text}>
                 Frame relative to something else
             </h3>
+            <br />
+            <div  
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+            > 
+                <Image 
+                    src={frames} 
+                    style={{ 
+                        width: '80%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="A blue block attached to a black spring attached to a wall"  
+                /> 
+            </div>
+                <br />
                 <p>
                     We often want to describe a frame relative to something else. Specifically, we want to describe an object moving in a fixed frame. 
                     For example, say you want to describe a block moving along frictionless ice. If you want to say something 
