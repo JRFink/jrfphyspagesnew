@@ -560,6 +560,7 @@ export function Caelominum () {
 <ul> 
 <li>No drugs</li>
 <li>No birth control</li>
+<li>government exists for the benefit of creatures</li>
 </ul>
                      </p>
                  <h3 className={style.colorDarkBlue}> 
