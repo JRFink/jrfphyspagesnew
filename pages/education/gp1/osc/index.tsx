@@ -157,7 +157,6 @@ const Osc = () => {
                 <h2 className={style.h2SectionColor} id="ex">
                     4. Examples of oscillations 
                 </h2>
-                <br />
             <div  
                  style={{ 
                      display: "flex", 
