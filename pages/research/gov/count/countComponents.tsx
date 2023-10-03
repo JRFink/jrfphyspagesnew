@@ -540,7 +540,47 @@ export function Türkiye () {
                     <p>
                         <Link href="https://www.meb.gov.tr/" className={style.noUnder}>Education - Eğitim</Link>
                     </p>
-        </>
+</>
+); 
+}
+
+export function Caelominum () { 
+     return ( 
+         <> 
+             <h2 className={style.h2SectionColor} id="argentina"> 
+                 Caelominum
+             </h2> 
+                 <h3 className={style.colorDarkBlue}> 
+                     Laws 
+                 </h3> 
+                 <h3 className={style.colorDarkBlue}> 
+                     Government 
+                 </h3> 
+                     <p> 
+<ul> 
+<li> No drugs</li>
+</ul>
+                     </p>
+                 <h3 className={style.colorDarkBlue}> 
+                     Energy
+                 </h3> 
+                     <p> 
+                         <Link href="" className={style.noUnder}></Link> 
+                     </p> 
+                 <h3 className={style.colorDarkBlue}> 
+                     Science
+                 </h3> 
+                     <p> 
+                         <Link href="" className={style.noUnder}></Link> 
+                     </p> 
+                 <h3 className={style.colorDarkBlue}> 
+                     Education
+                 </h3> 
+                     <p> 
+                         <Link href="" className={style.noUnder}></Link> 
+                     </p>  
+
+     </>
     );
 }
 
