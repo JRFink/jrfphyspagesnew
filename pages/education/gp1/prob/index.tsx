@@ -13,7 +13,7 @@ import Helpful from '@/pages/components/helpful/$gp1$prob';
             </h1> 
             <br />
             <p>
-            These are some real world problems that you will be able to solve after going through these sections. 
+            These are some real world problems that you will be able to solve after going through the sections. 
             </p>
             <br />
             <br />
