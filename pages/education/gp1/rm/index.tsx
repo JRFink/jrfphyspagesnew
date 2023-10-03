@@ -78,18 +78,20 @@ const Rm = () => {
                 Angular acceleration
             </h3>
             <br /> 
-            {/* <div className={style.equationBox}>
-                <div className={style.equation}></div>
-                <div className={style.equationNumber}></div>
-            </div> */}
+            <h3 className={style.h3num}> 
+                 1.4 
+             </h3> 
+             <h3 className={style.h3text}> 
+                 Uniform circular motion
+             </h3>
             <h3 className={style.h3num}>
-                1.4
+                1.5
             </h3>
             <h3 className={style.h3text}>
                 Connecting uniform and non-uniform circular motion
             </h3>
                 <h4>
-                    &nbsp; &nbsp; 1.4.1 Connecting
+                    &nbsp; &nbsp; 1.5.1 Connecting
                 </h4>
             <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
