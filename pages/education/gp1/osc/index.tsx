@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewOsc } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
+import spring from '@/public/images/20231002_222148_0000.png';
 import OscEx from '@/pages/exercises/gp1/oscex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -155,6 +156,26 @@ const Osc = () => {
                 <h2 className={style.h2SectionColor} id="ex">
                     4. Examples of oscillations 
                 </h2>
+<br />
+            <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+             > 
+                 <Image 
+                     src={spring} 
+                     style={{ 
+                         width: '80%', 
+                         borderRadius: "20px", 
+                         height: 'auto' 
+                     }} 
+                     sizes="100vw" 
+                     alt="A blue block attached to a black spring attached to a wall"  
+                 /> 
+             </div>
+<br /> 
+<br />
                     <p>
                         Examples...
                     </p>
