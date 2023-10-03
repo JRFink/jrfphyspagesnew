@@ -16,7 +16,7 @@ const Two3dm = () => {
             <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Motion in 2-3 Dimensions
+                Linear motion in 2-3 dimensions
             </h1>
             <br></br>
             <Modoverview2dm />
