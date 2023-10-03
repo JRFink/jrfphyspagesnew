@@ -1,7 +1,9 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import style from '@/styles/general.module.css';
 import { Modoverview2nd } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
+import second from '@/public/images/second.svg';
 import Summary from '@/pages/components/summary';
 import SlawEx from '@/pages/exercises/gp1/slawex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -37,11 +39,11 @@ const Slaw = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      Consider an object A with 3 bit slots and object B with 3 bit slots. The bit slots can either be 0 or 1. If each bit is randomly generated, in what state are you most likely to find A and B collectively, as in A: _ _ _ B : _ _ _ .  
- </p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                Consider an object A with 3 bit slots and object B with 3 bit slots. The bit slots can either be 0 or 1. If each bit is randomly generated, in what state are you most likely to find A and B collectively, as in A: _ _ _ B : _ _ _ .  
+            </p>
             <br />
             <h2 className={style.h2SectionColor} id="ent"> 
                 Entropy 
@@ -70,10 +72,27 @@ const Slaw = () => {
             <h2 className={style.h2SectionColor} id="stat"> 
                 Statistics 
             </h2>
-<br />
-<br />
-<Summary /> 
-<br />  
+            <div  
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+            > 
+                <Image 
+                    src={second} 
+                    style={{ 
+                        width: '80%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="A blue graph with a sharp peak, with green underneath"  
+                /> 
+            </div>
+            <br />
+            <br />
+            <Summary /> 
+            <br />  
             <br></br>
             <br></br>
             <SlawEx />
