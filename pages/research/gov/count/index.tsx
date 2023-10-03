@@ -1,6 +1,6 @@
 import Link from 'next/link'; 
 import style from '@/styles/general.module.css';
-import Shqipëria, {America, Argentina, 中國, Deutschland, भारत, ایران, 日本, Россия, Singapura, Türkiye} from './countComponents';
+import Shqipëria, {America, Argentina, 中國, Deutschland, भारत, ایران, 日本, Россия, Singapura, Türkiye, Caelominum} from './countComponents';
 
 const Countr = () => {
     return (
@@ -53,6 +53,9 @@ const Countr = () => {
             <br />
             <br />
             <Türkiye />
+            <br />
+            <br />
+            <Caelominum />     
 
         </>
     );
