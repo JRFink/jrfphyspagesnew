@@ -1,9 +1,10 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import style from '@/styles/general.module.css';
 import { ModoverviewOsc } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
-import spring from '@/public/images/20231002_222148_0000.png';
+import spring from '@/public/images/blockspring.png';
 import OscEx from '@/pages/exercises/gp1/oscex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
@@ -35,11 +36,11 @@ const Osc = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      Consider a building that sways slightly back and forth in the wind, about 10 cm on each side. How would you model this situation, the position as a function of time?
- </p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                Consider a building that sways slightly back and forth in the wind, about 10 cm on each side. How would you model this situation, the position as a function of time?
+            </p>
             <br />
                 <h2 className={style.h2SectionColor} id="desc">
                     1. Describing oscillations 
