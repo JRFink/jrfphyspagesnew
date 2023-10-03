@@ -1,8 +1,10 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import style from '@/styles/general.module.css';
 import RotVid from '@/public/videos/gp1/rm';
 import { ModoverviewRm } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
+import circle from '@/public/images/circ.svg';
 import Summary from '@/pages/components/summary';
 import RmEx from '@/pages/exercises/gp1/rmex';
 import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
@@ -20,7 +22,7 @@ const Rm = () => {
             <ModoverviewRm />
             <br /> 
             <LearnGoal />
-<p> 
+            <p> 
                  After going through this section, you should be able to 
                  <ul> 
                      <li>Solve for the speed of a planet going around a atar.</li> 
@@ -31,7 +33,6 @@ const Rm = () => {
             </h2>
             <br />
             <RotVid />
-   
             <p> 
                 Moving from momentum and collisions we proceed to rotational motion. 
             </p> 
@@ -45,11 +46,11 @@ const Rm = () => {
             </p>
             <br /> 
             <br />
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-    Consider a solid ring and a solid disk..      
-</p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                Consider a solid ring and a solid disk..      
+            </p>
             <br />
             <h2 className={style.h2SectionColor} id="ang">
                 1. Angular kinematics
@@ -78,13 +79,6 @@ const Rm = () => {
                 Angular acceleration
             </h3>
             <br /> 
-            <h3 className={style.h3num}> 
-                 1.4 
-             </h3> 
-             <h3 className={style.h3text}> 
-                 Uniform circular motion
-             </h3>
-   
             <h2 className={style.h2SectionColor} id="rel">
                 2. Relating angular and linear kinematics
             </h2>
@@ -130,16 +124,7 @@ const Rm = () => {
                     The relationships are given by
                 </p>
                 <br /> 
-   <h3 className={style.h3num}>
-                2.4
-            </h3>
-            <h3 className={style.h3text}>
-                Connecting uniform and non-uniform circular motion
-            </h3>
-<br />
-                <h4>
-                    &nbsp; &nbsp; 1.5.1 Connecting
-                </h4>
+            <br />
                 <div className={style.equationBox}>
                     <div className={style.equation}>a &nbsp;<span><sub>rad</sub></span> &nbsp; = 
                     &nbsp; v<span><sup>2</sup></span> / r = &#969;<sup>2</sup> &nbsp;r</div>
@@ -151,15 +136,50 @@ const Rm = () => {
                     <div className={style.equationNumber}>&#40;3&#41;</div>
                 </div>          
             <br></br>
+            <h2 className={style.h2SectionColor} id="rel">
+                3. Circular motion
+            </h2>
+            <div  
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+            > 
+                <Image 
+                    src={circle} 
+                    style={{ 
+                        width: '80%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="A blue graph with a sharp peak, with green underneath"  
+                /> 
+            </div>
+            <br />
+            <h3 className={style.h3num}>
+                3.1
+            </h3>
+            <h3 className={style.h3text}>
+                Uniform circular motion
+            </h3>
+            <br />
+            <h3 className={style.h3num}>
+                3.2
+            </h3>
+            <h3 className={style.h3text}>
+                Connecting uniform and non-uniform circular motion
+            </h3>
+            <br />
             <br></br>
             <h2 className={style.h2SectionColor} id="moment">
-                3. Moments of inertia
+                4. Moments of inertia
             </h2>
             <p>
                 Moments of inertia
             </p>
             <h3 className={style.h3num}>
-                3.1 
+                4.1 
             </h3>
             <h3 className={style.h3text}>
                 Math
@@ -168,7 +188,7 @@ const Rm = () => {
                     &nbsp; &nbsp; 3.1.1 Deriving moments
                 </h4>
             <h3 className={style.h3num}>
-                3.2
+                4.2
             </h3>
             <h3 className={style.h3text}>
                 Parallel axis theorem
@@ -178,19 +198,19 @@ const Rm = () => {
                 </h4>
             <br /> 
             <h2 className={style.h2SectionColor} id="en">
-                4. Energy in rotational motion
+                5. Energy in rotational motion
             </h2>
             <br />
             <br />
                 <h3 className={style.h3num}>
-                    4.1
+                    5.1
                 </h3>
                 <h3 className={style.h3text}>
                     Simple system
                 </h3>
                 <br />
                 <h3 className={style.h3num}>
-                    4.2
+                    5.2
                 </h3>
                 <h3 className={style.h3text}>
                     Extended system
