@@ -558,7 +558,8 @@ export function Caelominum () {
                  </h3> 
                      <p> 
 <ul> 
-<li> No drugs</li>
+<li>No drugs</li>
+<li>No birth control</li>
 </ul>
                      </p>
                  <h3 className={style.colorDarkBlue}> 
@@ -577,7 +578,15 @@ export function Caelominum () {
                      Education
                  </h3> 
                      <p> 
-                         <Link href="" className={style.noUnder}></Link> 
+                        Everyone has to take a global test at these ages: 
+<ul> 
+   <li>pre test - middle school</li>
+   <li>high school</li>
+   <li>graduating college</li>
+   <li>30</li>
+   <li>40</li>
+   <li>50</li>
+</ul>
                      </p>  
 
      </>
