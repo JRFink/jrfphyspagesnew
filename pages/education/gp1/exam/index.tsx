@@ -13,7 +13,7 @@ const Exam = () => {
        <p> 
            This is an online class, but we still 
          have to issue exams. We will proctor our own
-         exams through video. Below you will find lots of 
+         exams through video software. Below you will find lots of 
          helpful information. 
        </p>
        <p> 
