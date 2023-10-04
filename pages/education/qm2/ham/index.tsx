@@ -18,6 +18,8 @@ const Ham = () => {
                     <li>Lithium</li>
                     <li>Berylium</li>
                     <li>Water molecule</li>
+                    <li>Molecular hamiltonian</li>
+                    <li>N electron atoms</li>
                 </ul>
             </p>
             <Helpful />
