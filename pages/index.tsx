@@ -15,6 +15,7 @@ import classapple from '@/public/images/classapple.jpg';
 import emcircuits from '@/public/images/emcircuits.jpg';
 import indexpsi from '@/public/images/indexpsi.svg';
 import surface from '@/public/images/surface.jpg';
+import indexdirac from '@/public/images/indexdirac.svg';
 import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
 import Helpful from '@/pages/components/helpful/$index';
@@ -472,6 +473,23 @@ const indexPage = () => {
                     After quantum comes quantum field theory, which studies just subatomic particles. It&#39;s what we call the physics of the <Link href="/research/particle">standard model</Link>.
                     The standard model is a table of ~ 17 particles that make up the basis of our world. It&#39;s not that simple, though it&#39;s a start. 
                 </p>
+                <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+                > 
+                <Image 
+                    src={indexdirac} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The dirac equation written in a green and purple gradient"  
+                /> 
+            </div>
                 <p>
                     The thing that is deeper than qft is string theory. String theory aims to describe the fundamental particles as vibrations, 
                     where different vibrations correspond to different particles. The size of a string is so small that we have not had any experimental detection of 
