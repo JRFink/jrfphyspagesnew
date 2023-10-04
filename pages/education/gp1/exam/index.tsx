@@ -16,6 +16,12 @@ const Exam = () => {
          exams through video. Below you will find lots of 
          helpful information. 
        </p>
+       <p> 
+            Date of exam 1: 
+            <ul>
+                  <li>Not more than 2 weeks after you finish chapter 5.</li>
+            </ul>
+       </p> 
      </>
   );
 }
