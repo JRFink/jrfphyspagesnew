@@ -10,6 +10,7 @@ import symbols from '@/public/images/symbols.jpg';
 import indexvec from '@/public/images/indexvecs.svg';
 import violin from '@/public/images/violin.jpg';
 import indexlagr from '@/public/images/indexlagr.svg';
+import indexmax from '@/public/images/indexmax.svg';
 import quantspiral from '@/public/images/quantspiral.jpg';
 import classapple from '@/public/images/classapple.jpg';  
 import emcircuits from '@/public/images/emcircuits.jpg';
@@ -309,22 +310,22 @@ const indexPage = () => {
             <br /> 
             <br />
             <div  
-                 style={{ 
-                     display: "flex", 
-                     justifyContent: "center", 
-                 }} 
-             > 
-                 <Image 
-                     src={classapple} 
-                     style={{ 
-                         width: '70%', 
-                         borderRadius: "20px", 
-                         height: 'auto' 
-                     }} 
-                     sizes="100vw" 
-                     alt="a stack of books and an apple on a desk"  
-                 /> 
-             </div>
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+            > 
+                <Image 
+                    src={classapple} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="a stack of books and an apple on a desk"  
+                /> 
+            </div>
             <br /> 
             <br />
                 <h2 id="classical"> 
@@ -415,11 +416,32 @@ const indexPage = () => {
              </div>
             <br /> 
             <br /> 
-                <h2>
-            <Link href="/education/qm1">
-                    Modern physics 
-            </Link>
-                </h2> 
+            <div  
+                style={{ 
+                    display: "flex", 
+                    justifyContent: "center", 
+                }} 
+            > 
+                <Image 
+                    src={indexmax} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="maxwells equations written in differential form in red"  
+                /> 
+            </div>
+            <br /> 
+            <br />
+            <br /> 
+            <br />
+            <h2>
+                <Link href="/education/qm1">
+                        Modern physics 
+                </Link>
+            </h2> 
                 <p> 
                     Modern physics is when you start to learn about relativity and quantum mechanics. 
                     We divide relativity into special and general, and special is the one you&#39;ll cover first. 
