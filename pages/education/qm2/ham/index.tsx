@@ -8,7 +8,7 @@ const Ham = () => {
             <Link href="/education/qm2" className={style.backtoLink}>Quantum 2</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Hamiltonians of atoms and molecules
+                Hamiltonians
             </h1>
             <p>
                 Here are some different hamiltonians for atoms and molecules: 
