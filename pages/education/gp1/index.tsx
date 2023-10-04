@@ -73,6 +73,7 @@ const Gp1 = () => {
                 <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equation page</Link>
                 <Link href="/education/gp1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
                 <Link href="/education/gp1/prob" className={style.styleCourseNav}>Real world problems</Link>
+                <Link href="/education/gp1/exam" className={style.styleCourseNav}>Exam information</Link>
             </div>
             <br></br>
             <Link href="/education/gp1/int" className={style.generalLinkIntr} >Introduction</Link><br></br>
