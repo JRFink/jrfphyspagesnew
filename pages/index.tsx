@@ -18,6 +18,7 @@ import surface from '@/public/images/surface.jpg';
 import indexproptime from '@/public/images/indexproptime.svg';
 import indexproplength from '@/public/images/indexproplength.svg';
 import indexdirac from '@/public/images/indexdirac.svg';
+import indexein from '@/public/images/indexein.svg';
 import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
 import Helpful from '@/pages/components/helpful/$index';
@@ -531,6 +532,23 @@ const indexPage = () => {
                     where different vibrations correspond to different particles. The size of a string is so small that we have not had any experimental detection of 
                     one yet. As an exercise, look up the size of a string and then compare the entire size of the universe to what a string would be. Pretty small.
                 </p>
+                <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+                > 
+                <Image 
+                    src={indexein} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="Einstein field equation in purple and blue"  
+                />
+                </div>
                 <p>
                     Going from the small to the large would be cosmology. Cosmology aims to describe the universe macroscopically; 
                     <em> how does it evole? how did it begin? where is it going?</em>
