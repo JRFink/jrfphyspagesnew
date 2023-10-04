@@ -15,6 +15,8 @@ import classapple from '@/public/images/classapple.jpg';
 import emcircuits from '@/public/images/emcircuits.jpg';
 import indexpsi from '@/public/images/indexpsi.svg';
 import surface from '@/public/images/surface.jpg';
+import indexproptime from '@/public/images/indexproptime.svg';
+import indexproplength from '@/public/images/indexproplength.svg';
 import indexdirac from '@/public/images/indexdirac.svg';
 import galaxyhome from '@/public/images/galaxyhome.jpg';
 import nabla from '@/public/images/nabla.svg';
@@ -443,6 +445,40 @@ const indexPage = () => {
                     Special relativity covers position, velocity, time, momentum, and energy between reference frames which are moving relative to one another. 
                     S.r. addresses these topics when things are moving close to the speed of light. 
                 </p>
+                <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+                > 
+                <Image 
+                    src={indexproptime} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The proper time relativity equation written in blue and yellow"  
+                />
+                </div>
+                <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+                > 
+                <Image 
+                    src={indexproplength} 
+                    style={{ 
+                        width: '70%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The proper length relativity equation written in blue and yellow"  
+                />
+                </div>
                 <p>
                     Quantum mechanics studies atoms and some subatomic particles. You learn about how to characterize these objects and when you 
                     can use classical analogies and when you cannot. When you cannot, you need the full machinery of quantum such as wave functions, 
