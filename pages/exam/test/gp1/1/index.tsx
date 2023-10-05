@@ -24,10 +24,10 @@ const Test1 = () => {
                     </li>
                 </ol>
             </p>
+     <br />
      <p className={style.centerText}>  
        Test code: 
-     </p> 
-     <br />
+     </p>
      <div className={style.centerText}> 
        <form> 
          <input type='text' id='input'></input> 
