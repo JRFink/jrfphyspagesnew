@@ -1,6 +1,20 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
+{ /*
+const handleSubmit = async (e: any, setNumberCorrect: any) => { 
+  
+   e.preventDefault(); 
+  
+   if (e.target.input.value === process.env.NEXT_PUBLIC_ACCESS_CODE) { 
+     setNumberCorrect(true); 
+   } 
+   else { 
+     setNumberCorrect(false); 
+   } 
+ }
+*/}
+
 const Test1 = () => {
     return (
         <>
