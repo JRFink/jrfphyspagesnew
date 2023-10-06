@@ -7,7 +7,7 @@ const Careers = () => {
                 Careers
             </h1>
             <p> 
-            I need help translating! If you know spanish, chinese, russian, or hindi and are a physicist please let me know. 
+            I need help translating! If you know spanish, chinese, russian, or hindi and are a physicist let me know. 
            </p> 
            <p>
                 Por favor ayudame a traducir
@@ -22,7 +22,7 @@ const Careers = () => {
                 मुझे अनुवाद करने में मदद करें
            </p> 
            <p>
-I will also eventually need help proctoring exams. 
+I will also need help proctoring exams. 
            </p>  
         </>
     );
