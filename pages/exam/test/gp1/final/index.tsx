@@ -76,6 +76,17 @@ const Final = () => {
                     </li>
                 </ol>
             </p>
+     <br /> 
+      <p className={style.centerText}>   
+        Test code:  
+      </p> 
+      <div className={style.centerText}>  
+        <form>  
+          <input type='text' id='input'></input>  
+          <button type='submit' className={style.greenButtonCont}>Submit</button>  
+        </form>  
+      </div>
+<br />
         </>
     );
 }
