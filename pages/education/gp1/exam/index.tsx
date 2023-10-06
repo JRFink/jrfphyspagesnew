@@ -43,6 +43,9 @@ Test 1
                      <li> 
                          Applications of calc 
                      </li> 
+<li>
+Idealized models 
+</li>
                      <li> 
                          Motion in 1, 2, and 3 dimensions 
                      </li>
