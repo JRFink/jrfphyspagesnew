@@ -20,7 +20,10 @@ const Careers = () => {
             </p>
             <p>
                 मुझे अनुवाद करने में मदद करें
-           </p>   
+           </p> 
+           <p>
+I will also eventually need help proctoring exams. 
+           </p>  
         </>
     );
 }
