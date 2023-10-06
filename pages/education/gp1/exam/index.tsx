@@ -15,7 +15,9 @@ const Exam = () => {
        </p>
        <p> 
          We will proctor our own
-         exams through video software. Below you will find some 
+         exams through video software. Roght now we are building the proctoring program! 
+<br /> 
+Below you will find some 
          helpful information. 
        </p>
        <p> 
