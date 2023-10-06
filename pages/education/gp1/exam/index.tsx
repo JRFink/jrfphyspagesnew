@@ -122,6 +122,9 @@ Final exam
 <p>
 All previous topics 
 </p>
+<p>
+Register for final exam here...
+</p>
      </>
   );
 }
