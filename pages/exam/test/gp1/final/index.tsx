@@ -77,6 +77,10 @@ const Final = () => {
                 </ol>
             </p>
      <br /> 
+<p>
+Register for final exam here...
+</p>
+<br />
       <p className={style.centerText}>   
         Test code:  
       </p> 
