@@ -26,19 +26,19 @@ const Myaccount = () => {
             </h1>
             <br />
             <p>
-                Your first name is:
+                First name:
             </p>
             <p>
-                Your last name is:
+                Last name:
             </p>
             <p>
-                Your email is:
+                Email:
             </p>
             <p>
-                Your phone number is:
+                Phone number:
             </p>
             <p>
-                Your account type is: 
+                Account type: 
                 <ul>
                     <li>Subscribed</li> Or 
                     <li>Not subscribed</li>
