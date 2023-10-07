@@ -20,7 +20,7 @@ import style from '@/styles/general.module.css';
                              <label className={style.labelBox}><b>Last name: </b></label>  
                          </div>  
                          <div className={style.inputDiv}>         
-                             <input name="acctid" id="" type="text" className={style.inputBox} placeholder="000-" required></input>  
+                             <input name="acctid" id="" type="text" className={style.inputBox} placeholder="00-000-000-000" required></input>  
                              <label className={style.labelBox}><b>Acct id: </b></label>  
                          </div>  
                          <div className={style.inputDiv}>     
