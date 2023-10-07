@@ -2,45 +2,6 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 
-  const FinalSignup = () => { 
-         return ( 
-             <> 
-                 <div className={style.formDivS}>  
-                     <form className={style.formClass}>  
-                         <h2 className={style.formHeader}>  
-                             Register  
-                         </h2>  
-                         <br /> 
-                         <div className={style.inputDiv}>  
-                             <input name="firstnamea" id="firstnameb" type="text" className={style.inputBox} placeholder="first name" required></input>  
-                             <label className={style.labelBox}><b>First name: </b></label>  
-                         </div>  
-                         <div className={style.inputDiv}>   
-                             <input name="lastnamea" id="lastnameb" type="text"  className={style.inputBox} placeholder="last name" required></input>  
-                             <label className={style.labelBox}><b>Last name: </b></label>  
-                         </div>  
-                         <div className={style.inputDiv}>         
-                             <input name="acctid" id="" type="text" className={style.inputBox} placeholder="00-000-000-000" required></input>  
-                             <label className={style.labelBox}><b>Acct id: </b></label>  
-                         </div>  
-                         <div className={style.inputDiv}>     
-                             <input name="date" id="" type="text" className={style.inputBox} placeholder="12-10-2023" required></input>  
-                             <label className={style.labelBox}><b>Date of exam </b></label>     
-                         </div>  
-                         <br></br>            
-                         <div className={style.centerText}>  
-                             <p>
-By registering you agree to the academic honesty policy.  
-</p>
-                             <br></br>  
-                             <button type="submit" className={style.greenButtonAuth}>Register</button>  
-                         </div>  
-                     </form>  
-                 </div> 
-             </> 
-         ); 
-     }
-
 const Exam = () => { 
   return (
      <>
@@ -164,9 +125,7 @@ All previous topics
 </p>
 <p>
 Register for final exam here...
-</p>
-<br /> 
-<FinalSignup /> 
+</p> 
 <br /> 
      </>
   );
