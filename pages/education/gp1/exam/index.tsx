@@ -6,7 +6,7 @@ import style from '@/styles/general.module.css';
          return ( 
              <> 
                  <div className={style.formDivS}>  
-                     <form onSubmit={handleSubmit} className={style.formClass}>  
+                     <form className={style.formClass}>  
                          <h2 className={style.formHeader}>  
                              Register  
                          </h2>  
