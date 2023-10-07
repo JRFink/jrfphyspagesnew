@@ -117,6 +117,11 @@ Test 4
                          First two laws of thermodynamics 
                      </li>
 </ul>
+<br /> 
+<p>
+     Find a sample exam <Link href="/education/gp1/exam/sample">here</Link>
+</p>
+<br />
 <h2>
 Final exam 
 </h2>
