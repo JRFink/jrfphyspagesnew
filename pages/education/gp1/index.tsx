@@ -106,7 +106,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 6
             </p>
-            <Link href="/education/gp1/23dm" className={style.generalLink}>Linear motion in 2 and 3 Dimensions</Link><br></br>
+            <Link href="/education/gp1/23dm" className={style.generalLink}>Point particles in 2 and 3 Dimensions</Link><br></br>
             <br></br>
             <Link href="/exam/test/gp1/1" className={style.testLink}>Test 1</Link><br></br>
             <br></br>
