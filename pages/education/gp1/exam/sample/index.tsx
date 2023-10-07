@@ -6,6 +6,13 @@ const Sample = () => {
       <h1 className={style.centerText}>
          Sample exam 
       </h1>
+<p>
+     Score is out of 100 points. 
+</p>
+<p> 
+     Your score is:
+</p>
+<br />
       <h2>
           Multiple choice 
       </h2>
