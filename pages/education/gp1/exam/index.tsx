@@ -33,7 +33,7 @@ import style from '@/styles/general.module.css';
 By registering you agree to the academic honesty policy.  
 </p>
                              <br></br>  
-                             <button type="submit" className={style.greenButtonAuth}>Sign up</button>  
+                             <button type="submit" className={style.greenButtonAuth}>Register</button>  
                          </div>  
                      </form>  
                  </div> 
