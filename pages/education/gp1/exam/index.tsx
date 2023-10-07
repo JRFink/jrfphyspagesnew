@@ -124,7 +124,7 @@ Final exam
 All previous topics 
 </p>
 <p>
-Register for final exam <Link href="education/exam/test/gp1/final">here</Link>.
+Register for final exam <Link href="/exam/test/gp1/final">here</Link>.
 </p> 
 <br /> 
      </>
