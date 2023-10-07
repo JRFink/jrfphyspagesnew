@@ -36,11 +36,22 @@ Calc
                  <li>A</li>
                  <li>A</li>                 
                  <li>A</li>
+<p>
+Idealized models
+</p>
                  <li>A</li>
                  <li>A</li>
                  <li>A</li>
                  <li>A</li>                 
-                 <li>A</li>    
+                 <li>A</li>  
+<p>
+Motion in 1, 2, and 3 dimensions 
+</p>
+                 <li>A</li>
+                 <li>A</li>
+                 <li>A</li>
+                 <li>A</li>                 
+                 <li>A</li>
              </ul>
          </p>
       <br />
@@ -51,9 +62,7 @@ Calc
              <ul>
                  <li>Describe an inertial reference frame</li>
                  <li>Describe how calculus relates to motion in one dimension</li>
-                 <li>Discuss a physical situation where we use both an idealized model and a realistic model for the situation. How much error is introduced when we use the idealized model?</li>
-                 <li>A</li>                 
-                 <li>A</li>
+                 <li>Discuss a physical situation where we use both an idealized model and a realistic model for the situation. How much error is introduced when we use the idealized model?</li>                                                
              </ul>
        </p> 
       <br />
