@@ -73,7 +73,7 @@ Motion in 1, 2, and 3 dimensions
           <ul>
               <li>Relate...</li>
               <li>Explain...</li>
-              <li>Connect...</li>
+              <li>What is an easy way to describe motion?</li>
           </ul>
         </p>
    </>
