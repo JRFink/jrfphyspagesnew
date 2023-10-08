@@ -5,7 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import NewtVid from '@/public/videos/gp1/newt';
 import Summary from '@/pages/components/summary';
 import NlEx from '@/pages/exercises/gp1/nlex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const NewtLaws = () => {
@@ -38,11 +38,11 @@ const NewtLaws = () => {
                 </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      Consider a rocket going up. How would you characterize its motion?  
- </p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                Consider a rocket going up. How would you characterize its motion?  
+            </p>
             <br /> 
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
@@ -191,9 +191,9 @@ const NewtLaws = () => {
             <h2 className={style.h2SectionColor} id="free">
                 4. Free-body diagrams
             </h2>
-<Summary /> 
-<br /> 
-<br />
+            <Summary /> 
+            <br /> 
+            <br />
             <h2>
                 Fundamental forces
             </h2>
@@ -256,7 +256,7 @@ const NewtLaws = () => {
             <NlEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <Link href="/education/gp1/applnl" className={style.backtoLink}>Applying Newton&#39;s laws &#10140;</Link>  

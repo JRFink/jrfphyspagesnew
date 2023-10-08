@@ -4,7 +4,7 @@ import { ModoverviewDiff } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import DiffEx from '@/pages/exercises/gp1/diffex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Osc = () => {
@@ -54,17 +54,17 @@ Introduction
             <h3 className={style.h3text}>
                 Second
             </h3>
-    <h4> 
-        &nbsp; &nbsp; 2.2.1 Second
-    </h4> 
-<Summary /> 
-<br />
+                <h4> 
+                    &nbsp; &nbsp; 2.2.1 Second
+                </h4> 
+            <Summary /> 
+            <br />
             <br></br>
             <br></br>
             <DiffEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <Link href="/education/gp1/nl" className={style.backtoLink}>Newton&#39;s laws &#10140;</Link>  

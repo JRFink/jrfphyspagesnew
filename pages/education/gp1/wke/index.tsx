@@ -5,7 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import WkeVid from '@/public/videos/gp1/wke';
 import Summary from '@/pages/components/summary';
 import WkeEx from '@/pages/exercises/gp1/wkeex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Wke = () => {

@@ -7,7 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import frames from '@/public/images/frames.svg';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Uvec = () => {
@@ -283,12 +283,13 @@ const Uvec = () => {
             <p>
                 Also, you have to do the <a href="#exerc" className={style.markExercise}>exercises</a> and take the <a href="#quiz" className={style.markQuiz}>quiz</a> below!
             </p>
+            <Summary />
             <br></br>
             <br></br>
             <FrameEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <br /> 

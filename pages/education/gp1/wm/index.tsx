@@ -4,7 +4,7 @@ import { ModoverviewWm } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import WmEx from '@/pages/exercises/gp1/wmex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Wave = () => {

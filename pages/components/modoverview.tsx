@@ -749,6 +749,11 @@ export function ModoverviewG() {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
+                <a href="#notnear">Gravitation at distance of satellites</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
                 <a href="#mot">Motion of satellites</a>
             </p>
             <br></br>

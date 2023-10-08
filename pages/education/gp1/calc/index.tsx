@@ -4,6 +4,7 @@ import { ModoverviewCalc } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary'; 
 import CalcEx from '@/pages/exercises/gp1/calcex';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Calc = () => {
@@ -131,12 +132,15 @@ Introduction
                     But how do you get the power rule?
                 </p>
             <br></br>
-            <CalcEx />
-            <br></br>
-            <br></br>
             <Summary />
             <br></br>
+            <br></br>
+            <CalcEx />
+            <br></br>
             <br /> 
+            <Quizheading />
+            <br />
+            <br />
             <Link href="/education/gp1/1dm" className={style.backtoLink}>Motion in 1 dimension &#10140;</Link>  
             <br /> 
             <br />

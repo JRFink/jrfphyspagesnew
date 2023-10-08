@@ -4,10 +4,10 @@ import { ModoverviewGas } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import KinEx from '@/pages/exercises/gp1/kinex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
-const Kin = () => {
+const Gas = () => {
     return (
         <>
             <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
@@ -70,7 +70,7 @@ const Kin = () => {
             <KinEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <Link href="/education/gp1/flaw" className={style.backtoLink}>First law of thermodynamics &#10140;</Link>  
@@ -81,4 +81,4 @@ const Kin = () => {
     );
 }
 
-export default Kin;
+export default Gas;

@@ -5,7 +5,7 @@ import { ModoverviewPmv } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Pmv = () => {
@@ -38,11 +38,11 @@ const Pmv = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      Two pool balls collide. Where are they after the collision?  
- </p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                Two pool balls collide. Where are they after the collision?  
+            </p>
             <br />
             <h2 className={style.h2SectionColor} id="cent">
                 1. Center of mass
@@ -86,10 +86,10 @@ const Pmv = () => {
                 3. Impulse
             </h2>
             <br></br>
-<p> 
- We define as
- </p> 
- <br /> 
+            <p> 
+            We define as
+            </p> 
+            <br /> 
                   <div className={style.equationBox}>  
                       <div className={style.equation}><b>J</b> = F &#916; t </div>  
                       <div className={style.equationNumber}>&#40;2&#41;</div>  
@@ -130,7 +130,7 @@ const Pmv = () => {
             <PmvEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <Link href="/education/gp1/rm" className={style.backtoLink}>Rotational motion &#10140;</Link>  

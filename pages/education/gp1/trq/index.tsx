@@ -4,7 +4,7 @@ import { ModoverviewTrq } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import TrqVid from '@/public/videos/gp1/trq';
 import TrqEx from '@/pages/exercises/gp1/trqex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Trq = () => {

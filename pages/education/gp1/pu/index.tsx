@@ -5,7 +5,7 @@ import { ModoverviewPu } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const PU = () => {
@@ -40,11 +40,11 @@ const PU = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      A star and a planet are in space. Consider the star as the main object. Where is the planet after 1 year, 10 years, 1 second?    
- </p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                A star and a planet are in space. Consider the star as the main object. Where is the planet after 1 year, 10 years, 1 second?    
+            </p>
             <br />
             <h2 className={style.h2SectionColor} id="rev">
                 1. Review of energy
@@ -155,7 +155,7 @@ const PU = () => {
             <PuEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <Link href="/education/gp1/pmv" className={style.backtoLink}>Momentum, impulse, &#38; collisions &#10140;</Link>  

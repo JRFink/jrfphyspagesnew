@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Quizheading from '@/pages/components/quizHeading';
 
 const Id = () => { 
   return (
@@ -13,6 +14,11 @@ const Id = () => {
           <p>
             Models are useful because they help us apply the same principles to a range of phenomena.
           </p>
+        <br />
+        <br />
+        <Quizheading />
+        <br />
+        <br />
     </>
     );
 } 

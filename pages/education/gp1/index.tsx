@@ -148,7 +148,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 22
             </p>
-            <Link href="/education/gp1/kin" className={style.generalLink}>Gases</Link><br></br>
+            <Link href="/education/gp1/gas" className={style.generalLink}>Gases</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 23

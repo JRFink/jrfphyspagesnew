@@ -4,7 +4,7 @@ import { ModoverviewG } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import GEx from '@/pages/exercises/gp1/gex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 const Gravity = () => {
@@ -106,7 +106,7 @@ const Gravity = () => {
             <p> 
                 Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
             <br></br>
-<h2 className={style.h2SectionColor} id="notnear">
+            <h2 className={style.h2SectionColor} id="notnear">
                 4. Gravitation at distance of satellites
             </h2>
             <br></br>
@@ -161,7 +161,7 @@ const Gravity = () => {
             <GEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
             <Link href="/education/gp1/fluid" className={style.backtoLink}>Fluids &#10140;</Link>  

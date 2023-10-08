@@ -7,7 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import Summary from '@/pages/components/summary';
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 
