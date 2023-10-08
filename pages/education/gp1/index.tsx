@@ -20,13 +20,6 @@ const Gp1 = () => {
                 I don&#39;t have all the implementation yet, but I have the topical structure. 
                 Take a look below. 
             </p>
-         
-            <h2>
-                Syllabus
-            </h2>
-            <p>
-                <Link href="/pdf/gp1syl.pdf" download>sample syllabus</Link>
-            </p>
             <br></br>
             <div className={style.flexContainer} id="intro">
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
