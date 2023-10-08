@@ -4,6 +4,9 @@ import style from '@/styles/general.module.css';
 const Final = () => {
     return (
         <>
+         <br /> 
+         <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
+         <br />
             <h1 className={style.centerText}>
                 Final exam
             </h1>
