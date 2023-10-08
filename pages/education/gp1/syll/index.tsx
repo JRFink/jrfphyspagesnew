@@ -100,7 +100,6 @@ const Syll = () => {
      If you need accommodations for this class please reach out to us directly. We will work together to find a solution. 
 </p>
 
-      </p>
      </>
     );
 } 
