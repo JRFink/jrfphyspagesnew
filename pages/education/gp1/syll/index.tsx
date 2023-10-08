@@ -21,12 +21,18 @@ const Syll = () => {
                  &nbsp; &nbsp; frames, units, and measurement; vector review; calculus review; idealized models; motion in 1, 2, 3 dimensions; differential equations crash course; newton&#39;s laws; applying newton&#39;s laws; work and energy; conservation of energy; momentum, impulse, and collisions; rotational motion; dynamics of rotational motion; equilibrium and elasticity; taylor expansion; gravity; fluids; oscillations; waves; temperature and heat; gases; first law of thermo; second law of thermo. 
                  <br /> 
 <br />
-                 The class consists of ~ 20 modules, which consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam. 
-                 I hope you enjoy it, and please give me your <Link href="/contact">feedback</Link> as you go through it. 
+                 Each section contains lecture videos, homework assignments, and quizzes. 
+<br /> 
+<p>
+The class contains 4 midterm exams and a final exam. 
+<br /> 
+There is also an extra credit paper which can add 5&#44; to your grade. 
+<br />
+Please give me your <Link href="/contact">feedback</Link> as you go through the class.
+</p> 
                  <br></br> 
                  <br></br> 
   
-             </p> 
              <h2> 
                  Prerequisites 
              </h2> 
