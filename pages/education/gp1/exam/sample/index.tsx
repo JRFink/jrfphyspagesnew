@@ -22,7 +22,7 @@ const Sample = () => {
             <p>
             Frames, units, and measurement
             </p>
-                 <li>Describr a frame in 3 coordinates</li>
+                 <li>Describe a frame in 3 coordinates</li>
                  <li>Describe a frame in 3 linear coordinatea</li>
                  <li>A</li>
                  <li>A</li>                 
@@ -30,7 +30,7 @@ const Sample = () => {
             <p>
                 Vectors
             </p>
-                 <li>B</li>
+                 <li>Consider a vector A and vector B whose dot product is 1/2 their magnitudes multiplied. What is the angle between them?</li>
                  <li>A</li>
                  <li>A</li>
                  <li>A</li>                 
