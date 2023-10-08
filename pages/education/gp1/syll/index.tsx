@@ -15,26 +15,44 @@ const Syll = () => {
                  Description 
              </h2> 
              <p> 
-                 An introduction to general physics. It will cover the following 24 topics:  
+                 An introduction to general physics. It covers the following 24 topics:  
                  <br></br> 
-                 <br></br> 
-                 &nbsp; &nbsp; frames, units, and measurement; vector review; calculus review; idealized models; 
-                 motion in 1, 2, 3 dimensions; differential equations; newton&#39;s laws; 
-                 applying newton&#39;s laws; work and energy; conservation of energy; momentum, impulse, and collisions; 
-                 rotational motion; dynamics of rotational motion; equilibrium and elasticity; 
-                 taylor expansion; gravity; fluids; oscillations; waves; temperature and heat; 
-                 gases; first law of thermo; second law of thermo. 
-                 <br /> 
+                 <ul>
+                    <li>frames, units, and measurement</li>
+                    <li>vector review</li>
+                    <li>calculus review</li>
+                    <li>idealized models</li>
+                    <li>motion in 1 dimensions</li>
+                    <li>point particles in 2, 3 dimensions</li>
+                    <li>differential equations</li>
+                    <li>newton&#39;s laws</li>
+                    <li>applying newton&#39;s laws</li>
+                    <li>work and energy</li>
+                    <li>conservation of energy</li>
+                    <li>momentum, impulse, and collisions</li>
+                    <li>rotational motion</li>
+                    <li>dynamics of rotational motion</li>
+                    <li>equilibrium and elasticity</li>
+                    <li>taylor expansion</li>
+                    <li>gravity</li>
+                    <li>fluids</li>
+                    <li>oscillations</li>
+                    <li>waves</li>
+                    <li>temperature and heat</li>
+                    <li>gases</li>
+                    <li>first law of thermo</li>
+                    <li>second law of thermo</li>
+                 </ul>
                 <br />
-                Each section contains lecture videos, homework assignments, and quizzes. 
+                    Each section contains lecture videos, homework assignments, and quizzes. 
                 <br /> 
-                <p>
-                The class contains 4 midterm exams and a final exam. 
-                <br /> 
-                There is also an extra credit paper, which can add 5&#44; to your grade. 
                 <br />
-                Please give me your <Link href="/contact">feedback</Link> as you go through the class.
-                </p> 
+                    The class contains 4 <Link href="/education/gp1/exam">midterm exams </Link> 
+                    and a <Link href="/education/gp1/exam">final exam</Link>. 
+                <br /> 
+                    There is also an extra credit paper, which can add 5&#44; to your grade. 
+                <br />
+                    Please give me your <Link href="/contact">feedback</Link> as you go through the class.
                 <br></br> 
                 <br></br> 
             </p>

@@ -4,7 +4,7 @@ import style from '@/styles/general.module.css';
 
 const Exam = () => { 
   return (
-     <>
+    <>
          <br /> 
          <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
          <br />
@@ -17,23 +17,23 @@ const Exam = () => {
        <p> 
          We will proctor our own
          exams through video software. Right now we are building the proctoring program! 
-</p>
-<p>
-Below you will find some 
-         helpful information. 
-       </p>
+        </p>
+        <p>
+        Below you will find some 
+                helpful information. 
+        </p>
        <p> 
             Date of exam 1: 
             <ul>
                   <li>Not more than 2 weeks after you finish chapter 5.</li>
             </ul>
        </p> 
-<p>
-The exams will cover the following information...
-</p>
-<h2>
-Test 1
-</h2>
+        <p>
+        The exams will cover the following information...
+        </p>
+            <h2>
+            Test 1
+            </h2>
               <ul> 
                      <li> 
                          Frames, units, measurement 
@@ -44,17 +44,17 @@ Test 1
                      <li> 
                          Applications of calc 
                      </li> 
-<li>
-Idealized models 
-</li>
+                    <li>
+                        Idealized models 
+                    </li>
                      <li> 
                          Motion in 1, 2, and 3 dimensions 
                      </li>
-</ul>
-<h2>
-Test 2 
-</h2>
-<ul>
+                </ul>
+            <h2>
+                Test 2 
+            </h2>
+                <ul>
                     <li> 
                          Simple differential equations 
                      </li> 
@@ -70,11 +70,11 @@ Test 2
                      <li> 
                          Potential energy and energy conservation 
                      </li>
-</ul>
-<h2>
-Test 3 
-</h2>
-<ul>
+                </ul>
+            <h2>
+                Test 3 
+            </h2>
+                <ul>
                     <li> 
                          Momentum, impulse, and collisions 
                      </li> 
@@ -93,11 +93,11 @@ Test 3
                      <li> 
                          Gravity 
                      </li>
-</ul>
-<h2>
-Test 4 
-</h2>
-<ul>
+                </ul>
+            <h2>
+            Test 4 
+            </h2>
+                <ul>
                     <li> 
                          Fluids 
                      </li> 
@@ -116,23 +116,23 @@ Test 4
                      <li> 
                          First two laws of thermodynamics 
                      </li>
-</ul>
-<br /> 
-<p>
-     Find a sample exam <Link href="/education/gp1/exam/sample">here</Link>
-</p>
-<br />
-<h2>
-Final exam 
-</h2>
-<p>
-All previous topics 
-</p>
-<p>
-Register for final exam <Link href="/exam/test/gp1/final">here</Link>.
-</p> 
-<br /> 
-     </>
+                </ul>
+                <br /> 
+                    <p>
+                        Find a sample exam <Link href="/education/gp1/exam/sample">here</Link>
+                    </p>
+                    <br />
+            <h2>
+                Final exam 
+            </h2>
+                <p>
+                    All previous topics 
+                </p>
+                <p>
+                    Register for final exam <Link href="/exam/test/gp1/final">here</Link>.
+                </p> 
+                <br /> 
+    </>
   );
 }
 

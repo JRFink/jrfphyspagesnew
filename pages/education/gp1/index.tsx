@@ -64,7 +64,7 @@ const Gp1 = () => {
             </p>
             <Link href="/education/gp1/23dm" className={style.generalLink}>Point particles in 2 and 3 Dimensions</Link><br></br>
             <br></br>
-            <Link href="/exam/test/gp1/1" className={style.testLink}>Test 1</Link><br></br>
+            <Link href="/education/gp1/exam/exam1" className={style.testLink}>Test 1</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 7
@@ -91,14 +91,14 @@ const Gp1 = () => {
             </p>
             <Link href="/education/gp1/pu" className={style.generalLink}>Potential Energy &#38; Energy Conservation</Link><br></br>
             <br></br>
-            <Link href="/exam/test/gp1/2" className={style.testLink}>Test 2</Link><br></br>
+            <Link href="/education/gp1/exam/exam2" className={style.testLink}>Test 2</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 12
             </p>
             <Link href="/education/gp1/pmv" className={style.generalLink}>Momentum, Impulse, Collisions</Link><br></br>
             <br></br>  
-<p className={style.numberLink}>
+            <p className={style.numberLink}>
                 13
             </p>
             <Link href="/education/gp1/rm" className={style.generalLink}>Rotational Motion</Link><br></br>
@@ -123,7 +123,7 @@ const Gp1 = () => {
             </p>
             <Link href="/education/gp1/g" className={style.generalLink}>Gravity</Link><br></br>
             <br></br>
-            <Link href="/exam/test/gp1/3" className={style.testLink}>Test 3</Link><br></br>
+            <Link href="/education/gp1/exam/exam3" className={style.testLink}>Test 3</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 18
@@ -160,11 +160,11 @@ const Gp1 = () => {
             </p>
             <Link href="/education/gp1/slaw" className={style.generalLink}>Second Law of Thermodynamics</Link><br></br>
             <br></br>
-            <Link href="/exam/test/gp1/4" className={style.testLink}>Test 4</Link><br></br>
+            <Link href="/education/gp1/exam/exam4" className={style.testLink}>Test 4</Link><br></br>
             <br></br>
             <Link href="/education/gp1/sum" className={style.generalLinkSumm}>Summary</Link><br></br>
             <br></br>
-            <Link href="/exam/test/gp1/final" className={style.testLink}>Final exam</Link><br></br>
+            <Link href="/education/gp1/exam/final" className={style.testLink}>Final exam</Link><br></br>
             <br />
             <br /> 
             <Helpful />
