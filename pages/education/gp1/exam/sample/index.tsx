@@ -23,7 +23,7 @@ const Sample = () => {
             Frames, units, and measurement
             </p>
                  <li>Describe a frame in 3 coordinates</li>
-                 <li>Describe a frame in 3 linear coordinatea</li>
+                 <li>Describe a frame in 3 linear coordinates</li>
                  <li>A</li>
                  <li>A</li>                 
                  <li>A</li>
@@ -46,7 +46,7 @@ const Sample = () => {
             <p>
                 Idealized models
             </p>
-                 <li>A</li>
+                 <li>Describe the realistic model of gravity and the idealized model of gravity.</li>
                  <li>A</li>
                  <li>A</li>
                  <li>A</li>                 
@@ -54,7 +54,7 @@ const Sample = () => {
             <p>
                 Motion in 1, 2, and 3 dimensions 
             </p>
-                 <li>A</li>
+                 <li>A particle starts at x = 2 m on the x axis, moving with v<span><sub>0</sub></span> = 3 m/s. Where is it after 7 seconds? </li>
                  <li>A</li>
                  <li>A</li>
                  <li>A</li>                 
