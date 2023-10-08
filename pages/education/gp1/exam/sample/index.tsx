@@ -7,6 +7,7 @@ const Sample = () => {
         <br /> 
         <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
         <br />
+        <br />
         <h1 className={style.centerText}>
             Sample exam 
         </h1>
