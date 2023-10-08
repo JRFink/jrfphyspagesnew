@@ -54,6 +54,9 @@ const Sample = () => {
             <p>
                 Motion in 1, 2, and 3 dimensions 
             </p>
+<p>
+In these problems assume that gravity is approximately constant 
+</p>
                  <li>A particle starts at x = 2 m on the x axis, moving with v<span><sub>0</sub></span> = 3 m/s. Where is it after 7 seconds? </li>
                  <li>A</li>
                  <li>A</li>
