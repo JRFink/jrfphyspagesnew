@@ -66,16 +66,48 @@ const Sample = () => {
                     <li>
                         Describe an inertial reference frame
                     </li>
+                    <br />
+                    <div className={style.centerInADiv}>
+                    <form>
+                        <textarea id="messageText" className={style.shortResponse} placeholder=" An inertial reference frame..."/>
+                        <br />
+                        <br />
+                    </form>
+                    </div>
                     <li>
                         Describe how calculus relates to motion in one dimension
                     </li>
+                    <br />
+                    <div className={style.centerInADiv}>
+                    <form >
+                        <textarea id="messageText" className={style.shortResponse} placeholder=" Calculus..."/>
+                        <br />
+                        <br />
+                    </form>
+                    </div>
                     <li>
                         Discuss a physical situation where we use both an idealized model and a realistic model for the situation. 
                         How much error is introduced when we use the idealized model?
-                    </li>    
+                    </li>  
+                    <br />
+                    <div className={style.centerInADiv}>
+                    <form >
+                        <textarea id="messageText" className={style.shortResponse} placeholder=" Idealized..."/>
+                        <br />
+                        <br />
+                    </form>  
+                    </div>
                     <li>
                         Why are rates of change important for motion?
-                    </li>                                            
+                    </li> 
+                    <br />
+                    <div className={style.centerInADiv}>
+                    <form >
+                        <textarea id="messageText" className={style.shortResponse} placeholder=" Rates of change..."/>
+                        <br />
+                        <br />
+                    </form>   
+                    </div>                                        
                 </ul>
             </p> 
             <br />
@@ -86,39 +118,57 @@ const Sample = () => {
                 Choose 2
             </p>
             <p> 
-            <ul>
-                <li>
-                    Relate 1 dimensional motion to 2 dimensional motion
-                </li>
-                <br />
-                <form >
-                    <textarea id="messageText" className={style.longResponse} placeholder=" The relation..."/>
+                <ul>
+                    <li>
+                        Relate 1 dimensional motion to 2 dimensional motion
+                    </li>
                     <br />
+                    <div className={style.centerInADiv}>
+                        <form >
+                            <textarea id="messageText" className={style.longResponse} placeholder=" The relation..."/>
+                            <br />
+                            <br />
+                            {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
+                        </form>
+                    </div>
+                    <li>
+                        What is an easy way to describe motion?
+                    </li>
                     <br />
-                    {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
-                </form>
-                <li>
-                    What is an easy way to describe motion?
-                </li>
-                <br />
-                <form >
-                    <textarea id="messageText" className={style.longResponse} placeholder=" An easy..."/>
+                    <div className={style.centerInADiv}>
+                        <form >
+                            <textarea id="messageText" className={style.longResponse} placeholder=" An easy..."/>
+                            <br />
+                            <br />
+                            {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
+                        </form>
+                    </div>
+                    <li>
+                        If you were developing theories of motion, how would you describe it?
+                    </li>
                     <br />
-                    <br />
-                    {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
-                </form>
-                <li>
-                    If you were developing theories of motion, how would you describe it?
-                </li>
-                <br />
-                <form >
-                    <textarea id="messageText" className={style.longResponse} placeholder=" Theory..."/>
-                    <br />
-                    <br />
-                    {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
-                </form>
-            </ul>
+                    <div className={style.centerInADiv}>
+                        <form >
+                            <textarea id="messageText" className={style.longResponse} placeholder=" Theory..."/>
+                            <br />
+                            <br />
+                        </form>
+                    </div>
+                </ul>
             </p>
+                <div className={style.centerInADiv}>
+                    <button type="submit" className={style.greenButtonCont}>Submit exam</button>
+                </div>
+            <br />
+            <br />
+            <br />
+            <p>
+                Your score: __ / 100
+            </p>
+            <p>
+                It will auto populate, except of course the written portion. 
+            </p>
+            
     </>
   );
 }

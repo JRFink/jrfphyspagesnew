@@ -483,8 +483,18 @@
     text-align: center;
 }
 
+.shortResponse {
+    height: 120px;
+    width: 600px;
+    top: 0%;
+    right: 0%;
+    z-index: 10;
+    border-radius: 7px;
+    margin: 10px 30px 0px 0px;
+}
+
 .longResponse {
-    height: 70px;
+    height: 200px;
     width: 600px;
     top: 0%;
     right: 0%;
@@ -507,6 +517,10 @@
 
     .messageBox {
         width: 80%;
+    }
+
+    .shortResponse {
+        width: 90%;
     }
 
     .longResponse {
