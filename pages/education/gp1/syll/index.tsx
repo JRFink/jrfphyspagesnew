@@ -50,6 +50,12 @@ const Syll = () => {
              <p> 
                  Jeff Fink 
              </p>
+<h2> 
+     Office hours 
+</h2>
+<p> 
+     I am going to offer office hours! Schedule is tbd, but you can reach me by sending an email to..
+</p>
       <h2>
            Grades 
       </h2>
