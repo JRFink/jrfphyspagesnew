@@ -99,6 +99,9 @@ const Syll = () => {
 <p> 
      If you need accommodations for this class please reach out to us directly. We will work together to find a solution. 
 </p>
+            <p> 
+                 <Link href="/pdf/gp1syl.pdf" download>Download syllabus</Link> 
+             </p>
 
      </>
     );
