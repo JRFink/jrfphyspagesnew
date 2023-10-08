@@ -15,7 +15,7 @@ const Syll = () => {
                  Description 
              </h2> 
              <p> 
-                 An introduction to general physics. It covers the following 24 topics:  
+                 An introduction to general physics. It covers the following topics:  
                  <br></br> 
                  <ul>
                     <li>frames, units, and measurement</li>
