@@ -14,6 +14,8 @@ const Syll = () => {
           Total course points is 1&#44;000. Division is:
 <ul>
    <li>Homework - 250 pts</li>
+   <li>Quizzes - 100 pts</li>
+   <li>Exam 1 - 120 pts</li>
 </ul>
       </p>
      </>
