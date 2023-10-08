@@ -51,7 +51,7 @@ const Syll = () => {
                  Jeff Fink 
              </p>
       <h2>
-           Grading 
+           Grades 
       </h2>
       <p>
           Total course points is 1&#44;000. Division is:
@@ -67,6 +67,12 @@ const Syll = () => {
 <p>
     Grade division is...
 </p>
+<h2>
+     Academic honesty
+</h2>
+<h2> 
+     Accommodations
+</h2>
       </p>
      </>
     );
