@@ -87,7 +87,7 @@ Choose 2
           <ul>
               <li>Relate 1 dimensional motion to 2 dimensional motion</li>
               <li>What is an easy way to describe motion?</li>
-              <li>If you were developing theories of motion, how would you describe motion?</li>
+              <li>If you were developing theories of motion, how would you describe it?</li>
           </ul>
         </p>
    </>
