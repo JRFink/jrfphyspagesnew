@@ -152,7 +152,7 @@ const Exam = () => {
             <span className={style.highlightTextBlue}>Date</span> of final: 
             <ul>
                 <li>
-                    Not more than 1 week after you tale exam 4.
+                    Not more than 1 week after you complete exam 4.
                 </li>
             </ul>
        </p>
