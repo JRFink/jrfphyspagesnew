@@ -38,7 +38,7 @@ const Sample = () => {
             <p>
                 Calc
             </p>
-                 <li>A</li>
+                 <li>Describe a rate of change</li>
                  <li>A</li>
                  <li>A</li>
                  <li>A</li>                 
