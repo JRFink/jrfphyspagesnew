@@ -22,8 +22,8 @@ const Sample = () => {
             <p>
             Frames, units, and measurement
             </p>
-                 <li>A</li>
-                 <li>A</li>
+                 <li>Describr a frame in 3 coordinates</li>
+                 <li>Describe a frame in 3 linear coordinatea</li>
                  <li>A</li>
                  <li>A</li>                 
                  <li>A</li>
