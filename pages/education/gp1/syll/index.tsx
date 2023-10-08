@@ -61,6 +61,8 @@ const Syll = () => {
       </h2>
       <p>
           Total course points is 1&#44;000. Division is:
+</p>
+<p>
 <ul>
    <li>Homework - 250 pts</li>
    <li>Quizzes - 100 pts</li>
@@ -70,15 +72,30 @@ const Syll = () => {
    <li>Exam 4 - 100 pts</li>
    <li>Final exam - 250 pts</li>
 </ul>
-<p>
     Grade division is...
+<ul>
+<li> A >= 93% </li>
+<li> 90 % <= A - < 93 % </li>
+<li> 87 % <= B + < 90 % </li>
+<li> 83 % <= B < 87 % </li>
+<li> 80 % <= B - < 83 % </li>
+<li> 77 % <= C + < 80 % </li>
+<li> 73 % <= C < 77 % </li>
+<li> 70 % <= C - < 73 % </li>
+<li> F < 70 % </li>
+</ul>
 </p>
+
 <h2>
      Academic honesty
 </h2>
+<p>
+    Academic honesty policy... 
+</p>
 <h2> 
      Accommodations
 </h2>
+
       </p>
      </>
     );
