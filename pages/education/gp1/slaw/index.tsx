@@ -6,7 +6,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import second from '@/public/images/second.svg';
 import Summary from '@/pages/components/summary';
 import SlawEx from '@/pages/exercises/gp1/slawex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Slaw = () => {
@@ -98,7 +98,7 @@ const Slaw = () => {
             <SlawEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp2" className={style.backtoLink}>Gen phys 2 &#10140;</Link>  

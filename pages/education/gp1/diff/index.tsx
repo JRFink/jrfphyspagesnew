@@ -4,7 +4,7 @@ import { ModoverviewDiff } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import DiffEx from '@/pages/exercises/gp1/diffex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Osc = () => {
@@ -64,7 +64,7 @@ Introduction
             <DiffEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/nl" className={style.backtoLink}>Newton&#39;s laws &#10140;</Link>  

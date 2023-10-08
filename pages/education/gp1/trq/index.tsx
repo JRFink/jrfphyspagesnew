@@ -4,7 +4,7 @@ import { ModoverviewTrq } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import TrqVid from '@/public/videos/gp1/trq';
 import TrqEx from '@/pages/exercises/gp1/trqex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Trq = () => {
@@ -141,7 +141,7 @@ We can also write the magnitude as
             <TrqEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/eq" className={style.backtoLink}>Equilibrium &#38; elasticity &#10140;</Link>  

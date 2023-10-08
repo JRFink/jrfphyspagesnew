@@ -7,7 +7,7 @@ import vec from '@/public/images/vec.svg';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Two3dm = () => {
@@ -185,7 +185,7 @@ const Two3dm = () => {
             <Two3Ex />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/diff" className={style.backtoLink}>Differential equations crash course &#10140;</Link>  

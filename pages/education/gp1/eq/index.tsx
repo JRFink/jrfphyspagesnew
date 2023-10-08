@@ -4,7 +4,7 @@ import { ModoverviewEq } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import EqEx from '@/pages/exercises/gp1/eqex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Eq = () => {
@@ -94,7 +94,7 @@ Young&#39;s modulus
             <EqEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/taylor" className={style.backtoLink}>Taylor expansion &#10140;</Link>  

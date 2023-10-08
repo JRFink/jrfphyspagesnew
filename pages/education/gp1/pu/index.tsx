@@ -5,7 +5,7 @@ import { ModoverviewPu } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const PU = () => {
@@ -155,7 +155,7 @@ const PU = () => {
             <PuEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/pmv" className={style.backtoLink}>Momentum, impulse, &#38; collisions &#10140;</Link>  

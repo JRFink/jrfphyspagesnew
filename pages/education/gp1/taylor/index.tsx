@@ -7,7 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import Summary from '@/pages/components/summary';
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 
@@ -69,7 +69,7 @@ const Taylor = () => {
             <TaylorEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/g" className={style.backtoLink}>Gravity &#10140;</Link>  

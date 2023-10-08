@@ -5,7 +5,7 @@ import { ModoverviewPmv } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Pmv = () => {
@@ -123,14 +123,14 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="var">
                 5. Systems with varying mass
             </h2>
-<Summary />
+            <Summary />
             <br></br>
             <br></br>
             <br></br>
             <PmvEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/rm" className={style.backtoLink}>Rotational motion &#10140;</Link>  

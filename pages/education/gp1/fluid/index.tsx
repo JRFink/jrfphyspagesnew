@@ -4,7 +4,7 @@ import { ModoverviewFluid } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import FluidEx from '@/pages/exercises/gp1/fluidex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Fluid = () => {
@@ -132,7 +132,7 @@ Introduction
             <FluidEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/osc" className={style.backtoLink}>Oscillations &#10140;</Link>  

@@ -4,7 +4,7 @@ import { ModoverviewWm } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import WmEx from '@/pages/exercises/gp1/wmex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Wave = () => {
@@ -39,11 +39,11 @@ const Wave = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      Consider a clothes line, about 10 m long. One end is fixed, and you snap the other end with an 
- </p>
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+                <p> 
+                    Consider a clothes line, about 10 m long. One end is fixed, and you snap the other end with an 
+                </p>
             <br /> 
             <h2 className={style.h2SectionColor} id="osc">
                 1. Connection to oscillations
@@ -90,7 +90,7 @@ const Wave = () => {
             <WmEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/theat" className={style.backtoLink}>Temperature &#38; heat &#10140;</Link>  

@@ -5,7 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import NewtVid from '@/public/videos/gp1/newt';
 import Summary from '@/pages/components/summary';
 import NlEx from '@/pages/exercises/gp1/nlex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const NewtLaws = () => {
@@ -256,7 +256,7 @@ const NewtLaws = () => {
             <NlEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/applnl" className={style.backtoLink}>Applying Newton&#39;s laws &#10140;</Link>  

@@ -4,7 +4,7 @@ import { ModoverviewTheat } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import TheatEx from '@/pages/exercises/gp1/theatex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Theat = () => {
@@ -123,7 +123,7 @@ const Theat = () => {
             <TheatEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/kin" className={style.backtoLink}>Gases &#10140;</Link>  

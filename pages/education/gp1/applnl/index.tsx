@@ -4,7 +4,7 @@ import { ModoverviewANl } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import ApplnlEx from '@/pages/exercises/gp1/applnlex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const ApplNl = () => {
@@ -164,12 +164,13 @@ const ApplNl = () => {
             <ApplnlEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/wke" className={style.backtoLink}>Work and kinetic energy &#10140;</Link>  
              <br />  
-             <br />                             <Helpful />
+             <br />                             
+             <Helpful />
         </>
     );
 }

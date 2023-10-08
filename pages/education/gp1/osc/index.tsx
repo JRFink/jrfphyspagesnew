@@ -6,7 +6,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import blockspring from '@/public/images/blockspring.svg';
 import OscEx from '@/pages/exercises/gp1/oscex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Osc = () => {
@@ -203,7 +203,7 @@ const Osc = () => {
             <OscEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/wm" className={style.backtoLink}>Wave motion &#10140;</Link>  

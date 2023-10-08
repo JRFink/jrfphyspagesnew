@@ -7,7 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import circle from '@/public/images/circ.svg';
 import Summary from '@/pages/components/summary';
 import RmEx from '@/pages/exercises/gp1/rmex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Rm = () => {
@@ -232,7 +232,7 @@ const Rm = () => {
             <RmEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/trq" className={style.backtoLink}>Dynamics of rotational motion &#10140;</Link>  

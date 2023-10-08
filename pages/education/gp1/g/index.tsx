@@ -4,7 +4,7 @@ import { ModoverviewG } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import GEx from '@/pages/exercises/gp1/gex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Gravity = () => {
@@ -156,7 +156,7 @@ const Gravity = () => {
             <GEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <Link href="/education/gp1/fluid" className={style.backtoLink}>Fluids &#10140;</Link>  

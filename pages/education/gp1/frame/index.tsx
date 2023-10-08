@@ -7,7 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import frames from '@/public/images/frames.svg';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Uvec = () => {
@@ -288,7 +288,7 @@ const Uvec = () => {
             <FrameEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
             <br /> 
