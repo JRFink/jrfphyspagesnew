@@ -90,11 +90,14 @@ const Syll = () => {
      Academic honesty
 </h2>
 <p>
-    Academic honesty policy... 
+     By signing the registration form for this class you agree to the academic honestly policy. In short, you agree that the work you do is your own. Whether you are submitting homework, completing quizzes or exams, or doing the extra credit paper, you agree that what you submit reflects your own understanding. Failure to abide by this policy may result in failure of the class.
 </p>
 <h2> 
      Accommodations
 </h2>
+<p> 
+     If you need accommodations for this class please reach out to us directly. We will work together to find a solution. 
+</p>
 
       </p>
      </>
