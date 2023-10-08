@@ -76,11 +76,14 @@ const Sample = () => {
       <h2>
          Long response
       </h2>
+<p>
+Choose 2
+</p>
         <p> 
           <ul>
-              <li>Relate...</li>
-              <li>Explain...</li>
+              <li>Relate 1 dimensional motion to 2 dimensional motion</li>
               <li>What is an easy way to describe motion?</li>
+              <li>If you were developing theories of motion, how would you describe motion?</li>
           </ul>
         </p>
    </>
