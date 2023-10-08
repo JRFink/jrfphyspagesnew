@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css'; 
+import FinalExamSign from '@/pages/components/forms';
 
 const Final = () => {
     return (
@@ -89,6 +90,12 @@ const Final = () => {
                     </li>
                 </ul>
             </p>
+            <br />
+            <br />
+            <FinalExamSign />
+            <br />
+            <br />
+
         </>
     );
 }

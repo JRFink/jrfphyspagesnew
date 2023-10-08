@@ -131,7 +131,7 @@ const Exam = () => {
                     All previous topics 
                 </p>
                 <p>
-                    Register for final exam <Link href="/exam/test/gp1/final">here</Link>.
+                    Register for final exam <Link href="/education/gp1/exam/final">here</Link>.
                 </p> 
                 <br /> 
     </>

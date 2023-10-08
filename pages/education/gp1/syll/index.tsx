@@ -116,7 +116,7 @@ const Syll = () => {
             </ul>
             </p>
 
-            <h2>
+            <h2 id="honesty">
                 Academic honesty
             </h2>
             <p>
