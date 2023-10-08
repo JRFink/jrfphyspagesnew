@@ -18,7 +18,7 @@ const Syll = () => {
                  An introduction to general physics. It will cover the following 24 topics:  
                  <br></br> 
                  <br></br> 
-                 &nbsp; &nbsp; frames, units, and measurement; vector review; calculus review; idealized models; motion in 1, 2, 3 dimensions; differential equations crash course; newton&#39;s laws; applying newton&#39;s laws; work and energy; conservation of energy; momentum, impulse, and collisions; rotational motion; dynamics of rotational motion; equilibrium and elasticity; taylor expansion; gravity; fluids; oscillations; waves; temperature and heat; first law of thermo; second law of thermo. 
+                 &nbsp; &nbsp; frames, units, and measurement; vector review; calculus review; idealized models; motion in 1, 2, 3 dimensions; differential equations crash course; newton&#39;s laws; applying newton&#39;s laws; work and energy; conservation of energy; momentum, impulse, and collisions; rotational motion; dynamics of rotational motion; equilibrium and elasticity; taylor expansion; gravity; fluids; oscillations; waves; temperature and heat; gases; first law of thermo; second law of thermo. 
                  <br /> 
 <br />
                  The class consists of ~ 20 modules, which consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam. 
