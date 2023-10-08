@@ -56,6 +56,9 @@ const Sample = () => {
                  <li>
                     A particle starts at x = 2 m on the x axis, moving with v<span><sub>0</sub></span> = 3 m/s. Where is it after 7 seconds? 
                 </li>
+<li>
+A particle on a one dimesional track starts from rest at x = 4 m. It undergoes constant acceleration of 3 m/s<span><sup>2</sup></span> for 2 seconds. Where is it? 
+</li>
              </ol>
          </p>
         <br />
