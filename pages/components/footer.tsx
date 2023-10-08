@@ -16,6 +16,8 @@ const Footer = () => {
                 <br></br>
                 <Link href="/contact" className={style.linkFooter}>Contact</Link><br></br>
                 <br></br>
+                <Link href="/" className={style.linkFooter}>Home</Link><br></br>
+                <br></br>
                 <Link href="/careers" className={style.linkFooter}>Careers</Link><br></br>
                 <br></br>
                 <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
