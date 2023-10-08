@@ -15,9 +15,10 @@ const Syll = () => {
 <ul>
    <li>Homework - 250 pts</li>
    <li>Quizzes - 100 pts</li>
-   <li>Exam 1 - 120 pts</li>
-   <li>Exam 2 - 130 pts</li>
-   <li>Exam 3 - 150 pts</li>
+   <li>Exam 1 - 100 pts</li>
+   <li>Exam 2 - 100 pts</li>
+   <li>Exam 3 - 100 pts</li>
+   <li>Exam 4 - 100 pts</li>
    <li>Final exam - 250 pts</li>
 </ul>
       </p>
