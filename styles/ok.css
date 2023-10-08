@@ -1,7 +1,6 @@
 body {
     margin: 0;
     padding: 0;
-   { /* background: linear-gradient(70deg, rgba(205, 234, 255, 0.6), rgb(255, 244, 223,0.6)); */ }
 }
 
 h2, h3, h4 {
@@ -16,4 +15,9 @@ p {
 
 img {
     margin: 0px 0px 0px 15px;
+}
+
+ul {
+    margin: 15px 0px; 
+    padding: 0px 0px 0px 30px; 
 }

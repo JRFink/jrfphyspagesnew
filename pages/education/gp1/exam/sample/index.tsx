@@ -92,7 +92,7 @@ const Sample = () => {
                 </li>
                 <br />
                 <form >
-                    <textarea id="messageText" className={style.messageBox} placeholder=" The relation..."/>
+                    <textarea id="messageText" className={style.longResponse} placeholder=" The relation..."/>
                     <br />
                     <br />
                     {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
@@ -102,7 +102,7 @@ const Sample = () => {
                 </li>
                 <br />
                 <form >
-                    <textarea id="messageText" className={style.messageBox} placeholder=" An easy..."/>
+                    <textarea id="messageText" className={style.longResponse} placeholder=" An easy..."/>
                     <br />
                     <br />
                     {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
@@ -110,6 +110,13 @@ const Sample = () => {
                 <li>
                     If you were developing theories of motion, how would you describe it?
                 </li>
+                <br />
+                <form >
+                    <textarea id="messageText" className={style.longResponse} placeholder=" Theory..."/>
+                    <br />
+                    <br />
+                    {/* <button type="submit" className={style.greenButtonCont}>Submit</button> */}
+                </form>
             </ul>
             </p>
     </>
