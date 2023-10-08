@@ -4,7 +4,7 @@ import { ModoverviewVec } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import VecEx from '@/pages/exercises/gp1/vecex';
-import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
 import Helpful from '@/pages/components/helpful';
 
 const Vec = () => {
@@ -18,7 +18,7 @@ const Vec = () => {
             <br></br>
             <ModoverviewVec />
             <br /> 
-<LearnGoal />
+            <LearnGoal />
             <h2 className={style.h2SectionColor} id="def">
                 1. Defining vectors
             </h2>
@@ -150,10 +150,10 @@ const Vec = () => {
             <VecEx />
             <br></br>
             <br></br>
-            <OnedmQz />
+            {/* <OnedmQz /> */}
             <br />
             <br /> 
-                        <Link href="/education/gp1/calc" className={style.backtoLink}>Calc review &#10140;</Link>  
+            <Link href="/education/gp1/calc" className={style.backtoLink}>Calc review &#10140;</Link>  
             <br /> 
             <br /> 
             <Helpful />
