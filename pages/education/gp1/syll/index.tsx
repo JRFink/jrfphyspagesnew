@@ -21,6 +21,9 @@ const Syll = () => {
    <li>Exam 4 - 100 pts</li>
    <li>Final exam - 250 pts</li>
 </ul>
+<p>
+    Grade division is...
+</p>
       </p>
      </>
     );
