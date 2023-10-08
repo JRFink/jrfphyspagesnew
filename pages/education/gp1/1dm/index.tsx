@@ -6,7 +6,7 @@ import { Modoverview1dm } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import OnedmEx from '@/pages/exercises/gp1/1dmex';
-// import OnedmQz from '@/pages/exam/quiz/gp1/1dmqz';
+import Quizheading from '@/pages/components/quizHeading';
 import Helpful from '@/pages/components/helpful';
 
 
@@ -311,7 +311,7 @@ const Onedm = () => {
             <OnedmEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br />
             <Link href="/education/gp1/23dm" className={style.backtoLink}>Motion in 2 and 3 dimensions &#10140;</Link> 
