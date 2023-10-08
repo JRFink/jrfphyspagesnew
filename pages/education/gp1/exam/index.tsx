@@ -19,13 +19,19 @@ const Exam = () => {
          exams through video software. Right now we are building the proctoring program! 
         </p>
         <p>
-        Below you will find some 
-                helpful information. 
+            Below you will find some helpful information. 
         </p>
+        <p>
+            Find a sample exam
+            <Link href="/education/gp1/exam/sample" className={style.highlightText}>here</Link>
+        </p>
+        <br />
        <p> 
-            Date of exam 1: 
+            <span className={style.highlightTextBlue}>Date</span> of exam 1: 
             <ul>
-                  <li>Not more than 2 weeks after you finish chapter 5.</li>
+                <li>
+                    Not more than 2 weeks after you finish chapter 5.
+                </li>
             </ul>
        </p> 
         <p>
@@ -117,12 +123,7 @@ const Exam = () => {
                          First two laws of thermodynamics 
                      </li>
                 </ul>
-                <br /> 
-                    <p>
-                        Find a sample exam
- <Link href="/education/gp1/exam/sample" className={style.highlightText}>here</Link>
-                    </p>
-                    <br />
+                <br />
             <h2>
                 Final exam 
             </h2>
