@@ -69,7 +69,8 @@ const Sample = () => {
                 <ul>
                     <li>Describe an inertial reference frame</li>
                     <li>Describe how calculus relates to motion in one dimension</li>
-                    <li>Discuss a physical situation where we use both an idealized model and a realistic model for the situation. How much error is introduced when we use the idealized model?</li>                                                
+                    <li>Discuss a physical situation where we use both an idealized model and a realistic model for the situation. How much error is introduced when we use the idealized model?</li>    
+<li>Why are rates of change important for motion?</li>                                            
                 </ul>
             </p> 
       <br />
