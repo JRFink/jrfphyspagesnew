@@ -13,15 +13,12 @@ const Sample = () => {
             <p>
                 Score is out of 100 points. 
             </p>
-            <p> 
-                Your score is:
-            </p>
             <br />
         <h2>
             Multiple choice 
         </h2>
          <p>
-        <ul>
+        <ol>
             <p>
             Frames, units, and measurement
             </p>
@@ -62,7 +59,7 @@ const Sample = () => {
                  <li>A</li>
                  <li>A</li>                 
                  <li>A</li>
-             </ul>
+             </ol>
          </p>
         <br />
         <h2>
