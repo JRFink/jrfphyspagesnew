@@ -62,6 +62,9 @@ const Sample = () => {
             Short response
         </h2>
             <p>
+                Choose 3
+            </p>
+            <p>
                 <ul>
                     <li>
                         Describe an inertial reference frame
