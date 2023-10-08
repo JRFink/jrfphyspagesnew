@@ -26,7 +26,7 @@ const Syll = () => {
 <p>
 The class contains 4 midterm exams and a final exam. 
 <br /> 
-There is also an extra credit paper which can add 5&#44; to your grade. 
+There is also an extra credit paper, which can add 5&#44; to your grade. 
 <br />
 Please give me your <Link href="/contact">feedback</Link> as you go through the class.
 </p> 
@@ -61,13 +61,13 @@ Please give me your <Link href="/contact">feedback</Link> as you go through the 
      Office hours 
 </h2>
 <p> 
-     I am going to offer office hours! Schedule is tbd, but you can reach me by sending an email to..
+     Schedule is tbd, but you can reach me by email at..
 </p>
       <h2>
            Grades 
       </h2>
       <p>
-          Total course points is 1&#44;000. Division is:
+          Total course contains 1&#44;000 points. Extra credit paper is possible 50 points. Division is:
 </p>
 <p>
 <ul>
@@ -97,7 +97,7 @@ Please give me your <Link href="/contact">feedback</Link> as you go through the 
      Academic honesty
 </h2>
 <p>
-     By signing the registration form for this class you agree to the academic honestly policy. In short, you agree that the work you do is your own. Whether you are submitting homework, completing quizzes or exams, or doing the extra credit paper, you agree that what you submit reflects your own understanding. Failure to abide by this policy may result in failure of the class.
+     By signing the registration form for this class, you agree to the academic honestly policy. In short, you agree that the work you submit is your own. Whether you submit homework, quizzes, exams or the extra credit paper, you agree that the work is yours and reflects your own understanding. Failure to abide by this may result in failure of the class.
 </p>
 
 <h2> 
