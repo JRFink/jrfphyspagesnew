@@ -26,20 +26,17 @@ const Exam = () => {
             <Link href="/education/gp1/exam/sample" className={style.highlightText}>here</Link>
         </p>
         <br />
-       <p> 
-            <span className={style.highlightTextBlue}>Date</span> of exam 1: 
-            <ul>
-                <li>
-                    Not more than 2 weeks after you finish chapter 5.
-                </li>
-            </ul>
-       </p> 
-        <p>
-        The exams will cover the following information...
-        </p>
             <h2>
             Test 1
             </h2>
+<p> 
+            <span className={style.highlightTextBlue}>Date</span> of exam 1: 
+            <ul>
+                <li>
+                    Not more than 2 weeks after you finish chapter 6.
+                </li>
+            </ul>
+       </p> 
               <ul> 
                      <li> 
                          Frames, units, measurement 
@@ -60,6 +57,14 @@ const Exam = () => {
             <h2>
                 Test 2 
             </h2>
+<p> 
+            <span className={style.highlightTextBlue}>Date</span> of exam 2: 
+            <ul>
+                <li>
+                    Not more than 2 weeks after you finish chapter 11.
+                </li>
+            </ul>
+       </p>
                 <ul>
                     <li> 
                          Simple differential equations 
@@ -80,6 +85,14 @@ const Exam = () => {
             <h2>
                 Test 3 
             </h2>
+<p> 
+            <span className={style.highlightTextBlue}>Date</span> of exam 3: 
+            <ul>
+                <li>
+                    Not more than 2 weeks after you finish chapter 17.
+                </li>
+            </ul>
+       </p>
                 <ul>
                     <li> 
                          Momentum, impulse, and collisions 
@@ -103,7 +116,15 @@ const Exam = () => {
             <h2>
             Test 4 
             </h2>
-                <ul>
+  <p> 
+            <span className={style.highlightTextBlue}>Date</span> of exam 4: 
+            <ul>
+                <li>
+                    Not more than 1 week after you finish chapter 24.
+                </li>
+            </ul>
+       </p>
+              <ul>
                     <li> 
                          Fluids 
                      </li> 
@@ -127,6 +148,14 @@ const Exam = () => {
             <h2>
                 Final exam 
             </h2>
+<p> 
+            <span className={style.highlightTextBlue}>Date</span> of final: 
+            <ul>
+                <li>
+                    Not more than 1 week after you tale exam 4.
+                </li>
+            </ul>
+       </p>
                 <p>
                     All previous topics 
                 </p>
