@@ -106,19 +106,24 @@ const Gravity = () => {
             <p> 
                 Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
             <br></br>
+<h2 className={style.h2SectionColor} id="notnear">
+                4. Gravitation at distance of satellites
+            </h2>
+            <br></br>
+            <br></br>
             <h2 className={style.h2SectionColor} id="mot">
-                4. Motion of satellites
+                5. Motion of satellites
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="kep">
-                5. Kepler&apos;s laws
+                6. Kepler&apos;s laws
             </h2>
                 <p>
                     Kepler&#39;s laws...
                 </p>
             <h3 className={style.h3num}>
-                5.1
+                6.1
             </h3>
             <h3 className={style.h3text}>
                 Kepler&#39;s first law
@@ -127,7 +132,7 @@ const Gravity = () => {
                     &nbsp; &nbsp; 5.1.1 Gravitational field
                 </h4>
             <h3 className={style.h3num}>
-                5.2
+                6.2
             </h3>
             <h3 className={style.h3text}>
                 Kepler&#39;s second law
@@ -136,7 +141,7 @@ const Gravity = () => {
                     &nbsp; &nbsp; 5.1.2 Gravitational field
                 </h4>
             <h3 className={style.h3num}>
-                5.3
+                6.3
             </h3>
             <h3 className={style.h3text}>
                 Kepler&#39;s third law
@@ -145,7 +150,7 @@ const Gravity = () => {
                     &nbsp; &nbsp; 5.3.1 Gravitational field
                 </h4>
             <h2 className={style.h2SectionColor} id="grav">
-                6. Einstein and gravity
+                7. Einstein and gravity
             </h2>
             <br />
             <br />
