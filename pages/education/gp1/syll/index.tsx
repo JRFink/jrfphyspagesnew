@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import style from '@/styles/general.module.css';
-
+import style from '@/styles/general.module.css'; 
+    
 const Syll = () => { 
 
   return (
@@ -15,10 +15,10 @@ const Syll = () => {
                  Description 
              </h2> 
              <p> 
-                 An introduction to general physics. It will cover the following topics:  
+                 An introduction to general physics. It will cover the following 24 topics:  
                  <br></br> 
                  <br></br> 
-                 &nbsp; &nbsp; kinematics, forces &#40;newton&#39;s laws&#41;, work, energy, rotational motion, taylor expansion, gravity, waves, fluid motion, and intro thermodynamics.  
+                 &nbsp; &nbsp; frames, units, and measurement; vector review; calculus review; idealized models; motion in 1, 2, 3 dimensions; forces &#40;newton&#39;s laws&#41; work, energy, rotational motion, taylor expansion, gravity, waves, fluid motion, and intro thermodynamics.  
                  <br></br><br></br> 
                  The class consists of ~ 20 modules, which consist of lecture videos, homework assignments, quizzes, exams, an extra credit paper, and a final exam. 
                  I hope you enjoy it, and please give me your <Link href="/contact">feedback</Link> as you go through it. 
@@ -56,14 +56,6 @@ const Syll = () => {
 <p> 
      I am going to offer office hours! Schedule is tbd, but you can reach me by sending an email to..
 </p>
-<h2>
-     Homework
-</h2>
-<p>
-     Homework is essential for the class. It may be the most important! 
-<br />
-There will be 24 homeworks, corresponding to the 24 sections.
-</p>
       <h2>
            Grades 
       </h2>
@@ -82,15 +74,15 @@ There will be 24 homeworks, corresponding to the 24 sections.
 </ul>
     Grade division is...
 <ul>
-<li> A >= 93% </li>
-<li> 90 % <= A - < 93 % </li>
-<li> 87 % <= B + < 90 % </li>
-<li> 83 % <= B < 87 % </li>
-<li> 80 % <= B - < 83 % </li>
-<li> 77 % <= C + < 80 % </li>
-<li> 73 % <= C < 77 % </li>
-<li> 70 % <= C - < 73 % </li>
-<li> F < 70 % </li>
+<li> A &gt;= 93% </li>
+<li> 90 % &lt;= A - &lt; 93 &#37; </li>
+<li> 87 % &lt;= B + &lt; 90 &#37; </li>
+<li> 83 % &lt;= B &lt; 87 &#37; </li>
+<li> 80 % &lt;= B - &lt; 83 &#37; </li>
+<li> 77 % &lt;= C + &lt; 80 &#37; </li>
+<li> 73 % &lt;= C &lt; 77 &#37; </li>
+<li> 70 % &lt;= C - &lt; 73 &#37; </li>
+<li> F &lt; 70 &#37; </li>
 </ul>
 </p>
 
@@ -100,6 +92,7 @@ There will be 24 homeworks, corresponding to the 24 sections.
 <p>
      By signing the registration form for this class you agree to the academic honestly policy. In short, you agree that the work you do is your own. Whether you are submitting homework, completing quizzes or exams, or doing the extra credit paper, you agree that what you submit reflects your own understanding. Failure to abide by this policy may result in failure of the class.
 </p>
+
 <h2> 
      Accommodations
 </h2>
@@ -111,4 +104,5 @@ There will be 24 homeworks, corresponding to the 24 sections.
      </>
     );
 } 
+
 export default Syll;
