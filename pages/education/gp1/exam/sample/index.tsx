@@ -73,7 +73,7 @@ const Sample = () => {
                     <br />
                     <div className={style.centerInADiv}>
                     <form>
-                        <textarea id="messageText" className={style.shortResponse} placeholder=" An inertial reference frame..."/>
+                        <textarea id="messageText" className={style.shortResponse} placeholder=" An inertial..."/>
                         <br />
                         <br />
                     </form>
