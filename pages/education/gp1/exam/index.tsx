@@ -119,7 +119,8 @@ const Exam = () => {
                 </ul>
                 <br /> 
                     <p>
-                        Find a sample exam <Link href="/education/gp1/exam/sample">here</Link>
+                        Find a sample exam
+ <Link href="/education/gp1/exam/sample" className={style.highlightText}>here</Link>
                     </p>
                     <br />
             <h2>
