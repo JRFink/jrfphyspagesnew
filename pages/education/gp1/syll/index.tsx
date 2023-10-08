@@ -56,6 +56,14 @@ const Syll = () => {
 <p> 
      I am going to offer office hours! Schedule is tbd, but you can reach me by sending an email to..
 </p>
+<h2>
+     Homework
+</h2>
+<p>
+     Homework is essential for the class. It may be the most important! 
+<br />
+There will be 24 homeworks, corresponding to the 24 sections.
+</p>
       <h2>
            Grades 
       </h2>
