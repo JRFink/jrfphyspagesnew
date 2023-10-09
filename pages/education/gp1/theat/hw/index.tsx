@@ -11,6 +11,15 @@ const TheatHw = () => {
             <h1 className={style.centerText}>
                 Temperature and heat hw
             </h1>
+   <p>   
+   <ul>   
+        <li>Temperature</li>  
+        <li>Zeroth law</li>    
+        <li>First law </li>   
+        <li>Thermal expansion</li> 
+        <li>Heat transfer</li>  
+   </ul>   
+   </p>
         </>
     );
 }
