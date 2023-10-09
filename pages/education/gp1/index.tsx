@@ -101,7 +101,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 13
             </p>
-            <Link href="/education/gp1/rm" className={style.generalLink}>Extended objects and rotational Motion</Link><br></br>
+            <Link href="/education/gp1/rm" className={style.generalLink}>Extended objects and rotational motion</Link><br></br>
             <br></br>   
             <p className={style.numberLink}>
                 14
