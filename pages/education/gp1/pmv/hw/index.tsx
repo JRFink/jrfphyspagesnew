@@ -11,6 +11,18 @@ const PmvHw = () => {
             <h1 className={style.centerText}>
                 Momentum, impulse, and collisions hw
             </h1>
+             <p> 
+                 <ul> 
+                     <li>Center of mass</li> 
+                     <li>Momentum</li> 
+                     <li>Mechanical momentum</li> 
+                     <li>Momentum in 1 d</li> 
+                     <li>2 and 3 d</li> 
+                     <li>Impulse</li> 
+                     <li>Elastic collisions</li> 
+                     <li>Inelastic collisions</li> 
+                 </ul> 
+             </p>
         </>
     );
 }
