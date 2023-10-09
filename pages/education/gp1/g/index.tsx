@@ -150,7 +150,7 @@ const Gravity = () => {
                     &nbsp; &nbsp; 5.3.1 Gravitational field
                 </h4>
             <h2 className={style.h2SectionColor} id="grav">
-                7. Einstein and gravity
+                Einstein and gravity
             </h2>
             <br />
             <br />

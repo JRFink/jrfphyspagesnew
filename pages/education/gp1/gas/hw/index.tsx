@@ -11,6 +11,13 @@ const GasHw = () => {
             <h1 className={style.centerText}>
                 Gases hw
             </h1>
+            <p>
+                <ul>
+                    <li>Ideal gas</li>
+                    <li>Molecular theory</li>
+                    <li>Adiabatic processes</li>
+                </ul>
+            </p>
         </>
     );
 }

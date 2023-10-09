@@ -36,23 +36,26 @@ const Gas = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
+            <h2 className={style.h2SectionColor}> 
+                Solving a simple physics problem
+            </h2>  
+            <br />
             <br /> 
             <h2 className={style.h2SectionColor} id="ideal">
-                Ideal
+                1. Ideal
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="mol">
-                Molecular theory of gases
+                2. Molecular theory of gases
             </h2>           
             <br></br>
             <br></br>            
             <h2 className={style.h2SectionColor} id="ad"> 
-                Adiabatic processes
+                3. Adiabatic processes
             </h2>
-
+            <br />
+            <br />
             {/* avogadros number 
             ideal gases 
             pressure, temp, rms speed 
@@ -73,6 +76,7 @@ const Gas = () => {
             <Quizheading />
             <br />
             <br /> 
+            <br />
             <Link href="/education/gp1/flaw" className={style.backtoLink}>First law of thermodynamics &#10140;</Link>  
              <br />  
              <br />
