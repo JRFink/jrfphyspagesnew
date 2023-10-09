@@ -46,7 +46,7 @@ const Slaw = () => {
             </p>
             <br />
             <h2 className={style.h2SectionColor} id="ent"> 
-                Entropy 
+               1. Entropy 
             </h2>
             <p>
                 The second law is the statement that 
@@ -60,17 +60,17 @@ const Slaw = () => {
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="eng"> 
-                Engines 
+              2. Engines 
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="ref"> 
-                Refrigerators 
+              3. Refrigerators 
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="stat"> 
-                Statistics 
+               4. Statistics 
             </h2>
             <div  
                 style={{ 
