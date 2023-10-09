@@ -159,6 +159,9 @@ const PU = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Puquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/pmv" className={style.backtoLink}>Momentum, impulse, &#38; collisions &#10140;</Link>  
              <br />  
              <br />

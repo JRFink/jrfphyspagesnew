@@ -102,6 +102,9 @@ const Slaw = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Slawquiz />
+            <br />
+            <br />
             <Link href="/education/gp2" className={style.backtoLink}>Gen phys 2 &#10140;</Link>  
              <br />  
              <br />            

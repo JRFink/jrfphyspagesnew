@@ -292,7 +292,7 @@ const Uvec = () => {
             <br></br>
             <Quizheading />
             <br />
-            <FrameQuestions />
+            <Framequiz />
             <br /> 
             <br /> 
             <Link href="/education/gp1/vec" className={style.backtoLink}>Vectors &#10140;</Link> 

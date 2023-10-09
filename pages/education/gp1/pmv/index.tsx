@@ -136,6 +136,9 @@ const Pmv = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Pmvquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/rm" className={style.backtoLink}>Rotational motion &#10140;</Link>  
             <br />  
             <br />

@@ -99,6 +99,9 @@ const Eq = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Eqquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/taylor" className={style.backtoLink}>Taylor expansion &#10140;</Link>  
              <br />  
              <br />            

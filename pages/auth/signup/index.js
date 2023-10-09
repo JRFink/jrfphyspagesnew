@@ -82,7 +82,7 @@ const SubscribeForm = () => {
             <div className={style.formDivS}>
                 <form className={style.formClass}>
                     <p>
-                        Thanks. We will be in touch. 
+                        Thank you. We will be in touch. 
                     </p>
                     <br /> 
                 </form>
@@ -104,7 +104,6 @@ const SignupFlow = () => {
                 <>
                     <br /> 
                     <br />
-                    <p className={style.centerText}>thanks</p>
                     <br /> 
                     <br />
                     <SubscribeForm />

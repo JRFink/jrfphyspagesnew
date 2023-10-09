@@ -73,6 +73,9 @@ const Osc = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Diffquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/nl" className={style.backtoLink}>Newton&#39;s laws &#10140;</Link>  
              <br />  
              <br />                             

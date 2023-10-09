@@ -167,6 +167,9 @@ const ApplNl = () => {
             <br></br>
             <Quizheading />
             <br />
+            <br />
+            <Appnlquiz />
+            <br />
             <br /> 
             <Link href="/education/gp1/wke" className={style.backtoLink}>Work and kinetic energy &#10140;</Link>  
              <br />  

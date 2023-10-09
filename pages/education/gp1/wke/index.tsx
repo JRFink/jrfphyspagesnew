@@ -119,9 +119,12 @@ const Wke = () => {
             <WkeEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
+            <Wkequiz />
+            <br />
+            <br />
             <Link href="/education/gp1/pu" className={style.backtoLink}>Potential energy &#38; energy conservation &#10140;</Link>  
              <br />  
              <br />                 

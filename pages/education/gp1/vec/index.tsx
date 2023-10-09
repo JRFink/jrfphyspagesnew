@@ -151,9 +151,12 @@ const Vec = () => {
             <VecEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
+            <Vecquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/calc" className={style.backtoLink}>Calc review &#10140;</Link>  
             <br /> 
             <br /> 

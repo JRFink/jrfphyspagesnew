@@ -236,10 +236,13 @@ const Rm = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Rmquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/trq" className={style.backtoLink}>Dynamics of rotational motion &#10140;</Link>  
-             <br />  
-             <br />            
-             <Helpful />
+            <br />  
+            <br />            
+            <Helpful />
         </>
     );
 }

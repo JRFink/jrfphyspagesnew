@@ -92,9 +92,12 @@ const Wave = () => {
             <WmEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
+            <Wmquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/theat" className={style.backtoLink}>Temperature &#38; heat &#10140;</Link>  
              <br />  
              <br />

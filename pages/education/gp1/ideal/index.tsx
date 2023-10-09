@@ -20,7 +20,10 @@ const Id = () => {
         <Quizheading />
         <br />
         <br />
+        <Idealquiz />
+        <br />
+        <br />
     </>
-    );
+  );
 } 
 export default Id;

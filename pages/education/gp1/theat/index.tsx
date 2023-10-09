@@ -124,9 +124,12 @@ const Theat = () => {
             <TheatEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
+            <Theatquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/kin" className={style.backtoLink}>Gases &#10140;</Link>  
              <br />  
              <br />

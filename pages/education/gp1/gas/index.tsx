@@ -77,6 +77,8 @@ const Gas = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Gasquiz />
+            <br />
             <br />
             <Link href="/education/gp1/flaw" className={style.backtoLink}>First law of thermodynamics &#10140;</Link>  
              <br />  

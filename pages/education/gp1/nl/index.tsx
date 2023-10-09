@@ -260,6 +260,9 @@ const NewtLaws = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Nlquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/applnl" className={style.backtoLink}>Applying Newton&#39;s laws &#10140;</Link>  
              <br />  
              <br />                             

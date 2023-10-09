@@ -47,7 +47,7 @@ const [isSubmitted, setSubmitted] = useState(false);
       <>
           {
           isSubmitted ? (
-            <p className={style.centerText}>Thanks. A real human will read this.</p>  
+            <p className={style.centerText}>Thank you. A real human will read this.</p>  
           ) : (
             <>
               <Messageform
@@ -59,21 +59,21 @@ const [isSubmitted, setSubmitted] = useState(false);
         <br /> 
         <br /> 
         <br />
-<p>
-If you are having specific issues with the site please fill out the form below.. 
-
-<ul>
-<li>First name</li>
-<li>Last name</li>
-<li>Acct number</li>
-<li>Acct type</li>
-<li>Email</li>
-<li>Description of issue</li>
-</ul>
-
-</p>
         <p>
-          Or write to use at: <br /> <br /> 
+        If you are having issues with the site please fill out the form below.. 
+
+        <ul>
+        <li>First name</li>
+        <li>Last name</li>
+        <li>Acct number</li>
+        <li>Acct type</li>
+        <li>Email</li>
+        <li>Description of issue</li>
+        </ul>
+
+        </p>
+        <p>
+          Or write to us: <br /> <br /> 
           PO Box 7007 <br /> 
           Ny, Ny 10150
 

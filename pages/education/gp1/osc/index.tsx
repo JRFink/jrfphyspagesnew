@@ -207,6 +207,9 @@ const Osc = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Oscquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/wm" className={style.backtoLink}>Wave motion &#10140;</Link>  
              <br />  
              <br />            

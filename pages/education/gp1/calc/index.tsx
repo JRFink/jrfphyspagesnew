@@ -142,6 +142,9 @@ const Calc = () => {
             <Quizheading />
             <br />
             <br />
+            <Calcquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/1dm" className={style.backtoLink}>Motion in 1 dimension &#10140;</Link>  
             <br /> 
             <br />

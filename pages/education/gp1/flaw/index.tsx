@@ -16,8 +16,6 @@ const Flaw = () => {
             <h1 className={style.centerText}>
                 First Law of Thermodynamics
             </h1>
-            
-
             {/* thermodynamic systems 
             work done during volume changes 
             paths between thermodynamic states 
@@ -68,6 +66,9 @@ const Flaw = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Flawquiz />
+            <br /> 
+            <br />
             <Link href="/education/gp1/slaw" className={style.backtoLink}>Second law &#10140;</Link>  
              <br />  
              <br />            

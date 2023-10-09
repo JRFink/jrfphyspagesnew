@@ -142,9 +142,12 @@ We can also write the magnitude as
             <TrqEx />
             <br></br>
             <br></br>
-            {/* <OnedmQz /> */}
+            <Quizheading />
             <br />
             <br /> 
+            <Trqquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/eq" className={style.backtoLink}>Equilibrium &#38; elasticity &#10140;</Link>  
              <br />  
              <br />            

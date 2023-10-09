@@ -165,6 +165,9 @@ const Gravity = () => {
             <Quizheading />
             <br />
             <br /> 
+            <Gquiz />
+            <br />
+            <br />
             <Link href="/education/gp1/fluid" className={style.backtoLink}>Fluids &#10140;</Link>  
              <br />  
              <br />
