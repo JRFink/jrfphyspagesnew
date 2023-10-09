@@ -6,9 +6,6 @@ const Quizheading = () => {
             <h2 className={style.quizHeading} id="quiz">
                 Quiz
             </h2>
-            <p> 
-                 Begin quiz...
-            </p>
         </>
     );
 }

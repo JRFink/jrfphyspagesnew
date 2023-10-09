@@ -8,6 +8,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import Two3Ex from '@/pages/exercises/gp1/23dmex';
 import Quizheading from '@/pages/components/quizHeading';
+import { TwodmQuestions } from '@/pages/education/gp1/quiz/questions';
 import Helpful from '@/pages/components/helpful';
 
 const Two3dm = () => {
@@ -186,6 +187,9 @@ const Two3dm = () => {
             <br></br>
             <br></br>
             <Quizheading />
+            <br />
+            <br /> 
+            <TwodmQuestions />
             <br />
             <br /> 
             <Link href="/education/gp1/diff" className={style.backtoLink}>Differential equations crash course &#10140;</Link>  
