@@ -1,21 +1,21 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const Onedmquiz = () => {
+const Twodmquiz = () => {
     return (
         <>
             <p>
-                <ul>
+            <ul>
                     <li>Position and displacement</li>
                     <li>Velocity</li>
-                    <li>Speed</li>
                     <li>Acceleration</li>
-                    <li>Calc examples</li>
-                    <li>Free falling bodies</li>
+                    <li>Projectile motion</li>
+                    <li>Uniform circular motion</li>
+                    <li>Relative motion</li>
                 </ul>
             </p>
         </>
     );
 }
 
-export default Onedmquiz; 
+export default Twodmquiz; 

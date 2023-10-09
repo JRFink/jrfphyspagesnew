@@ -1,14 +1,14 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const Onedmquiz = () => {
+const Calcquiz = () => {
     return (
         <>
             <p>
                 <ul>
-                    <li>Position and displacement</li>
-                    <li>Velocity</li>
-                    <li>Speed</li>
+                    <li>Approximations</li>
+                    <li>Rates of change</li>
+                    <li>Example with 1d motion</li>
                     <li>Acceleration</li>
                     <li>Calc examples</li>
                     <li>Free falling bodies</li>
@@ -18,4 +18,4 @@ const Onedmquiz = () => {
     );
 }
 
-export default Onedmquiz; 
+export default Calcquiz; 

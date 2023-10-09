@@ -11,14 +11,14 @@ const TrqHw = () => {
             <h1 className={style.centerText}>
                 Torque hw
             </h1>
-   <p>   
-   <ul>   
-        <li>Variables</li>
-        <li>Rolling</li>  
-        <li>Angular momentum</li>    
-        <li>Torque</li>      
-   </ul>   
-   </p>
+            <p>   
+                <ul>   
+                    <li>Variables</li>
+                    <li>Rolling</li>  
+                    <li>Angular momentum</li>    
+                    <li>Torque</li>      
+                </ul>   
+            </p>
         </>
     );
 }

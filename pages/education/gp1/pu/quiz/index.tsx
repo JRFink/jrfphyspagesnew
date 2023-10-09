@@ -1,16 +1,9 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const PuHw = () => {
+const Puquiz = () => {
     return (
         <>
-            <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link><br></br>
-            <br />
-            <br />
-            <h1 className={style.centerText}>
-                Energy conservation hw
-            </h1>
             <p>
                 <ul>
                     <li>Potential energy</li>
@@ -25,4 +18,4 @@ const PuHw = () => {
     );
 }
 
-export default PuHw;
+export default Puquiz; 

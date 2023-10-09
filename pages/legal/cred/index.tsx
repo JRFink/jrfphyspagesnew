@@ -8,8 +8,7 @@ const Cred = () => {
                Credentials
            </h1>
            <p>
-                I have a degree in physics,
-                and worked as a tutor for one year! 
+                I have a degree in physics! 
            </p>
        </>
     );
