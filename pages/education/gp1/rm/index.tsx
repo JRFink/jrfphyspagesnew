@@ -17,7 +17,7 @@ const Rm = () => {
             <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Rotational Motion 
+                Extended objects and rotational Motion 
             </h1>
             <br></br>
             <ModoverviewRm />
