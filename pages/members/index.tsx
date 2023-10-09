@@ -38,7 +38,7 @@ const [numberCorrect, setNumberCorrect] = useState(false);
       Welcome to the members page!
     <br /> 
     <br />
-      Follow the link <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq">here</a>, and once you subscribe I&#39;ll send a code through email. 
+      Follow the link <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq">here</a>, and once you subscribe I&#39;ll send you a code through email. 
     </p>
     <br /> 
     <p className={style.centerText}> 
