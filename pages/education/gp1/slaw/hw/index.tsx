@@ -11,6 +11,14 @@ const SlawHw = () => {
             <h1 className={style.centerText}>
                 Second law hw
             </h1>
+   <p>  
+  <ul>  
+       <li>Engines</li> 
+       <li>Refrigerators</li>   
+       <li>Statistics</li>  
+       
+  </ul>  
+  </p>
         </>
     );
 }
