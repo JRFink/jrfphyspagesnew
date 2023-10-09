@@ -9,11 +9,11 @@ const FluidHw = () => {
             <br />
             <br />
             <h1 className={style.centerText}>
-                Fluid hw
+                Fluids hw
             </h1>
             <p>
                 <ul>
-                    <li>Fluid</li>
+                    <li>Fluids</li>
                     <li>Density</li>
                     <li>Pressure</li>
                     <li>Pascal&#39;s law</li>
