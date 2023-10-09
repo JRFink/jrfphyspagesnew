@@ -83,6 +83,7 @@ const Wave = () => {
                 6. Superposition
             </h2>
             <br />
+            <br />
             <Summary />
             <br></br>
             <br></br>
