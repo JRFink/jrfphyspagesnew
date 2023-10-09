@@ -12,37 +12,24 @@ import RotVid from '@/public/videos/gp1/rm';
 import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import Helpful from '@/pages/components/helpful/$gp1$vid';
+const ip = require('ip');
+const ipadr = ip.address();
 
-// import { unstable_getServerSession } from "next-auth/next"; 
-// import { authOptions } from "./api/auth/[...nextauth]"
-// import { useSession } from "next-auth/react"
+const handleAnalytics = async () => { 
+  
+     const endpoint = '/api/helpful/$analytics' 
+     const options = { 
+       method: 'POST', 
+       headers: { 
+         'Content-Type': 'text/plain',  
+       },  
+       body: ipadr, 
+     } 
+     console.log(endpoint);
+    await fetch(endpoint, options); 
+}  
 
-// export default function Page() {
-//     const { data: session } = useSession() 
-
-//     if (session) {
-//         return (
-//             <>
-//                 <h1>protected page</h1> 
-//                 <p>you can view it</p>
-//             </>
-//         )
-//     }
-//     return <p>access denied</p>
-// }
-
-// export async function getServerSideProps( context: any ) {
-//     return {
-//         props: {
-//             session: await unstable_getServerSession(
-//                 context.req, 
-//                 context.res,
-//                 authOptions
-//             ),
-//         },
-//     }
-// }
-
+handleAnalytics();
 
 const Gp1Vid = () => {
     return (

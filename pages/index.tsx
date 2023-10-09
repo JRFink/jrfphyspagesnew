@@ -635,21 +635,4 @@ const indexPage = () => {
 
 export default indexPage;
 
-const ip = require('ip');
-const ipadr = ip.address();
 
-const handleAnalytics = async () => { 
-  
-     const endpoint = '/api/analytics/$index' 
-     const options = { 
-       method: 'POST', 
-       headers: { 
-         'Content-Type': 'text/plain',  
-       },  
-       body: ipadr, 
-     } 
-     console.log(endpoint);
-    await fetch(endpoint, options); 
-}  
-
-handleAnalytics();
