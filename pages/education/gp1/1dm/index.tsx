@@ -7,7 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import OnedmEx from '@/pages/exercises/gp1/1dmex';
 import Quizheading from '@/pages/components/quizHeading';
-import { OnedmQuestions } from '@/pages/education/gp1/quiz/questions';
+import Onedmquiz from '@/pages/education/gp1/1dm/quiz';
 import Helpful from '@/pages/components/helpful';
 
 
@@ -315,7 +315,7 @@ const Onedm = () => {
             <Quizheading />
             <br />
             <br />
-            <OnedmQuestions />
+            <Onedmquiz />
             <br />
             <br />
             <Link href="/education/gp1/23dm" className={style.backtoLink}>Motion in 2 and 3 dimensions &#10140;</Link> 

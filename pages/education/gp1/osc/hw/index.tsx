@@ -21,11 +21,11 @@ const OscHw = () => {
                     <li>Pure</li>
                     <li>Damped</li>
                     <li>Forced</li>
-<li>Resonance</li>
-<li>Connection to circular</li>
-<li>Energy in oscillations</li>
-<li>Simple pendulum</li>
-<li>Physical pendulum</li>
+                    <li>Resonance</li>
+                    <li>Connection to circular</li>
+                    <li>Energy in oscillations</li>
+                    <li>Simple pendulum</li>
+                    <li>Physical pendulum</li>
                 </ul>
             </p>
         </>
