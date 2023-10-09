@@ -40,7 +40,7 @@ const Hw = () => {
             <br></br>
             <Link href="/education/gp1/pmv/hw" className={style.lightGreenLink}>Momentum, Impulse, Collisions</Link><br></br>
             <br></br>  
-            <Link href="/education/gp1/rm/hw" className={style.lightGreenLink}>Extended objects and rotational Motion</Link><br></br>
+            <Link href="/education/gp1/rm/hw" className={style.lightGreenLink}>Extended objects and rotational motion</Link><br></br>
             <br></br>   
             <Link href="/education/gp1/trq/hw" className={style.lightGreenLink}>Dynamics of Rotational Motion</Link><br></br>
             <br></br>

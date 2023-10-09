@@ -10,9 +10,6 @@ const Int = () => {
             <h1 className={style.centerText}>
                 Introduction
             </h1>
-            {/* <ModoverviewInt /> */}
-            {/* <h2 className={style.h2SectionColor} id="">
-            </h2> */}
             <p>
                 The whole goal of physics is to describe how something moves on a fundamental level. <em>How do we describe a car moving on a track? 
                 How do we describe a satellite going around the earth? How do we describe the motion of the electron going around the proton? </em>
