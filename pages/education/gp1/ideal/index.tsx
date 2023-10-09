@@ -12,11 +12,14 @@ const Id = () => {
         <h1 className={style.centerText}>
           Idealized models
         </h1>
-          <p>
+        <br />
+  <h2 className={style.h2SectionColor}>  
+                 1. Models  
+             </h2> 
+        <br />
+ <p>
             Models are useful because they help us apply the same principles to a range of phenomena.
           </p>
-        <br />
-        <br />
         <Quizheading />
         <br />
         <br />
