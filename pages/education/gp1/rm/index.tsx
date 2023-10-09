@@ -8,6 +8,7 @@ import circle from '@/public/images/circ.svg';
 import Summary from '@/pages/components/summary';
 import RmEx from '@/pages/exercises/gp1/rmex';
 import Quizheading from '@/pages/components/quizHeading';
+import Rmquiz from '@/pages/education/gp1/rm/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Rm = () => {

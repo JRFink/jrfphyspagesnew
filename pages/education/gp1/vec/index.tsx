@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import VecEx from '@/pages/exercises/gp1/vecex';
 import Quizheading from '@/pages/components/quizHeading';
+import Vecquiz from '@/pages/education/gp1/vec/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Vec = () => {

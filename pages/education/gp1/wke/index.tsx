@@ -6,6 +6,7 @@ import WkeVid from '@/public/videos/gp1/wke';
 import Summary from '@/pages/components/summary';
 import WkeEx from '@/pages/exercises/gp1/wkeex';
 import Quizheading from '@/pages/components/quizHeading';
+import Wkequiz from '@/pages/education/gp1/wke/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Wke = () => {

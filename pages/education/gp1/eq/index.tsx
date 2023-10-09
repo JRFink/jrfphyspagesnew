@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import EqEx from '@/pages/exercises/gp1/eqex';
 import Quizheading from '@/pages/components/quizHeading';
+import Eqquiz from '@/pages/education/gp1/eq/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Eq = () => {

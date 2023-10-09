@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary'; 
 import CalcEx from '@/pages/exercises/gp1/calcex';
 import Quizheading from '@/pages/components/quizHeading';
+import Calcquiz from '@/pages/education/gp1/calc/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Calc = () => {
@@ -18,10 +19,10 @@ const Calc = () => {
             <br></br>
             <ModoverviewCalc />
             <br></br>
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
+            <LearnGoal />
+            <h2> 
+            Introduction 
+            </h2>
             <br></br>
             <h2 className={style.h2SectionColor} id="approx">
                 1. Approximations

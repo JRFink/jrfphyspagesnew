@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import FluidEx from '@/pages/exercises/gp1/fluidex';
 import Quizheading from '@/pages/components/quizHeading';
+import Fluidquiz from '@/pages/education/gp1/fluid/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Fluid = () => {
@@ -16,30 +17,30 @@ const Fluid = () => {
                 Fluids
             </h1>
             <ModoverviewFluid />
-<br /> 
-<LearnGoal />
-<h2> 
-Introduction 
-</h2>
-<p>
-      Moving from gravity we proceed to fluids. Fluid motion is complicated, but we can use some idealized models to make it easier. 
-</p>
-<br />
-<br />
-<h2 className={style.h2SectionColor}> 
-         Domain of fluids 
-</h2>
-<p> 
- The domain of fluid mechanics is... 
- </p>
-<br /> 
-            <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<p> 
-      Consider water flowing through a large pipe and then through the small nozzle of a fire hydrant.   
- </p>
-<br />
+            <br /> 
+            <LearnGoal />
+            <h2> 
+            Introduction 
+            </h2>
+            <p>
+                Moving from gravity we proceed to fluids. Fluid motion is complicated, but we can use some idealized models to make it easier. 
+            </p>
+            <br />
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                    Domain of fluids 
+            </h2>
+            <p> 
+            The domain of fluid mechanics is... 
+            </p>
+            <br /> 
+                        <br />  
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <p> 
+                Consider water flowing through a large pipe and then through the small nozzle of a fire hydrant.   
+            </p>
+            <br />
             <h2 className={style.h2SectionColor} id="fluid">
                 1. Fluids, density, and pressure
             </h2>
@@ -123,10 +124,10 @@ Introduction
             <h2 className={style.h2SectionColor} id="visc">
                 4. Viscosity 
             </h2>
-<br />
-<br />
-<Summary /> 
-<br />
+            <br />
+            <br />
+            <Summary /> 
+            <br />
             <br></br>
             <br></br>
             <FluidEx />

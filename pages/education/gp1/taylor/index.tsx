@@ -8,6 +8,7 @@ import TaylorVid from '@/public/videos/gp1/taylor';
 import Summary from '@/pages/components/summary';
 import TaylorEx from '@/pages/exercises/gp1/taylorex';
 import Quizheading from '@/pages/components/quizHeading';
+import Taylorquiz from '@/pages/education/gp1/taylor/quiz';
 import Helpful from '@/pages/components/helpful';
 
 
@@ -30,9 +31,9 @@ const Taylor = () => {
             </p> 
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
-<br />
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
+            <br />
             <h2 className={style.h2SectionColor} id="intro">
                 1. Theory
             </h2>
@@ -63,8 +64,8 @@ const Taylor = () => {
                     alt="A green bob attached to a blue pendulum" 
                 />
             </div>
-<Summary /> 
-<br />
+            <Summary /> 
+            <br />
             <br></br>
             <br></br>
             <TaylorEx />

@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import FlawEx from '@/pages/exercises/gp1/flawex';
 import Quizheading from '@/pages/components/quizHeading';
+import Flawquiz from '@/pages/education/gp1/flaw/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Flaw = () => {
@@ -54,8 +55,8 @@ const Flaw = () => {
                 Consider a thermometer.   
             </p>
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
             <br />
             <Summary /> 
             <br />

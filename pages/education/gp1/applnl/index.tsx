@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import ApplnlEx from '@/pages/exercises/gp1/applnlex';
 import Quizheading from '@/pages/components/quizHeading';
+import Appnlquiz from '@/pages/education/gp1/applnl/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const ApplNl = () => {

@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import GEx from '@/pages/exercises/gp1/gex';
 import Quizheading from '@/pages/components/quizHeading';
+import Gquiz from '@/pages/education/gp1/g/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Gravity = () => {

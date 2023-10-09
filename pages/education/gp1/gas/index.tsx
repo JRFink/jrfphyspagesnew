@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import KinEx from '@/pages/exercises/gp1/kinex';
 import Quizheading from '@/pages/components/quizHeading';
+import Gasquiz from '@/pages/education/gp1/gas/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Gas = () => {

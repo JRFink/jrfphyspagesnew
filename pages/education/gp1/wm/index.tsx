@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import WmEx from '@/pages/exercises/gp1/wmex';
 import Quizheading from '@/pages/components/quizHeading';
+import Wmquiz from '@/pages/education/gp1/wm/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Wave = () => {

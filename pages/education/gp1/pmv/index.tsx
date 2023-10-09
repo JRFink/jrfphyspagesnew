@@ -6,6 +6,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PmvEx from '@/pages/exercises/gp1/pmvex';
 import Quizheading from '@/pages/components/quizHeading';
+import Pmvquiz from '@/pages/education/gp1/pmv/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Pmv = () => {
@@ -52,7 +53,7 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="moment">
                 2. Momentum
             </h2>
-<br />
+            <br />
             <h3 className={style.h3num}>
                 2.1 
             </h3>
@@ -124,7 +125,7 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="var">
                 5. Systems with varying mass
             </h2>
-<br />
+            <br />
             <Summary />
             <br></br>
             <br></br>

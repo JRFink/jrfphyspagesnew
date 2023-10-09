@@ -5,6 +5,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import TrqVid from '@/public/videos/gp1/trq';
 import TrqEx from '@/pages/exercises/gp1/trqex';
 import Quizheading from '@/pages/components/quizHeading';
+import Trqquiz from '@/pages/education/gp1/trq/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Trq = () => {

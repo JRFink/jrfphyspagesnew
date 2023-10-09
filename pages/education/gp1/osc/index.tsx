@@ -7,6 +7,7 @@ import Summary from '@/pages/components/summary';
 import blockspring from '@/public/images/blockspring.svg';
 import OscEx from '@/pages/exercises/gp1/oscex';
 import Quizheading from '@/pages/components/quizHeading';
+import Oscquiz from '@/pages/education/gp1/osc/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Osc = () => {

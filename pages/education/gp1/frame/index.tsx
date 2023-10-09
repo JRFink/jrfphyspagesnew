@@ -8,7 +8,7 @@ import frames from '@/public/images/frames.svg';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Quizheading from '@/pages/components/quizHeading';
-import FrameQuestions from '@/pages/education/gp1/quiz/questions';
+import Framequiz from '@/pages/education/gp1/frame/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Uvec = () => {

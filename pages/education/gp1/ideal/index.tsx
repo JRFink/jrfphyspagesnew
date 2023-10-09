@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Quizheading from '@/pages/components/quizHeading';
+import Idealquiz from '@/pages/education/gp1/ideal/quiz';
 
 const Id = () => { 
   return (

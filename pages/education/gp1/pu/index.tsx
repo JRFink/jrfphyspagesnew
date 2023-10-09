@@ -6,6 +6,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import Summary from '@/pages/components/summary';
 import PuEx from '@/pages/exercises/gp1/puex';
 import Quizheading from '@/pages/components/quizHeading';
+import Puquiz from '@/pages/education/gp1/pu/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const PU = () => {

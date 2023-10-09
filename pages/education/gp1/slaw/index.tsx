@@ -7,6 +7,7 @@ import second from '@/public/images/second.svg';
 import Summary from '@/pages/components/summary';
 import SlawEx from '@/pages/exercises/gp1/slawex';
 import Quizheading from '@/pages/components/quizHeading';
+import Slawquiz from '@/pages/education/gp1/slaw/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const Slaw = () => {

@@ -6,6 +6,7 @@ import NewtVid from '@/public/videos/gp1/newt';
 import Summary from '@/pages/components/summary';
 import NlEx from '@/pages/exercises/gp1/nlex';
 import Quizheading from '@/pages/components/quizHeading';
+import Nlquiz from '@/pages/education/gp1/nl/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const NewtLaws = () => {
