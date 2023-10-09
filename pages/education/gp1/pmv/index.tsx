@@ -52,6 +52,7 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="moment">
                 2. Momentum
             </h2>
+<br />
             <h3 className={style.h3num}>
                 2.1 
             </h3>
@@ -123,6 +124,7 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="var">
                 5. Systems with varying mass
             </h2>
+<br />
             <Summary />
             <br></br>
             <br></br>
