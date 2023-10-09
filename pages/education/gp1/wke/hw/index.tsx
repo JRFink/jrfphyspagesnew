@@ -11,6 +11,15 @@ const WkeHw = () => {
             <h1 className={style.centerText}>
                 Work and kinetic energy hw
             </h1>
+   <p>   
+   <ul>   
+        <li>Work kinetic energy theorem</li>  
+        <li>1d</li>    
+        <li>2d</li>   
+        <li>3d</li> 
+        <li>Power</li>  
+   </ul>   
+   </p>
         </>
     );
 }
