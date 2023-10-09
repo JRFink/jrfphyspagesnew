@@ -101,7 +101,7 @@ Introduction
             <h2 className={style.h2SectionColor} id="ex">
                 3. Example with 1 dimensional motion
             </h2>
-                
+            <br />
                 <h3 className={style.h3num}> 
                      3.1 
                  </h3> 
@@ -127,7 +127,7 @@ Introduction
             <br></br>
             <br></br>
                 <p>
-                    The development of calculus has a long history. It didn&#39;t simply start with &#34;Newton&#34;. 
+                    The development of calculus has a long history. It didn&#39;t simply &#39;start with Newton&#39;. 
                     A huge part of modern day calc is the power rule, what you learn as a shortcut. 
                     But how do you get the power rule?
                 </p>

@@ -11,6 +11,12 @@ const DiffHw = () => {
             <h1 className={style.centerText}>
                 Differential equations hw
             </h1>
+            <p>
+                <ul>
+                    <li>First order</li>
+                    <li>Second order</li>
+                </ul>
+            </p>
         </>
     );
 }

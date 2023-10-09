@@ -11,6 +11,11 @@ const FlawHw = () => {
             <h1 className={style.centerText}>
                 First law of thermo hw
             </h1>
+            <p>
+                <ul>
+                    <li>First law</li>
+                </ul>
+            </p>
         </>
     );
 }

@@ -11,6 +11,14 @@ const EqHw = () => {
             <h1 className={style.centerText}>
                 Equilibrium and elasticity hw
             </h1>
+            <p>
+                <ul>
+                    <li>Forces</li>
+                    <li>Torque</li>
+                    <li>Elasticity</li>
+                    <li>Young&#39;s modulus</li>
+                </ul>
+            </p>
         </>
     );
 }

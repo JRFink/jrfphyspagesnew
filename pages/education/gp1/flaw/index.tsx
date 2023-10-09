@@ -47,9 +47,12 @@ const Flaw = () => {
                 The domain of thr first law is... 
             </p>
             <br /> 
-<p> 
-      Consider a thermometer.   
- </p>
+            <h2 className={style.h2SectionColor} id="first">
+                1. First law of thermo
+            </h2>
+            <p> 
+                Consider a thermometer.   
+            </p>
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
