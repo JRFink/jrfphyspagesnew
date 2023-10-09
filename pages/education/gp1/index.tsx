@@ -23,8 +23,7 @@ const Gp1 = () => {
             <br></br>
             <div className={style.flexContainer} id="intro">
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
-                <Link href="" className={style.styleCourseNav}>Course notes...</Link>
-                <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
+                <Link href="/education/gp1/quiz" className={style.styleCourseNav}>Quizzes</Link>  
                 <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equation page</Link>
                 <Link href="/education/gp1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
                 <Link href="/education/gp1/prob" className={style.styleCourseNav}>Real world problems</Link>
@@ -57,7 +56,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 5
             </p>
-            <Link href="/education/gp1/1dm" className={style.generalLink}>Motion in 1 Dimension</Link><br></br>
+            <Link href="/education/gp1/1dm" className={style.generalLink}>Point particles in 1 Dimension</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 6
@@ -101,7 +100,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 13
             </p>
-            <Link href="/education/gp1/rm" className={style.generalLink}>Rotational Motion</Link><br></br>
+            <Link href="/education/gp1/rm" className={style.generalLink}>Extended objects and rotational Motion</Link><br></br>
             <br></br>   
             <p className={style.numberLink}>
                 14

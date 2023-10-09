@@ -8,6 +8,7 @@ import frames from '@/public/images/frames.svg';
 import Summary from '@/pages/components/summary';
 import FrameEx from '@/pages/exercises/gp1/frameex';
 import Quizheading from '@/pages/components/quizHeading';
+import FrameQuestions from '@/pages/education/gp1/quiz/questions';
 import Helpful from '@/pages/components/helpful';
 
 const Uvec = () => {
@@ -291,6 +292,7 @@ const Uvec = () => {
             <br></br>
             <Quizheading />
             <br />
+            <FrameQuestions />
             <br /> 
             <br /> 
             <Link href="/education/gp1/vec" className={style.backtoLink}>Vectors &#10140;</Link> 
