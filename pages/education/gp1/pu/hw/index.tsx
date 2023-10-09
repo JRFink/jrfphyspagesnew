@@ -11,6 +11,16 @@ const PuHw = () => {
             <h1 className={style.centerText}>
                 Energy conservation hw
             </h1>
+   <p>
+<ul>
+     <li>Potential energy</li>
+     <li>Kinetic energy</li>
+     <li>Work</li>
+     <li>Conservative forces</li>
+     <li>Non-conservative forces</li>
+     <li>Energy diagrams</li>
+</ul>
+</p>
         </>
     );
 }
