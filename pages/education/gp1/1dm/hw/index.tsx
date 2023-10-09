@@ -11,6 +11,16 @@ const OnedmHw = () => {
             <h1 className={style.centerText}>
                 One dimension hw
             </h1>
+            <p>
+                <ul>
+                    <li>Position and displacement</li>
+                    <li>Velocity</li>
+                    <li>Speed</li>
+                    <li>Acceleration</li>
+                    <li>Calc examples</li>
+                    <li>Free falling bodies</li>
+                </ul>
+            </p>
         </>
     );
 }

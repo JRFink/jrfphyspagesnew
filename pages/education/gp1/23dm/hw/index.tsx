@@ -11,6 +11,16 @@ const TwodmHw = () => {
             <h1 className={style.centerText}>
                 2-3 dimension hw
             </h1>
+            <p>
+                <ul>
+                    <li>Position and displacement</li>
+                    <li>Velocity</li>
+                    <li>Acceleration</li>
+                    <li>Projectile motion</li>
+                    <li>Uniform circular motion</li>
+                    <li>Relative motion</li>
+                </ul>
+            </p>
         </>
     );
 }

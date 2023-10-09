@@ -142,7 +142,7 @@ const ApplNl = () => {
                         &nbsp; &nbsp; 3.1.1 Reaction forces
                     </h4>
             <h2 className={style.h2SectionColor} id="circ">
-                4. Dynamics of circular motion
+                4. Circular motion
             </h2>
                 <p>
                     Some parts of circular motion are the same as linear motion, but other parts are different. 
