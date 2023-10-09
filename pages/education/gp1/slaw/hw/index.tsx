@@ -13,6 +13,7 @@ const SlawHw = () => {
             </h1>
    <p>  
   <ul>  
+       <li>Entropy</li>
        <li>Engines</li> 
        <li>Refrigerators</li>   
        <li>Statistics</li>  
