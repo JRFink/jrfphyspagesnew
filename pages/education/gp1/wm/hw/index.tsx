@@ -11,6 +11,16 @@ const WmHw = () => {
             <h1 className={style.centerText}>
                 Wave motion hw
             </h1>
+   <p>   
+   <ul>   
+        <li>Connection to oscillations</li>  
+        <li>Types of wave motion</li>    
+        <li>Describing wave motion</li>   
+        <li>Energy in waves</li> 
+        <li>Wave equation</li>
+        <li>Superposition</li>  
+   </ul>   
+   </p>
         </>
     );
 }
