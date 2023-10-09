@@ -11,18 +11,23 @@ const OscHw = () => {
             <h1 className={style.centerText}>
                 Oscillations hw
             </h1>
-            {/* <p>
+             <p>
                 <ul>
-                    <li>Gravitational field</li>
-                    <li>Gravitational force</li>
-                    <li>Gravitational potential</li>
-                    <li>Gravitation near earth&#39;s surface</li>
-                    <li>Gravitation at distance of satellites</li>
-                    <li>Motion of satellites</li>
-                    <li>Kepler&#39;s laws</li>
-                    <li>Einstein and gravity</li>
+                    <li>Describing oscillations</li>
+                    <li>Types of oscillations</li>
+                    <li>Simple harmonic</li>
+                    <li>Hookes</li>
+                    <li>Hookes</li>
+                    <li>Pure</li>
+                    <li>Damped</li>
+                    <li>Forced</li>
+<li>Resonance</li>
+<li>Connection to circular</li>
+<li>Energy in oscillations</li>
+<li>Simple pendulum</li>
+<li>Physical pendulum</li>
                 </ul>
-            </p> */}
+            </p>
         </>
     );
 }
