@@ -191,8 +191,7 @@ const NewtLaws = () => {
             <h2 className={style.h2SectionColor} id="free">
                 4. Free-body diagrams
             </h2>
-            <Summary /> 
-            <br /> 
+            <br />
             <br />
             <h2>
                 Fundamental forces
@@ -246,6 +245,7 @@ const NewtLaws = () => {
                     </ul>
                     Read more about these things in the <Link href="/research/particle">particle physics</Link> section.
                 </p>
+                <br />
             <h2 className={style.summaryHeading}>
                 Summary
            </h2>
