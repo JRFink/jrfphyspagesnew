@@ -32,6 +32,7 @@ const Taylor = () => {
             <br />  
   <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
   <br />
+<br />
             <h2 className={style.h2SectionColor} id="intro">
                 1. Theory
             </h2>
