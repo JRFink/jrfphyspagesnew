@@ -7,27 +7,27 @@ const Onedm4 = () => {
         <>
             <Hwheader />
             <div className={style.flexContainer}>
-                <Link href="/education/gp1/23dm/hw/1" className={style.generalLink}>1</Link>
+                <Link href="/education/gp1/23dm/hw/1#home" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/2" className={style.generalLink}>2</Link>
+                <Link href="/education/gp1/23dm/hw/2#home" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/3" className={style.generalLink}>3</Link>
+                <Link href="/education/gp1/23dm/hw/3#home" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/4" className={style.generalLink}>4</Link>
+                <Link href="/education/gp1/23dm/hw/4#home" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/5" className={style.generalLink}>5</Link>
+                <Link href="/education/gp1/23dm/hw/5#home" className={style.generalLink}>5</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/6" className={style.generalLink}>6</Link>
+                <Link href="/education/gp1/23dm/hw/6#home" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/7" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/23dm/hw/7#home" className={style.generalLink}>7</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/8" className={style.yellowLink}>8</Link>
+                <Link href="/education/gp1/23dm/hw/8#home" className={style.yellowLink}>8</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/9" className={style.generalLink}>9</Link>
+                <Link href="/education/gp1/23dm/hw/9#home" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/10" className={style.generalLink}>10</Link>
+                <Link href="/education/gp1/23dm/hw/10#home" className={style.generalLink}>10</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/10" className={style.generalLink}>11</Link>
+                <Link href="/education/gp1/23dm/hw/11#home" className={style.generalLink}>11</Link>
                 <br />
             </div>
             <h2>
