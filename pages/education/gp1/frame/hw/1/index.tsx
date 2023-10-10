@@ -11,7 +11,7 @@ const Frame1 = () => {
                 Frame hw
             </h1>
                 <div className={style.flexContainer}>
-                <Link href="/education/gp1/frame/hw/1" className={style.generalLink}>1</Link>
+                <Link href="/education/gp1/frame/hw/1" className={style.yellowLink}>1</Link>
                 <br />
                 <Link href="/education/gp1/frame/hw/2" className={style.generalLink}>2</Link>
                 <br />
@@ -23,7 +23,18 @@ const Frame1 = () => {
                 <br />
             </div>
             <p>
-                Some hw 1
+                <ul>
+                    <li>Frames</li>
+                    <li>Your frame</li>
+                    <li>Relative frame</li>
+                    <li>Inertial and non-inertial frame</li>
+                    <li>Units</li>
+                    <li>Dimensional analysis</li>
+                    <li>Gov standards</li>
+                    <li>Measurement</li>
+                    <li>Significant figures</li>
+                    <li>Uncertainty</li>
+                </ul>
             </p>
         </>
     );

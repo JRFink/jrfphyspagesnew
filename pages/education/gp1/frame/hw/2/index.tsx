@@ -13,7 +13,7 @@ const Frame2 = () => {
                 <div className={style.flexContainer}>
                 <Link href="/education/gp1/frame/hw/1" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/2" className={style.generalLink}>2</Link>
+                <Link href="/education/gp1/frame/hw/2" className={style.yellowLink}>2</Link>
                 <br />
                 <Link href="/education/gp1/frame/hw/3" className={style.generalLink}>3</Link>
                 <br />

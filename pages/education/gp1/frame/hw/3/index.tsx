@@ -15,7 +15,7 @@ const Frame3 = () => {
                 <br />
                 <Link href="/education/gp1/frame/hw/2" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/3" className={style.generalLink}>3</Link>
+                <Link href="/education/gp1/frame/hw/3" className={style.yellowLink}>3</Link>
                 <br />
                 <Link href="/education/gp1/frame/hw/4" className={style.generalLink}>4</Link>
                 <br />
