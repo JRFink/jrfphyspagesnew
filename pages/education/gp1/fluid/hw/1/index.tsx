@@ -35,6 +35,37 @@ const Fluid1 = () => {
                     <li>Viscosity</li>
                 </ul>
             </p>
+            <h3 className={style.h3num}>
+                A
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
+            <br />
+            <h3 className={style.h3num}>
+                B
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
+            <br />
+            <h3 className={style.h3num}>
+                C
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
+            <br />
+            <h3 className={style.h3num}>
+                D
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
         </>
     );
 }

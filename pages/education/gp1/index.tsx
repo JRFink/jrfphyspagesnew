@@ -26,7 +26,7 @@ const Gp1 = () => {
                 <Link href="/education/gp1/quiz" className={style.styleCourseNav}>Quizzes</Link> 
                 <Link href="/education/gp1/hw" className={style.styleCourseNav}>Homework</Link>  
                 <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equations</Link>
-                <Link href="/education/gp1/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
+                <Link href="/education/gp1/stuff" className={style.styleCourseNav}>Question database</Link>
                 <Link href="/education/gp1/prob" className={style.styleCourseNav}>Real world problems</Link>
                 <Link href="/education/gp1/syll" className={style.styleCourseNav}>Syllabus</Link>
                 <Link href="/education/gp1/exam" className={style.styleCourseNav}>Exam information</Link>

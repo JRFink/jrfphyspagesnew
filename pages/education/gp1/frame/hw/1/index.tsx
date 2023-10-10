@@ -22,9 +22,6 @@ const Frame1 = () => {
                 <Link href="/education/gp1/frame/hw/5" className={style.generalLink}>5</Link>
                 <br />
             </div>
-            <h3 className={style.h3num}>
-                A
-            </h3>
             <p>
                 <ul>
                     <li>Frames</li>
@@ -39,6 +36,37 @@ const Frame1 = () => {
                     <li>Uncertainty</li>
                 </ul>
             </p>
+            <h3 className={style.h3num}>
+                A
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
+            <br />
+            <h3 className={style.h3num}>
+                B
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
+            <br />
+            <h3 className={style.h3num}>
+                C
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
+            <br />
+            <h3 className={style.h3num}>
+                D
+            </h3>
+            <br />
+            &nbsp; &nbsp; <label>Answer: </label>
+            <input type="text"></input>
+            <button className={style.greenButton}>Check answer</button>
         </>
     );
 }
