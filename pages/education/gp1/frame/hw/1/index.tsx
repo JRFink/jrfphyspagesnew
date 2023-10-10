@@ -22,6 +22,9 @@ const Frame1 = () => {
                 <Link href="/education/gp1/frame/hw/5" className={style.generalLink}>5</Link>
                 <br />
             </div>
+            <h3 className={style.h3num}>
+                A
+            </h3>
             <p>
                 <ul>
                     <li>Frames</li>
