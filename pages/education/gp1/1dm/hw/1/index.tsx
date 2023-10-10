@@ -1,18 +1,17 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const OnedmHw = () => {
+const Onedm1 = () => {
     return (
         <>
             <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link><br></br>
-            <br></br>
+            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
             <br></br>
             <h1 className={style.centerText}>
                 One dimension hw
             </h1>
             <div className={style.flexContainer}>
-                <Link href="/education/gp1/1dm/hw/1" className={style.generalLink}>1</Link>
+                <Link href="/education/gp1/1dm/hw/1" className={style.yellowLink}>1</Link>
                 <br />
                 <Link href="/education/gp1/1dm/hw/2" className={style.generalLink}>2</Link>
                 <br />
@@ -24,17 +23,13 @@ const OnedmHw = () => {
                 <br />
             </div>
             <p>
-                <ul>
-                    <li>Position and displacement</li>
-                    <li>Velocity</li>
-                    <li>Speed</li>
-                    <li>Acceleration</li>
-                    <li>Calc examples</li>
-                    <li>Free falling bodies</li>
-                </ul>
+                Some hw 1
+                <br />
+                <br />
+                You can submit hw on the last question.
             </p>
         </>
     );
 }
 
-export default OnedmHw;
+export default Onedm1;

@@ -1,12 +1,11 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const OnedmHw = () => {
+const Onedm5 = () => {
     return (
         <>
             <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link><br></br>
-            <br></br>
+            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
             <br></br>
             <h1 className={style.centerText}>
                 One dimension hw
@@ -20,21 +19,19 @@ const OnedmHw = () => {
                 <br />
                 <Link href="/education/gp1/1dm/hw/4" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/1dm/hw/5" className={style.generalLink}>5</Link>
+                <Link href="/education/gp1/1dm/hw/5" className={style.yellowLink}>5</Link>
                 <br />
             </div>
             <p>
-                <ul>
-                    <li>Position and displacement</li>
-                    <li>Velocity</li>
-                    <li>Speed</li>
-                    <li>Acceleration</li>
-                    <li>Calc examples</li>
-                    <li>Free falling bodies</li>
-                </ul>
+                Some hw 5
             </p>
+            <br /> 
+            <br />
+            <div className={style.centerInADiv}>
+                <button className={style.greenButton}>Submit hw</button>
+            </div>
         </>
     );
 }
 
-export default OnedmHw;
+export default Onedm5;
