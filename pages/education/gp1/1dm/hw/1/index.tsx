@@ -34,6 +34,9 @@ const Onedm1 = () => {
             <h2>
                 Position
             </h2>
+<p>
+    x = x<span><sub>0</sub></span> + v t
+</p>
             <h3 className={style.h3num}>
                 A
             </h3>
