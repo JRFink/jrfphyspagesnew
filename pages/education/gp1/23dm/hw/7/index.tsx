@@ -13,13 +13,13 @@ const Onedm4 = () => {
                 <br />
                 <Link href="/education/gp1/23dm/hw/3" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/4" className={style.yellowLink}>4</Link>
+                <Link href="/education/gp1/23dm/hw/4" className={style.generalLink}>4</Link>
                 <br />
                 <Link href="/education/gp1/23dm/hw/5" className={style.generalLink}>5</Link>
                 <br />
                 <Link href="/education/gp1/23dm/hw/6" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/7" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/23dm/hw/7" className={style.yellowLink}>7</Link>
                 <br />
                 <Link href="/education/gp1/23dm/hw/8" className={style.generalLink}>8</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm4 = () => {
                 <br />
             </div>
             <h2>
-                Average velocity in 2-3d
+                Average acceleration in 2-3d
             </h2>
             <h3 className={style.h3num}>
                 A

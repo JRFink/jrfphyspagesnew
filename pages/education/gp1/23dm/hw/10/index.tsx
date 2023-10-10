@@ -5,6 +5,7 @@ import Hwheader from '../hwnav/hwnavb';
 const Onedm4 = () => {
     return (
         <>
+            
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/23dm/hw/1" className={style.generalLink}>1</Link>
@@ -13,7 +14,7 @@ const Onedm4 = () => {
                 <br />
                 <Link href="/education/gp1/23dm/hw/3" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/4" className={style.yellowLink}>4</Link>
+                <Link href="/education/gp1/23dm/hw/4" className={style.generalLink}>4</Link>
                 <br />
                 <Link href="/education/gp1/23dm/hw/5" className={style.generalLink}>5</Link>
                 <br />
@@ -25,13 +26,13 @@ const Onedm4 = () => {
                 <br />
                 <Link href="/education/gp1/23dm/hw/9" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/10" className={style.generalLink}>10</Link>
+                <Link href="/education/gp1/23dm/hw/10" className={style.yellowLink}>10</Link>
                 <br />
-                <Link href="/education/gp1/23dm/hw/10" className={style.generalLink}>11</Link>
+                <Link href="/education/gp1/23dm/hw/11" className={style.generalLink}>11</Link>
                 <br />
             </div>
             <h2>
-                Average velocity in 2-3d
+                Uniform circular motion
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -75,6 +76,8 @@ const Onedm4 = () => {
             <br />
             <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
+            <br />
         </>
     );
 }
