@@ -5,7 +5,7 @@ const Hwheader = () => {
     return (
         <>
             <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
+            <Link href="/education/gp1/hw" className={style.backtoLink} id="head">Homework</Link>
             <br></br>
             <h1 className={style.centerText}>
                 Frames, units, and meas hw
