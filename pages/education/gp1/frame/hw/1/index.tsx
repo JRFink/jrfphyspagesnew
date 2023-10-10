@@ -36,13 +36,19 @@ const Frame1 = () => {
                     <li>Uncertainty</li>
                 </ul>
             </p>
+            <h2>
+                Topic
+            </h2>
             <h3 className={style.h3num}>
                 A
             </h3>
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 B
@@ -50,7 +56,10 @@ const Frame1 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 C
@@ -58,7 +67,10 @@ const Frame1 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 D
@@ -66,6 +78,8 @@ const Frame1 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
         </>
     );
