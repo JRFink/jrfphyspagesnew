@@ -7,7 +7,7 @@ const Onedm4 = () => {
         <>
             <Hwheader />
             <div className={style.flexContainer}>
-                <Link href="/education/gp1/1dm/hw/1" className={style.generalLink}>1</Link>
+                <Link href="/education/gp1/1dm/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
                 <Link href="/education/gp1/1dm/hw/2" className={style.generalLink}>2</Link>
                 <br />
