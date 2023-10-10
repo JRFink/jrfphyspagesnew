@@ -57,7 +57,7 @@ const Syll = () => {
                 <br></br> 
             </p>
              <h2> 
-                 Prerequisites 
+                Prerequisites 
              </h2> 
                 <p> 
                     Algebra, geometry, trigonometry 
