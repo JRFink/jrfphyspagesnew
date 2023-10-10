@@ -10,6 +10,7 @@ const Onedm1 = () => {
             <h1 className={style.centerText}>
                 One dimension hw
             </h1>
+            
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/1dm/hw/1" className={style.yellowLink}>1</Link>
                 <br />
@@ -23,18 +24,21 @@ const Onedm1 = () => {
                 <br />
             </div>
             <p>
-                Some hw 1
-                <br />
-                <br />
                 You can submit hw on the last question.
             </p>
+            <h2>
+                First topic
+            </h2>
             <h3 className={style.h3num}>
                 A
             </h3>
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 B
@@ -42,7 +46,10 @@ const Onedm1 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 C
@@ -50,7 +57,10 @@ const Onedm1 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 D
@@ -58,6 +68,8 @@ const Onedm1 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
         </>
     );
