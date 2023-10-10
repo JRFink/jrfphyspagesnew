@@ -24,12 +24,10 @@ const Eq1 = () => {
             </div>
             <p>
                 <ul>
-                    <li>Approximations</li>
-                    <li>Rates of change</li>
-                    <li>Example with 1d motion</li>
-                    <li>Acceleration</li>
-                    <li>Calc examples</li>
-                    <li>Free falling bodies</li>
+                    <li>Forces</li>
+                    <li>Torque</li>
+                    <li>Elasticity</li>
+                    <li>Young&#39;s modulus</li>
                 </ul>
             </p>
         </>
