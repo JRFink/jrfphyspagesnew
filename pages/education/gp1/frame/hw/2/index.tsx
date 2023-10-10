@@ -1,16 +1,12 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Hwheader from '../hwnav/hwnavb';
 
-const Frame2 = () => {
+const Onedm2 = () => {
     return (
         <>
-            <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
-            <br></br>
-            <h1 className={style.centerText}>
-                Frame hw
-            </h1>
-                <div className={style.flexContainer}>
+            <Hwheader />
+            <div className={style.flexContainer}>
                 <Link href="/education/gp1/frame/hw/1" className={style.generalLink}>1</Link>
                 <br />
                 <Link href="/education/gp1/frame/hw/2" className={style.yellowLink}>2</Link>
@@ -21,9 +17,21 @@ const Frame2 = () => {
                 <br />
                 <Link href="/education/gp1/frame/hw/5" className={style.generalLink}>5</Link>
                 <br />
+                <Link href="/education/gp1/frame/hw/6" className={style.generalLink}>6</Link>
+                <br />
+                <Link href="/education/gp1/frame/hw/7" className={style.generalLink}>7</Link>
+                <br />
+                <Link href="/education/gp1/frame/hw/8" className={style.generalLink}>8</Link>
+                <br />
+                <Link href="/education/gp1/frame/hw/9" className={style.generalLink}>9</Link>
+                <br />
+                <Link href="/education/gp1/frame/hw/10" className={style.generalLink}>10</Link>
+                <br />
+                <Link href="/education/gp1/frame/hw/11" className={style.generalLink}>11</Link>
+                <br />
             </div>
             <h2>
-                Topic
+                Your own frame
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -71,4 +79,4 @@ const Frame2 = () => {
     );
 }
 
-export default Frame2;
+export default Onedm2;

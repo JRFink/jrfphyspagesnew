@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm3 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
@@ -11,7 +11,7 @@ const Onedm3 = () => {
                 <br />
                 <Link href="/education/gp1/frame/hw/2" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/3" className={style.yellowLink}>3</Link>
+                <Link href="/education/gp1/frame/hw/3" className={style.generalLink}>3</Link>
                 <br />
                 <Link href="/education/gp1/frame/hw/4" className={style.generalLink}>4</Link>
                 <br />
@@ -23,7 +23,7 @@ const Onedm3 = () => {
                 <br />
                 <Link href="/education/gp1/frame/hw/8" className={style.generalLink}>8</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/9" className={style.generalLink}>9</Link>
+                <Link href="/education/gp1/frame/hw/9" className={style.yellowLink}>9</Link>
                 <br />
                 <Link href="/education/gp1/frame/hw/10" className={style.generalLink}>10</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm3 = () => {
                 <br />
             </div>
             <h2>
-                Frame relative to something else
+                How to measure
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -79,4 +79,4 @@ const Onedm3 = () => {
     );
 }
 
-export default Onedm3;
+export default Onedm4;
