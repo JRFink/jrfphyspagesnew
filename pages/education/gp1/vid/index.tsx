@@ -12,24 +12,6 @@ import RotVid from '@/public/videos/gp1/rm';
 import TrqVid from '@/public/videos/gp1/trq';
 import TaylorVid from '@/public/videos/gp1/taylor';
 import Helpful from '@/pages/components/helpful/$gp1$vid';
-const ip = require('ip');
-const ipadr = ip.address();
-
-const handleAnalytics = async () => { 
-  
-     const endpoint = '/api/helpful/$analytics' 
-     const options = { 
-       method: 'POST', 
-       headers: { 
-         'Content-Type': 'text/plain',  
-       },  
-       body: ipadr, 
-     } 
-     console.log(endpoint);
-    await fetch(endpoint, options); 
-}  
-
-handleAnalytics();
 
 const Gp1Vid = () => {
     return (
