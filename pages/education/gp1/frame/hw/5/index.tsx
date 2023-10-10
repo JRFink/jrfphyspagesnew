@@ -7,27 +7,27 @@ const Onedm5 = () => {
         <>
             <Hwheader />
             <div className={style.flexContainer}>
-                <Link href="/education/gp1/frame/hw/1" className={style.generalLink}>1</Link>
+                <Link href="/education/gp1/frame/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/2" className={style.generalLink}>2</Link>
+                <Link href="/education/gp1/frame/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/3" className={style.generalLink}>3</Link>
+                <Link href="/education/gp1/frame/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/4" className={style.generalLink}>4</Link>
+                <Link href="/education/gp1/frame/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/5" className={style.yellowLink}>5</Link>
+                <Link href="/education/gp1/frame/hw/5#head" className={style.yellowLink}>5</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/6" className={style.generalLink}>6</Link>
+                <Link href="/education/gp1/frame/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/7" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/frame/hw/7#head" className={style.generalLink}>7</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/8" className={style.generalLink}>8</Link>
+                <Link href="/education/gp1/frame/hw/8#head" className={style.generalLink}>8</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/9" className={style.generalLink}>9</Link>
+                <Link href="/education/gp1/frame/hw/9#head" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/10" className={style.generalLink}>10</Link>
+                <Link href="/education/gp1/frame/hw/10#head" className={style.generalLink}>10</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/11" className={style.generalLink}>11</Link>
+                <Link href="/education/gp1/frame/hw/11#head" className={style.generalLink}>11</Link>
                 <br />
             </div>
             <h2>
