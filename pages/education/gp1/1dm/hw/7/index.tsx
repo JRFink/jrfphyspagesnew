@@ -2,14 +2,14 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm2 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/1dm/hw/1" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/1dm/hw/2" className={style.yellowLink}>2</Link>
+                <Link href="/education/gp1/1dm/hw/2" className={style.generalLink}>2</Link>
                 <br />
                 <Link href="/education/gp1/1dm/hw/3" className={style.generalLink}>3</Link>
                 <br />
@@ -19,7 +19,7 @@ const Onedm2 = () => {
                 <br />
                 <Link href="/education/gp1/1dm/hw/6" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/1dm/hw/7" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/1dm/hw/7" className={style.yellowLink}>7</Link>
                 <br />
                 <Link href="/education/gp1/1dm/hw/8" className={style.generalLink}>8</Link>
                 <br />
@@ -29,7 +29,7 @@ const Onedm2 = () => {
                 <br />
             </div>
             <h2>
-                Displacement
+                Average acceleration
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -77,4 +77,4 @@ const Onedm2 = () => {
     );
 }
 
-export default Onedm2;
+export default Onedm4;

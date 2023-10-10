@@ -1,15 +1,11 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Hwheader from '../hwnav/hwnavb';
 
 const Onedm5 = () => {
     return (
         <>
-            <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
-            <br></br>
-            <h1 className={style.centerText}>
-                One dimension hw
-            </h1>
+            <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/1dm/hw/1" className={style.generalLink}>1</Link>
                 <br />
@@ -21,9 +17,19 @@ const Onedm5 = () => {
                 <br />
                 <Link href="/education/gp1/1dm/hw/5" className={style.yellowLink}>5</Link>
                 <br />
+                <Link href="/education/gp1/1dm/hw/6" className={style.generalLink}>6</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/7" className={style.generalLink}>7</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/8" className={style.generalLink}>8</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/9" className={style.generalLink}>9</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/10" className={style.generalLink}>10</Link>
+                <br />
             </div>
             <h2>
-                Topic
+                Instantaneous velocity
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -69,11 +75,6 @@ const Onedm5 = () => {
             <button className={style.greenButton}>Check answer</button>
             <br /> 
             <br />
-            <br />
-            <br />
-            <div className={style.centerInADiv}>
-                <button className={style.greenButton}>Submit hw</button>
-            </div>
         </>
     );
 }

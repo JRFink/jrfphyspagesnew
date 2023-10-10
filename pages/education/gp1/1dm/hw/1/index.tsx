@@ -1,16 +1,11 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Hwheader from '../hwnav/hwnavb';
 
 const Onedm1 = () => {
     return (
         <>
-            <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
-            <br></br>
-            <h1 className={style.centerText}>
-                One dimension hw
-            </h1>
-            
+            <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/1dm/hw/1" className={style.yellowLink}>1</Link>
                 <br />
@@ -22,12 +17,22 @@ const Onedm1 = () => {
                 <br />
                 <Link href="/education/gp1/1dm/hw/5" className={style.generalLink}>5</Link>
                 <br />
+                <Link href="/education/gp1/1dm/hw/6" className={style.generalLink}>6</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/7" className={style.generalLink}>7</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/8" className={style.generalLink}>8</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/9" className={style.generalLink}>9</Link>
+                <br />
+                <Link href="/education/gp1/1dm/hw/10" className={style.generalLink}>10</Link>
+                <br />
             </div>
             <p>
                 You can submit hw on the last question.
             </p>
             <h2>
-                First topic
+                Position
             </h2>
             <h3 className={style.h3num}>
                 A

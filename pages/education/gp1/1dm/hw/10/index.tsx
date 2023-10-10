@@ -2,14 +2,15 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm2 = () => {
+const Onedm4 = () => {
     return (
         <>
+            
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/1dm/hw/1" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/1dm/hw/2" className={style.yellowLink}>2</Link>
+                <Link href="/education/gp1/1dm/hw/2" className={style.generalLink}>2</Link>
                 <br />
                 <Link href="/education/gp1/1dm/hw/3" className={style.generalLink}>3</Link>
                 <br />
@@ -25,11 +26,11 @@ const Onedm2 = () => {
                 <br />
                 <Link href="/education/gp1/1dm/hw/9" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp1/1dm/hw/10" className={style.generalLink}>10</Link>
+                <Link href="/education/gp1/1dm/hw/10" className={style.yellowLink}>10</Link>
                 <br />
             </div>
             <h2>
-                Displacement
+                Free-falling bodies
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -73,8 +74,15 @@ const Onedm2 = () => {
             <br />
             <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
+            <br />
+            <br />
+            <br />
+            <div className={style.centerInADiv}>
+                <button className={style.greenButton}>Submit hw</button>
+            </div>
         </>
     );
 }
 
-export default Onedm2;
+export default Onedm4;
