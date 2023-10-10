@@ -15,7 +15,7 @@ const Momgrav = () => {
             <br />
             <div className={style.divFrameGreen}>
                 <p>
-                    1. 
+                    1. What is the definition of impulse?
                 </p>
                 <label>Answer: &nbsp; </label>
                 <input type="text"></input>

@@ -15,7 +15,7 @@ const Fluidtherm = () => {
             <br />
             <div className={style.divFrameGreen}>
                 <p>
-                    1. 
+                    1. What is bernoulli&#39;s equation?
                 </p>
                 <label>Answer: &nbsp; </label>
                 <input type="text"></input>

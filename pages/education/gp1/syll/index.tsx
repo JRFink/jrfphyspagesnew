@@ -15,7 +15,7 @@ const Syll = () => {
                  Description 
              </h2> 
              <p> 
-                 An introduction to general physics. It covers the following topics:  
+                 An introduction to general physics. It will cover the following topics:  
                  <br></br> 
                  <ul>
                     <li>frames, units, and measurement</li>
@@ -50,7 +50,7 @@ const Syll = () => {
                     The class contains 4 <Link href="/education/gp1/exam">midterm exams </Link> 
                     and a <Link href="/education/gp1/exam">final exam</Link>. 
                 <br /> 
-                    There is also an extra credit paper, which can add 5&#44; to your grade. 
+                    There is also an extra credit paper, which can add 5&#37; to your grade. 
                 <br />
                     Please give me your <Link href="/contact">feedback</Link> as you go through the class.
                 <br></br> 

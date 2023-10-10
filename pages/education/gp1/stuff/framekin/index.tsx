@@ -15,7 +15,7 @@ const Framekin = () => {
             <br />
             <div className={style.divFrameGreen}>
                 <p>
-                    1. 
+                    1. Complete .. v<span><sup>2</sup></span> = 
                 </p>
                 <label>Answer: &nbsp; </label>
                 <input type="text"></input>

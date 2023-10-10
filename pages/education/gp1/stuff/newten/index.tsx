@@ -15,8 +15,11 @@ const Newten = () => {
             <br />
             <div className={style.divFrameGreen}>
                 <p>
-                    1. 
+                    1. A ball falls from a height <em>h</em>. What is its speed at the bottom? 
+                    &#40;Do this in two different ways&#41;
                 </p>
+                <br />
+                <br />
                 <label>Answer: &nbsp; </label>
                 <input type="text"></input>
                 <div className={style.centerInADiv}>
