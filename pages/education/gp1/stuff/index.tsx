@@ -24,11 +24,11 @@ const Stuff = () => {
             <br />
             <Link href="/education/gp1/stuff/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
             <br />
-            <Link href="" className={style.generalLink}>Newton &#10140; energy conservation</Link>
+            <Link href="/education/gp1/stuff/newten" className={style.generalLink}>Newton &#10140; energy conservation</Link>
             <br />
-            <Link href="" className={style.generalLink}>Momentum &#10140; gravity</Link>
+            <Link href="/education/gp1/stuff/momgrav" className={style.generalLink}>Momentum &#10140; gravity</Link>
             <br />
-            <Link href="" className={style.generalLink}>Fluids &#10140; thermo</Link>
+            <Link href="/education/gp1/stuff/fluidtherm" className={style.generalLink}>Fluids &#10140; thermo</Link>
         </> 
     ); 
 } 

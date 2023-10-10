@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
-const Framekin = () => {
+const Momgrav = () => {
     return (
         <>
             <br /> 
@@ -9,7 +9,7 @@ const Framekin = () => {
             <br /> 
             <br />
             <h1 className={style.centerText}>
-                Frame &#10140; kin questions
+                Momentum &#10140; gravity questions
             </h1>
             <br /> 
             <br />
@@ -27,4 +27,4 @@ const Framekin = () => {
     );
 }
 
-export default Framekin;
+export default Momgrav;
