@@ -22,16 +22,19 @@ const Onedm2 = () => {
                 <Link href="/education/gp1/1dm/hw/5" className={style.generalLink}>5</Link>
                 <br />
             </div>
-            <p>
-                Some hw 2
-            </p>
+            <h2>
+                Topic
+            </h2>
             <h3 className={style.h3num}>
                 A
             </h3>
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 B
@@ -39,7 +42,10 @@ const Onedm2 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 C
@@ -47,7 +53,10 @@ const Onedm2 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 D
@@ -55,6 +64,8 @@ const Onedm2 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
         </>
     );
