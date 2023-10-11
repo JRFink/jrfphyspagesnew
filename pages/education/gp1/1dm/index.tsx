@@ -198,6 +198,9 @@ const Onedm = () => {
                                 t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; = &#916;  
                                 <b>v</b> &nbsp; / &#916; t    
                             </div>  
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                             {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                         </div> 
                         <h4> 
@@ -252,6 +255,9 @@ const Onedm = () => {
                     <div className={style.equationNumber}>&#40; &#41;</div>
             </div>
                 <br />
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h3 className={style.h3num}>
                 4.3
             </h3>
