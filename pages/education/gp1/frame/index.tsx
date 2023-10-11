@@ -51,6 +51,10 @@ const Uvec = () => {
             <h3 className={style.h3num}>
                 1.1 
             </h3>
+
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h3 className={style.h3text}>
                 Your own frame
             </h3>
@@ -62,7 +66,10 @@ const Uvec = () => {
             <h3 className={style.h3num}>
                 1.2
             </h3>
-            <h3 className={style.h3text}>
+  <h2 className={style.greenExample}> 
+    Example 
+ </h2>
+          <h3 className={style.h3text}>
                 Frame relative to something else
             </h3>
             <br />
@@ -102,6 +109,9 @@ const Uvec = () => {
                 <h4>
                     &nbsp; &nbsp; 1.3.1 Inertial
                 </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <h4>
                     &nbsp; &nbsp; 1.3.2 Non-inertial
                 </h4>
@@ -170,6 +180,9 @@ const Uvec = () => {
                 <h4>
                     &nbsp; &nbsp; 2.4.1 Conversion
                 </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                     <p>
                         Unit conversion is the process of converting one unit to another. In order to convert one unit 
                         to another, you have to multiply that unit by .... Let&#39;s go back to a very simple math concept. 
@@ -212,6 +225,9 @@ const Uvec = () => {
                     </mfrac>
                 </math>, so we have made a dimensional mistake.  */}
             </p>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h3 className={style.h3num}>
                 2.6
             </h3>
@@ -252,6 +268,9 @@ const Uvec = () => {
                     Significant figures are a pain. Nonetheless, they are important and we will use them in this class. You will 
                     impress all your friends when you correctly use significant figures. The metrologists will also love you. 
                 </p>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h3 className={style.h3num}>
                 3.3
             </h3>
