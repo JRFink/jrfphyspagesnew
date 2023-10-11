@@ -14,7 +14,7 @@ const Theat = () => {
             <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
-                Temperature and Heat
+                Temperature, heat, first law of thermo
             </h1>
             <br></br>
             <ModoverviewTheat />

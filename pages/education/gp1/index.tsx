@@ -143,7 +143,7 @@ const Gp1 = () => {
             <p className={style.numberLink}>
                 21
             </p>
-            <Link href="/education/gp1/theat" className={style.generalLink}>Temperature and Heat</Link><br></br>
+            <Link href="/education/gp1/theat" className={style.generalLink}>Temperature, Heat, First law of thermodynamics</Link><br></br>
             <br></br>
             <p className={style.numberLink}>
                 22
@@ -152,11 +152,6 @@ const Gp1 = () => {
             <br></br>
             <p className={style.numberLink}>
                 23
-            </p>
-            <Link href="/education/gp1/flaw" className={style.generalLink}>First Law of Thermodynamics</Link><br></br>
-            <br></br>
-            <p className={style.numberLink}>
-                24
             </p>
             <Link href="/education/gp1/slaw" className={style.generalLink}>Second Law of Thermodynamics</Link><br></br>
             <br></br>

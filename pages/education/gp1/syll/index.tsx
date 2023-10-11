@@ -38,9 +38,8 @@ const Syll = () => {
                     <li>fluids</li>
                     <li>oscillations</li>
                     <li>waves</li>
-                    <li>temperature and heat</li>
+                    <li>temperature, heat, first law of thermo</li>
                     <li>gases</li>
-                    <li>first law of thermo</li>
                     <li>second law of thermo</li>
                  </ul>
                 <br />

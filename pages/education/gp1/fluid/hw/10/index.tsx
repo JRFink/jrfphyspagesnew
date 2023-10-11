@@ -2,9 +2,10 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm5 = () => {
+const Onedm4 = () => {
     return (
         <>
+            
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/fluid/hw/1#head" className={style.generalLink}>1</Link>
@@ -15,7 +16,7 @@ const Onedm5 = () => {
                 <br />
                 <Link href="/education/gp1/fluid/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/fluid/hw/5#head" className={style.yellowLink}>5</Link>
+                <Link href="/education/gp1/fluid/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
                 <Link href="/education/gp1/fluid/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
@@ -25,13 +26,13 @@ const Onedm5 = () => {
                 <br />
                 <Link href="/education/gp1/fluid/hw/9#head" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp1/fluid/hw/10#head" className={style.generalLink}>10</Link>
+                <Link href="/education/gp1/fluid/hw/10#head" className={style.yellowLink}>10</Link>
                 <br />
                 <Link href="/education/gp1/fluid/hw/11#head" className={style.generalLink}>11</Link>
                 <br />
             </div>
             <h2>
-                Buoyancy
+                Viscosity
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -75,10 +76,10 @@ const Onedm5 = () => {
             <br />
             <br />
             <button className={style.greenButton}>Check answer</button>
-            <br /> 
+            <br />
             <br />
         </>
     );
 }
 
-export default Onedm5;
+export default Onedm4;

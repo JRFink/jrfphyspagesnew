@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm5 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
@@ -15,11 +15,11 @@ const Onedm5 = () => {
                 <br />
                 <Link href="/education/gp1/fluid/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/fluid/hw/5#head" className={style.yellowLink}>5</Link>
+                <Link href="/education/gp1/fluid/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
                 <Link href="/education/gp1/fluid/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/fluid/hw/7#head" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/fluid/hw/7#head" className={style.yellowLink}>7</Link>
                 <br />
                 <Link href="/education/gp1/fluid/hw/8#head" className={style.generalLink}>8</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm5 = () => {
                 <br />
             </div>
             <h2>
-                Buoyancy
+                Fluid in motion
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -75,10 +75,8 @@ const Onedm5 = () => {
             <br />
             <br />
             <button className={style.greenButton}>Check answer</button>
-            <br /> 
-            <br />
         </>
     );
 }
 
-export default Onedm5;
+export default Onedm4;
