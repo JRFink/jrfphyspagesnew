@@ -8,31 +8,31 @@ const Onedm4 = () => {
             
             <Hwheader />
             <div className={style.flexContainer}>
-                <Link href="/education/gp1/frame/hw/1#head" className={style.generalLink}>1</Link>
+                <Link href="/education/gp1/trq/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/2#head" className={style.generalLink}>2</Link>
+                <Link href="/education/gp1/trq/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/3#head" className={style.generalLink}>3</Link>
+                <Link href="/education/gp1/trq/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/4#head" className={style.generalLink}>4</Link>
+                <Link href="/education/gp1/trq/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/5#head" className={style.generalLink}>5</Link>
+                <Link href="/education/gp1/trq/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/6#head" className={style.generalLink}>6</Link>
+                <Link href="/education/gp1/trq/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/7#head" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/trq/hw/7#head" className={style.generalLink}>7</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/8#head" className={style.generalLink}>8</Link>
+                <Link href="/education/gp1/trq/hw/8#head" className={style.generalLink}>8</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/9#head" className={style.generalLink}>9</Link>
+                <Link href="/education/gp1/trq/hw/9#head" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/10#head" className={style.generalLink}>10</Link>
+                <Link href="/education/gp1/trq/hw/10#head" className={style.generalLink}>10</Link>
                 <br />
-                <Link href="/education/gp1/frame/hw/11#head" className={style.yellowLink}>11</Link>
+                <Link href="/education/gp1/trq/hw/11#head" className={style.yellowLink}>11</Link>
                 <br />
             </div>
             <h2>
-                Uncertainty in measurement
+            
             </h2>
             <h3 className={style.h3num}>
                 A
