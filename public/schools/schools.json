@@ -2,5 +2,10 @@
 "abilene christian": {
   "pubpriv": "private"
   "level": "university"
-}
+  }
+"columbine high school": {
+   "pubpriv": "private"
+   "level": "high school"
+  }
+  "university of colorado boulder"
 }
