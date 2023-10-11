@@ -1,37 +1,42 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Hwheader from '../hwnav/hwnavb';
 
-const Calc4 = () => {
+const Onedm4 = () => {
     return (
         <>
-            <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
-            <br></br>
-            <h1 className={style.centerText}>
-                Calc hw
-            </h1>
-                <div className={style.flexContainer}>
-                <Link href="/education/gp1/calc/hw/1" className={style.generalLink}>1</Link>
+            <Hwheader />
+            <div className={style.flexContainer}>
+                <Link href="/education/gp1/calc/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/calc/hw/2" className={style.generalLink}>2</Link>
+                <Link href="/education/gp1/calc/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/calc/hw/3" className={style.generalLink}>3</Link>
+                <Link href="/education/gp1/calc/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/calc/hw/4" className={style.yellowLink}>4</Link>
+                <Link href="/education/gp1/calc/hw/4#head" className={style.yellowLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/calc/hw/5" className={style.generalLink}>5</Link>
+                <Link href="/education/gp1/calc/hw/5#head" className={style.generalLink}>5</Link>
+                <br />
+                <Link href="/education/gp1/calc/hw/6#head" className={style.generalLink}>6</Link>
+                <br />
+                <Link href="/education/gp1/calc/hw/7#head" className={style.generalLink}>7</Link>
+                <br />
+                <Link href="/education/gp1/calc/hw/8#head" className={style.generalLink}>8</Link>
                 <br />
             </div>
-            <p>
-                Some hw 4
-            </p>
+            <h2>
+                Rates of change
+            </h2>
             <h3 className={style.h3num}>
                 A
             </h3>
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 B
@@ -39,7 +44,10 @@ const Calc4 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 C
@@ -47,7 +55,10 @@ const Calc4 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 D
@@ -55,9 +66,11 @@ const Calc4 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
         </>
     );
 }
 
-export default Calc4;
+export default Onedm4;
