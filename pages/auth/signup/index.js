@@ -122,7 +122,6 @@ const SignupFlow = () => {
                         <br />
                         Find your school, match requirements, get credit. 
 <br /> 
-<br />
                 <input type="text" className={style.searchBox} placeholder="Find your school"></input>
                         </p> 
                         <br />
