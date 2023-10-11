@@ -169,6 +169,11 @@ const Onedm = () => {
                         {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                     </div>
                     <br />
+<br />
+<h2 className={style.greenExample}>
+   Example
+</h2>
+<br />
                     <br />
                 <h2 className={style.h2SectionColor} id="accel">
                     4. Acceleration
