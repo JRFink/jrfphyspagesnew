@@ -93,7 +93,7 @@ const Pmv = () => {
             </p> 
             <br /> 
                   <div className={style.equationBox}>  
-                      <div className={style.equation}><b>J</b> = F &#916; t </div>  
+                      <div className={style.equation}><b>J</b> &nbsp; = F &#916; t </div>  
                       <div className={style.equationNumber}>&#40;2&#41;</div>  
                   </div>  
                   <br />
@@ -125,6 +125,7 @@ const Pmv = () => {
             <h2 className={style.h2SectionColor} id="var">
                 5. Systems with varying mass
             </h2>
+            <br />
             <br />
             <Summary />
             <br></br>

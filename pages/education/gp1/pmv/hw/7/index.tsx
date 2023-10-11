@@ -2,14 +2,14 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm2 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/pmv/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/pmv/hw/2#head" className={style.yellowLink}>2</Link>
+                <Link href="/education/gp1/pmv/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
                 <Link href="/education/gp1/pmv/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
@@ -19,7 +19,7 @@ const Onedm2 = () => {
                 <br />
                 <Link href="/education/gp1/pmv/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/pmv/hw/7#head" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/pmv/hw/7#head" className={style.yellowLink}>7</Link>
                 <br />
                 <Link href="/education/gp1/pmv/hw/8#head" className={style.generalLink}>8</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm2 = () => {
                 <br />
             </div>
             <h2>
-                Momentum
+                Inelastic collisions
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -79,4 +79,4 @@ const Onedm2 = () => {
     );
 }
 
-export default Onedm2;
+export default Onedm4;
