@@ -55,6 +55,9 @@ const Flaw = () => {
             <br />  
             <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
             <br />
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <br />
             <Summary /> 
             <br />
