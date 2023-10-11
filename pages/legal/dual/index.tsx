@@ -9,7 +9,7 @@ const Dual = () => {
            </h1>
            <br />
            <p>
-                Are you wanting to take a class and get school credit?
+                Are you wanting to get school credit?
            </p>
        </>
     );
