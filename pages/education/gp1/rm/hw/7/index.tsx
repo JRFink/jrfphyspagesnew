@@ -2,12 +2,12 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm1 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
             <div className={style.flexContainer}>
-                <Link href="/education/gp1/rm/hw/1#head" className={style.yellowLink}>1</Link>
+                <Link href="/education/gp1/rm/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
                 <Link href="/education/gp1/rm/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
@@ -19,7 +19,7 @@ const Onedm1 = () => {
                 <br />
                 <Link href="/education/gp1/rm/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp1/rm/hw/7#head" className={style.generalLink}>7</Link>
+                <Link href="/education/gp1/rm/hw/7#head" className={style.yellowLink}>7</Link>
                 <br />
                 <Link href="/education/gp1/rm/hw/8#head" className={style.generalLink}>8</Link>
                 <br />
@@ -30,11 +30,8 @@ const Onedm1 = () => {
                 <Link href="/education/gp1/rm/hw/11#head" className={style.generalLink}>11</Link>
                 <br />
             </div>
-            <p>
-                You can submit hw on the last question.
-            </p>
             <h2>
-                Angular kinematics
+                Circular motion
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -82,4 +79,4 @@ const Onedm1 = () => {
     );
 }
 
-export default Onedm1;
+export default Onedm4;
