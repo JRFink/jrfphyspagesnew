@@ -1,48 +1,128 @@
 {
 "abilene christian": {
   "pubpriv": "private",
-  "level": "university"
-  "planet": "earth"
-  "country": "usa"
+  "level": "university",
+  "planet": "earth",
+  "country": "usa",
   "state": "texas"
-  }
+  },
 "alameda high school": {
-   "pubpriv": "public"
-   "level": "high school"
-   "planet": "earth"
-   "country": "usa"
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
    "state": "colorado"
-  }
+  },
+"bear creek high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
+"boston university": {
+   "pubpriv": "private",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "massachussets"
+  },
 "castle view high school": {
-   "pubpriv": "public"
-   "level": "high school"
-   "planet": "earth"
-   "country": "usa"
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
    "state": "colorado"
-  }
+  },
 "chatfield high school": {
-   "pubpriv": "public"
-   "level": "high school"
- }
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+ },
 "cherry creek high school": {
-   "pubpriv": "public"
-   "level": "high school"
-  }
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "columbine high school": {
-   "pubpriv": "public"
+   "pubpriv": "public",
    "level": "high school"
-  }
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "dakota ridge high school": {
-   "pubpriv": "public"
+   "pubpriv": "public",
    "level": "high school"
-  }
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "douglas county high school": {
-   "pubpriv": "public"
-   "level": "high school"
-  }
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
+"harvard": {
+   "pubpriv": "private",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "massachussets"
+  },
+"mit": {
+   "pubpriv": "private",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "massachussets"
+  },
+"mullen high school": {
+   "pubpriv": "private",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "smoky hill high school": {
-   "pubpriv": "public"
-   "level": "high school"
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
+"texas a and m university": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
+  },
+"university of california berkeley": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "california"
+  },
+"university of colorado boulder": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
+"university of dallas": {
+   "pubpriv": "private",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
   }
-  "university of colorado boulder"
 }
