@@ -739,6 +739,11 @@ export function ModoverviewG() {
             <br></br>
             <Vidicon />
             <p className={style.inlineContainer}>
+                <a href="#potentu">Gravitational potential energy</a>
+            </p>
+            <br></br>
+            <Vidicon />
+            <p className={style.inlineContainer}>
                 <a href="#potent">Gravitational potential</a>
             </p>
             <br></br>

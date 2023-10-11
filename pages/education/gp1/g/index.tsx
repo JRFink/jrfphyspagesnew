@@ -86,9 +86,13 @@ const Gravity = () => {
                     </div> 
                 <div className={style.equationNumber}>&#40;1&#41;</div> 
                 </div> 
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
+                <br /> 
+                <br />
+            <h2 className={style.greenExample}> 
+                Example 
+            </h2>
+            <br /> 
+            <br />
             <p> 
                 A mass subject to the gravitational force is subject to 
             </p>
@@ -99,13 +103,18 @@ const Gravity = () => {
                     <div className={style.equationNumber}>&#40;2&#41;</div> 
                 </div> 
                 <br />
+                <h2 className={style.h2SectionColor} id="potentu">
+                2. Gravitational potential energy
+            </h2>
+            <br></br>
+            <br></br>
             <h2 className={style.h2SectionColor} id="potent">
-                2. Gravitational potential
+                3. Gravitational potential
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="near">
-                3. Gravitation near earth&apos;s surface
+                4. Gravitation near earth&apos;s surface
             </h2>
             <p> 
                 Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
@@ -113,36 +122,38 @@ const Gravity = () => {
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+ <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="notnear">
-                4. Gravitation at distance of satellites
+                5. Gravitation at distance of satellites
             </h2>
             <br></br>
             <br></br>
             <h2 className={style.h2SectionColor} id="mot">
-                5. Motion of satellites
+                6. Motion of satellites
             </h2>
             <br></br>
             <br></br>
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+ <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="kep">
-                6. Kepler&apos;s laws
+                7. Kepler&apos;s laws
             </h2>
                 <p>
                     Kepler&#39;s laws...
                 </p>
             <h3 className={style.h3num}>
-                6.1
+                7.1
             </h3>
             <h3 className={style.h3text}>
                 Kepler&#39;s first law
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 5.1.1 Gravitational field
-                </h4>
+                
             <h3 className={style.h3num}>
-                6.2
+                7.2
             </h3>
             <h3 className={style.h3text}>
                 Kepler&#39;s second law
@@ -151,17 +162,18 @@ const Gravity = () => {
                     &nbsp; &nbsp; 5.1.2 Gravitational field
                 </h4>
             <h3 className={style.h3num}>
-                6.3
+                7.3
             </h3>
             <h3 className={style.h3text}>
                 Kepler&#39;s third law
             </h3>
-                <h4>
-                    &nbsp; &nbsp; 5.3.1 Gravitational field
-                </h4>
+            <br /> 
+            <br />
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+ <br /> 
+            <br />
             <h2 className={style.h2SectionColor} id="grav">
                 Einstein and gravity
             </h2>
