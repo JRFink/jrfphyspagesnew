@@ -36,7 +36,8 @@ const Education = () => {
                 For example, if you are taking physics in Colorado, what would you learn? We list some of the state requirements below. 
             </p>
             <p> 
-                Mind you that these are high school requirements; college requirements vary. 
+                                 Find your school, match requirements, get credit.  
+                 <input type="text" className={style.searchBox} placeholder="Find your school"></input> 
             </p>
             <p> 
                 Your state education requirements...
