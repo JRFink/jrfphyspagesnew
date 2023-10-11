@@ -41,6 +41,9 @@ const ApplNl = () => {
                     <h4>
                         &nbsp; &nbsp; 1.1.1 Equilibrium
                     </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 
             <h2 className={style.h2SectionColor} id="slaw">
                 2. Using the second
@@ -55,6 +58,10 @@ const ApplNl = () => {
                 <h3 className={style.h3text}>
                     Force as function of position
                 </h3>
+
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                     <h4>
                         &nbsp; &nbsp; 2.1.1 Solving the differential equation
                     </h4>
@@ -67,6 +74,9 @@ const ApplNl = () => {
                     <h4>
                     &nbsp; &nbsp; 2.2.1 Solving the differential equation
                     </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <h3 className={style.h3num}>
                     2.3
                 </h3>
@@ -94,7 +104,10 @@ const ApplNl = () => {
                     <h4>
                     &nbsp; &nbsp; 2.5.1 Static
                     </h4>
-                    <h4>
+   <h2 className={style.greenExample}> 
+    Example 
+ </h2>
+                 <h4>
                     &nbsp; &nbsp; 2.5.2 Kinetic
                     </h4>
                     <h4>
@@ -115,9 +128,13 @@ const ApplNl = () => {
                 <h3 className={style.h3text}>
                     Free-fall with approximate a
                 </h3>
+
                     <h4>
                     &nbsp; &nbsp; 2.7.1 Free fall
                     </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <h3 className={style.h3num}>
                     2.8
                 </h3>
@@ -142,6 +159,9 @@ const ApplNl = () => {
                     <h4>
                         &nbsp; &nbsp; 3.1.1 Reaction forces
                     </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="circ">
                 4. Circular motion
             </h2>
@@ -157,6 +177,10 @@ const ApplNl = () => {
                     <h4>
                         &nbsp; &nbsp; 4.1.1 Rouding a curve
                     </h4>
+
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <br />
             <Summary />
             <br></br>
