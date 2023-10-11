@@ -47,6 +47,9 @@ const Calc = () => {
             <h2 className={style.h2SectionColor} id="rate">
                 2. Rates of change
             </h2>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <p>
                     So what&#39;s the deal with the power rule and tangents? 
                 </p>
@@ -73,7 +76,10 @@ const Calc = () => {
                  </h3> 
                  <h3 className={style.h3text}> 
                      Rates of change
-                 </h3>              
+                 </h3>   
+  <h2 className={style.greenExample}> 
+    Example 
+ </h2>         
                     <p>
                         And voila, the rate of change. 
                     </p>
@@ -94,6 +100,9 @@ const Calc = () => {
                  <h3 className={style.h3text}> 
                      Adding rates of change for a certain period
                  </h3>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                     <p>
                         Now think about how you use a rate to find the change of something.
                     </p>
@@ -118,6 +127,9 @@ const Calc = () => {
                  <h3 className={style.h3text}> 
                      Adding up changes in velocity 
                  </h3>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                  <h4> 
                      &nbsp; &nbsp; 3.2.1 Adding
                  </h4>
