@@ -13,11 +13,11 @@ const Onedm4 = () => {
                 <br />
                 <Link href="/education/gp1/applnl/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/applnl/hw/4#head" className={style.yellowLink}>4</Link>
+                <Link href="/education/gp1/applnl/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
                 <Link href="/education/gp1/applnl/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
-                <Link href="/education/gp1/applnl/hw/6#head" className={style.generalLink}>6</Link>
+                <Link href="/education/gp1/applnl/hw/6#head" className={style.yellowLink}>6</Link>
                 <br />
                 <Link href="/education/gp1/applnl/hw/7#head" className={style.generalLink}>7</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm4 = () => {
                 <br />
             </div>
             <h2>
-                Force as function of time
+                Friction
             </h2>
             <h3 className={style.h3num}>
                 A
