@@ -86,6 +86,9 @@ const Gravity = () => {
                     </div> 
                 <div className={style.equationNumber}>&#40;1&#41;</div> 
                 </div> 
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <p> 
                 A mass subject to the gravitational force is subject to 
             </p>
@@ -107,6 +110,9 @@ const Gravity = () => {
             <p> 
                 Consider again the gravitational force. Think about the changes in r when you move from 2m above the ground to ground level. </p> 
             <br></br>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="notnear">
                 4. Gravitation at distance of satellites
             </h2>
@@ -117,6 +123,9 @@ const Gravity = () => {
             </h2>
             <br></br>
             <br></br>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="kep">
                 6. Kepler&apos;s laws
             </h2>
@@ -150,6 +159,9 @@ const Gravity = () => {
                 <h4>
                     &nbsp; &nbsp; 5.3.1 Gravitational field
                 </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="grav">
                 Einstein and gravity
             </h2>
