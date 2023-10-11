@@ -1,10 +1,47 @@
 {
 "abilene christian": {
-  "pubpriv": "private"
+  "pubpriv": "private",
   "level": "university"
+  "planet": "earth"
+  "country": "usa"
+  "state": "texas"
+  }
+"alameda high school": {
+   "pubpriv": "public"
+   "level": "high school"
+   "planet": "earth"
+   "country": "usa"
+   "state": "colorado"
+  }
+"castle view high school": {
+   "pubpriv": "public"
+   "level": "high school"
+   "planet": "earth"
+   "country": "usa"
+   "state": "colorado"
+  }
+"chatfield high school": {
+   "pubpriv": "public"
+   "level": "high school"
+ }
+"cherry creek high school": {
+   "pubpriv": "public"
+   "level": "high school"
   }
 "columbine high school": {
-   "pubpriv": "private"
+   "pubpriv": "public"
+   "level": "high school"
+  }
+"dakota ridge high school": {
+   "pubpriv": "public"
+   "level": "high school"
+  }
+"douglas county high school": {
+   "pubpriv": "public"
+   "level": "high school"
+  }
+"smoky hill high school": {
+   "pubpriv": "public"
    "level": "high school"
   }
   "university of colorado boulder"
