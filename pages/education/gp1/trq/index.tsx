@@ -37,8 +37,8 @@ const Trq = () => {
             </p>
             <br /> 
             <br />  
-  <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
-  <br />
+            <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
+            <br />
             <br />
             <h2 className={style.h2SectionColor} id="var">
                 1. Variables
@@ -81,14 +81,19 @@ const Trq = () => {
                     <div className={style.equation}><b>L</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>p</b></div> 
                     <div className={style.equationNumber}>&#40;1&#41;</div>
                 </div>
-<p>
-    The length gives the magnitude of the vector. We can also write the magnitude of the angular momentum as
+                <p>
+                    The length gives the magnitude of the vector. We can also write the magnitude of the angular momentum as
                 </p>
                 <br />
                 <div className={style.equationBox}>
                     <div className={style.equation}> L &nbsp; = I &#969;</div> 
                 </div>
-            <br />
+                <br />
+                <p>
+                    This is useful for extended bodies. 
+                    <br />
+                    &#40; Do this equation for point particles &#41;
+                </p>
             <h3 className={style.h3num}>
                 3.1
             </h3>
