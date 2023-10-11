@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm3 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
@@ -11,13 +11,13 @@ const Onedm3 = () => {
                 <br />
                 <Link href="/education/gp1/eq/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/eq/hw/3#head" className={style.yellowLink}>3</Link>
+                <Link href="/education/gp1/eq/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
                 <Link href="/education/gp1/eq/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
                 <Link href="/education/gp1/eq/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
-                <Link href="/education/gp1/eq/hw/6#head" className={style.generalLink}>6</Link>
+                <Link href="/education/gp1/eq/hw/6#head" className={style.yellowLink}>6</Link>
                 <br />
                 <Link href="/education/gp1/eq/hw/7#head" className={style.generalLink}>7</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm3 = () => {
                 <br />
             </div>
             <h2>
-                Torques
+                
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -79,4 +79,4 @@ const Onedm3 = () => {
     );
 }
 
-export default Onedm3;
+export default Onedm4;
