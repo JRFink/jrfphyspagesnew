@@ -51,6 +51,9 @@ const Osc = () => {
                     <h4> 
                         &nbsp; &nbsp; 2.1.1 First
                     </h4> 
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                         <p> 
                             A first-order ODE is an equation of the form dg/dt = f(g,t). 
                         </p>
@@ -63,6 +66,9 @@ const Osc = () => {
                     <h4> 
                         &nbsp; &nbsp; 2.2.1 Second
                     </h4> 
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <Summary /> 
             <br />
             <br></br>
