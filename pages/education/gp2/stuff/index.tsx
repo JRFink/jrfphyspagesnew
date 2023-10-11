@@ -8,8 +8,11 @@ import style from '@/styles/general.module.css';
              <Link href="/education/gp2" className={style.backtoLink}>Gen phys 2</Link> 
              <br /> 
              <h1 className={style.centerText}> 
-                 Stuff you should know 
+                 Question database
              </h1> 
+             <p>
+                Question database for gen phys 2..
+             </p>
          </> 
      ); 
  } 
