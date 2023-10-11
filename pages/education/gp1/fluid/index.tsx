@@ -56,6 +56,7 @@ const Fluid = () => {
                     <h4>
                         &nbsp; &nbsp; 1.1.1 Types...
                     </h4>
+
                 <h3 className={style.h3num}>
                     1.2 
                 </h3>
@@ -65,6 +66,10 @@ const Fluid = () => {
                     <h4>
                         &nbsp; &nbsp; 1.2.1 Density
                     </h4>
+
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <h3 className={style.h3num}>
                     1.3 
                 </h3>
@@ -74,6 +79,9 @@ const Fluid = () => {
                     <h4>
                         &nbsp; &nbsp; 1.3.1 Pascal&#39;s law
                     </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="buoy">
                 2. Buoyancy
             </h2>
@@ -89,6 +97,9 @@ const Fluid = () => {
                     <h4>
                         &nbsp; &nbsp; 2.1.1 Principle...
                     </h4>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="mot">
                 3. Fluids in motion
             </h2>
@@ -110,6 +121,9 @@ const Fluid = () => {
                 <h3 className={style.h3text}>
                     Bernoulli&#39;s equation
                 </h3>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                <p> 
                     Bernoulli&#39;s equation is  
                 </p> 
@@ -121,6 +135,9 @@ const Fluid = () => {
                       <div className={style.equationNumber}>&#40;1&#41;</div>  
                   </div>  
                   <br /> 
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h2 className={style.h2SectionColor} id="visc">
                 4. Viscosity 
             </h2>
