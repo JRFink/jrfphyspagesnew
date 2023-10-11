@@ -57,6 +57,9 @@ const Eq = () => {
             <h3 className={style.h3text}> 
                 Forces
             </h3>
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <h4>
                 &nbsp; &nbsp; 2.1.1 Force balancing 
             </h4> 
@@ -69,6 +72,9 @@ const Eq = () => {
             <h4> 
             &nbsp; &nbsp; 2.2.1 Torque balancing 
             </h4> 
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
             <br />
             <h2 className={style.h2SectionColor} id="elas">
                 3. Elasticity
@@ -78,16 +84,22 @@ const Eq = () => {
             3.1
             </h3> 
             <h3 className={style.h3text}>
-            Young&#39;s modulus 
+                 Young&#39;s modulus 
             </h3>
                 <p> 
                     Young&#39;s modulus is given by  
-                </p> 
+                </p>
+ <h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <br /> 
                 <div className={style.equationBox}> 
                     <div className={style.equation}>E = &#963; / &#949; = F L<span><sub>0</sub></span> / A &#916; L</div>   
                     <div className={style.equationNumber}>&#40;1&#41;</div> 
                 </div> 
+<h2 className={style.greenExample}> 
+    Example 
+ </h2>
                 <br />
             <Summary /> 
             <br /> 
