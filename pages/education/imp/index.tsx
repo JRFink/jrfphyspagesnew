@@ -13,13 +13,16 @@ const Imp = () => {
             <br></br>
             <div className={style.flexContainer} id="intro">
                 <Link href="/education/imp/vid" className={style.styleCourseNav}>Videos</Link>
-                <Link href="" className={style.styleCourseNav}>Course notes...</Link>
-                <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
-                <Link href="/education/imp/equat" className={style.styleCourseNav}>Equation page</Link>
-                <Link href="/education/imp/stuff" className={style.styleCourseNav}>Stuff you should know</Link>           
-           </div>
+                <Link href="/education/imp/quiz" className={style.styleCourseNav}>Quizzes</Link> 
+                <Link href="/education/imp/hw" className={style.styleCourseNav}>Homework</Link>  
+                <Link href="/education/imp/equat" className={style.styleCourseNav}>Equations</Link>
+                <Link href="/education/imp/stuff" className={style.styleCourseNav}>Question database</Link>
+                <Link href="/education/imp/prob" className={style.styleCourseNav}>Real world problems</Link>
+                <Link href="/education/imp/syll" className={style.styleCourseNav}>Syllabus</Link>
+                <Link href="/education/imp/exam" className={style.styleCourseNav}>Exam information</Link>
+            </div>
             <br></br>
-            <Link href="/education/imp/spc" className={style.generalLink}>Space, time, and relativity</Link><br></br>
+            <Link href="/education/imp/rel" className={style.generalLink}>Space, time, and relativity</Link><br></br>
             <br></br>
             <Link href="/education/imp/relmech" className={style.generalLink}>Relativistic mechanics</Link><br></br>
             <br></br>
