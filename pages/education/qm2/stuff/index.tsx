@@ -8,7 +8,7 @@ import style from '@/styles/general.module.css';
              <Link href="/education/qm2" className={style.backtoLink}>Quantum 2</Link> 
              <br /> 
              <h1 className={style.centerText}> 
-                 Stuff you should know 
+                 Question database 
              </h1> 
          </> 
      ); 
