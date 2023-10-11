@@ -1,37 +1,48 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Hwheader from '../hwnav/hwnavb';
 
-const Frame5 = () => {
+const Onedm5 = () => {
     return (
         <>
-            <br />
-            <Link href="/education/gp1/hw" className={style.backtoLink}>Homework</Link>
-            <br />
-            <h1 className={style.centerText}>
-                Temperature and heat hw
-            </h1>
-                <div className={style.flexContainer}>
-                <Link href="/education/gp1/theat/hw/1" className={style.generalLink}>1</Link>
+            <Hwheader />
+            <div className={style.flexContainer}>
+                <Link href="/education/gp1/theat/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp1/theat/hw/2" className={style.generalLink}>2</Link>
+                <Link href="/education/gp1/theat/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp1/theat/hw/3" className={style.generalLink}>3</Link>
+                <Link href="/education/gp1/theat/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp1/theat/hw/4" className={style.generalLink}>4</Link>
+                <Link href="/education/gp1/theat/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/theat/hw/5" className={style.yellowLink}>5</Link>
+                <Link href="/education/gp1/theat/hw/5#head" className={style.yellowLink}>5</Link>
+                <br />
+                <Link href="/education/gp1/theat/hw/6#head" className={style.generalLink}>6</Link>
+                <br />
+                <Link href="/education/gp1/theat/hw/7#head" className={style.generalLink}>7</Link>
+                <br />
+                <Link href="/education/gp1/theat/hw/8#head" className={style.generalLink}>8</Link>
+                <br />
+                <Link href="/education/gp1/theat/hw/9#head" className={style.generalLink}>9</Link>
+                <br />
+                <Link href="/education/gp1/theat/hw/10#head" className={style.generalLink}>10</Link>
+                <br />
+                <Link href="/education/gp1/theat/hw/11#head" className={style.generalLink}>11</Link>
                 <br />
             </div>
-            <p>
-                Some hw 5
-            </p>
+            <h2>
+                Thermal expansion
+            </h2>
             <h3 className={style.h3num}>
                 A
             </h3>
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 B
@@ -39,7 +50,10 @@ const Frame5 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 C
@@ -47,7 +61,10 @@ const Frame5 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
+            <br />
             <br />
             <h3 className={style.h3num}>
                 D
@@ -55,16 +72,13 @@ const Frame5 = () => {
             <br />
             &nbsp; &nbsp; <label>Answer: </label>
             <input type="text"></input>
+            <br />
+            <br />
             <button className={style.greenButton}>Check answer</button>
             <br /> 
             <br />
-            <br />
-            <br />
-            <div className={style.centerInADiv}>
-                <button className={style.greenButton}>Submit hw</button>
-            </div>
         </>
     );
 }
 
-export default Frame5;
+export default Onedm5;
