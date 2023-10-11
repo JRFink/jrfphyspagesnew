@@ -2,7 +2,7 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
-const Onedm5 = () => {
+const Onedm4 = () => {
     return (
         <>
             <Hwheader />
@@ -15,13 +15,13 @@ const Onedm5 = () => {
                 <br />
                 <Link href="/education/gp1/wke/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp1/wke/hw/5#head" className={style.yellowLink}>5</Link>
+                <Link href="/education/gp1/wke/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
                 <Link href="/education/gp1/wke/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
                 <Link href="/education/gp1/wke/hw/7#head" className={style.generalLink}>7</Link>
                 <br />
-                <Link href="/education/gp1/wke/hw/8#head" className={style.generalLink}>8</Link>
+                <Link href="/education/gp1/wke/hw/8#head" className={style.yellowLink}>8</Link>
                 <br />
                 <Link href="/education/gp1/wke/hw/9#head" className={style.generalLink}>9</Link>
                 <br />
@@ -31,7 +31,7 @@ const Onedm5 = () => {
                 <br />
             </div>
             <h2>
-                Work-energy in 1d - gravity
+                Work-energy in 2d - spring
             </h2>
             <h3 className={style.h3num}>
                 A
@@ -75,10 +75,8 @@ const Onedm5 = () => {
             <br />
             <br />
             <button className={style.greenButton}>Check answer</button>
-            <br /> 
-            <br />
         </>
     );
 }
 
-export default Onedm5;
+export default Onedm4;
