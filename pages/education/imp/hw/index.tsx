@@ -31,15 +31,7 @@ const Hw = () => {
             <Link href="/education/imp/mod/hw/1" className={style.lightGreenLink}>Modern applications</Link>
             <br />
             <br />
-            <Link href="/education/imp/ac/hw/1" className={style.lightGreenLink}>AC circuits</Link>
-            <br />
-            <br />
-            <Link href="/education/imp/eb/hw/1" className={style.lightGreenLink}>Electromagnetic waves</Link>
-            <br />
-            <br />
-            <Link href="/education/imp/max/hw/1" className={style.lightGreenLink}>Maxwell&#39;s equations</Link>
-            <br />
-            <br />
+            
         </>
     );
 }
