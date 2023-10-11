@@ -120,7 +120,8 @@ const SignupFlow = () => {
                             The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. 
                             We&#39;re thinking &#36;5 &#47; month. < br /> 
                         <br />
-                            Let us know what you think <Link href="/contact">here</Link> 
+                        Find your school, match requirements, get credit. 
+                <input type="text" className={style.searchBox} placeholder="Find your school"></input>
                         </p> 
                         <br />
                         <br />
