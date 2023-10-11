@@ -660,6 +660,14 @@
     border-radius: 8px;
 }
 
+.greenExample {
+    display: inline-block; 
+    padding: 7px 7px 7px 7px;
+    margin: 0px 15px 0px 15px;
+    background-color: #7fd085;
+    border-radius: 8px;
+}
+
 .highlightText {
     background-color: rgb(252, 255, 161);
     padding: 5px;
