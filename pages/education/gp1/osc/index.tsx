@@ -25,7 +25,10 @@ const Osc = () => {
             Introduction 
             </h2>
             <p> 
-            Proceeding from fluids we move to oscillations. This is a foundational topic in physics. Many things in our world oscillate. For example, a pendulum swings back and forth; a building sways slightly in the wind, and financial markets are always going up and down. Studying oscillations will help us characterize this motion. 
+                Proceeding from fluids we move to oscillations. 
+                This is a foundational topic in physics. Many things in our world oscillate. 
+                For example, a pendulum swings back and forth; a building sways slightly in the wind, 
+                and financial markets are always going up and down. Studying oscillations will help us characterize this motion. 
             </p> 
             <br />
             <br />
@@ -40,7 +43,8 @@ const Osc = () => {
             <h2 className={style.h2SectionColor}> Solving a simple physics problem</h2>  
             <br />
             <p> 
-                Consider a building that sways slightly back and forth in the wind, about 10 cm on each side. How would you model this situation, the position as a function of time?
+                Consider a building that sways back and forth in the wind. 
+                How would you model this situation?
             </p>
             <br />
                 <h2 className={style.h2SectionColor} id="desc">
