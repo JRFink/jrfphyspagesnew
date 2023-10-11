@@ -5,7 +5,6 @@ import Hwheader from '../hwnav/hwnavb';
 const Onedm4 = () => {
     return (
         <>
-            
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp2/i/hw/1#head" className={style.generalLink}>1</Link>
