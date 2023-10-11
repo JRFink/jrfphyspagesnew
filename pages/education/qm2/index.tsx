@@ -12,14 +12,18 @@ const Qm2 = () => {
                 Quantum Mechanics 2
             </h1>
             <br></br>
+
             <div className={style.flexContainer}> 
-                <Link href="/education/qm2/vid" className={style.styleCourseNav}>Videos</Link> 
-                <Link href="" className={style.styleCourseNav}>Course notes...</Link> 
-                <Link href="" className={style.styleCourseNav}>Quizzes...</Link>   
-                <Link href="/education/qm2/equat" className={style.styleCourseNav}>Equation page</Link>  
-                <Link href="/education/qm2/stuff" className={style.styleCourseNav}>Stuff you should know</Link> 
-                <Link href="/education/qm2/ham" className={style.styleCourseNav}>Hamiltonians of atoms and molecules</Link>
-             </div> 
+                 <Link href="/education/qm2/vid" className={style.styleCourseNav}>Videos</Link>             
+                  <Link href="/education/qm2/quiz" className={style.styleCourseNav}>Quizzes</Link>   
+                  <Link href="/education/qm2/hw" className={style.styleCourseNav}>Homework</Link>    
+                  <Link href="/education/qm2/equat" className={style.styleCourseNav}>Equations</Link>  
+                  <Link href="/education/qm2/stuff" className={style.styleCourseNav}>Question database</Link>  
+                  <Link href="/education/qm2/ham" className={style.styleCourseNav}>Hamiltonians of atoms and molecules</Link>
+                  <Link href="/education/qm2/prob" className={style.styleCourseNav}>Real world problems</Link>  
+                  <Link href="/education/qm2/syll" className={style.styleCourseNav}>Syllabus</Link>  
+                  <Link href="/education/qm2/exam" className={style.styleCourseNav}>Exam information</Link> 
+</div>
              <br></br>
             <br></br>
             <Link href="/education/qm2/q3d" className={style.generalLink}>Quantum in 3 Dimensions</Link><br></br>
