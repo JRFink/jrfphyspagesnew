@@ -25,7 +25,7 @@ const About = () => {
                     <br />
                     &nbsp; &nbsp; &nbsp; Whether it is teaching general physics to high school students, going through the quantum 
                     numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
-                    we want to teach people how to understand the physics in our world.   
+                    we want to teach people about physics.   
                 </p>
 <h2>
      Business structure
