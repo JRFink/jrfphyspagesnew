@@ -27,7 +27,21 @@
    "country": "usa",
    "state": "massachussets"
   },
+"boulder high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "castle view high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
+"chapparal high school": {
    "pubpriv": "public",
    "level": "high school",
    "planet": "earth",
@@ -41,6 +55,13 @@
    "country": "usa",
    "state": "colorado"
  },
+"cherokee trail high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "cherry creek high school": {
    "pubpriv": "public",
    "level": "high school",
@@ -69,12 +90,40 @@
    "country": "usa",
    "state": "colorado"
   },
+"fairview high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
+"grandview high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "harvard": {
    "pubpriv": "private",
    "level": "8year",
    "planet": "earth",
    "country": "usa",
    "state": "massachussets"
+  },
+"katy high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
+  },
+"lakewood high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
   },
 "mit": {
    "pubpriv": "private",
@@ -90,6 +139,27 @@
    "country": "usa",
    "state": "colorado"
   },
+"philips exeter academy": {
+   "pubpriv": "private",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "new hampshire"
+  },
+"plano east high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
+  },
+"ponderosa high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "colorado"
+  },
 "smoky hill high school": {
    "pubpriv": "public",
    "level": "high school",
@@ -97,12 +167,40 @@
    "country": "usa",
    "state": "colorado"
   },
+"south lake carroll high school": {
+   "pubpriv": "public",
+   "level": "high school",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
+  },
 "texas a and m university": {
    "pubpriv": "public",
    "level": "8year",
    "planet": "earth",
    "country": "usa",
    "state": "texas"
+  },
+"university of alabama": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
+  },
+"university of arizona": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
+  },
+"university of arkansas": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
   },
 "university of california berkeley": {
    "pubpriv": "public",
@@ -124,5 +222,145 @@
    "planet": "earth",
    "country": "usa",
    "state": "texas"
-  }
+  },
+"university of florida": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "florida"
+  },
+"university of illinois urbana-champagne": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": illinois"
+  },
+"university of kansas": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "kansas"
+  },
+"university of kentucky": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "kentucky"
+  },
+"university of michigan": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "michigan"
+  },
+"university of missouri": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
+  },
+"university of nebraska-lincoln": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
+  },
+"university of new hampshire": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "new hampshire"
+  },
+"university of new mexico": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "new mexico"
+  },
+"university of north carolina": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "north carolina"
+  },
+"university of oklahoma": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
+  },
+"university of oregon": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "oregon"
+  },
+"university of south carolina": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "north carolina"
+  },
+"university of texas austin": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
+  },
+"university of texas el-paso": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "texas"
+  },
+"university of utah": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "utah"
+  },
+"university of virginia": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "virginia"
+  },
+"university of washington": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "washington"
+  },
+"university of west virginia": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "west virginia"
+  },
+"university of wisconsin": {
+   "pubpriv": "public",
+   "level": "8year",
+   "planet": "earth",
+   "country": "usa",
+   "state": "alabama"
+  },
 }
