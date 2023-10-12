@@ -87,6 +87,12 @@ const indexPage = () => {
             </div>
             <br /> 
             <br /> 
+<p>
+   On a scale of 1 - 5, how are you enjoying the site? 
+1 &nbsp; nbsp; 2 &nbsp;  &nbsp; 3 &nbsp; &nbsp; 4 &nbsp; &nbsp; 5
+</p>
+<br /> 
+<br />
                 <h3> 
                     If you&#39;re in college&#46;&#46;&#46; 
                 </h3>
