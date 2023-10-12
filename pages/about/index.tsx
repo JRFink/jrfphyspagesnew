@@ -35,7 +35,7 @@ const About = () => {
         <ul>
              <li>Selling general physics classes for people to take</li>
              <li>Selling upper level physics classes for people to take</li>
-             <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
+             <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/qis/news">news</Link> tab</li>
              <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics topics, etc. </li>
         </ul>
    </p>
