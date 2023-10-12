@@ -20,7 +20,7 @@ const Report = () => {
                 </ul>
   You can make a sample purchase <Link href="https://buy.stripe.com/28oeYtara5qhd5maEO">here</Link>. 
 <p>
-    The reports will start at around &#36;500. 
+    The reports will start around &#36;500. 
 </p>
             </p>
         </>
