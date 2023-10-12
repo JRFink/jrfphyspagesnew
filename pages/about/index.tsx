@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import profpic from 'public/images/profpic.jpg';
 
