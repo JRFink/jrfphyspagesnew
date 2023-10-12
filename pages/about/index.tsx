@@ -26,6 +26,18 @@ const About = () => {
                     numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
                     we want to teach people a way to make sense of the world.   
                 </p>
+<h2>
+     Business structure
+</h2>
+   <p>
+        The main aspects of our business are: 
+        <ul>
+             <li>Selling general physics classes for people to take</li>
+             <li>Selling upper level physics classes for people to take</li>
+             <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
+             <li>Selling informational reports to higher learning institutions, governments, etc. about higher ed policy, etc. </li>
+        </ul>
+   </p>
             <h2>
                 History
             </h2>
