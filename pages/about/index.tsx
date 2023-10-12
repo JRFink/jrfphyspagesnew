@@ -33,10 +33,10 @@ const About = () => {
    <p>
         The main aspects of our business are: 
         <ul>
-             <li>Selling general physics classes for people to take</li>
-             <li>Selling upper level physics classes for people to take</li>
+             <li>Selling general physics classes</li>
+             <li>Selling upper level physics classes</li>
              <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/qis/news">news</Link> tab</li>
-             <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics topics, etc. </li>
+             <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li>
         </ul>
    </p>
             <h2>
