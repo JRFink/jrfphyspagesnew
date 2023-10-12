@@ -14,6 +14,9 @@ const About = () => {
                 He went to the University of Dallas and studied philosophy 
                 and then went to CU-Boulder and studied phys. Now he lives in ny, and loves it.      
             </p>
+<p>
+   JRFink as a business was founded in 2022. 
+</p>
             <br></br>
             <br></br>
             <div 
