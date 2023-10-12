@@ -9,6 +9,9 @@ const Research = () => {
             </h1>
             <br></br>
             <br></br>
+<Link href="/research/news" className={style.lightGreenLink}>News</Link>
+<br />
+<br />
             <div className={style.flexContainer}>
                 <Link href="/research/particle" className={style.generalLink}>Particle physics</Link><br></br>
                 <Link href="/research/nuc" className={style.generalLink}>Nuclear</Link><br></br>
@@ -21,6 +24,7 @@ const Research = () => {
                 <Link href="/research/per" className={style.generalLink}>Physics education research</Link><br></br>
                 <Link href="/research/stand" className={style.generalLink}>Standards and constants</Link><br></br>
             </div>
+<br />
         </>
     );
 }
