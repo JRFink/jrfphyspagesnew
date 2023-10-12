@@ -24,7 +24,7 @@ const About = () => {
                     <br />
                     &nbsp; &nbsp; &nbsp; Whether it is teaching general physics to high school students, going through the quantum 
                     numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
-                    we want to teach people a way to make sense of the world.   
+                    we want to teach people how to understand the physics in our world.   
                 </p>
 <h2>
      Business structure
@@ -43,11 +43,11 @@ const About = () => {
             </h2>
                 <p>
                     JRFink was founded in 2022. It has not taken out any money in funding, and it is starting from complete scratch. 
-                    The business has not earned a dollar in revenue yet, but we&#39;re working on that. 
+                    The business has not earned a dollar in revenue yet, but we&#39;re working on it. 
                 </p>
                 <p>
-                    It was founded by Jeff. He went to the University of Dallas and CU-Boulder and studied 
-                    philosophy and physics at these institutions. Now he lives in ny, and loves it.      
+                    It was founded by Jeff. He went to the University of Dallas and CU-Boulder. He studied 
+                    philosophy and physics at these schools. Now he lives in ny, and loves it.      
                 </p>
 
             <br></br>
