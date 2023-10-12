@@ -9,7 +9,7 @@ const Research = () => {
             </h1>
             <br></br>
             <br></br>
-<Link href="/research/news" className={style.lightYellowLink}>News</Link>
+<Link href="/research/news" className={style.yellowLink}>News</Link>
 <br />
 <br />
             <div className={style.flexContainer}>
