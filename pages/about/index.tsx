@@ -9,14 +9,35 @@ const About = () => {
             <h1 className={style.centerText}>
                 About
             </h1>
-            <p className={style.centerText}>
-                Jeff is a Colorado native.
-                He went to the University of Dallas and studied philosophy 
-                and then went to CU-Boulder and studied phys. Now he lives in ny, and loves it.      
-            </p>
-<p>
-   JRFink as a business was founded in 2022. 
-</p>
+            
+            <h2>
+                Mission
+            </h2>
+                <p>
+                    &nbsp; &nbsp; &nbsp; Our mission is to educate people about physics. 
+                </p>
+            <h2>
+                Vision
+            </h2>
+                <p>
+                    &nbsp; &nbsp; &nbsp; Our vision is to educate every person on the planet about physics. 
+                    <br />
+                    &nbsp; &nbsp; &nbsp; Whether it is teaching general physics to high school students, going through the quantum 
+                    numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
+                    we want to teach people a way to make sense of the world.   
+                </p>
+            <h2>
+                History
+            </h2>
+                <p>
+                    JRFink was founded in 2022. It has not taken out any money in funding, and it is starting from complete scratch. 
+                    The business has not earned a dollar in revenue yet, but we&#39;re working on that. 
+                </p>
+                <p>
+                    It was founded by Jeff. He went to the University of Dallas and CU-Boulder and studied 
+                    philosophy and physics at these institutions. Now he lives in ny, and loves it.      
+                </p>
+
             <br></br>
             <br></br>
             <div 
