@@ -12,9 +12,36 @@ const Exp = () => {
                 Geophysics experiment
             </h1>
             <br />
-            <p>
-                Below you will find some experiments in AMO physics. 
-            </p>
+            <div className={style.flexContainer} id="intro">
+                <Link href="/research/geo/exp#basics" className={style.yellowLink}>Basics</Link>
+                <Link href="/research/geo/exp#equip" className={style.yellowLink}>Equipment</Link>
+                <Link href="/research/geo/exp#energy" className={style.yellowLink}>Energy levels</Link>  
+                <Link href="/research/geo/exp#current" className={style.yellowLink}>Current experiments</Link>
+            </div>
+            <h2 id="basics">
+                Basics
+            </h2>
+                <p>
+                    Basics of geophysics experiment...
+                </p>
+            <h2 id="equip">
+                Equipment
+            </h2>
+                <p>
+                    Equipment used in geophysics experiment...
+                </p>
+            <h2 id="energy">
+                Energy
+            </h2>
+                <p>
+                    Energy levels in geophysics experiment...
+                </p>
+            <h2 id="current">
+                Current experiments
+            </h2>
+                <p>
+                    Current experiments in geophys...
+                </p>
             
         </>
     );
