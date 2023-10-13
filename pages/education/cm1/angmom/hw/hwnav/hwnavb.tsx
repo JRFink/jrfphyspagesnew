@@ -5,10 +5,10 @@ const Hwheader = () => {
     return (
         <>
             <br />
-            <Link href="/education/gp2/hw" className={style.backtoLink} id="head">Homework</Link>
+            <Link href="/education/cm1/hw" className={style.backtoLink} id="head">Homework</Link>
             <br></br>
             <h1 className={style.centerText}>
-                Electric potential hw
+                Momentum and angular momentum hw
             </h1>
             
         </>

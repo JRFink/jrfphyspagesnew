@@ -7,27 +7,27 @@ const Onedm4 = () => {
         <>
             <Hwheader />
             <div className={style.flexContainer}>
-                <Link href="/education/gp2/vq/hw/1#head" className={style.generalLink}>1</Link>
+                <Link href="/education/cm1/angmom/hw/1#head" className={style.generalLink}>1</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/2#head" className={style.generalLink}>2</Link>
+                <Link href="/education/cm1/angmom/hw/2#head" className={style.generalLink}>2</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/3#head" className={style.generalLink}>3</Link>
+                <Link href="/education/cm1/angmom/hw/3#head" className={style.generalLink}>3</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/4#head" className={style.generalLink}>4</Link>
+                <Link href="/education/cm1/angmom/hw/4#head" className={style.generalLink}>4</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/5#head" className={style.generalLink}>5</Link>
+                <Link href="/education/cm1/angmom/hw/5#head" className={style.generalLink}>5</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/6#head" className={style.generalLink}>6</Link>
+                <Link href="/education/cm1/angmom/hw/6#head" className={style.generalLink}>6</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/7#head" className={style.generalLink}>7</Link>
+                <Link href="/education/cm1/angmom/hw/7#head" className={style.generalLink}>7</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/8#head" className={style.yellowLink}>8</Link>
+                <Link href="/education/cm1/angmom/hw/8#head" className={style.yellowLink}>8</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/9#head" className={style.generalLink}>9</Link>
+                <Link href="/education/cm1/angmom/hw/9#head" className={style.generalLink}>9</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/10#head" className={style.generalLink}>10</Link>
+                <Link href="/education/cm1/angmom/hw/10#head" className={style.generalLink}>10</Link>
                 <br />
-                <Link href="/education/gp2/vq/hw/11#head" className={style.generalLink}>11</Link>
+                <Link href="/education/cm1/angmom/hw/11#head" className={style.generalLink}>11</Link>
                 <br />
             </div>
             <h2>
