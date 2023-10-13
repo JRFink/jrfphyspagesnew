@@ -111,10 +111,11 @@ const Particle = () => {
             </p>
             <br />
                 <h3 className={style.h3num}>
-                    From atomic physics to particle physics
+                    From atomic physics to particles
                 </h3>
                 <p>
-                    We can begin our journey into particle physics by starting with atomic physics. The major developments in atomic physics which led to particle physics were
+                    We begin our journey into particle physics by starting with atoms. The major developments in atomic physics which 
+                    led to the discovery of particles were
                 <ol> 
                     <li>discovery of the electron</li>
                     <li>discovery of the proton</li>
