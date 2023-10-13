@@ -20,13 +20,21 @@ const Theor = () => {
       <tr>
           <th>Element</th>
           <th>Hamiltonian</th>
+          <th>Schrodinger Eq</th>
       </tr>
       <tr>
           <td>Hydrogen</td>
           <td></td>
+          <td></td>
       </tr>
       <tr>
           <td>Helium</td>
+          <td></td>
+          <td></td>
+      </tr>  
+      <tr>
+          <td>Lithium</td>
+          <td></td>
           <td></td>
       </tr>        
     </table>
