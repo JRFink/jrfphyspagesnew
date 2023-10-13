@@ -11,17 +11,17 @@ const Hw = () => {
             <h1 className={style.centerText}>
                 Homework
             </h1>
-            <Link href="/education/em1/math" className={style.lightGreenLink}>Math background</Link>
+            <Link href="/education/em1/math/hw/1" className={style.lightGreenLink}>Math background</Link>
             <br />
-            <Link href="/education/em1/elec" className={style.lightGreenLink}>Electrostatics</Link>
+            <Link href="/education/em1/elec/hw/1" className={style.lightGreenLink}>Electrostatics</Link>
             <br />
-            <Link href="/education/em1/spc" className={style.lightGreenLink}>Special techniques</Link>
+            <Link href="/education/em1/spc/hw/1" className={style.lightGreenLink}>Special techniques</Link>
             <br />
-            <Link href="/education/em1/fields" className={style.lightGreenLink}>Electric fields in matter</Link>
+            <Link href="/education/em1/fields/hw/1" className={style.lightGreenLink}>Electric fields in matter</Link>
             <br />
-            <Link href="/education/em1/bstat" className={style.lightGreenLink}>Magnetostatics</Link>
+            <Link href="/education/em1/bstat/hw/1" className={style.lightGreenLink}>Magnetostatics</Link>
             <br />
-            <Link href="/education/em1/bmat" className={style.lightGreenLink}>Magnetic fields in matter</Link>
+            <Link href="/education/em1/bmat/hw/1" className={style.lightGreenLink}>Magnetic fields in matter</Link>
             <br />
         </>
     );

@@ -8,7 +8,7 @@ const Hwheader = () => {
             <Link href="/education/em1/hw" className={style.backtoLink} id="head">Homework</Link>
             <br></br>
             <h1 className={style.centerText}>
-                Electrostatics hw
+                Magnetic fields in matter hw
             </h1>
             
         </>
