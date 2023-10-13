@@ -16,6 +16,20 @@ const Theor = () => {
             <p>
                 Below you will find some theories for condensed matter. 
             </p>
+    <table>
+      <tr>
+          <th>Element</th>
+          <th>Hamiltonian</th>
+      </tr>
+      <tr>
+          <td>Hydrogen</td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Helium</td>
+          <td></td>
+      </tr>        
+    </table>
             <br />
         </>
     );
