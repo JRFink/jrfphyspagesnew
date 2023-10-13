@@ -10,14 +10,18 @@ const Cm2 = () => {
                 Classical Mechanics 2
             </h1>
             <br />
-            <div className={style.flexContainer} id="intro">
-                <Link href="/education/cm2/vid" className={style.styleCourseNav}>Videos</Link>
-                <Link href="" className={style.styleCourseNav}>Course notes...</Link>
-                <Link href="" className={style.styleCourseNav}>Quizzes...</Link>  
-                <Link href="/education/cm2/equat" className={style.styleCourseNav}>Equation page</Link>
-                <Link href="/education/cm2/stuff" className={style.styleCourseNav}>Stuff you should know</Link>
-            </div>
-            <br />
+            <div className={style.flexContainer}> 
+                 <Link href="/education/cm2/vid" className={style.styleCourseNav}>Videos</Link>             
+                  <Link href="/education/cm2/quiz" className={style.styleCourseNav}>Quizzes</Link>   
+                  <Link href="/education/cm2/hw" className={style.styleCourseNav}>Homework</Link>    
+                  <Link href="/education/cm2/equat" className={style.styleCourseNav}>Equations</Link>  
+                  <Link href="/education/cm2/stuff" className={style.styleCourseNav}>Question database</Link>  
+                  <Link href="/education/cm2/prob" className={style.styleCourseNav}>Real world problems</Link>  
+                 <Link href="/education/cm2/expver" className={style.styleCourseNav}>Experimental verification</Link> 
+                  <Link href="/education/cm2/syll" className={style.styleCourseNav}>Syllabus</Link>  
+                  <Link href="/education/cm2/exam" className={style.styleCourseNav}>Exam information</Link>  
+             </div> 
+             <br />           
             <Link href="/education/cm2/cvar" className={style.generalLink}>Math background</Link><br></br>
             <br></br>
             <Link href="/education/cm2/leq" className={style.generalLink}>Lagrange&apos;s Equations</Link><br></br>
