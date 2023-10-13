@@ -33,7 +33,7 @@ const Exp = () => {
                 Energy
             </h2>
                 <p>
-                    Energy levels in particle experiment...
+                    Energy levels at CERN reach about 13 million MeV. 
                 </p>
             <h2 id="current">
                 Current experiments
