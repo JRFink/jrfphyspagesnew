@@ -45,12 +45,12 @@ const Amo = () => {
             <br />
             <br />
             <div className={style.flexContainer} id="intro">
-                        <Link href="/research/amo/theor" className={style.generalLink}>Theory</Link>
-                        <Link href="/research/amo/exp" className={style.generalLink}>Experiment</Link>
-                        <Link href="/research/amo/equat" className={style.generalLink}>Equation page</Link>  
-                        <Link href="/research/amo/news" className={style.generalLink}>News</Link>
-                        <Link href="/research/amo/diss" className={style.generalLink}>Dissertations</Link>
-                    </div>
+                <Link href="/research/amo/theor" className={style.generalLink}>Theory</Link>
+                <Link href="/research/amo/exp" className={style.generalLink}>Experiment</Link>
+                <Link href="/research/amo/equat" className={style.generalLink}>Equation page</Link>  
+                <Link href="/research/amo/news" className={style.generalLink}>News</Link>
+                <Link href="/research/amo/diss" className={style.generalLink}>Dissertations</Link>
+            </div>
             <br />
             <br />
             <h2 className={style.h3num}>

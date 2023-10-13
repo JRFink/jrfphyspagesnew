@@ -25,20 +25,20 @@ const About = () => {
                     <br />
                     &nbsp; &nbsp; &nbsp; Whether it is teaching general physics to high school students, going through the quantum 
                     numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
-                    we want to teach people about physics.   
+                    we want to teach others about physics.   
                 </p>
-<h2>
-     Business structure
-</h2>
-   <p>
-        The main aspects of our business are: 
-        <ul>
-             <li>Selling general physics classes</li>
-             <li>Selling upper level physics classes</li>
-             <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
-             <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li>
-        </ul>
-   </p>
+            <h2>
+                Business structure
+            </h2>
+            <p>
+                The main aspects of our business are: 
+                <ul>
+                    <li>Selling general physics classes</li>
+                    <li>Selling upper level physics classes</li>
+                    <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
+                    <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li>
+                </ul>
+            </p>
             <h2>
                 History
             </h2>
