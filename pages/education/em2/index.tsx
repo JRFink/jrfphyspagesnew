@@ -11,14 +11,17 @@ const Em2 = () => {
                 Electricity and Magnetism 2
             </h1>
 <br />
-            <br /> 
              <div className={style.flexContainer} id="intro"> 
                  <Link href="/education/em2/vid" className={style.styleCourseNav}>Videos</Link> 
-                 <Link href="" className={style.styleCourseNav}>Course notes...</Link> 
-                 <Link href="" className={style.styleCourseNav}>Quizzes...</Link>   
-                 <Link href="/education/em2/equat" className={style.styleCourseNav}>Equation page</Link> 
-                 <Link href="/education/em2/stuff" className={style.styleCourseNav}>Stuff you should know</Link> 
-             </div> 
+                 <Link href="/education/em2/quiz" className={style.styleCourseNav}>Quizzes</Link>  
+                 <Link href="/education/em2/hw" className={style.styleCourseNav}>Homework</Link>   
+                 <Link href="/education/em2/equat" className={style.styleCourseNav}>Equations</Link> 
+                 <Link href="/education/em2/stuff" className={style.styleCourseNav}>Question database</Link> 
+                 <Link href="/education/em2/prob" className={style.styleCourseNav}>Real world problems</Link> 
+                 <Link href="/education/em2/expver" className={style.styleCourseNav}>Experimental verification</Link> 
+                 <Link href="/education/em2/syll" className={style.styleCourseNav}>Syllabus</Link> 
+                 <Link href="/education/em2/exam" className={style.styleCourseNav}>Exam information</Link> 
+             </div>              
              <br />
 <p> 
   Here is a useful book for <Link href="https://www.amazon.com/gp/aw/d/0321856562/ref=dp_ob_neva_mobile">
