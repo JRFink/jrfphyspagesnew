@@ -16,7 +16,7 @@ const Ih = () => {
                 Domain
             </h3>
             <p>
-                ...
+                The domain of the schrodinger equation is about 10<span><sup>-10</sup></span> m, within a few orders of magnitude.
             </p>
             <br />
             <div className={style.equationBox}>
