@@ -48,10 +48,19 @@ const PhysEd = () => {
             <br />
             <br />
             <div className={style.flexContainer}>
-                <Link href="/research/qis#his" className={style.generalLink}>History</Link>
+                <Link href="/research/per#his" className={style.generalLink}>Theory</Link>
                 <br />
-                <Link href="/research/qis#news" className={style.generalLink}>News</Link>
+                <Link href="/research/per#his" className={style.generalLink}>History</Link>
+                <br />
+                <Link href="/research/per#news" className={style.generalLink}>News</Link>
             </div>
+            <br />
+            <h2 className={style.h2SectionColor} id="his"> 
+                Theory
+            </h2>
+                <p>
+                    Theory ... 
+                </p>
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
                 History
