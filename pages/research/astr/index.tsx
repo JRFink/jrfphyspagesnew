@@ -101,7 +101,7 @@ const Astr = () => {
                     20<span><sup>th</sup></span> century astronomy
                 </h3> 
                 <p>
-                    Einstein publishes his theory of general relativity in 1915.
+                    Einstein published his theory of general relativity in 1915.
                 </p>
                 <br />
                 <h3 className={style.h3num}>

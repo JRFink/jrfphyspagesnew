@@ -13,10 +13,10 @@ const Exp = () => {
             </h1>
             <br />
             <div className={style.flexContainer} id="intro">
-                <Link href="/research/amo/exp#basics" className={style.generalLink}>Basics</Link>
-                <Link href="/research/amo/exp#equip" className={style.generalLink}>Equipment</Link>
-                <Link href="/research/amo/exp#energy" className={style.generalLink}>Energy levels</Link>  
-                <Link href="/research/amo/exp#current" className={style.generalLink}>Current experiments</Link>
+                <Link href="/research/amo/exp#basics" className={style.yellowLink}>Basics</Link>
+                <Link href="/research/amo/exp#equip" className={style.yellowLink}>Equipment</Link>
+                <Link href="/research/amo/exp#energy" className={style.yellowLink}>Energy levels</Link>  
+                <Link href="/research/amo/exp#current" className={style.yellowLink}>Current experiments</Link>
             </div>
             <h2 id="basics">
                 Basics
@@ -24,7 +24,7 @@ const Exp = () => {
             <p>
                 Basics of amo experiment...
             </p>
-            <h2 id="equipment">
+            <h2 id="equip">
                 Equipment
             </h2>
             <p>
