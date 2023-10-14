@@ -36,21 +36,21 @@ const Equat = () => {
             </p>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(x = x_{0} + vt\\)"}</div>
+                <div className={style.equation}>{"\\(x = x_{0} + vt\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
                 </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(v = v_{0} + at\\)"}</div>
+                <div className={style.equation}>{"\\(v = v_{0} + at\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>
             </div>
             <div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"}</div>
+                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"}</div>
+                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div>
             </div>
                 <br />
             <br />

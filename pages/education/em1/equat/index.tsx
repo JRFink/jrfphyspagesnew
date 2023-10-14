@@ -14,10 +14,10 @@ const Equat = () => {
             </p>
             <br />
             <div className={style.equationBox}>
-                    <div className={style.equation}><b>E</b> = q / 4 &#960; &#949;<span><sub>0</sub></span> 
-                        r <span><sup>2</sup></span> &nbsp; <b>&#120111;</b> </div>
-                    <div className={style.equationNumber}>&#40;1&#41;</div>
-                </div>
+                <div className={style.equation}><b>E</b> = q / 4 &#960; &#949;<span><sub>0</sub></span> 
+                    r <span><sup>2</sup></span> &nbsp; <b>&#120111;</b> </div>
+                <div className={style.equationNumber}>&#40;1&#41;</div>
+            </div>
         </>
     );
 }
