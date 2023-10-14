@@ -378,7 +378,7 @@ const indexPage = () => {
                 /> 
             </div>
                 <p> 
-                    Instead of focusing on instantaneous changes and forces as a function, these approaches focus on the energy in a system and the fact that a system always takes a known path; then they obtain equations from that.
+                    Instead of focusing on instantaneous changes and forces as a function, these approaches focus on the energy in a system, and the fact that a system always takes a known path; then they obtain equations from that.
                 </p> 
             <br /> 
             <br />

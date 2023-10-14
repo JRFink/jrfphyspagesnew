@@ -10,7 +10,7 @@ const Equat = () => {
             window.MathJax.typeset()
         }
     }, [])
-    
+
     return (
         <>
             <Script 
@@ -27,10 +27,27 @@ const Equat = () => {
             <p>
                 Some equations you will use in E and M 2. 
             </p>
+            <br />
+            <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{""}</div>
-                <div className={style.equationNumber}></div>
+                <div className={style.equation}>{"\\( \\nabla \\mathbf{E} = \\rho / \\epsilon_{0}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
             </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\nabla \\times \\mathbf{E} = - \\frac{\\partial{ \\mathbf{B}}}{\\partial{t}}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\nabla \\mathbf{B} = 0 \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\nabla \\times \\mathbf{B} = \\mu_{0} \\ \\mathbf{j} + \\mu_{0} \\epsilon_{0} \\frac{\\partial{\\mathbf{E}}}{\\partial{t}} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div>
+            </div>
+            <br />
+            <br />
         </>
-    )
+    );
 }
+
+export default Equat;
