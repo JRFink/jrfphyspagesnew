@@ -269,7 +269,7 @@ const Equat = () => {
             </p>
                  <div className={style.equationBox}> 
                      <div className={style.equation}> 
-{ "//( \\mathbf{F} = - k \\Delta x \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(26)"} 
+{ "//( \\mathbf{F} = - k \\Delta r \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(26)"} 
  </div> 
                  </div> 
             <br />
@@ -282,7 +282,11 @@ const Equat = () => {
             <br />
             <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}>&#948; <span><sup>2</sup></span>f / dg<span><sup>2</sup></span> = a &nbsp; &#948; <span><sup>2</sup></span>f / dq<span><sup>2</sup></span></div> 
+                     <div className={style.equation}>
+
+{ "//( \\frac{ \\partial^{2} f}{\\partial g^{2}} = b \\frac{\\partial^{2} f}{\\partial q^{2}} &nbsp; &nbsp; &nbsp; &nbsp; {"(27)"}
+
+</div> 
                  </div> 
             <br />
             <h2 className={style.numberLink}>
