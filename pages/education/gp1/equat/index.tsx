@@ -115,7 +115,7 @@ const Equat = () => {
             <br />
             <br /> 
             <div className={style.equationBox}>
-                <div className={style.equation}>W = &#916;KE = 1/2 m v<sup>2</sup></div>
+                <div className={style.equation}>{"\\( W = \\Delta KE = \\frac{1}{2} mv^{2}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(10)"}</div>
             </div>
             <br />
             <h2 className={style.numberLink}>
@@ -127,7 +127,7 @@ const Equat = () => {
             <br />
             <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}>&#916; E = 0 = &#916; U + &#916; K</div> 
+                     <div className={style.equation}>{"\\( \\Delta E = 0 = \\Delta U + \\Delta K \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(11)"}</div> 
                  </div> 
                  <br />
             <br />
@@ -140,7 +140,7 @@ const Equat = () => {
             <br />
             <br /> 
                   <div className={style.equationBox}>  
-                      <div className={style.equation}><b>P</b> &nbsp; = m <b>v</b> </div>  
+                      <div className={style.equation}>{"\\( \\mathbf{P} = m \\mathbf{v} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(12)"}</div>  
                   </div>  
             <br />
             <br />
@@ -153,21 +153,22 @@ const Equat = () => {
             <br />
             <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}>s = r &#952;</div>
+                    <div className={style.equation}>{"\\( s = r \\ \\theta \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(13)"}</div>
                 </div>
                 <br /> 
                 <div className={style.equationBox}>
-                    <div className={style.equation}>v = r &#969;</div>
+                    <div className={style.equation}>{"\\( v = r \\ \\omega \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(14)"}</div>
                 </div>
+                <br />
+                <div className={style.equationBox}>
+                    <div className={style.equation}>{"\\( a = r \\ \\alpha \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(15)"}</div>
+                </div> 
                 <br />
                 <div className={style.equationBox}>
                     <div className={style.equation}>a &nbsp;<span><sub>rad</sub></span> &nbsp; = 
                     &nbsp; v<span><sup>2</sup></span> / r = &#969;<sup>2</sup> &nbsp;r</div>
                 </div>
                 <br />
-                <div className={style.equationBox}>
-                    <div className={style.equation}>a &nbsp;<span><sub>tan</sub></span> &nbsp; = r &#945;</div>
-                </div> 
             <br />
             <h2 className={style.numberLink}>
                 9
