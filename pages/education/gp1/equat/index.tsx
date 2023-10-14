@@ -1,9 +1,21 @@
+import {useEffect} from 'react';
+import Script from 'next/script';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 const Equat = () => {
+
+    useEffect(() => {
+        if (typeof window?.MathJax !== "undefined") {
+            window.MathJax.typeset()
+        }
+    },[])
     return (
         <>
+            <Script 
+                src="https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-chtml.js"
+                strategy="lazyOnload"
+            />
             <br />
             <Link href="/education/gp1" className={style.backtoLink}>Gen phys 1</Link>
             <h1 className={style.centerText}>
@@ -24,21 +36,21 @@ const Equat = () => {
             </p>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>x = x<span><sub>0</sub></span> + v t</div>
+                <div className={style.equation}>{"\\(x = x_{0} + vt\\)"}</div>
                 </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>v = v<span><sub>0</sub></span> + a t</div>
+                <div className={style.equation}>{"\\(v = v_{0} + at\\)"}</div>
             </div>
             <div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>x = x<span><sub>0</sub></span> + v<span><sub>0</sub></span> t + 1/2 a t<sup> 2</sup></div>
+                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>v <span><sup>2</sup></span> = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; x</div>
+                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"}</div>
             </div>
                 <br />
             <br />
