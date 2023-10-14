@@ -39,7 +39,7 @@ const Footer = () => {
                 <br></br>
                 <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                 <br></br>
-                <Link href="/legal/cred" className={style.linkFooter}>Credentials</Link><br></br>
+                <Link href="/legal/cred" className={style.linkFooter}>Academic handbook</Link><br></br>
                 <br></br>
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
                 <br /> 
