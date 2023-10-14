@@ -90,7 +90,12 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}><b>F </b> &nbsp; = d<b>p</b>&#47;dt</div>
+                <div className={style.equation}>{"\\( \\mathbf{F} = \\frac{d \\mathbf{p}}{dt} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(9)"}</div>
+            </div>
+      
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\mathbf{F} = m \\mathbf{a} \\)"}</div>
             </div>
             <br />
             <br />
