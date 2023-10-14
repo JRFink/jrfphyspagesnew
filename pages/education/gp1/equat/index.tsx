@@ -268,7 +268,9 @@ const Equat = () => {
             <br />
             </p>
                  <div className={style.equationBox}> 
-                     <div className={style.equation}> <b>F</b> = - c &nbsp; &#916; r  </div> 
+                     <div className={style.equation}> 
+{ "//( \\mathbf{F} = - k \\Delta x \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(26)"} 
+ </div> 
                  </div> 
             <br />
             <h2 className={style.numberLink}>
