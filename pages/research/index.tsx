@@ -2,16 +2,23 @@ import Link from 'next/link';
 import style from '@/styles/general.module.css';
 
 const Research = () => {
+
+  
+
+    
+    
+
     return (
         <>
+           
             <h1 className={style.centerText}>
                 Research
             </h1>
             <br></br>
             <br></br>
-<Link href="/research/news" className={style.yellowLink}>News</Link>
-<br />
-<br />
+            <Link href="/research/news" className={style.yellowLink}>News</Link>
+            <br />
+            <br />
             <div className={style.flexContainer}>
                 <Link href="/research/particle" className={style.generalLink}>Particle physics</Link><br></br>
                 <Link href="/research/nuc" className={style.generalLink}>Nuclear</Link><br></br>
