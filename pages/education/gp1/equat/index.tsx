@@ -205,9 +205,7 @@ const Equat = () => {
             <br /> 
             <br />
             <div className={style.equationBox}>  
-                <div className={style.equation}>{"\\( E = \\frac{\\sigma}{\\epsilon} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(18)"}
-
-E = &#963; / &#949; = F L<span><sub>0</sub></span> / A &#916; L</div>    
+                <div className={style.equation}>{"\\( E = \\frac{\\sigma}{\\epsilon} = \\frac{F l_{0}}{A \\Delta l} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(21)"}</div>    
             </div> 
             <br />
             <h2 className={style.numberLink}>
