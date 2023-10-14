@@ -231,7 +231,8 @@ const Equat = () => {
                 </div> 
             <br />
                 <div className={style.equationBox}> 
-                    <div className={style.equation}><b>F</b> &nbsp; = G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span> / r<span><sup>2</sup></span> = m r &#39; &#39; &#40; t &#41;
+                    <div className={style.equation}>
+{"\\( \\mathbf{F} = G \\frac{m_{1} m_{2}}{r^{2}} \\hat{\\mathfrac{r}} = m \\ddot{r} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(23)"}  
                     </div> 
                 </div> 
             <br />
