@@ -178,22 +178,22 @@ const Equat = () => {
             <br />
                 <br /> 
                 <div className={style.equationBox}> 
-                     <div className={style.equation}>{"\\( \\mathbf{L} = \\mathbf{r} \\times \\mathbf{p} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(16)"}</div>  
+                     <div className={style.equation}>{"\\( \\mathbf{L} = \\mathbf{r} \\times \\mathbf{p} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(17)"}</div>  
                  </div> 
              <br />
                 <br />
                  <div className={style.equationBox}> 
-                     <div className={style.equation}> L &nbsp; = I &#969;</div>  
+                     <div className={style.equation}>{"\\( L = I \\ \\omega \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(18)"}</div>  
                  </div> 
              <br />
             <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}> <b>&#964;</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>F</b> &nbsp; </div> 
+                    <div className={style.equation}>{"\\( \\mathbf{ \\tau } = \\mathbf{r} \\times \\mathbf{F} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(19)"}</div> 
                 </div>
             <br />
                 <br />  
                   <div className={style.equationBox}>  
-                      <div className={style.equation}> &#964; &nbsp; = I &#945;</div>   
+                      <div className={style.equation}>{"\\( \\mathbf{ \\tau } = I \\ \\alpha \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(20)"}</div>   
                   </div>  
               <br />
             <h2 className={style.numberLink}>
