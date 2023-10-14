@@ -14,14 +14,14 @@ const Qm1 = () => {
             </h1>
             <div className={style.flexContainer}>
                 <Link href="/education/qm1/vid" className={style.styleCourseNav}>Videos</Link>            
-                 <Link href="/education/qm1/quiz" className={style.styleCourseNav}>Quizzes</Link>  
-                 <Link href="/education/qm1/hw" className={style.styleCourseNav}>Homework</Link>   
-                 <Link href="/education/qm1/equat" className={style.styleCourseNav}>Equations</Link> 
-                 <Link href="/education/qm1/stuff" className={style.styleCourseNav}>Question database</Link> 
-                 <Link href="/education/qm1/prob" className={style.styleCourseNav}>Real world problems</Link> 
+                <Link href="/education/qm1/quiz" className={style.styleCourseNav}>Quizzes</Link>  
+                <Link href="/education/qm1/hw" className={style.styleCourseNav}>Homework</Link>   
+                <Link href="/education/qm1/equat" className={style.styleCourseNav}>Equations</Link> 
+                <Link href="/education/qm1/stuff" className={style.styleCourseNav}>Question database</Link> 
+                <Link href="/education/qm1/prob" className={style.styleCourseNav}>Real world problems</Link> 
                 <Link href="/education/qm1/expver" className={style.styleCourseNav}>Experimental verification</Link>
-                 <Link href="/education/qm1/syll" className={style.styleCourseNav}>Syllabus</Link> 
-                 <Link href="/education/qm1/exam" className={style.styleCourseNav}>Exam information</Link> 
+                <Link href="/education/qm1/syll" className={style.styleCourseNav}>Syllabus</Link> 
+                <Link href="/education/qm1/exam" className={style.styleCourseNav}>Exam information</Link> 
             </div>
             <br></br>
             <br></br>

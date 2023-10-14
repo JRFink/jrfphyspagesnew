@@ -50,7 +50,7 @@ const Equat = () => {
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(x = x_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div>
+                <div className={style.equation}>{"\\(v^{2} = v_{0}^{2} + 2a\\Delta x\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div>
             </div>
                 <br />
             <br />
@@ -63,21 +63,21 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>r = r<span><sub>0</sub></span> + v t</div>
+                <div className={style.equation}>{"\\(r = r_{0} + v_{0}t\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(5)"}</div>
                 </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>v = v<span><sub>0</sub></span> + a t</div>
+                <div className={style.equation}>{"\\(v = v_{0} + at\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(6)"}</div>
             </div>
             <div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>r = r<span><sub>0</sub></span> + v<span><sub>0</sub></span> t + 1/2 a t<sup> 2</sup></div>
+                <div className={style.equation}>{"\\(r = r_{0} + v_{0}t + \\frac{1}{2} at^{2}\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(7)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>v <span><sup>2</sup></span> = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; r</div>
+                <div className={style.equation}>{"\\(v^{2} = v_{0}^{2} + 2a\\Delta r\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(8)"}</div>
             </div>
             <br />
             <br />

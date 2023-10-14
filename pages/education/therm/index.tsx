@@ -13,13 +13,17 @@ const Therm = () => {
                 Thermodynamics
             </h1>
             <br></br>
-            <div className={style.flexContainer}> 
-                 <Link href="/education/therm/vid" className={style.styleCourseNav}>Videos</Link> 
-                 <Link href="" className={style.styleCourseNav}>Course notes coming</Link> 
-                 <Link href="" className={style.styleCourseNav}>Quizzes coming</Link>   
-                 <Link href="/education/therm/equat" className={style.styleCourseNav}>Equation page</Link>  
-                 <Link href="/education/therm/stuff" className={style.styleCourseNav}>Stuff you should know</Link> 
-             </div> 
+            <div className={style.flexContainer}>
+                <Link href="/education/therm/vid" className={style.styleCourseNav}>Videos</Link>            
+                <Link href="/education/therm/quiz" className={style.styleCourseNav}>Quizzes</Link>  
+                <Link href="/education/therm/hw" className={style.styleCourseNav}>Homework</Link>   
+                <Link href="/education/therm/equat" className={style.styleCourseNav}>Equations</Link> 
+                <Link href="/education/therm/stuff" className={style.styleCourseNav}>Question database</Link> 
+                <Link href="/education/therm/prob" className={style.styleCourseNav}>Real world problems</Link> 
+                <Link href="/education/therm/expver" className={style.styleCourseNav}>Experimental verification</Link>
+                <Link href="/education/therm/syll" className={style.styleCourseNav}>Syllabus</Link> 
+                <Link href="/education/therm/exam" className={style.styleCourseNav}>Exam information</Link> 
+            </div>
              <br></br>
             <br></br>
             <FirstthermVid />
