@@ -5,11 +5,19 @@ const Cred = () => {
     return (
        <>
            <h1 className={style.centerText}>
-               Credentials
+               Academic handbook
            </h1>
            <p>
-                I have a degree in physics! 
+                This is the academic handbook for the school.  
            </p>
+<p>
+    <ul>
+         <li>Policies</li>
+         <li>Exams</li>
+         <li>Academic honesty</li>
+         <li>Research</li>
+  </ul>
+</p>
        </>
     );
 }
