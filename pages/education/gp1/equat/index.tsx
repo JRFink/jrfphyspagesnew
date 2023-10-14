@@ -165,8 +165,7 @@ const Equat = () => {
                 </div> 
                 <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}>a &nbsp;<span><sub>rad</sub></span> &nbsp; = 
-                    &nbsp; v<span><sup>2</sup></span> / r = &#969;<sup>2</sup> &nbsp;r</div>
+                    <div className={style.equation}>{"\\( a_{rad} = \\frac{v^{2}}{r} = r \\ \\omega^{2} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(16)"}</div>
                 </div>
                 <br />
             <br />
@@ -179,7 +178,7 @@ const Equat = () => {
             <br />
                 <br /> 
                 <div className={style.equationBox}> 
-                     <div className={style.equation}><b>L</b> &nbsp; = &nbsp; <b>r</b> &nbsp; x &nbsp; <b>p</b></div>  
+                     <div className={style.equation}>{"\\( \\mathbf{L} = \\mathbf{r} \\times \\mathbf{p} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(16)"}</div>  
                  </div> 
              <br />
                 <br />
