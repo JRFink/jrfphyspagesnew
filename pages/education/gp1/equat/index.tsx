@@ -1,3 +1,4 @@
+
 import {useEffect} from 'react';
 import Script from 'next/script';
 import Link from 'next/link';
@@ -205,7 +206,7 @@ const Equat = () => {
             <br /> 
             <br />
             <div className={style.equationBox}>  
-                <div className={style.equation}>{"\\( E = \\frac{\\sigma}{\\epsilon} = \\frac{F l_{0}}{A \\Delta l} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(21)"}</div>    
+                <{"\\( E = \\frac{\\sigma}{\\epsilon} = \\frac{F l_{0}}{A \\Delta l} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(21)"}}>{"\\( E = \\frac{\\sigma}{\\epsilon} = \\frac{F l_{0}}{A \\Delta l} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(21)"}</div>    
             </div> 
             <br />
             <h2 className={style.numberLink}>
@@ -224,9 +225,9 @@ const Equat = () => {
             <br />
             <br /> 
                 <div className={style.equationBox}> 
-                    <div className={style.equation}><b>F</b> &nbsp; = 
-                        G &nbsp; m<span><sub>1</sub></span>m<span><sub>2</sub></span>/ r<span><sup>2</sup></span>
-                    </div> 
+                    <div className={style.equation}>
+
+{"\\( \\mathbf{F} = G \\frac{m_{1} m_{2}}{r^{2}} \\hat{\\mathfrac{r}}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(22)"}                    </div> 
                 </div> 
             <br />
                 <div className={style.equationBox}> 
