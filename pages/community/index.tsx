@@ -3,6 +3,7 @@ import style from '@/styles/general.module.css';
 
 const Comm = () => { 
     return (
+        <>
       <h1 className={style.centerText}>
           Community
       </h1>
@@ -25,6 +26,7 @@ Or if you just want to post funny memes, you can do that too.
 <br />
 <Link href="/community/meme" className={style.generalLink}>Memes</Link>
 <br />
+        </>
     );
 }
 
