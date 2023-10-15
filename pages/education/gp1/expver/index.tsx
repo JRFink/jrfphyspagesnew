@@ -9,7 +9,9 @@ import Link from 'next/link';
              <h1 className={style.centerText}> 
                  Experimental verification
              </h1> 
-             
+             <p>
+                Here is the experimental verification of the equations in gen phys 1.
+             </p>
          </> 
      ); 
  } 
