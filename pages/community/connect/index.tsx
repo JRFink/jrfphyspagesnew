@@ -17,7 +17,7 @@ const Conn = () => {
       <p>
            For example, here are some useful links:
           <ul>
-            <li><Link href="">APS meetings</Link></li>
+            <li><Link href="https://www.aps.org/meetings/calendar.cfm">APS meetings</Link></li>
             <li><Link href="https://www.reddit.com/r/Physics/">Physics reddit</Link></li>
           </ul>
       </p>
