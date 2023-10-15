@@ -4,6 +4,10 @@ import style from '@/styles/general.module.css';
 const Post = () => { 
   return (
     <>
+     <br />
+      <Link href="/community" className={style.backtoLink}>Community</Link>
+      <br />
+      <br /> 
      <h1 className={style.centerText}>
         Posts 
      </h1>
