@@ -18,4 +18,4 @@ const Meme = () => {
   );
 }
 
-export defualt Meme;
+export default Meme;

@@ -25,4 +25,4 @@ const Conn = () => {
   );
 }
 
-export defualt Conn;
+export default Conn;

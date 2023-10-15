@@ -18,4 +18,4 @@ const Post = () => {
   );
 }
 
-export defualt Post;
+export default Post;

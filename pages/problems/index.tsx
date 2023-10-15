@@ -22,4 +22,4 @@ import Link from 'next/link';
    ); 
  } 
   
- export defualt Prob;
+ export default Prob;
