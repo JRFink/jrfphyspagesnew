@@ -14,6 +14,7 @@ import Link from 'next/link';
            <ul>
                <li>Tangential velocity of matter around galaxies - dark matter?</li>
                <li>Connection between the gravitational and the electric force</li>
+          
                <li>Gravity in the standard model</li>
                <li>Interpretation of quantum mechanics</li>
            </ul>

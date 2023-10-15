@@ -38,7 +38,7 @@ const Equat = () => {
             <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\(x = x_{0} + vt\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
-                </div>
+            </div>
             <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\(v = v_{0} + at\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>
