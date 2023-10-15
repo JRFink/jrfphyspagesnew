@@ -206,6 +206,7 @@ const Equat = () => {
             <br /> 
             <br />
             <div className={style.equationBox}>  
+ <div className={style.equation}>
                 {"\\( E = \\frac{\\sigma}{\\epsilon} = \\frac{F l_{0}}{A \\Delta l} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(21)"}</div>    
             </div> 
             <br />
