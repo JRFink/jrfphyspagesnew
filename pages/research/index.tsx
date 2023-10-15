@@ -29,7 +29,7 @@ const Research = () => {
                 <Link href="/research/geo" className={style.generalLink}>Geophysics</Link><br></br>
                 <Link href="/research/astr" className={style.generalLink}>Astrophysics</Link><br></br>
                 <Link href="/research/per" className={style.generalLink}>Physics education research</Link><br></br>
-                <Link href="/problems" className={style.generalLink}>Problems</Link>  
+                <Link href="/research/problems" className={style.generalLink}>Problems</Link>  
                 <Link href="/research/stand" className={style.generalLink}>Standards and constants</Link><br></br>
             </div>
 <br />
