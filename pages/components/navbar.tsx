@@ -64,7 +64,6 @@ const Navbar = () => {
                 <Link href="/research" className={style.styleNav}>Research</Link>
                <Link href="/community" className={style.styleNav}>Community</Link>  
                 <input type="text" className={style.searchBox} placeholder="Search topic"></input>
-               <Link href="/problems" className={style.styleNav}>Problems</Link>  
                 <Link href="/auth/signup" className={style.styleNav}>Sign up</Link>
                 <Link href="/members" className={style.styleNav}>Member access</Link>
                 {/* <Link href="/tutoring" className={style.styleNav}>Tutoring</Link> */}
