@@ -18,24 +18,44 @@ const Equations = () => {
             strategy="lazyOnload"
         />
         <br />
-        <Link href="/community" className={style.backtoLink}>Community</Link>
+        <Link href="/education" className={style.backtoLink}>Education</Link>
         <br />
         <br />
         <h1 className={style.centerText}>
             Equations
         </h1>
+        <br />
         <p>
-            Here is a list of the majority of physics equations. I list when they were derived, how they were derived, 
+            Here is a list of a lot of physics equations. 
+            <br />
+            I list when they were derived, how they were derived, 
             experimental verification, and a brief explanation. 
         </p>
-        
+        <br />
         <div className={style.equationBox}>
             <div className={style.equation}>{"\\(x = x_{0} + vt\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
         </div>
+        <br />
         <ul>
             <li>Date of derivation - </li>
+            <br />
             <li>Method of derivation - </li>
-            <li>Experimental verification - </li>
+            <br />
+            <li><span className={style.highlightText}>Experimental verification -</span> </li>
+            <br />
+            <li>Explanation - </li>
+        </ul>
+        <div className={style.equationBox}>
+            <div className={style.equation}>{"\\(v = v_{0} + at\\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>
+        </div>
+        <br />
+        <ul>
+            <li>Date of derivation - </li>
+            <br />
+            <li>Method of derivation - </li>
+            <br />
+            <li><span className={style.highlightText}>Experimental verification -</span> </li>
+            <br />
             <li>Explanation - </li>
         </ul>
     </>
