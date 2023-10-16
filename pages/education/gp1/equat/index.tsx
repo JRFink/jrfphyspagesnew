@@ -263,7 +263,7 @@ const Equat = () => {
             <br />
             <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}> {"\\( f \\left( q \\right) = - a f \\left( q \\right) \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(25)"} </div> 
+                     <div className={style.equation}> {"\\( f \\left( q \\right) = - a f &#39; &#39; \\left( q \\right) \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(25)"} </div> 
                  </div> 
             <br /> 
             <p>
