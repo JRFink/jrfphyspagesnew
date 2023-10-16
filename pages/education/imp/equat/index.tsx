@@ -19,6 +19,202 @@ const Equat = () => {
                 <div className={style.equation}> i &#8463; &#8706; <b>&#936;</b>  / &#8706; t  = &#94;H <b>&#936;</b>  </div>
                 <div className={style.equationNumber}> &#40;1&#41; </div>
             </div>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(5)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(6)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(7)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(8)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(9)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(10)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(11)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(12)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(13)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(14)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(15)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
+<div className={style.equationBox}> 
+             <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(16)"}</div> 
+         </div> 
+         <br /> 
+         <ul> 
+             <li>Date of derivation - </li> 
+             <br /> 
+             <li>Method of derivation - </li> 
+             <br /> 
+             <li><span className={style.highlightText}>Experimental verification -</span> </li> 
+             <br /> 
+             <li>Explanation - </li> 
+         </ul>
         </>
     );
 }
