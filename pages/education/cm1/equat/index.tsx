@@ -15,7 +15,7 @@ const Equat = () => {
                 Below you will find the equations you will use in classical mechanics 1. 
             </p>
             <br />
-          </div>
+     
 <div className={style.equationBox}>  
               <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>  
           </div>  
