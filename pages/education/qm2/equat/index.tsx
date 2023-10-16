@@ -29,7 +29,7 @@ import {useEffect} from 'react';
                <br />   
                <li>Explanation - </li>   
            </ul>   
-             </div> 
+             
  <div className={style.equationBox}>   
                <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>   
            </div>   
