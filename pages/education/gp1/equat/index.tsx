@@ -296,7 +296,7 @@ const Equat = () => {
                 16
             </h2>
             <h2 className={style.h3text}>
-                Temperature and heat
+                Temperature, heat, first law
             </h2>
             <br />
             <br />
@@ -311,15 +311,9 @@ const Equat = () => {
                 Gases
             </h2>
             <br />
-            <h2 className={style.numberLink}>
-                18
-            </h2>
-            <h2 className={style.h3text}>
-                First law of thermo
-            </h2>
             <br />
             <h2 className={style.numberLink}>
-                19
+                18
             </h2>
             <h2 className={style.h3text}>
                 Second law of thermo
