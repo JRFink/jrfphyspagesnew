@@ -301,7 +301,7 @@ const Equat = () => {
             <br />
             <br />
                     <div className={style.equationBox}>
-                        <div className={style.equation}>&#916;U = Q + W</div>
+                        <div className={style.equation}>{"\\( \\Delta U = Q + W \\)"}{ &nbsp; &nbsp; &nbsp; &nbsp; {"(28)"}</div>
                     </div>
             <br />
             <h2 className={style.numberLink}>
