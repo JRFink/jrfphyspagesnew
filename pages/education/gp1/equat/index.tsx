@@ -321,7 +321,7 @@ const Equat = () => {
             <br />
             <br />
                  <div className={style.equationBox}> 
-                     <div className={style.equation}>S = k Ln &#937;</div> 
+                                         <div className={style.equation}>{"\\( S = k \\ln( \\Omega) \\)"}{ &nbsp; &nbsp; &nbsp; &nbsp; {"(29)"}</div>     
                  </div> 
                  <br />
             <br />
