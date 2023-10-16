@@ -228,12 +228,15 @@ const Equat = () => {
                 <div className={style.equationBox}> 
                     <div className={style.equation}>
 
-{"\\( \\mathbf{F} = G \\frac{m_{1} m_{2}}{r^{2}} \\hat{\\mathfrac{r}}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(22)"}                    </div> 
+                    {"\\( \\mathbf{F} = G \\frac{m_{1} m_{2}}{r^{2}} \\hat{\\mathfrak{r}}  \\)"} 
+                    &nbsp; &nbsp; &nbsp; &nbsp; {"(22)"}                    
+                    </div> 
                 </div> 
             <br />
                 <div className={style.equationBox}> 
                     <div className={style.equation}>
-{"\\( \\mathbf{F} = G \\frac{m_{1} m_{2}}{r^{2}} \\hat{\\mathfrac{r}} = m \\ddot{r} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(23)"}  
+                        {"\\( \\mathbf{F} = G \\frac{m_{1} m_{2}}{r^{2}} \\hat{\\mathfrak{r}} = m \\ddot{r} \\)"} 
+                        &nbsp; &nbsp; &nbsp; &nbsp; {"(23)"}  
                     </div> 
                 </div> 
             <br />
@@ -260,7 +263,7 @@ const Equat = () => {
             <br />
             <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}> { "//( f \\left q \\right = - a f \\left q \\right \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(25)"} </div> 
+                     <div className={style.equation}> {"\\( f \\left( q \\right) = - a f \\left( q \\right) \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(25)"} </div> 
                  </div> 
             <br /> 
             <p>
@@ -270,7 +273,7 @@ const Equat = () => {
             </p>
                  <div className={style.equationBox}> 
                      <div className={style.equation}> 
-                    { "//( \\mathbf{F} = - k \\Delta r \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(26)"} 
+                    { "\\( \\mathbf{F} = - k \\Delta r \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(26)"} 
                 </div> 
                  </div> 
             <br />
@@ -284,7 +287,7 @@ const Equat = () => {
             <br /> 
                  <div className={style.equationBox}> 
                      <div className={style.equation}>
-                        { "//( \\frac{ \\partial^{2} f}{\\partial g^{2}} = b \\frac{\\partial^{2} f}{\\partial q^{2}}\\)"} 
+                        { "\\( \\frac{ \\partial^{2} f}{\\partial g^{2}} = b \\frac{\\partial^{2} f}{\\partial q^{2}}\\)"} 
                         &nbsp; &nbsp; &nbsp; &nbsp; {"(27)"}
                     </div> 
                  </div> 
