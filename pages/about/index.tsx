@@ -39,7 +39,7 @@ const About = () => {
 <br />
                     <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
 <br />
-                    <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li>
+                    {/* <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li> */}
                 </ul>
             </p>
             <h2>
