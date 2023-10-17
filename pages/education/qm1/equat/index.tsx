@@ -27,21 +27,12 @@ const Equat = () => {
             </h1>
             <br />
             <div className={style.equationBox}>
-                    <div className={style.equation}>{" i ℏ \\(\\frac{\\partial{Ψ}}{\\partial{t}} = \\hat{H} Ψ \\)"}</div>
+                    <div className={style.equation}>{" i ℏ \\(\\frac{\\partial{Ψ}}{\\partial{t}} = \\hat{H} Ψ \\)"} 
+                        &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}
+                    </div>
             </div>
             <br />
-            <div className={style.equationBox}>
-                    <div className={style.equation}>&#123; x, p &#125; = i &#8463; </div>
-            </div>
-            <br />
-            <div className={style.equationBox}>
-                    <div className={style.equation}>&#8710;x&#8710;p = &#8463; / 2 </div>
-            </div>
-<div className={style.equationBox}>   
-               <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>   
-           </div>   
-           <br />   
-           <ul>   
+            <ul>   
                <li>Date of derivation - </li>   
                <br />   
                <li>Method of derivation - </li>   
@@ -49,12 +40,15 @@ const Equat = () => {
                <li><span className={style.highlightText}>Experimental verification -</span> </li>   
                <br />   
                <li>Explanation - </li>   
-           </ul>   
-             
- <div className={style.equationBox}>   
-               <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>   
-           </div>   
-           <br />   
+           </ul>  
+            <br />
+            <div className={style.equationBox}>
+                    <div className={style.equation}>{"\\( \\{x, p\\} = i ℏ \\)"} 
+                        &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}
+                    </div>
+            </div>
+            <br />
+            <br />   
            <ul>   
                <li>Date of derivation - </li>   
                <br />   
@@ -64,10 +58,13 @@ const Equat = () => {
                <br />   
                <li>Explanation - </li>   
            </ul>  
-  <div className={style.equationBox}>   
-               <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div>   
-           </div>   
-           <br />   
+           <br />
+            <div className={style.equationBox}>
+                    <div className={style.equation}>{" \\( \\Delta x \\Delta p =  \\frac{ℏ}{2} \\)"} 
+                        &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}
+                    </div>
+            </div>
+            <br />   
            <ul>   
                <li>Date of derivation - </li>   
                <br />   
@@ -77,6 +74,7 @@ const Equat = () => {
                <br />   
                <li>Explanation - </li>   
            </ul>  
+            <br />
   <div className={style.equationBox}>   
                <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div>   
            </div>   
