@@ -18,6 +18,8 @@ const Exp = () => {
                 <Link href="/research/astr/exp#energy" className={style.yellowLink}>Energy levels</Link>  
                 <Link href="/research/astr/exp#current" className={style.yellowLink}>Current experiments</Link>
             </div>
+            <br />
+            <br />
             <h2 id="basics">
                 Basics
             </h2>
@@ -45,6 +47,10 @@ const Exp = () => {
                 <ul> 
                     <li>
                         <Link href="https://www.ligo.caltech.edu/">Gravitational waves - Ligo</Link>
+                    </li>
+                    <br />
+                    <li>
+                        <Link href="https://webbtelescope.org/home">James Webb telescope</Link>
                     </li>
                 </ul>
         </>
