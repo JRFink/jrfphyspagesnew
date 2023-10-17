@@ -17,7 +17,7 @@ const Report = () => {
                     <li>List of all colleges in the united states</li>
                     <li>Education policy in argentina</li>
                     <li>largest energy producers in the united states</li>
-   <li>list of world leaders - because why not</li>
+   
                 </ul>
   You can make a sample purchase <Link href="https://buy.stripe.com/28oeYtara5qhd5maEO">here</Link>. 
 <p>
