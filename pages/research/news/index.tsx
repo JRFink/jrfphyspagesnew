@@ -12,8 +12,24 @@ const News = () => {
              News
          </h1>
           <p>
+            <br />
                <ul>
-                  <li><Link href="https://www.aps.org/publications/apsnews/202311/index.cfm">APS news</Link></li>
+                  <li>
+                     <Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/">
+                        China beats Google&#39;s quantum computer
+                     </Link>
+                  </li>
+                  <br />
+                  <li>
+                     <Link href="https://webbtelescope.org/contents/news-releases/2023/news-2023-141">
+                           Webb and jets from a newborn star
+                     </Link>      
+                  </li>
+                  <br />
+                  <li>
+                     <Link href="https://www.aps.org/publications/apsnews/202311/index.cfm">APS news</Link>
+                  </li>
+                  <br />
                </ul>
           </p>
       </>

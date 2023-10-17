@@ -15,10 +15,17 @@ const News = () => {
             <br />
             <p>
                 <ul>
-                    <li><Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/" 
-                       className={style.noUnder}>China beats Google&#39;s quantum computer</Link>
+                    <li>
+                        <Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/" 
+                            className={style.noUnder}>
+                            China beats Google&#39;s quantum computer
+                        </Link>
                     </li>
-<li><Link href="https://news.stanford.edu/2021/11/29/simpler-design-quantum-computers/?utm_source=Stanford%20ALL&amp;utm_campaign=86d93c620e-EMAIL_CAMPAIGN_2021_11_05_05_55_COPY_01&amp;utm_medium=email&amp;utm_term=0_c042b4aad7-86d93c620e-54995714"                        className={style.noUnder}>Single atom quantum computer</Link>
+                    <li>
+                        <Link href="https://news.stanford.edu/2021/11/29/simpler-design-quantum-computers/?utm_source=Stanford%20ALL&amp;utm_campaign=86d93c620e-EMAIL_CAMPAIGN_2021_11_05_05_55_COPY_01&amp;utm_medium=email&amp;utm_term=0_c042b4aad7-86d93c620e-54995714" 
+                            className={style.noUnder}>
+                            Single atom quantum computer
+                        </Link>
                     </li> 
 
                 </ul>
