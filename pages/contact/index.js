@@ -58,20 +58,7 @@ const [isSubmitted, setSubmitted] = useState(false);
         }
         <br /> 
         <br /> 
-        <br />
-        <p>
-        If you are having issues with the site please fill out the form below.. 
-
-        <ul>
-        <li>First name</li>
-        <li>Last name</li>
-        <li>Acct number</li>
-        <li>Acct type</li>
-        <li>Email</li>
-        <li>Description of issue</li>
-        </ul>
-
-        </p>
+     
         <p>
           Or write to us: <br /> <br /> 
           PO Box 7007 <br /> 
