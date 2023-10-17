@@ -24,6 +24,7 @@ const Equat = () => {
             <h1 className={style.centerText}>
                 Equations
             </h1>
+            <br />
             <p>
                 Some equations you will use in E and M 2. 
             </p>
@@ -33,20 +34,59 @@ const Equat = () => {
                 <div className={style.equation}>{"\\( \\nabla \\ \\mathbf{E} = \\rho / \\epsilon_{0}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
             </div>
             <br />
+            <ul>   
+               <li>Date of derivation - </li>   
+               <br />   
+               <li>Method of derivation - </li>   
+               <br />   
+               <li><span className={style.highlightText}>Experimental verification -</span> </li>   
+               <br />   
+               <li>Explanation - </li>   
+           </ul>  
+            <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\times \\mathbf{E} = - \\frac{\\partial{ \\mathbf{B}}}{\\partial{t}}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(2)"}</div>
             </div>
+            <br />
+            <ul>   
+               <li>Date of derivation - </li>   
+               <br />   
+               <li>Method of derivation - </li>   
+               <br />   
+               <li><span className={style.highlightText}>Experimental verification -</span> </li>   
+               <br />   
+               <li>Explanation - </li>   
+           </ul>  
             <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\ \\mathbf{B} = 0 \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div>
             </div>
             <br />
+            <ul>   
+               <li>Date of derivation - </li>   
+               <br />   
+               <li>Method of derivation - </li>   
+               <br />   
+               <li><span className={style.highlightText}>Experimental verification -</span> </li>   
+               <br />   
+               <li>Explanation - </li>   
+           </ul>  
+            <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\times \\mathbf{B} = \\mu_{0} \\ \\mathbf{j} + \\mu_{0} \\epsilon_{0} \\frac{\\partial{\\mathbf{E}}}{\\partial{t}} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(4)"}</div>
             </div>
             <br />
+            <ul>   
+               <li>Date of derivation - </li>   
+               <br />   
+               <li>Method of derivation - </li>   
+               <br />   
+               <li><span className={style.highlightText}>Experimental verification -</span> </li>   
+               <br />   
+               <li>Explanation - </li>   
+           </ul>  
             <br />
-  <div className={style.equationBox}>   
+            <div className={style.equationBox}>   
                <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(5)"}</div>   
            </div>   
            <br />   
@@ -59,7 +99,7 @@ const Equat = () => {
                <br />   
                <li>Explanation - </li>   
            </ul>  
-  
+           <br />
   <div className={style.equationBox}>   
                <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(6)"}</div>   
            </div>   
@@ -73,6 +113,7 @@ const Equat = () => {
                <br />   
                <li>Explanation - </li>   
            </ul>  
+           <br />
   <div className={style.equationBox}>   
                <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(7)"}</div>   
            </div>   
