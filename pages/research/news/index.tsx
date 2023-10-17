@@ -12,7 +12,9 @@ const News = () => {
              News
          </h1>
           <p>
-               Current news in physics..
+               <ul>
+                  <li><Link href="https://www.aps.org/publications/apsnews/202311/index.cfm">APS news</Link></li>
+               </ul>
           </p>
       </>
    );
