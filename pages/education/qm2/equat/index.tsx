@@ -4,20 +4,31 @@ import {useEffect} from 'react';
  import style from '@/styles/general.module.css'; 
   
  const Equat = () => { 
+
+    useEffect(() => {
+        if (typeof window?.MathJax !== "undefined") {
+            window.MathJax.typeset()
+        }
+    }, [])
      return ( 
          <> 
-             <br /> 
-             <Link href="/education/qm2" className={style.backtoLink}>Class mech 1</Link> 
-             <h1 className={style.centerText}> 
-                 Equations 
-             </h1> 
-             <p> 
-                 Below you will find the equations you will use in quantum 2.  
-             </p> 
-             <br /> 
+            <Script 
+                src="https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-chtml.js"
+                strategy="lazyOnload"
+            />
+            <br /> 
+            <Link href="/education/qm2" className={style.backtoLink}>Quantum 2</Link> 
+            <h1 className={style.centerText}> 
+                Equations 
+            </h1> 
+            <p> 
+                Below you will find the equations you will use in quantum 2.  
+            </p> 
+            <br /> 
   
- <div className={style.equationBox}>   
-               <div className={style.equation}>{"\\( \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>   
+            <div className={style.equationBox}>   
+               <div className={style.equation}>{"\\( P_{i \\to f } \\ (t) = \\frac{1}{ℏ^{2}} \\left\\vert  \\int_{0}^{t} \\ \\langle f \\vert H'(t') \\vert i \\rangle \\ e^{i(E_{f} - E_{i}) t' /ℏ } \\ dt' \\right\\vert ^{2}  \\)"} 
+                &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>   
            </div>   
            <br />   
            <ul>   
