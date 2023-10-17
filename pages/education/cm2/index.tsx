@@ -17,7 +17,7 @@ const Cm2 = () => {
                   <Link href="/education/cm2/equat" className={style.styleCourseNav}>Equations</Link>  
                   <Link href="/education/cm2/stuff" className={style.styleCourseNav}>Question database</Link>  
                   <Link href="/education/cm2/prob" className={style.styleCourseNav}>Real world problems</Link>  
-                 <Link href="/education/cm2/expver" className={style.styleCourseNav}>Experimental verification</Link> 
+                 {/* <Link href="/education/cm2/expver" className={style.styleCourseNav}>Experimental verification</Link>  */}
                   <Link href="/education/cm2/syll" className={style.styleCourseNav}>Syllabus</Link>  
                   <Link href="/education/cm2/exam" className={style.styleCourseNav}>Exam information</Link>  
              </div> 
