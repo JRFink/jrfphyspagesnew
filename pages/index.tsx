@@ -90,14 +90,13 @@ const indexPage = () => {
 <p>
    On a scale of 1 - 5, how are you enjoying the site? 
 <br />
-
+<br />
 <div className={style.flexContainer}>
 <br />
 <br />
 <button>1</button> &nbsp; &nbsp; <button>2</button> &nbsp;  &nbsp; <button>3</button> &nbsp; &nbsp; <button>4</button> &nbsp; &nbsp; <button>5</button>
 </div>
 </p>
-<br /> 
 <br />
                 <h3> 
                     If you&#39;re in college&#46;&#46;&#46; 
