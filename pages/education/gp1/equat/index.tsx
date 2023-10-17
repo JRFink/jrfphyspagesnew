@@ -263,7 +263,7 @@ const Equat = () => {
             <br />
             <br /> 
                  <div className={style.equationBox}> 
-                     <div className={style.equation}> {"\\( f \\left( q \\right) = - a f \\left( q \\right) \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(25)"} </div> 
+                     <div className={style.equation}> {"\\( f \\left( q \\right) = - a f &#39; &#39; \\left( q \\right) \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(25)"} </div> 
                  </div> 
             <br /> 
             <p>
@@ -296,12 +296,12 @@ const Equat = () => {
                 16
             </h2>
             <h2 className={style.h3text}>
-                Temperature and heat
+                Temperature, heat, first law
             </h2>
             <br />
             <br />
                     <div className={style.equationBox}>
-                        <div className={style.equation}>&#916;U = Q + W</div>
+                        <div className={style.equation}>{"\\( \\Delta U = Q + W \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(28)"}</div>
                     </div>
             <br />
             <h2 className={style.numberLink}>
@@ -311,15 +311,9 @@ const Equat = () => {
                 Gases
             </h2>
             <br />
-            <h2 className={style.numberLink}>
-                18
-            </h2>
-            <h2 className={style.h3text}>
-                First law of thermo
-            </h2>
             <br />
             <h2 className={style.numberLink}>
-                19
+                18
             </h2>
             <h2 className={style.h3text}>
                 Second law of thermo
@@ -327,7 +321,7 @@ const Equat = () => {
             <br />
             <br />
                  <div className={style.equationBox}> 
-                     <div className={style.equation}>S = k Ln &#937;</div> 
+                                         <div className={style.equation}>{"\\( S = k \\ln( \\Omega) \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(29)"}</div>     
                  </div> 
                  <br />
             <br />
