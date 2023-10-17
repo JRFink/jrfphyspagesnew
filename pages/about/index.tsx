@@ -47,8 +47,7 @@ const About = () => {
                     The business has not earned a dollar in revenue yet&#59; we&#39;re working on it. 
                 </p>
                 <p>
-                    It was founded by Jeff. He went to the University of Dallas and CU-Boulder. He studied 
-                    philosophy and physics at these schools. Now he lives in ny, and loves it.      
+                    It was founded by Jeff. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny.      
                 </p>
 
             <br></br>
