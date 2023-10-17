@@ -34,9 +34,16 @@ const About = () => {
                 The main aspects of our business are: 
                 <ul>
                     <li>Selling general physics classes</li>
+<br />
                     <li>Selling upper level physics classes</li>
+<br />
                     <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
+<<<<<<< HEAD
                     {/* <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li> */}
+=======
+<br />
+                    <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li>
+>>>>>>> 4f39628b2b092c1cc76eecbb47faf853a70f306a
                 </ul>
             </p>
             <h2>

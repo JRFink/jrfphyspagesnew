@@ -84,7 +84,7 @@ const Bio = () => {
                 History
             </h2>
             <p>
-                History ... 
+                History of biophysics ... 
             </p>
             <br />
             <h2>
