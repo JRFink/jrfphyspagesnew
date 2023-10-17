@@ -30,7 +30,7 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\nabla \\mathbf{E} = \\rho / \\epsilon_{0}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
+                <div className={style.equation}>{"\\( \\nabla \\ \\mathbf{E} = \\rho / \\epsilon_{0}  \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
@@ -38,7 +38,7 @@ const Equat = () => {
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\nabla \\mathbf{B} = 0 \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div>
+                <div className={style.equation}>{"\\( \\nabla \\ \\mathbf{B} = 0 \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(3)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
