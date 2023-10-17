@@ -44,7 +44,7 @@ const About = () => {
             </h2>
                 <p>
                     JRFink was founded in 2022. It has not taken out any money in funding, and it is starting from complete scratch. 
-                    The business has not earned a dollar in revenue yet, but we&#39;re working on it. 
+                    The business has not earned a dollar in revenue yet&#59; we&#39;re working on it. 
                 </p>
                 <p>
                     It was founded by Jeff. He went to the University of Dallas and CU-Boulder. He studied 
