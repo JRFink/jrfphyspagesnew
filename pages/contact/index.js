@@ -29,7 +29,7 @@ function Messageform({setSubmitted}) {
       </h1>
         <div className={style.centerInADiv}>
          <form onSubmit={(note) => handleSubmit(note, setSubmitted)}>
-             <textarea type="text" id="messageText" className={style.messageBox} placeholder=" General feedback"/>
+             <textarea type="text" id="messageText" className={style.messageBox} placeholder=" ..."/>
              <br />
              <br />
              <button type="submit" className={style.greenButtonCont}>Submit</button>
