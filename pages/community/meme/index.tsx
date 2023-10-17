@@ -9,7 +9,7 @@ const Meme = () => {
       <br />
       <br />
       <h1 className={style.centerText}>
-        Posts 
+        Memes
      </h1>
       <p>
            Share funny memes.  
