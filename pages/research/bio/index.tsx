@@ -54,7 +54,7 @@ const Bio = () => {
                 Domain
             </h2>
             <p>
-                Domain ... 
+                Domain of biophysics ... 
             </p>
             <br />
             <br />
