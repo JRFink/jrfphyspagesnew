@@ -23,7 +23,7 @@ const Em1 = () => {
             </div>
             <br />
             <p> 
-            Here is a useful book for <Link href="https://www.amazon.com/gp/aw/d/0321856562/ref=dp_ob_neva_mobile">
+            A useful book for <Link href="https://www.amazon.com/gp/aw/d/0321856562/ref=dp_ob_neva_mobile">
             Electricity and magnetism</Link>
             </p>
             <br />
