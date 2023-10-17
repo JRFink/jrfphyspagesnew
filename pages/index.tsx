@@ -86,17 +86,6 @@ const indexPage = () => {
                 /> 
             </div>
             <br /> 
-            <br /> 
-            <p>
-            On a scale of 1 - 5, how are you enjoying the site? 
-            <br />
-            <br />
-            <div className={style.flexContainer}>
-            <br />
-            <br />
-            <button>1</button> &nbsp; &nbsp; <button>2</button> &nbsp;  &nbsp; <button>3</button> &nbsp; &nbsp; <button>4</button> &nbsp; &nbsp; <button>5</button>
-            </div>
-            </p>
             <br />
                 <h3> 
                     If you&#39;re in college&#46;&#46;&#46; 
@@ -224,9 +213,17 @@ const indexPage = () => {
                     We&#39;d love your <Link href="/contact">feedback</Link> on the site. How do you like it? As a thank you, we are giving the first 20 people who give feedback on the site 2 months free once the subscription feature launches. 
                 </p>
                 <br /> 
-                <p className={style.centerText}>
-                    &#46; &nbsp; &#46; &nbsp; &#46; &nbsp; 
-                </p>
+                <br /> 
+            <p>
+            On a scale of 1 - 5, how are you enjoying the site? 
+            <br />
+            <br />
+            <div className={style.flexContainer}>
+            <br />
+            <br />
+            <button>1</button> &nbsp; &nbsp; <button>2</button> &nbsp;  &nbsp; <button>3</button> &nbsp; &nbsp; <button>4</button> &nbsp; &nbsp; <button>5</button>
+            </div>
+            </p>
                 <br />  
                 <p>
                     Take a look around and explore. Above you will see a few tabs, which will take you to the education, 
