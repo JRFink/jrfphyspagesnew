@@ -2,6 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import profpic from 'public/images/profpic.jpg';
+import profcc from 'public/images/profcc.jpg';
 
 
 const About = () => {
@@ -72,6 +73,28 @@ const About = () => {
                     alt="Guy with a blue shirt with trees in the background" 
                 />
             </div>
+            <br />
+            <br />
+            <br />
+            <div 
+                style={{
+                    display: "flex",
+                    justifyContent: "center",
+                }}
+            >
+                
+                <Image
+                    src={profcc}
+                    style={{
+                        width: '25%',
+                        borderRadius: "20px",
+                        height: 'auto'
+                    }}
+                    sizes="100vw"
+                    alt="Guy with a blue shirt with trees in the background" 
+                />
+            </div>
+            <br />
         </>
     );
 }
