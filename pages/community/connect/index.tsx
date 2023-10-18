@@ -9,7 +9,7 @@ const Conn = () => {
       <br />
       <br />
      <h1 className={style.centerText}>
-        Posts 
+        Connect
      </h1>
       <p>
            Connect with others in physics.
