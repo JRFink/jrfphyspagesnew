@@ -14,6 +14,11 @@ const News = () => {
           <p>
             <br />
                <ul>
+<li>
+                     <Link href="https://physicstoday.org/">
+                      Physics today
+                     </Link>
+                  </li>
                   <li>
                      <Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/">
                         China beats Google&#39;s quantum computer
