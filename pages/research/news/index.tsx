@@ -15,7 +15,7 @@ const News = () => {
             <br />
                <ul>
 <li>
-                     <Link href="https://physicstoday.org/">
+                     <Link href="https://pubs.aip.org/physicstoday">
                       Physics today
                      </Link>
                   </li>
