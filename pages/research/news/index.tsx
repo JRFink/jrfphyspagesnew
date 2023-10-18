@@ -19,6 +19,7 @@ const News = () => {
                       Physics today
                      </Link>
                   </li>
+                  <br />
                   <li>
                      <Link href="https://stealthoptional.com/news/chinas-zuchongzhi-quantum-computer-is-the-most-powerful-in-the-world/">
                         China beats Google&#39;s quantum computer
