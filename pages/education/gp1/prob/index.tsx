@@ -13,11 +13,11 @@ import Helpful from '@/pages/components/helpful/$gp1$prob';
             </h1> 
             <br />
             <p>
-            These are some real world problems that you will be able to solve after going through the sections. 
+            These are some real world problems that you will be able to solve after going through the  different sections. 
             </p>
             <br />
             <p>
-                Although all the background theory is nice, sometimes we just want to cut right to the chase and solve problems. 
+                Although all the background theory is nice, sometimes you just want to cut right to the chase and solve problems. 
                 Here are some common problems that you may want to solve in physics:
                 <ul>
                     <li>The motion of a planet around a star</li>

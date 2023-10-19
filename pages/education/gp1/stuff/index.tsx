@@ -12,14 +12,15 @@ const Stuff = () => {
             </h1>
             <br /> 
             <p>
-                This is going to be a giant database of gen phys 1 questions. 
+                This is going to be a giant database of hw problems.
                 <br /> 
                 <br />
-                You will be able to go through questions rapidly,
-                and the system will track your progress so you can focus on your weak areas. 
+                It will host the most common gen phys 1 problems, as well as the more obscure. 
+                We&#39;ll go through the problems step-by-step; that way you can follow along and not just regurgitate.
                 <br />
                 <br />
-                You&#39;ll master the questions in no time. 
+                And what if it&#39;s 3 am and you can&#39;t go to office hours?
+                <br />
             </p>
             <br />
             <Link href="/education/gp1/stuff/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
