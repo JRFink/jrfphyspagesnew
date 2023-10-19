@@ -42,7 +42,7 @@ const Astr = () => {
             <div className={style.flexContainer} id="intro">
                     <Link href="/research/astr/theor" className={style.generalLink}>Theory</Link>
                     <Link href="/research/astr/exp" className={style.generalLink}>Experiment</Link>
-                    <Link href="/research/astr/equat" className={style.generalLink}>Equation page</Link>  
+                    <Link href="/research/astr/data" className={style.generalLink}>Data</Link>  
                     <Link href="/research/astr/news" className={style.generalLink}>News</Link>
                     <Link href="/research/astr/diss" className={style.generalLink}>Dissertations</Link>
             </div>

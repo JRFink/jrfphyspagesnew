@@ -7,16 +7,15 @@ const Equat = () => {
     return (
         <>
             <br />
-            <Link href="/research/amo" className={style.backtoLink}>AMO</Link>
+            <Link href="/research/particle" className={style.backtoLink}>Particle phys</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
-                Equations
+                Data
             </h1>
             <p>
-                Below you will find the equations you will use in AMO. 
+                Data for particle phys research...
             </p>
-            
         </>
     );
 }

@@ -48,7 +48,7 @@ const Nuclear = () => {
                 <br />
                 <Link href="/research/nuc/exp" className={style.generalLink}>Experiment</Link>
                 <br />
-                <Link href="/research/nuc/equat" className={style.generalLink}>Equation page</Link>
+                <Link href="/research/nuc/data" className={style.generalLink}>Data</Link>
                 <br />
                 <Link href="/research/nuc/news" className={style.generalLink}>News</Link>
                 <Link href="/research/nuc/diss" className={style.generalLink}>Dissertations</Link>

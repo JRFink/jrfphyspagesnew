@@ -10,10 +10,10 @@ import Link from 'next/link';
              <br /> 
              <br /> 
              <h1 className={style.centerText}> 
-                 Equations 
+                Data
              </h1> 
              <p> 
-                 Below you will find the equations you will use for Astrophysics.  
+                Data for astrophysics research...  
              </p> 
   
          </> 

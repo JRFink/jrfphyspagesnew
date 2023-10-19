@@ -10,10 +10,10 @@ const Equat = () => {
             <br />
             <br />
             <h1 className={style.centerText}>
-                Equations
+                Data
             </h1>
             <p>
-                Below you will find some equations for nuclear physics. 
+                Data for nuclear physics research... 
             </p>            
         </>
     );

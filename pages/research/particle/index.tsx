@@ -57,7 +57,7 @@ const Particle = () => {
             <div className={style.flexContainer} id="intro">
                 <Link href="/research/particle/theor" className={style.generalLink}>Theory</Link>
                 <Link href="/research/particle/exp" className={style.generalLink}>Experiment</Link>
-                <Link href="/research/particle/equat" className={style.generalLink}>Equation page</Link>  
+                <Link href="/research/particle/data" className={style.generalLink}>Data</Link>  
                 <Link href="/research/particle/news" className={style.generalLink}>News</Link>
                 <Link href="/research/particle/diss" className={style.generalLink}>Dissertations</Link>
             </div>

@@ -18,9 +18,9 @@ const Theor = () => {
                 Below you will find some theories for particle physics. 
             </p>
             <br />
-<p>
-    <Link href="http://www.scholarpedia.org/article/Lattice_gauge_theories">Lattice guage theory</Link>
-</p>
+            <p>
+                <Link href="http://www.scholarpedia.org/article/Lattice_gauge_theories">Lattice guage theory</Link>
+            </p>
             <p>
                 Here is a mathematical formulation of the standard model. 
             </p>

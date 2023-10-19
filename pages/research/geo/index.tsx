@@ -18,10 +18,9 @@ const Geo = () => {
         <div className={style.flexContainer} id="intro">
             <Link href="/research/geo/theor" className={style.generalLink}>Theory</Link>
             <Link href="/research/geo/exp" className={style.generalLink}>Experiment</Link>
-            <Link href="/research/geo/equat" className={style.generalLink}>Equation page</Link>
+            <Link href="/research/geo/data" className={style.generalLink}>Data</Link>
             <Link href="/research/geo/diss" className={style.generalLink}>Dissertations</Link>  
             <Link href="/research/geo/news" className={style.generalLink}>News</Link>
-            <Link href="/research/geo/data" className={style.generalLink}>Data</Link>
         </div>
         <br />
         <br />

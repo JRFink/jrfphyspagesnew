@@ -49,12 +49,13 @@ const CondensedM = () => {
                 <br />
                 <Link href="/research/cm/exp" className={style.generalLink}>Experiment</Link>
                 <br />
-                <Link href="/research/cm/equat" className={style.generalLink}>Equation page</Link>
+                <Link href="/research/cm/data" className={style.generalLink}>Data</Link>
+                <br />
+                <Link href="/research/cm/diss" className={style.generalLink}>Dissertations</Link>
                 <br />
                 <Link href="/research/cm/news" className={style.generalLink}>News</Link>
                 <br /> 
-                 <Link href="/research/cm/diss" className={style.generalLink}>Dissertations</Link>
-                <br />
+                 
             </div>
             <br />
             <br />

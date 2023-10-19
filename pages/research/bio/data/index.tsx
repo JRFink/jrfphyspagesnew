@@ -6,14 +6,14 @@ const Equat = () => {
     return (
         <>
             <br />
-            <Link href="/research/cm" className={style.backtoLink}>Condensed matter</Link>
+            <Link href="/research/bio" className={style.backtoLink}>Biophysics</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
-                Equations
+                Data
             </h1>
             <p>
-                Below you will find the equations you will use in Condensed matter. 
+                Data for biophysics research
             </p>
             
         </>

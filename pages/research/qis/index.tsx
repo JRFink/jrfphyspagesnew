@@ -52,7 +52,9 @@ const QuantI = () => {
                 <br />
                 <Link href="/research/qis/exp" className={style.generalLink}>Experiment</Link>
                 <br />
-                <Link href="/research/qis/equat" className={style.generalLink}>Equation page</Link>
+                <Link href="/research/qis/data" className={style.generalLink}>Data</Link>
+                <br />
+                <Link href="/research/qis/diss" className={style.generalLink}>Dissertations</Link>
                 <br />
                 <Link href="/research/qis/news" className={style.generalLink}>News</Link>
                 <br />
@@ -63,7 +65,7 @@ const QuantI = () => {
                 Domain
             </h2>
             <p>
-                    The largest molecules are about 10 nm and the smallest molecules are about 1 angstrom.  
+                The largest molecules are about 10 nm and the smallest molecules are about 1 angstrom.  
             </p>
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
