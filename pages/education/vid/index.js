@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import Introvid from '@/public/videos/intro';
 import UnitsVid from '@/public/videos/gp1/units';
-import ConstantPosVid from '@/public/videos/gp1/constantpos';
 import AccelVid from '@/public/videos/gp1/accelvid';
 import Two3Vid from '@/public/videos/gp1/two3';
 import DeriveKinVid from '@/public/videos/gp1/derivekin';
@@ -28,6 +28,9 @@ const AllVid = () => {
             <h1 className={style.centerText}>
                 Videos
             </h1>
+            <br />
+            <Introvid />
+            <br />    
             <br />
             <UnitsVid />
             <br />    
