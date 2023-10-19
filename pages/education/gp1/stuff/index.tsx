@@ -16,10 +16,14 @@ const Stuff = () => {
                 <br /> 
                 <br />
                 It will host the most common gen phys 1 problems, as well as the more obscure. 
-                We&#39;ll go through the problems step-by-step; that way you can follow along and not just regurgitate.
+                We&#39;ll go through each of the problems step-by-step.
                 <br />
                 <br />
-                And what if it&#39;s 3 am and you can&#39;t go to office hours?
+                Also, what if it&#39;s 3 am, and you can&#39;t go to office hours? 
+                <br />
+                <br />
+                Instead, you can come here, and watch a 
+                hw problem video as much as you like. 
                 <br />
             </p>
             <br />
