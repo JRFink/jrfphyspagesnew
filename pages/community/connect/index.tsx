@@ -14,6 +14,8 @@ const Conn = () => {
       <p>
            Connect with others in physics.
       </p>
+      <br />
+      <br />
       <p>
            For example, here are some useful links:
           <ul>
@@ -27,3 +29,5 @@ const Conn = () => {
 }
 
 export default Conn;
+
+

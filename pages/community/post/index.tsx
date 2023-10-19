@@ -12,8 +12,15 @@ const Post = () => {
         Posts 
      </h1>
       <p>
-           Post your questions or thoughts about physics!   
+           Post your questions about physics!   
       </p>
+      <br />
+      <br />
+      <ol>
+        <li>
+          A question I have - what is the connection between the gravitational and the electric force?
+        </li>
+      </ol>
     </>
   );
 }

@@ -38,7 +38,7 @@ const Education = () => {
             <p> 
                                  Find your school, match requirements, get credit.  
 <br />
-                 <input type="text" className={style.searchBox} placeholder="Find your school"></input> 
+                 <input type="text" className={style.searchBox} placeholder="Find your school (testing..)"></input> 
             </p>
             <p> 
                 Your state education requirements...
