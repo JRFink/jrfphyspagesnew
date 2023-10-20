@@ -124,6 +124,13 @@ const QuantI = () => {
      <li>Q2 revenue &#36;1.8 million</li>
      <li>Initially raised &#36;300 million in funding</li>
 </ul>
+<br />
+                        <li><Link href="https://ionq.com/">Ion Q</Link></li>
+<ul>
+     <li>NYSE: </li>
+     <li>Q2 revenue </li>
+     <li>Initially raised</li>
+</ul>
                     </ul>
                     <br />
 <p>
