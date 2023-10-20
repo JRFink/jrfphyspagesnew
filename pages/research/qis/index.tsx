@@ -111,6 +111,10 @@ const QuantI = () => {
                         <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
                         <br />
                         <li><Link href="https://www.rigetti.com/">Rigetti</Link></li>
+<ul>
+     <li>NYSE: RGTI - &#36;1.2</li>
+     <li>Q2 revenue &#36;3 million</li>
+</ul>
                         <br />
                         <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
                         <br />
