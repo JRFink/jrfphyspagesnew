@@ -115,6 +115,10 @@ const QuantI = () => {
                         <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
                         <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
+<ul>
+     <li>NYSE: QBTS - &#36;0.79</li>
+     <li>Initially raised &#36;300 million in funding</li>
+</ul>
                     </ul>
                     <br />
 <p>
