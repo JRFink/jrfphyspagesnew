@@ -129,6 +129,13 @@ const QuantI = () => {
 <p>
                 Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
             </p>
+<p> 
+   Some of the top quantum investors are: 
+<ul>
+     <li><Link href="https://www.aeinvestmentco.com/">AE investments</Link></li>
+</ul>
+</p>
+
                     <br />
             <h2>
                 Locations
