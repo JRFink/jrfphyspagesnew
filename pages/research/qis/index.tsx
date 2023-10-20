@@ -117,6 +117,7 @@ const QuantI = () => {
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
 <ul>
      <li>NYSE: QBTS - &#36;0.79</li>
+     <li>Q2 revenue &#36;1.8 million</li>
      <li>Initially raised &#36;300 million in funding</li>
 </ul>
                     </ul>
