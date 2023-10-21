@@ -127,7 +127,7 @@ const QuantI = () => {
 <br />
                         <li><Link href="https://ionq.com/">Ion Q</Link></li>
 <ul>
-     <li>NYSE: </li>
+     <li>NYSE: IONQ &#36;12.59</li>
      <li>Q1 revenue &#36;4.3 million</li>
      <li>Q2 revenue &#36;5.5 million</li>
      <li>Initially raised</li>
