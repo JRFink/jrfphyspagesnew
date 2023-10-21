@@ -147,6 +147,8 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://www.meetiqm.com/">IQM</Link></li>
                         <br />
+                        <li><Link href="https://multiversecomputing.com/">Multiverse computing</Link></li>
+                        <br />
                     </ul>
                     <br />
                     
