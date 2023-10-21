@@ -155,6 +155,8 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://www.quantinuum.com/">Quantinuum</Link></li>
                         <br />
+                        <li><Link href="https://q-ctrl.com/">Q Ctrl</Link></li>
+                        <br />
                     </ul>
                     <br />
                     
