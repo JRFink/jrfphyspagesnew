@@ -174,6 +174,8 @@ const QuantI = () => {
                         <li><Link href="https://a16z.com/">Andreesen Horowitz</Link></li>
 <br />
 <li><Link href="https://www.kleinerperkins.com">Kleiner Perkins</Link></li>
+<br />
+<li><Link href="https://www.nea.com">New Enterprise Associates</Link></li>
                     </ul>
                     </p>
 
