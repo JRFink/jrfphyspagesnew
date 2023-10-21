@@ -5,7 +5,7 @@ const Intnl = () => {
     return (
         <>
             <h1 className={style.centerText}>
-                Internation cooperation 
+                International cooperation 
             </h1>
             <p>
                 Below you can find some statements on international cooperation in quantum.
