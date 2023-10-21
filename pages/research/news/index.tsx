@@ -33,7 +33,7 @@ const News = () => {
                   </li>
 <br />
 <li>  
-                         <Link href="https://investors.ionq.com/news/news-details/2023/IonQ-Announces-New-25.5M-Quantum-Deal-with-United-States-Air-Force-Research-Lab/default.aspx"                             className={style.noUnder}>Ion Q receives &#36;25 million deal with Air force research lab</Link> 
+                         <Link href="https://investors.ionq.com/news/news-details/2023/IonQ-Announces-New-25.5M-Quantum-Deal-with-United-States-Air-Force-Research-Lab/default.aspx"                            >Ion Q receives &#36;25 million deal with Air force research lab</Link> 
                      </li>
                   <br />
                   <li>
