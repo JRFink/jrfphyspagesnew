@@ -37,11 +37,9 @@ const indexPage = () => {
             </button> */}
       <p className={style.centerText}>
         Hello, and welcome to jrfink.net.
+       </p>
         <br />
         <br />
-        This site is under <span className={style.highlightText}>active construction ⚠️</span>.
-      </p>
-      <br />
       <p> 
          <b>
              Mission statement: 
