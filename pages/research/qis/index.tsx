@@ -97,6 +97,21 @@ const QuantI = () => {
                 </p>
             <br />  
             <br />
+<h2>
+     How do you build a quantum computer? 
+</h2>
+<p> 
+    The components of a quantum computer are...
+<ol>
+      <li>Input&#47;output</li>
+<p>
+     We need a way to feed a computer information, and the computer needs a way to display its information to us.
+</p>
+      <li>Processor</li>
+      <li>Memory</li>
+</ol>
+</p>
+<br />
             <h2>
                 Major players 
             </h2>
