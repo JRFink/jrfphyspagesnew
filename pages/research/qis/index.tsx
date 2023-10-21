@@ -172,6 +172,8 @@ const QuantI = () => {
                         Some of the top quantum investors are: 
                     <ul>
                         <li><Link href="https://a16z.com/">Andreesen Horowitz</Link></li>
+<br />
+<li><Link href="https://www.kleinerperkins.com">Kleiner Perkins</Link></li>
                     </ul>
                     </p>
 
