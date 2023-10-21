@@ -157,6 +157,10 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://q-ctrl.com/">Q Ctrl</Link></li>
                         <br />
+                        <li><Link href="https://www.qcware.com/">QC Ware</Link></li>
+                        <br />
+                        <li><Link href="https://universalquantum.com/">Universal Quantum</Link></li>
+                        <br />
                     </ul>
                     <br />
                     
