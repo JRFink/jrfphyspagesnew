@@ -27,8 +27,8 @@ const News = () => {
                             Single atom quantum computer
                         </Link>
                     </li> 
-<li>Ion Q receives 
-                        <Link href="https://investors.ionq.com/news/news-details/2023/IonQ-Announces-New-25.5M-Quantum-Deal-with-United-States-Air-Force-Research-Lab/default.aspx"                             className={style.noUnder}>&#36;25 million </Link> deal with Air force research lab.
+<li> 
+                        <Link href="https://investors.ionq.com/news/news-details/2023/IonQ-Announces-New-25.5M-Quantum-Deal-with-United-States-Air-Force-Research-Lab/default.aspx"                             className={style.noUnder}>Ion Q receives &#36;25 million deal with Air force research lab</Link>
                     </li>
 
                 </ul>
