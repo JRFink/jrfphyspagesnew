@@ -5,7 +5,7 @@ const Intnl = () => {
     return (
         <>
             <h1 className={style.centerText}>
-                Internation cooperation in quantum
+                Internation cooperation 
             </h1>
             <p>
                 Below you can find some statements on international cooperation in quantum.
@@ -22,6 +22,14 @@ const Intnl = () => {
                 <li><Link href="https://www.state.gov/joint-statement-of-the-united-states-of-america-and-sweden-on-cooperation-in-quantum-information-science-and-technology/">Sweden</Link></li>
                 <br />
                 <li><Link href="https://www.state.gov/joint-statement-of-the-united-states-of-america-and-denmark-on-cooperation-in-quantum-information-science-and-technology/">Denmark</Link></li>
+                <br />
+                <li><Link href="https://www.state.gov/joint-statement-of-the-united-states-of-america-and-switzerland-on-cooperation-in-quantum-information-science-and-technology/">Switzerland</Link></li>
+                <br />
+                <li><Link href="https://www.state.gov/joint-statement-of-the-united-states-of-america-and-france-on-cooperation-in-quantum-information-science-and-technology/">France</Link></li>
+                <br />
+                <li><Link href="https://www.state.gov/joint-statement-of-the-united-states-of-america-and-the-netherlands-on-cooperation-in-quantum-information-science-and-technology/">Netherlands</Link></li>
+                <br />
+                <li><Link href="https://www.state.gov/joint-statement-of-the-united-states-of-america-and-republic-of-korea-on-cooperation-in-quantum-information-science-and-technologies/">Republic of Korea</Link></li>
                 <br />
             </ul>
         </>
