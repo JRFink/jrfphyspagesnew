@@ -138,6 +138,9 @@ const QuantI = () => {
                                 <li>Initially raised</li>
                             </ul>
                         <li><Link href="https://strangeworks.webflow.io/">Strange works</Link></li>
+                        <br />
+                        <li><Link href="https://www.quantum-machines.co/">Quantum Machines</Link></li>
+                        <br />
                     </ul>
                     <br />
                     
