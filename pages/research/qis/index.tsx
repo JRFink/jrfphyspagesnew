@@ -98,20 +98,8 @@ const QuantI = () => {
                     History ... 
                 </p>
             <br />  
-            <br />
-            <h2>
-                How do you build a quantum computer? 
-            </h2>
-            <p> 
-                The components of a quantum computer are...
-            <ol>
-                <li>Input&#47;output</li>
             <p>
-                We need a way to feed a computer information, and the computer needs a way to display its information to us.
-            </p>
-                <li>Processor</li>
-                <li>Memory</li>
-            </ol>
+                Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
             </p>
             <br />
             <h2>
@@ -152,9 +140,7 @@ const QuantI = () => {
                         <li><Link href="https://strangeworks.webflow.io/">Strange works</Link></li>
                     </ul>
                     <br />
-                    <p>
-                        Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
-                    </p>
+                    
                     <p> 
                         Some of the top quantum investors are: 
                     <ul>
@@ -163,6 +149,21 @@ const QuantI = () => {
                     </p>
 
                     <br />
+                    <br />
+            <h2>
+                How do you build a quantum computer? 
+            </h2>
+            <p> 
+                The components of a quantum computer are...
+            <ol>
+                <li>Input&#47;output</li>
+            <p>
+                We need a way to feed a computer information, and the computer needs a way to display its information to us.
+            </p>
+                <li>Processor</li>
+                <li>Memory</li>
+            </ol>
+            </p>
             <h2>
                 Locations
             </h2>
