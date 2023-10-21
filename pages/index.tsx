@@ -36,7 +36,7 @@ const indexPage = () => {
                 </svg>
             </button> */}
       <p className={style.centerText}>
-        Hello, and welcome to jrfink.net.
+        Hello, and welcome to jrfink.net!
        </p>
         <br />
         <br />

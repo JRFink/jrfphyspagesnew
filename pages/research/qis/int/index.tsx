@@ -4,6 +4,10 @@ import style from '@/styles/general.module.css';
 const Intnl = () => {
     return (
         <>
+            <br />
+            <Link href="/research/qis" className={style.backtoLink}>Quantum info</Link>
+            <br />
+            <br />
             <h1 className={style.centerText}>
                 International cooperation 
             </h1>

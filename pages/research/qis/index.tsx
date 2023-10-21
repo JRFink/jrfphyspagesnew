@@ -99,21 +99,21 @@ const QuantI = () => {
                 </p>
             <br />  
             <br />
-<h2>
-     How do you build a quantum computer? 
-</h2>
-<p> 
-    The components of a quantum computer are...
-<ol>
-      <li>Input&#47;output</li>
-<p>
-     We need a way to feed a computer information, and the computer needs a way to display its information to us.
-</p>
-      <li>Processor</li>
-      <li>Memory</li>
-</ol>
-</p>
-<br />
+            <h2>
+                How do you build a quantum computer? 
+            </h2>
+            <p> 
+                The components of a quantum computer are...
+            <ol>
+                <li>Input&#47;output</li>
+            <p>
+                We need a way to feed a computer information, and the computer needs a way to display its information to us.
+            </p>
+                <li>Processor</li>
+                <li>Memory</li>
+            </ol>
+            </p>
+            <br />
             <h2>
                 Major players 
             </h2>
@@ -128,38 +128,39 @@ const QuantI = () => {
                         <li><Link href="https://azure.microsoft.com/en-us/solutions/quantum-computing/">Microsoft</Link></li>
                         <br />
                         <li><Link href="https://www.rigetti.com/">Rigetti</Link></li>
-<ul>
-     <li>NYSE: RGTI - &#36;1.2</li>
-     <li>Q2 revenue &#36;3 million</li>
-</ul>
+                            <ul>
+                                <li>NYSE: RGTI - &#36;1.2</li>
+                                <li>Q2 revenue &#36;3 million</li>
+                            </ul>
                         <br />
                         <li><Link href="https://coldquanta.com/">Infleqtion</Link> - thank you boulder</li>
                         <br />
                         <li><Link href="https://www.dwavesys.com/">D-Wave</Link></li>
-<ul>
-     <li>NYSE: QBTS - &#36;0.79</li>
-     <li>Q2 revenue &#36;1.8 million</li>
-     <li>Initially raised &#36;300 million in funding</li>
-</ul>
-<br />
+                        <ul>
+                            <li>NYSE: QBTS - &#36;0.79</li>
+                            <li>Q2 revenue &#36;1.8 million</li>
+                            <li>Initially raised &#36;300 million in funding</li>
+                        </ul>
+                        <br />
                         <li><Link href="https://ionq.com/">Ion Q</Link></li>
-<ul>
-     <li>NYSE: IONQ &#36;12.59</li>
-     <li>Q1 revenue &#36;4.3 million</li>
-     <li>Q2 revenue &#36;5.5 million</li>
-     <li>Initially raised</li>
-</ul>
+                            <ul>
+                                <li>NYSE: IONQ &#36;12.59</li>
+                                <li>Q1 revenue &#36;4.3 million</li>
+                                <li>Q2 revenue &#36;5.5 million</li>
+                                <li>Initially raised</li>
+                            </ul>
+                        <li><Link href="https://strangeworks.webflow.io/">Strange works</Link></li>
                     </ul>
                     <br />
-<p>
-                Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
-            </p>
-<p> 
-   Some of the top quantum investors are: 
-<ul>
-     <li><Link href="https://www.aeinvestmentco.com/">AE investments</Link></li>
-</ul>
-</p>
+                    <p>
+                        Learn more about quantum computing with <Link href="https://qiskit.org/">Qiskit</Link> from IBM. 
+                    </p>
+                    <p> 
+                        Some of the top quantum investors are: 
+                    <ul>
+                        <li><Link href="https://www.aeinvestmentco.com/">AE investments</Link></li>
+                    </ul>
+                    </p>
 
                     <br />
             <h2>
