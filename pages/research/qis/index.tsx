@@ -58,6 +58,8 @@ const QuantI = () => {
                 <br />
                 <Link href="/research/qis/news" className={style.generalLink}>News</Link>
                 <br />
+                <Link href="/research/qis/int" className={style.generalLink}>International</Link>
+                <br />
             </div>
             <br />
             <br />
