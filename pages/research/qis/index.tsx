@@ -143,6 +143,8 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://www.quandela.com/">Quandela</Link></li>
                         <br />
+                        <li><Link href="https://alice-bob.com/">Alice and Bob</Link></li>
+                        <br />
                     </ul>
                     <br />
                     
