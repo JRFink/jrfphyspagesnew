@@ -151,6 +151,10 @@ const QuantI = () => {
                         <br />
                         <li><Link href="https://zapata.ai/">Zapata computing</Link></li>
                         <br />
+                        <li><Link href="https://www.psiquantum.com/">Psi Quantum</Link></li>
+                        <br />
+                        <li><Link href="https://www.quantinuum.com/">Quantinuum</Link></li>
+                        <br />
                     </ul>
                     <br />
                     
