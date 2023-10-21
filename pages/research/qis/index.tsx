@@ -170,6 +170,8 @@ const QuantI = () => {
                 America
             </h3>
             <ul>
+                <li><Link href="https://www.quantum.gov/">National quantum initiative</Link></li>
+                <br />
                 <li><Link href="https://physics.mit.edu/research-areas/quantum-information-science/">MIT</Link></li>
                 <br />
                 <li><Link href="https://jila.colorado.edu/research/quantum-information-science-technology">Boulder</Link></li>
