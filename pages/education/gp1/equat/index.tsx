@@ -154,6 +154,10 @@ const Equat = () => {
                   <div className={style.equationBox}>  
                       <div className={style.equation}>{"\\( \\mathbf{P} = m \\mathbf{v} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(12)"}</div>  
                   </div>  
+            <br />  
+              <div className={style.equationBox}>  
+                  <div className={style.equation}>{"\\( \\mathbf{J} = \\int \\mathbf{F} dt = \\Delta \\overrightarrow{p} \\)"} </div>  
+              </div>
             <br />
             <br />
             <h2 className={style.numberLink}>
