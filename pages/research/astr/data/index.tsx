@@ -26,7 +26,7 @@ import Link from 'next/link';
                 Data
             </h1> 
             <p> 
-                The cosmological constant is about {"\\( \\approx \\ 10^{-35} \\ s^{-2}  \\)"} 
+                The cosmological constant is about {"\\( \\approx \\ 10^{-35} \\ s^{-2}  \\)"}. 
             </p> 
 
         </> 
