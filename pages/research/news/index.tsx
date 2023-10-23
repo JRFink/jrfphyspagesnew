@@ -20,6 +20,7 @@ const News = () => {
                       2023 Nobel prize
                      </Link>
                   </li>
+                  <br />
                <li>
                      <Link href="https://pubs.aip.org/physicstoday">
                       Physics today
