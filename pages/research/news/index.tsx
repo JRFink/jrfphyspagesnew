@@ -14,7 +14,13 @@ const News = () => {
           <p>
             <br />
                <ul>
-<li>
+               
+               <li>
+                     <Link href="https://www.aps.org/newsroom/pressreleases/nobel2023.cfm">
+                      2023 Nobel prize
+                     </Link>
+                  </li>
+               <li>
                      <Link href="https://pubs.aip.org/physicstoday">
                       Physics today
                      </Link>
