@@ -122,7 +122,14 @@ const Equat = () => {
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( W = \\Delta KE = \\frac{1}{2} mv^{2}  \\)"} </div>
             </div>
-            <br />
+            <br /> 
+             <div className={style.equationBox}> 
+                 <div className={style.equation}>{"\\( P = \\mathbf{F} \\mathbf{v}  \\)"} </div> 
+             </div>
+            <br />  
+             <div className={style.equationBox}> 
+                 <div className={style.equation}>{"\\( P = \\frac{dE}{dt} \\)"} </div> 
+             </div>
             <h2 className={style.numberLink}>
                 6
             </h2>
@@ -147,6 +154,10 @@ const Equat = () => {
                   <div className={style.equationBox}>  
                       <div className={style.equation}>{"\\( \\mathbf{P} = m \\mathbf{v} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(12)"}</div>  
                   </div>  
+            <br />  
+              <div className={style.equationBox}>  
+                  <div className={style.equation}>{"\\( \\mathbf{J} = \\int \\mathbf{F} dt = \\Delta \\overrightarrow{p} \\)"} </div>  
+              </div>
             <br />
             <br />
             <h2 className={style.numberLink}>
