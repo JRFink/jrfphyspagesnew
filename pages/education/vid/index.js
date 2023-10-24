@@ -35,8 +35,8 @@ const AllVid = () => {
             <UnitsVid />
             <br />    
             <br /> 
-             <p className={style.centerText}>  
-                 Buy the position and velocity video on our <Link href="/members">members</Link> page.  
+            <p className={style.centerText}>  
+                You have to subscribe on our <Link href="/members">members</Link> page to view the position and velocity video.
             </p>           
             <br /> 
             <br />
