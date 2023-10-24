@@ -695,6 +695,12 @@
     border-radius: 5px;
 }
 
+.highlightTextGreen {
+    background-color: rgb(161, 251, 220); 
+    padding: 3px; 
+    border-radius: 5px;
+}
+
 .learngoalHeading {
     display: inline-block;
     padding: 10px 10px 10px 10px;

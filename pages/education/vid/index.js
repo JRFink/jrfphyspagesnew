@@ -35,8 +35,11 @@ const AllVid = () => {
             <UnitsVid />
             <br />    
             <br /> 
+            <h2 className={style.centerText}>
+                Position and velocity
+            </h2>
             <p className={style.centerText}>  
-                You have to subscribe on our <Link href="/members">members</Link> page to view the position and velocity video.
+                Subscribe on our <Link href="/members" className={style.highlightTextGreen}>members</Link> page to view the position and velocity video.
             </p>           
             <br /> 
             <br />
