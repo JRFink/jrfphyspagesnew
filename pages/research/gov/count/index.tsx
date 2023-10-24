@@ -17,11 +17,11 @@ const Countr = () => {
                 Below you will find some info about different countries. 
             </p>
             <br />
-<p> 
-    You can start with the <Link href="https://www.un.org/">UN</Link>
-</p>
-<br /> 
-<br />
+            <p> 
+                You can start with the <Link href="https://www.un.org/">UN</Link>
+            </p>
+            <br /> 
+            <br />
             <Shqipëria />
             <br />
             <br />

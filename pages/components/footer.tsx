@@ -33,15 +33,13 @@ const Footer = () => {
                 <br></br>
                 <Link href="/legal/cookie" className={style.linkFooter}>Cookie Policy</Link><br></br>
                 <br></br>
-                <Link href="/legal/dual" className={style.linkFooter}>Dual enrollment</Link><br></br>
-                <br></br>
                 <Link href="/legal" className={style.linkFooter}>Legal</Link><br></br>
                 <br></br>
                 <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                 <br></br>
-                <Link href="/legal/cred" className={style.linkFooter}>Academic handbook</Link><br></br>
-                <br></br>
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
+                <br /> 
+                <Link href="/legal/intern" className={style.linkFooter}>International fun</Link><br></br>
                 <br /> 
                 <CountryDrop /> 
                 <br /> 

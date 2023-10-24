@@ -26,7 +26,10 @@ export default function Shqipëria () {
                     Science and education - shkenca dhe edukimi
                 </h3>
                     <p>
-                        <Link href="https://arsimi.gov.al/"></Link>
+                        <Link href="https://arsimi.gov.al/">Edukimi</Link>
+                    </p>
+                    <p>
+                        <Link href="http://www.qsha.gov.al/">Assessments</Link>
                     </p>
                 <h3 className={style.colorDarkBlue}>
                     Communication
@@ -107,6 +110,9 @@ export function America () {
                                     <li><Link href="https://www.mit.edu/">MIT</Link></li>
                                     <li><Link href="https://www.stanford.edu/">Stanford</Link></li>
                                 </ul>
+                            </p>
+                            <p>
+                                USA <Link href="https://nces.ed.gov/surveys/PISA/">PISA</Link> assessment.
                             </p>
                         <br />
                     <h3 className={style.colorDarkBlue}>
