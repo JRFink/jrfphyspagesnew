@@ -22,7 +22,7 @@ const Careers = () => {
                 मुझे अनुवाद करने में मदद करें
            </p> 
            <p>
-I will also need help proctoring exams. 
+                I will also need help proctoring exams. 
            </p>  
         </>
     );
