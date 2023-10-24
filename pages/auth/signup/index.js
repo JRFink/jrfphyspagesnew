@@ -120,14 +120,14 @@ const SignupFlow = () => {
                             The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. 
                             We&#39;re thinking &#36;5 &#47; month. < br /> 
                         <br />
-                        Find your school, match requirements, get credit. 
+                            Find your school, match requirements, get credit. 
                         <br /> 
                         <input type="text" className={style.searchBox} placeholder="Find your school (testing...)"></input>
                         </p> 
                         <br />
                         <br />
                         <p className={style.centerText}> 
-                            You can subscribe as a test <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq">here</a>. We&#39;re live! 
+                            You can <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq" className={style.highlightTextBlue}>subscribe</a>. We&#39;re live! 
                         </p> 
                         <br /> 
                         <br />
