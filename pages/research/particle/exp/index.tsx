@@ -60,6 +60,15 @@ const Exp = () => {
                     </ul>
                 <br />
                 <li><Link href="https://www6.slac.stanford.edu/research/advanced-accelerators">SLAC</Link></li>
+                    <ul>
+                        <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> </li>
+                        <li> </li>
+                        <li> 
+                            <br />
+                            
+                        </li>
+                        <li> </li>
+                    </ul>
                 <br />
                 <li>Neutrinos at <Link href="https://www.dunescience.org/">DUNE</Link></li> 
                 <br />
