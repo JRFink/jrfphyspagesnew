@@ -5,7 +5,7 @@ import Link from 'next/link';
     return (  
       <>  
        <br />
-        <Link href="/research/problems" className={style.backtoLink}>Research</Link>
+        <Link href="/research" className={style.backtoLink}>Research</Link>
         <br /> 
         <br />
         <h1 className={style.centerText}>  
