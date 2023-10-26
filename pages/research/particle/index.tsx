@@ -134,6 +134,16 @@ const Particle = () => {
                 <h3 className={style.h3num}>
                     Standard model today
                 </h3>  
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Financials
+            </h2>
+            <p>
+                Here are some of the financial highlights...
+                <ul>
+                    <li>Fermilab budget for 2023 &#126; 1 billion</li>
+                </ul>
+            </p>
             <h2>
                 Locations
             </h2>

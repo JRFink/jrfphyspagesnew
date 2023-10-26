@@ -60,11 +60,17 @@ const Amo = () => {
                 Domain ... 
             </p>
             <br />
-            <h2 className={style.h2SectionColor} id="his"> 
+            <h2 className={style.h2SectionColor}> 
                 History
             </h2>
             <p>
                 History ... 
+            </p>
+            <h2 className={style.h2SectionColor}> 
+                Financials
+            </h2>
+            <p>
+                You ultimately need money to do research. Here are some of the financial highlights...
             </p>
             <h2>
                 Locations

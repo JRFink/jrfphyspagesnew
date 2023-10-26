@@ -90,6 +90,10 @@ const Nuclear = () => {
             <h2 className={style.h2SectionColor} id="his"> 
                 History
             </h2>
+            <p>
+                History...
+            </p>
+            <br />
             <br />
             <br />
                 <h3 className={style.h3num}>
@@ -106,7 +110,17 @@ const Nuclear = () => {
                 <br />
                 <h3 className={style.h3num}>
                     Development of QED
-                </h3>    
+                </h3> 
+            <br />
+            <h2 className={style.h2SectionColor}> 
+                Financials
+            </h2>
+            <p>
+                Here are some of the financial highlights...
+                <ul>
+                    <li>Los alamos budget for 2023 &#126; 4 billion</li>
+                </ul>
+            </p>   
             <h2>
                 Locations
             </h2>

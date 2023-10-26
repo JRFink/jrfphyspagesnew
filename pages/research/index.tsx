@@ -32,7 +32,7 @@ const Research = () => {
                 <Link href="/research/problems" className={style.generalLink}>Problems</Link>  
                 <Link href="/research/stand" className={style.generalLink}>Standards and constants</Link><br></br>
             </div>
-<br />
+            <br />
         </>
     );
 }
