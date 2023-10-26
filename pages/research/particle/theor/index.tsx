@@ -45,6 +45,9 @@ const Theor = () => {
             <p className={style.small}>
                 Courtesy to T.D. Gutierrez
             </p>
+<p> 
+    <Link href="/pdf/leptons.pdf">Weinberg&#39;s Model of leptons</Link>
+</p>
             
         </>
     );
