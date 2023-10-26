@@ -45,10 +45,20 @@ const Exp = () => {
                         <li>
                             <Link href="http://web.mit.edu/lns/research/hig.html">Quark gluon plasma</Link>
                         </li>
+                        <br />
+                        <li>
+                            <Link href="https://www.lanl.gov/">Los alamos</Link>
+                            <ul>
+                                <li><Link href="https://about.lanl.gov/">Budget</Link> for 2022. &#126; 4 billion.</li>
+                                <li>Director - Thomas Mason</li>
+                            </ul>
+                        </li>
                     </ul>
-                        Also the division in the <Link href="https://science.osti.gov/np/Research">Department of energy</Link> 
-                        will keep you busy.
                 </p>
+                <p>
+                    Also the division in the <Link href="https://science.osti.gov/np/Research">Department of energy</Link> will keep you busy.
+                </p>
+                
         </>
     );
 }

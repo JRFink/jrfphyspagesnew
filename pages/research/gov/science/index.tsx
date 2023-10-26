@@ -62,7 +62,7 @@ const Science = () => {
 </ul>
 <br /> 
 <br />
-            &nbsp; &nbsp; Labs - 
+            &nbsp; &nbsp; Labs in America - 
                 <ul>
                     Office of science 
                     <ul>
@@ -125,6 +125,9 @@ const Science = () => {
                             </li>
                         </ul>
                 </ul>
+                <p>
+                    Some of the <Link href="/pdf/labsbudg23.pdf">budget</Link> for American labs 
+                </p>
         </>
     );
 }

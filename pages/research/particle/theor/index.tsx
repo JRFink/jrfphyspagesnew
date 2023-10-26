@@ -21,6 +21,11 @@ const Theor = () => {
             <p>
                 <Link href="http://www.scholarpedia.org/article/Lattice_gauge_theories">Lattice guage theory</Link>
             </p>
+            <br />
+            <p> 
+                <Link href="/pdf/leptons.pdf">Weinberg&#39;s Model of leptons</Link>
+            </p>
+            <br />
             <p>
                 Here is a mathematical formulation of the standard model. 
             </p>
@@ -44,11 +49,7 @@ const Theor = () => {
             </div>
             <p className={style.small}>
                 Courtesy to T.D. Gutierrez
-            </p>
-<p> 
-    <Link href="/pdf/leptons.pdf">Weinberg&#39;s Model of leptons</Link>
-</p>
-            
+            </p>    
         </>
     );
 }

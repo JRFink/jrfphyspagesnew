@@ -33,7 +33,7 @@ const Exp = () => {
                 Energy
             </h2>
                 <p>
-                    Energy levels at CERN reach about 13 million MeV. 
+                    Energy levels at CERN reach 13 million MeV. 
                 </p>
             <h2 id="current">
                 Current experiments
@@ -44,7 +44,16 @@ const Exp = () => {
             <ul>
                 <li><Link href="https://home.cern">CERN</Link></li>
                 <br />
+                    <p>
+                        Cern <Link href="/pdf/cernbudg23.pdf">budget</Link> for 2023.
+                    </p>
+                <br />
                 <li><Link href="https://fnal.gov">Fermilab</Link></li>
+                    <ul>
+                        <li><Link href="/pdf/fermibudg23.pdf">Budget</Link> for 2023. 1 billion.</li>
+                        <li>Director - Lia Merminga</li>
+                        <li>630 840 3351</li>
+                    </ul>
                 <br />
                 <li><Link href="https://www6.slac.stanford.edu/research/advanced-accelerators">SLAC</Link></li>
                 <br />
