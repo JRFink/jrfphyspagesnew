@@ -66,7 +66,6 @@ const Exp = () => {
                             <br />
                             Menlo Park, CA 94025
                         </li>
-                        <li> </li>
                     </ul>
                 <br />
                 <li>Neutrinos at <Link href="https://www.dunescience.org/">DUNE</Link></li> 
