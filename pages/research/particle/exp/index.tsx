@@ -56,16 +56,15 @@ const Exp = () => {
                             <br />
                             Batavia, IL 60510
                         </li>
-                        <li>630 840 3351</li>
                     </ul>
                 <br />
                 <li><Link href="https://www6.slac.stanford.edu/research/advanced-accelerators">SLAC</Link></li>
                     <ul>
                         <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> </li>
                         <li> Director - John Sarrao</li>
-                        <li> 
+                        <li> 2575 Sandhill road 
                             <br />
-                            
+                            Menlo Park, CA 94025
                         </li>
                         <li> </li>
                     </ul>
