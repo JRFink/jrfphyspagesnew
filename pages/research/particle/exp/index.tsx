@@ -52,6 +52,10 @@ const Exp = () => {
                     <ul>
                         <li><Link href="/pdf/fermibudg23.pdf">Budget</Link> for 2023. 1 billion.</li>
                         <li>Director - Lia Merminga</li>
+                        <li>Kirk road and pine street 
+                            <br />
+                            Batavia, IL 60510
+                        </li>
                         <li>630 840 3351</li>
                     </ul>
                 <br />
