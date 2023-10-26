@@ -141,7 +141,7 @@ const Particle = () => {
             <p>
                 Here are some of the financial highlights...
                 <ul>
-                    <li>Fermilab budget for 2023 &#126; 1 billion</li>
+                    <li>Fermilab <Link href="/pdf/fermibudg23.pdf">budget</Link> for 2023 &#126; 1 billion</li>
                 </ul>
             </p>
             <h2>

@@ -118,7 +118,7 @@ const Nuclear = () => {
             <p>
                 Here are some of the financial highlights...
                 <ul>
-                    <li>Los alamos budget for 2023 &#126; 4 billion</li>
+                    <li>Los alamos <Link href="https://about.lanl.gov/">budget</Link> for 2023 &#126; 4 billion</li>
                 </ul>
             </p>   
             <h2>
