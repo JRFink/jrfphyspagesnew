@@ -76,8 +76,8 @@ const Nuclear = () => {
             </h2>
                 <p>
                     The structure of atomic nuclei starts with protons and neutrons. 
-                    The number of protons determines the element, but the number of neutrons does not. 
-                    A proton consists of two up quarks and one down quark, while a neutron consists of one up and two down quarks. 
+                    The number of protons determines the element, and the number of neutrons does not. 
+                    A proton consists of two up quarks and one down quark, while a neutron consists of one up quark and two down quarks. 
                 </p>
             <br />
             <h2 className={style.h2SectionColor} id="his"> 
