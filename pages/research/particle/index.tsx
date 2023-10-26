@@ -135,7 +135,8 @@ const Particle = () => {
                     Standard model today
                 </h3>  
             <br />
-            <h2 className={style.h2SectionColor}> 
+            <br />
+            <h2> 
                 Financials
             </h2>
             <p>

@@ -112,7 +112,8 @@ const Nuclear = () => {
                     Development of QED
                 </h3> 
             <br />
-            <h2 className={style.h2SectionColor}> 
+            <br />
+            <h2> 
                 Financials
             </h2>
             <p>
