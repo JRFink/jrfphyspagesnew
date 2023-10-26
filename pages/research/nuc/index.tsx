@@ -93,9 +93,6 @@ const Nuclear = () => {
             <p>
                 History...
             </p>
-            <br />
-            <br />
-            <br />
                 <h3 className={style.h3num}>
                     From the atom to the nucleus
                 </h3>
@@ -119,7 +116,7 @@ const Nuclear = () => {
             <p>
                 Here are some of the financial highlights...
                 <ul>
-                    <li>Los alamos <Link href="https://about.lanl.gov/">budget</Link> for 2023 &#126; 4 billion</li>
+                    <li>Los alamos <Link href="https://about.lanl.gov/">budget</Link> for 2022 &#126; 4 billion</li>
                 </ul>
             </p>   
             <h2>
