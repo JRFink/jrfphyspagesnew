@@ -62,7 +62,7 @@ const Exp = () => {
                 <li><Link href="https://www6.slac.stanford.edu/research/advanced-accelerators">SLAC</Link></li>
                     <ul>
                         <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> </li>
-                        <li> </li>
+                        <li> Director - John Sarrao</li>
                         <li> 
                             <br />
                             
