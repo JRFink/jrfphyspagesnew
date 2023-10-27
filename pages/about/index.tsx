@@ -115,11 +115,10 @@ const About = () => {
                     sizes="100vw"
                     alt="two guys on a mountain in the alps" 
                 />
-
-            <p className={style.small}>
-                My friend John and I in the alps yo&#33;
-            </p>    
             </div>
+            <p className={style.small}>
+                My friend John and I in the alps 2015&#33;
+            </p>  
             <br />
         </>
     );
