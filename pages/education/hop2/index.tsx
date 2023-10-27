@@ -16,13 +16,11 @@ const Hop2 = () => {
                 <Link href="/education/hop2/original" className={style.generalLink}>
                     Original papers
                 </Link>
-                
             <br />
             <br />
             &#42;  &#42;  &#42;
             <br />
             </div>
-             
             <h2 className={style.numberLink}>
                 1
             </h2>

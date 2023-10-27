@@ -11,6 +11,16 @@ const Hop1 = () => {
             <h1 className={style.centerText}>
                 History of Physics 1
             </h1>
+            <br />
+            <div className={style.centerInADiv}>
+                <Link href="/education/hop1/original" className={style.generalLink}>
+                    Original papers
+                </Link>
+                <br />
+                <br />
+                &#42;  &#42;  &#42;
+                <br />
+            </div>
             <Link href="/education/hop1/first" className={style.generalLink}>Physics in the first civilizations</Link>
             <br />
             <Link href="/education/hop1/west" className={style.generalLink}>Physics in the western civilizations</Link>
