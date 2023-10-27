@@ -16,7 +16,8 @@ const Imp = () => {
                 <Link href="/education/imp/quiz" className={style.styleCourseNav}>Quizzes</Link> 
                 <Link href="/education/imp/hw" className={style.styleCourseNav}>Homework</Link>  
                 <Link href="/education/imp/equat" className={style.styleCourseNav}>Equations</Link>
-                <Link href="/education/imp/stuff" className={style.styleCourseNav}>Question database</Link>
+                <Link href="/education/imp/tbook" className={style.styleCourseNav}>Textbooks</Link>
+               <Link href="/education/imp/stuff" className={style.styleCourseNav}>Question database</Link>
                 <Link href="/education/imp/prob" className={style.styleCourseNav}>Real world problems</Link>
                 <Link href="/education/imp/syll" className={style.styleCourseNav}>Syllabus</Link>
                 <Link href="/education/imp/exam" className={style.styleCourseNav}>Exam information</Link>
