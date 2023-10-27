@@ -16,7 +16,7 @@ const Original = () => {
             <p>
                 <ul>
                     <li>
-                        <Link href="/pdf/leptons.pdf">Model of Leptons</Link> by Steven Weinberg.
+                        <Link href="/pdf/leptons.pdf">Model of leptons</Link> by Steven Weinberg.
                     </li>
                 </ul>
             </p>

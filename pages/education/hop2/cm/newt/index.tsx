@@ -9,6 +9,10 @@ const Newt = () => {
         <h1 className={style.centerText}>
             Newtonian mechanics
         </h1>
+        <br />
+        <p>
+            Read the <em>Principia</em> on the <Link href="https://archive.org/details/newtonspmathema00newtrich/mode/2up">Internet Archive</Link>.
+        </p>
        </> 
     );
 }
