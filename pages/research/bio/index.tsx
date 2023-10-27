@@ -45,6 +45,8 @@ const Bio = () => {
                 <Link href="/research/bio/theor" className={style.generalLink}>Theory</Link>
                 <Link href="/research/bio/exp" className={style.generalLink}>Experiment</Link>
                 <Link href="/research/bio/data" className={style.generalLink}>Data</Link>
+                <Link href="/research/bio/books" className={style.generalLink}>Books</Link>
+                <Link href="/research/bio/original" className={style.generalLink}>Original Papers</Link>  
                 <Link href="/research/bio/diss" className={style.generalLink}>Dissertations</Link>  
                 <Link href="/research/bio/news" className={style.generalLink}>News</Link>
             </div>
