@@ -45,12 +45,10 @@ const Nuclear = () => {
             <br />
             <div className={style.flexContainer}>
                 <Link href="/research/nuc/theor" className={style.generalLink}>Theory</Link>
-                <br />
                 <Link href="/research/nuc/exp" className={style.generalLink}>Experiment</Link>
-                <br />
                 <Link href="/research/nuc/data" className={style.generalLink}>Data</Link>
-                <br />
                 <Link href="/research/nuc/news" className={style.generalLink}>News</Link>
+                <Link href="/research/nuc/books" className={style.generalLink}>Books</Link>
                 <Link href="/research/nuc/diss" className={style.generalLink}>Dissertations</Link>
                 <br />
             </div>
