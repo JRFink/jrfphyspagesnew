@@ -21,11 +21,10 @@ const Topics = () => {
                 <Link href="/education/therm" className={style.generalLink}>Thermodynamics</Link><br></br>
                 <Link href="/education/qm1" className={style.generalLink}>Quantum Mechanics 1</Link><br></br>
                 <Link href="/education/qm2" className={style.generalLink}>Quantum Mechanics 2</Link><br></br> 
-                <Link href="/education/conted" className={style.generalLink}>Continuing education</Link><br></br> 
- <p>
+                <p>
                     <a href="https://www.ipho-new.org/documentations/">Physics olympiad </a>problems
                 </p>
-<br />
+            <br />
        </>
     );
 }
