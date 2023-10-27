@@ -20,6 +20,7 @@ const Hop1 = () => {
                 <br />
                 &#42;  &#42;  &#42;
                 <br />
+<br />
             </div>
             <Link href="/education/hop1/first" className={style.generalLink}>Physics in the first civilizations</Link>
             <br />
