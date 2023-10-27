@@ -17,6 +17,7 @@ const Gp2 = () => {
                 <Link href="/education/gp2/quiz" className={style.styleCourseNav}>Quizzes</Link> 
                 <Link href="/education/gp2/hw" className={style.styleCourseNav}>Homework</Link>  
                 <Link href="/education/gp2/equat" className={style.styleCourseNav}>Equations</Link>
+               <Link href="/education/gp2/tbook" className={style.styleCourseNav}>Textbooks</Link>
                 <Link href="/education/gp2/stuff" className={style.styleCourseNav}>Question database</Link>
                 <Link href="/education/gp2/prob" className={style.styleCourseNav}>Real world problems</Link>
                 {/* <Link href="/education/gp2/expver" className={style.styleCourseNav}>Experimental verification</Link> */}
