@@ -43,8 +43,10 @@ const Astr = () => {
                     <Link href="/research/astr/theor" className={style.generalLink}>Theory</Link>
                     <Link href="/research/astr/exp" className={style.generalLink}>Experiment</Link>
                     <Link href="/research/astr/data" className={style.generalLink}>Data</Link>  
-                    <Link href="/research/astr/news" className={style.generalLink}>News</Link>
+                    <Link href="/research/astr/original" className={style.generalLink}>Original Papers</Link>  
+                    <Link href="/research/astr/books" className={style.generalLink}>Books</Link>
                     <Link href="/research/astr/diss" className={style.generalLink}>Dissertations</Link>
+                    <Link href="/research/astr/news" className={style.generalLink}>News</Link>
             </div>
             <br />
             <h2 className={style.h3num}>

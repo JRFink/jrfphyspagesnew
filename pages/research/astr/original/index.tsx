@@ -6,17 +6,21 @@ const Original = () => {
     return ( 
         <> 
             <br /> 
-            <Link href="/research/amo" className={style.backtoLink}>AMO</Link> 
+            <Link href="/research/astr" className={style.backtoLink}>Astrophysics</Link> 
             <br /> 
             <br /> 
             <h1 className={style.centerText}> 
-                Original papers in AMO
+                Original papers in astrophysics
             </h1> 
             <br /> 
             <p>
                 <ul>
                     <li>
-                        <Link href="/pdf/quanteigen.pdf">Quantization as an eigenvalue problem</Link> by Erwin Schrodinger.
+                        <Link href="/pdf/electrodynamics.pdf">Electrodynamics of moving bodies</Link> by Albert Einstein.
+                    </li>
+                    <br />
+                    <li>
+                        <Link href="/pdf/inertia.pdf">Inertia of a body</Link> by Albert Einstein.
                     </li>
                 </ul>
             </p>
