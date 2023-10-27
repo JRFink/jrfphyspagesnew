@@ -68,6 +68,12 @@ const Syll = () => {
                     Phys 101 
                 </p> 
              <h2> 
+                 Textbook
+             </h2> 
+                <p> 
+                    <em>Fundamentals of Physics</em> 10th edition by <em>Haliday amd Resnick</em> Wiley &#38; Sons
+                </p> 
+             <h2> 
                  Location 
              </h2> 
                 <p> 
