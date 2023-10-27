@@ -48,9 +48,10 @@ const Amo = () => {
                 <Link href="/research/amo/theor" className={style.generalLink}>Theory</Link>
                 <Link href="/research/amo/exp" className={style.generalLink}>Experiment</Link>
                 <Link href="/research/amo/data" className={style.generalLink}>Data</Link>  
-                <Link href="/research/amo/news" className={style.generalLink}>News</Link>
+                <Link href="/research/amo/original" className={style.generalLink}>Original papers</Link>
                 <Link href="/research/amo/books" className={style.generalLink}>Books</Link>
                 <Link href="/research/amo/diss" className={style.generalLink}>Dissertations</Link>
+                <Link href="/research/amo/news" className={style.generalLink}>News</Link>
             </div>
             <br />
             <br />
