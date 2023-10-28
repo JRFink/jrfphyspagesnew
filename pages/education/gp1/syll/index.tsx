@@ -71,7 +71,7 @@ const Syll = () => {
                  Textbook
              </h2> 
                 <p> 
-                    <em>Fundamentals of Physics</em> 10th edition by <em>Haliday amd Resnick</em> Wiley &#38; Sons
+                    <em>Fundamentals of Physics 10th edition</em> by <em>Haliday amd Resnick</em> Wiley &#38; Sons &#169;
                 </p> 
              <h2> 
                  Location 
