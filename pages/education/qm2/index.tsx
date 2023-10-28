@@ -17,6 +17,7 @@ const Qm2 = () => {
                 <Link href="/education/qm2/quiz" className={style.styleCourseNav}>Quizzes</Link> 
                 <Link href="/education/qm2/hw" className={style.styleCourseNav}>Homework</Link>  
                 <Link href="/education/qm2/equat" className={style.styleCourseNav}>Equations</Link>
+               <Link href="/education/qm2/tbook" className={style.styleCourseNav}>Textbooks</Link>
                 <Link href="/education/qm2/stuff" className={style.styleCourseNav}>Question database</Link>
                 <Link href="/education/qm2/prob" className={style.styleCourseNav}>Real world problems</Link>
                 {/* <Link href="/education/qm2/expver" className={style.styleCourseNav}>Experimental verification</Link> */}
