@@ -17,6 +17,7 @@ const Qm1 = () => {
                 <Link href="/education/qm1/quiz" className={style.styleCourseNav}>Quizzes</Link>  
                 <Link href="/education/qm1/hw" className={style.styleCourseNav}>Homework</Link>   
                 <Link href="/education/qm1/equat" className={style.styleCourseNav}>Equations</Link> 
+               <Link href="/education/qm1/tbook" className={style.styleCourseNav}>Textbooks</Link>
                 <Link href="/education/qm1/stuff" className={style.styleCourseNav}>Question database</Link> 
                 <Link href="/education/qm1/prob" className={style.styleCourseNav}>Real world problems</Link> 
                 {/* <Link href="/education/qm1/expver" className={style.styleCourseNav}>Experimental verification</Link> */}
