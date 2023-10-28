@@ -16,9 +16,7 @@ const Research = () => {
             </h1>
             <br></br>
             <br></br>
-<div className={style.flexContainer}>
             <Link href="/research/news" className={style.yellowLink}>News</Link>
-</div>
             <br />
             <br />
             <div className={style.flexContainer}>
