@@ -53,8 +53,8 @@ const About = () => {
                 <p>
                     It was founded by Jeff. He is a Colorado native. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny. He loves running, music, and sun-dried tomato chicken pasta.     
                 </p>
-
-            <br></br>
+<br />
+            <br />
             <br></br>
             <div 
                 style={{
