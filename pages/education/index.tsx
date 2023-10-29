@@ -84,7 +84,7 @@ const Education = () => {
             <br />
             <br />
             <div className={style.flexContainer}>
-                <Link href="/education/hs" className={style.lightGreenLink}>Find your high School</Link>
+                <Link href="/education/hs" className={style.lightGreenLink}>Find your high school</Link>
                 <br />
                 <Link href="/education/college" className={style.lightGreenLink}>Find your college</Link>
             </div>
