@@ -81,6 +81,8 @@ const Education = () => {
                     <a href="https://ospi.k12.wa.us/student-success/learning-standards-instructional-materials">Washington</a>
                 </li>
             </ul>
+            <br />
+            <br />
             <div className={style.flexContainer}>
                 <Link href="/education/hs" className={style.lightGreenLink}>Find your high School</Link>
                 <br />
