@@ -23,6 +23,7 @@ const Labs = () => {
                         PO Box 1211  
                         <br /> Geneva 23, Switzerland 
                     </li>
+                    <li>41 0 227 676 111</li>
                 </ul>
                 <Link href="https://fnal.gov">Fermilab</Link>
                 <ul>
@@ -32,10 +33,17 @@ const Labs = () => {
                         <br />
                         Batavia, IL 60510
                     </li>
+                    <li>630 840 3351</li>
                 </ul>
                 <Link href="https://www.llnl.gov/">Lawrence Livermore</Link>
                 <ul>
+                    <li>Budget - </li>
                     <li>Director - </li>
+                    <li>7000 East Ave 
+                        <br />
+                        Livermore, CA 94550
+                    </li>
+                    <li>925 422 1370</li>
                 </ul>
                 <Link href="https://www.lanl.gov/">Los alamos</Link>
                 <ul>
@@ -49,8 +57,13 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.ornl.gov/">Oak Ridge National Lab</Link>
                 <ul>
-                    <li>Budget </li>
+                    <li>Budget - </li>
                     <li>Director - </li>
+                    <li>1 Bethel Valley Rd 
+                        <br />
+                        Oak Ridge, TN 37830
+                    </li>
+                    <li>865 576 7658</li>
                 </ul>
                 <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
                 <ul>
@@ -60,6 +73,7 @@ const Labs = () => {
                         <br />
                         Menlo Park, CA 94025
                     </li>
+                    <li>650 926 3300</li>
                 </ul>
                 
                 
