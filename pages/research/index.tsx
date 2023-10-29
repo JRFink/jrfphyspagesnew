@@ -35,6 +35,8 @@ const Research = () => {
             <br />
             <Link href="/research/institutes" className={style.yellowLink}>Institutes</Link>
             <br />
+            <Link href="/research/labs" className={style.yellowLink}>Labs</Link>
+            <br />
             <Link href="/research/financial" className={style.yellowLink}>Financials</Link>
             <br />
         </>

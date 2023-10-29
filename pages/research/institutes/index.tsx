@@ -25,23 +25,24 @@ const Inst = () => {
                                 Focus - physics
                             </li>
                             <li>
-                                Director - 
+                                President - Robert Rosner
                             </li>
                             <li>
-                                Location - 
+                                Location - 1 Physics Ellipse
                                 <br />
-                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; College Park, MD 20740
                             </li>
                             <li>
-                                Contact - &#40; &#41;
+                                Contact - 301 209 3200
+                                <ul>
+                                    <li>Mark Elsesser - director of gov affairs - 202 846 8121</li>
+                                    <li>Jorge Hernandez Charpak - fed relations associate - 202 846 8124</li>
+                                </ul>
                             </li>
                             <li>
                                 Funding - 
                                 <ul>
-                                    <li> </li>
-                                    <li></li>
-                                    <li></li>
-                                    <li> </li>
+                                   
                                 </ul>
                             </li>
                         </ul>
@@ -89,6 +90,12 @@ const Inst = () => {
                             <li>
                                 Contact - info@astera.org
                             </li>
+                            <li>
+                                Funding - 
+                                <ul>
+                                   
+                                </ul>
+                            </li>
                         </ul>
                     </li>
                     <li>
@@ -107,6 +114,12 @@ const Inst = () => {
                             </li>
                             <li>
                                 Contact - 650 213 3000
+                            </li>
+                            <li>
+                                Funding - 
+                                <ul>
+                                   
+                                </ul>
                             </li>
                         </ul>
                     </li>
