@@ -18,6 +18,34 @@ const Inst = () => {
             </p>
             <p>
                 <ul>
+                <li>
+                        <Link href="https://www.aps.org/">American Physical Society</Link>
+                        <ul>
+                            <li>
+                                Focus - physics
+                            </li>
+                            <li>
+                                Director - 
+                            </li>
+                            <li>
+                                Location - 
+                                <br />
+                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                            </li>
+                            <li>
+                                Contact - &#40; &#41;
+                            </li>
+                            <li>
+                                Funding - 
+                                <ul>
+                                    <li> </li>
+                                    <li></li>
+                                    <li></li>
+                                    <li> </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
                     <li>
                         <Link href="https://perimeterinstitute.ca/">Perimeter Institute</Link>
                         <ul>
