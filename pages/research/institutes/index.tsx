@@ -35,6 +35,15 @@ const Inst = () => {
                             <li>
                                 Contact - &#40;1&#41; 519 569 7600
                             </li>
+                            <li>
+                                Funding - 
+                                <ul>
+                                    <li>Government of Canada through NSERC &#40;2022&#41; - &#36;20 million</li>
+                                    <li>Government of Ontario &#40;2022&#41; - &#36;24 million</li>
+                                    <li>Mike Lazaridis - &#36;150 million+</li>
+                                    <li>BMO financial group - &#36;4 million</li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
                     <li>
