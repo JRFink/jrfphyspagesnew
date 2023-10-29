@@ -14,7 +14,7 @@ const Tbook = () => {
             </h1>
             <br />
             <p>
-                Some of the best books for quantum info and computing
+                Some of the best books for quantum info and computing&#58;
             </p>
 
         </>
