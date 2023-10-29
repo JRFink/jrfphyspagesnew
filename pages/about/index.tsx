@@ -11,8 +11,7 @@ const About = () => {
         <>
             <h1 className={style.centerText}>
                 About
-            </h1>
-            
+            </h1>            
             <h2>
                 Mission
             </h2>
