@@ -37,7 +37,7 @@ const Education = () => {
             </p>
             <p> 
                                  Find your school, match requirements, get credit.  
-<br />
+            <br />
                  <input type="text" className={style.searchBox} placeholder="Find your school (testing..)"></input> 
             </p>
             <p> 
@@ -81,9 +81,13 @@ const Education = () => {
                     <a href="https://ospi.k12.wa.us/student-success/learning-standards-instructional-materials">Washington</a>
                 </li>
             </ul>
+            <div className={style.flexContainer}>
+                <Link href="/education/hs" className={style.lightGreenLink}>Find your high School</Link>
+                <br />
+                <Link href="/education/college" className={style.lightGreenLink}>Find your college</Link>
+            </div>
             <br /> 
             <br />         
-
             <h2 className={style.edHeaderSpace}>
                 See what students are saying
             </h2>
