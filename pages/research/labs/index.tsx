@@ -37,7 +37,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.llnl.gov/">Lawrence Livermore</Link>
                 <ul>
-                    <li>Budget - </li>
+                    <li>Budget - Kim Budil</li>
                     <li>Director - </li>
                     <li>7000 East Ave 
                         <br />
