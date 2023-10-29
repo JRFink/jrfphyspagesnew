@@ -29,6 +29,22 @@ const College = () => {
                     </li>
                 </ul>
             </p>
+        <h2>
+            Texas
+        </h2>
+            <p>
+                <Link href="https://www.udallas.edu/constantin/academics/programs/physics/index.php">University of Dallas</Link> 
+                <ul>
+                    <li>
+                        1845 E Northgate Dr 
+                        <br />
+                        Irving, TX 75062
+                    </li>
+                    <li>
+                        972 721 5000
+                    </li>
+                </ul>
+            </p>
             
     </>
   );
