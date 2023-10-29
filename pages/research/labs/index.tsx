@@ -14,24 +14,57 @@ const Labs = () => {
             </h1>
             <br />
             <p>
+                <Link href="https://home.cern/">CERN</Link>
                 <ul>
-                    <li>
-                         Oak Ridge National Lab 
-                    </li>
-                    <li>
-                         SLAC
-                    </li>
-                    <li>
-                         CERN
-                    </li>
-                    <li>
-                       Lawrence Livermore 
-                    </li>
-                    <li>
-                      Fermilab
+                    <li><Link href="/pdf/cernbudg23.pdf">Budget</Link></li>
+                    <li>Director - Gabiola Gianotti</li>
+                    <li> Esplanade des Particules 1
+                        <br />
+                        PO Box 1211  
+                        <br /> Geneva 23, Switzerland 
                     </li>
                 </ul>
-            </p>
+                <Link href="https://fnal.gov">Fermilab</Link>
+                <ul>
+                    <li><Link href="/pdf/fermibudg23.pdf">Budget</Link> for 2023. 1 billion.</li>
+                    <li>Director - Lia Merminga</li>
+                    <li>Kirk road and pine street 
+                        <br />
+                        Batavia, IL 60510
+                    </li>
+                </ul>
+                <Link href="https://www.llnl.gov/">Lawrence Livermore</Link>
+                <ul>
+                    <li>Director - </li>
+                </ul>
+                <Link href="https://www.lanl.gov/">Los alamos</Link>
+                <ul>
+                    <li><Link href="https://about.lanl.gov/">Budget</Link> for 2022. &#126; 4 billion.</li>
+                    <li>Director - Thomas Mason</li>
+                    <li>PO Box 1663 
+                        <br />
+                        Los Alamos, NM 87545
+                    </li>
+                    <li>505 667 5061</li>
+                </ul>
+                <Link href="https://www.ornl.gov/">Oak Ridge National Lab</Link>
+                <ul>
+                    <li>Budget </li>
+                    <li>Director - </li>
+                </ul>
+                <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
+                <ul>
+                    <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> &#40;2023&#41; &#36;500 million</li>
+                    <li>Director - John Sarrao </li>
+                    <li> 2575 Sandhill road 
+                        <br />
+                        Menlo Park, CA 94025
+                    </li>
+                </ul>
+                
+                
+                
+        </p>
         </>
     );
 }

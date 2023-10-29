@@ -44,15 +44,18 @@ const Exp = () => {
             <ul>
                 <li><Link href="https://home.cern">CERN</Link></li>
                 <br />
+                <li>Director - Gabiola Gianotti</li>
                     <p>
                         Cern <Link href="/pdf/cernbudg23.pdf">budget</Link> for 2023.
                     </p>
-<ul>
-                        <li>  
-                            <br />
-                            
-                        </li>
-</ul>
+                <ul>
+                    <li> Esplanade des Particules 1
+                        <br />
+                        PO Box 1211  
+                        <br />
+                        Geneva 23, Switzerland 
+                    </li>
+                </ul>
                 <br />
                 <li><Link href="https://fnal.gov">Fermilab</Link></li>
                     <ul>
