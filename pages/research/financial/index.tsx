@@ -33,7 +33,7 @@ const Fin = () => {
                     </li>
                     <br />
                     <li>
-                        Annual report <Link href="/pdf/lanl21.pdf">Los Alamos</Link> - 2021.
+                        Annual report <Link href="/pdf/lanl21.pdf">Los Alamos</Link> - 2021 - &#36;170 million.
                     </li>
                     <br />
                     <li>
