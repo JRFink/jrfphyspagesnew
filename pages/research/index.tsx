@@ -4,10 +4,6 @@ import style from '@/styles/general.module.css';
 const Research = () => {
 
   
-
-    
-    
-
     return (
         <>
            
