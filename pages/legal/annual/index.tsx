@@ -8,8 +8,21 @@ const Annual = () => {
                 Annual reports
             </h1>
             <p>
-                Annual reports... 
+                JRFink annual reports... 
             </p>
+            <br />
+            <h2>
+                2023
+            </h2>
+                <p>
+                    ...
+                </p>
+            <h2>
+                2022
+            </h2>
+                <p>
+                    ...
+                </p>
         </>
     );
 }
