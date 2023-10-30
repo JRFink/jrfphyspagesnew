@@ -15,7 +15,13 @@ const Fin = () => {
             <br />
             <p>
                 Things cost money. Research costs money. Here are some of the financial highlights. 
+                <ul>
+                    <li>
+                        USA <Link href="/pdf/usadoe23.pdf">Department of energy budget 2023</Link> - &#36;50 billion.
+                    </li>
+                </ul>
             </p>
+
         </>
     );
 }
