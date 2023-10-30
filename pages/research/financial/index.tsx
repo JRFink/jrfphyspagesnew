@@ -70,6 +70,12 @@ Here are some of the financial highlights.
             <li>202 225 4005</li>
        </ul>
     </li>
+<li>
+      Ranking member - <Link href="https://boyle.house.gov/">Brendan Boyle</Link>
+       <ul>
+            <li>202 225 0611</li>
+       </ul>
+    </li>
      
 </ul>
 </p>
