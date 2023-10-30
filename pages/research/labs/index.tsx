@@ -37,8 +37,8 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.llnl.gov/">Lawrence Livermore</Link>
                 <ul>
-                    <li>Budget - Kim Budil</li>
-                    <li>Director - </li>
+                    <li>Budget - </li>
+                    <li>Director - Kim Budil</li>
                     <li>7000 East Ave 
                         <br />
                         Livermore, CA 94550
