@@ -25,10 +25,7 @@ const Vec1 = () => {
             <p>
                 <ul>
                   <li>Defining vectors</li>
-                  <li>Vector addition, subtraction</li>
-                  <li>Dot product</li>
-                  <li>Cross product</li>
-                  <li>Vectors and phys</li>
+            
              </ul>
             </p>
             <h3 className={style.h3num}>
