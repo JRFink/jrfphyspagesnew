@@ -22,9 +22,15 @@ const Vec3 = () => {
                 <Link href="/education/gp1/vec/hw/5" className={style.generalLink}>5</Link>
                 <br />
             </div>
-            <p>
-                Some hw 3
-            </p>
+                    <p>
+                <ul>
+                  
+                  <li>Dot product</li>
+                 
+             </ul>
+            </p>  
+             
+         
             <h3 className={style.h3num}>
                 A
             </h3>
