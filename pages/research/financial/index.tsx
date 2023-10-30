@@ -46,7 +46,6 @@ const Fin = () => {
                         <ul>
                             <li>Source of funding - 71&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
                         </ul>
-                    <br />
                     <li>
                         <Link href="/pdf/ucb22.pdf">CU Boulder</Link> - 2022 - &#36;660 million.
                     </li>
