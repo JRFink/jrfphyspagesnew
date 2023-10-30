@@ -26,7 +26,7 @@ const Labs = () => {
                 <Link href="https://www.bnl.gov/world/">Brookhaven national lab</Link>
                 <ul>
                     <li>Budget ...</li>
-                    <li>Director - </li>
+                    <li>Director - JoAnne Hewett</li>
                     <li> PO Box 5000
                         <br /> Upton, NY 11973
                     </li>
