@@ -41,6 +41,8 @@ const Footer = () => {
                 <br></br>
                 <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
                 <br /> 
+                <Link href="/research/financial" className={style.linkFooter}>Financials</Link><br></br>
+                <br /> 
                 <Link href="/legal/intern" className={style.linkFooter}>International fun</Link><br></br>
                 <br /> 
                 <CountryDrop /> 
