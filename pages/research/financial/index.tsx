@@ -29,6 +29,14 @@ const Fin = () => {
                     </li>
                     <br />
                     <li>
+                        Annual report <Link href="/pdf/lanl22.pdf">Los Alamos</Link> - 2022.
+                    </li>
+                    <br />
+                    <li>
+                        Annual report <Link href="/pdf/lanl21.pdf">Los Alamos</Link> - 2021.
+                    </li>
+                    <br />
+                    <li>
                         Economics of <Link href="/pdf/fermlab2019.pdf">Fermilab</Link> - 2019.
                     </li>
                     
