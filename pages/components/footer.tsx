@@ -44,7 +44,7 @@ const Footer = () => {
                             <br /> 
                         </small>
                     </div>
-                   
+                    <div id={style.divider}></div>
                     <div>
                         <small>
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>

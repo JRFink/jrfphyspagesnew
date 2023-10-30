@@ -39,7 +39,6 @@ const indexPage = () => {
         Hello, and welcome to jrfink.net!
        </p>
         <br />
-        <br />
       <p> 
          <b>
              Mission statement: 
