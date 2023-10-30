@@ -57,7 +57,7 @@ Here are some of the financial highlights.
                             <li>Source of funding - 72&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
                         </ul>
                 </ul>
-            </p>
+            
 <p>
      Overview of <Link href="https://budget.house.gov/about/budget-framework/time-table-budget-process/">USA federal budget process</Link>
 </p>
