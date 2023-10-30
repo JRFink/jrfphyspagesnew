@@ -39,7 +39,20 @@ const Fin = () => {
                     <li>
                         Economics of <Link href="/pdf/fermlab2019.pdf">Fermilab</Link> - 2019.
                     </li>
-                    
+                    <br />
+                    <li>
+                        <Link href="/pdf/ucb23.pdf">CU Boulder</Link> - 2023 - &#36;680 million.
+                    </li>
+                        <ul>
+                            <li>Source of funding - 71&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
+                        </ul>
+                    <br />
+                    <li>
+                        <Link href="/pdf/ucb22.pdf">CU Boulder</Link> - 2022 - &#36;660 million.
+                    </li>
+                        <ul>
+                            <li>Source of funding - 72&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
+                        </ul>
                 </ul>
             </p>
 
