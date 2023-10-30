@@ -13,18 +13,20 @@ const Footer = () => {
             <br></br>
             <footer className={style.footerDiv}>
                 <div className={style.flexContainerFooter}>
-                    <div className={style.floatLeft}>
-                        <Link href="/research/stand" className={style.linkFooter}>Standards and constants</Link><br></br>
-                        <br></br>
-                        <Link href="/contact" className={style.linkFooter}>Contact</Link><br></br>
-                        <br></br>
-                        <Link href="/" className={style.linkFooter}>Home</Link><br></br>
-                        <br></br>
-                        <Link href="/careers" className={style.linkFooter}>Careers</Link><br></br>
-                        <br></br>
-                        <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
-                        <br></br>
-                        <Link href="/about" className={style.linkFooter}>About</Link>
+                    <div className={style.footerSec1}>
+                        <small>
+                            <Link href="/research/stand" className={style.linkFooter}>Standards and constants</Link><br></br>
+                            <br></br>
+                            <Link href="/contact" className={style.linkFooter}>Contact</Link><br></br>
+                            <br></br>
+                            <Link href="/" className={style.linkFooter}>Home</Link><br></br>
+                            <br></br>
+                            <Link href="/careers" className={style.linkFooter}>Careers</Link><br></br>
+                            <br></br>
+                            <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
+                            <br></br>
+                            <Link href="/about" className={style.linkFooter}>About</Link>
+                        </small>
                     </div>
                     <div>
                         <small>
@@ -44,7 +46,6 @@ const Footer = () => {
                             <br /> 
                         </small>
                     </div>
-                
                     <div>
                         <small>
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
