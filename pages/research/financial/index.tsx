@@ -21,8 +21,17 @@ const Fin = () => {
                     </li>
                     <br />
                     <li>
+                        Annual report <Link href="/pdf/cernannual22.pdf">CERN</Link> - 2022.
+                    </li>
+                    <br />
+                    <li>
+                        Annual report <Link href="/pdf/cernannual21.pdf">CERN</Link> - 2021.
+                    </li>
+                    <br />
+                    <li>
                         Economics of <Link href="/pdf/fermlab2019.pdf">Fermilab</Link> - 2019.
                     </li>
+                    
                 </ul>
             </p>
 
