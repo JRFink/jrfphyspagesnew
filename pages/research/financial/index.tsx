@@ -61,6 +61,18 @@ Here are some of the financial highlights.
 <p>
      Overview of <Link href="https://budget.house.gov/about/budget-framework/time-table-budget-process/">USA federal budget process</Link>
 </p>
+<p>
+   Have comments&#47;questions about the budget? Contact the committee&#58;
+<ul>
+    <li>
+      Chairman - <Link href="https://arrington.house.gov/">Jody Arrington</Link>
+       <ul>
+            <li>202 225 4005</li>
+       </ul>
+    </li>
+     
+</ul>
+</p>
 
         </>
     );
