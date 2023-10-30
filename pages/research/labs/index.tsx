@@ -65,7 +65,9 @@ const Labs = () => {
                     </li>
                     <li>865 576 7658</li>
                 </ul>
-                <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
+<Link href="https://www.sandia.gov/">Sandia national labs</Link>
+<br />
+               <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
                 <ul>
                     <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> &#40;2023&#41; &#36;500 million</li>
                     <li>Director - John Sarrao </li>
