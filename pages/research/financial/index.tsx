@@ -19,6 +19,10 @@ const Fin = () => {
                     <li>
                         USA <Link href="/pdf/usadoe23.pdf">Department of energy budget 2023</Link> - &#36;50 billion.
                     </li>
+                    <br />
+                    <li>
+                        Economics of <Link href="/pdf/fermlab2019.pdf">Fermilab</Link> - 2019.
+                    </li>
                 </ul>
             </p>
 

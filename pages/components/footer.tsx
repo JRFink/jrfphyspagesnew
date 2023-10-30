@@ -27,6 +27,8 @@ const Footer = () => {
                 <br></br>
                 <br></br>
                 <small>
+                <Link href="/legal/annual" className={style.linkFooter}>Annual Reports</Link><br></br>
+                <br />
                 <Link href="/legal/terms" className={style.linkFooter}>Terms of Service</Link><br></br>
                 <br></br>
                 <Link href="/legal/privacy" className={style.linkFooter}>Privacy Policy</Link><br></br>
