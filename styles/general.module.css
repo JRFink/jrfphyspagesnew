@@ -763,6 +763,14 @@
     text-align: center;
 }
 
+.flexContainerFooter {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 0px 30px 0px 0px;
+    justify-content: space-around;
+}
+
 .footerDiv {
     background-color:blueviolet;
     text-align: center;
@@ -785,14 +793,10 @@
     color: rgb(214, 214, 214);
 }
 
-.divider {
-    border-left: 1px solid black;
-    height: 100px;
-    position: absolute;
-    right: 500px;
-    top: 10px;
-    margin: 0 auto;
-    float: center;
+
+.floatLeft {
+    
+    float: left;
 }
 
 .dropdownContainer {

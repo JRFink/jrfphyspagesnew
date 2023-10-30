@@ -12,8 +12,8 @@ const Footer = () => {
             <br></br>
             <br></br>
             <footer className={style.footerDiv}>
-                <div className={style.flexContainer}>
-                    <div>
+                <div className={style.flexContainerFooter}>
+                    <div className={style.floatLeft}>
                         <Link href="/research/stand" className={style.linkFooter}>Standards and constants</Link><br></br>
                         <br></br>
                         <Link href="/contact" className={style.linkFooter}>Contact</Link><br></br>
@@ -44,7 +44,7 @@ const Footer = () => {
                             <br /> 
                         </small>
                     </div>
-                    <div id={style.divider}></div>
+                
                     <div>
                         <small>
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
