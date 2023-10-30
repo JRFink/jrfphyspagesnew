@@ -23,6 +23,15 @@ const Labs = () => {
                     </li>
                     <li>630 252 2000</li>
                 </ul>
+                <Link href="https://www.bnl.gov/world/">Brookhaven national lab</Link>
+                <ul>
+                    <li>Budget ...</li>
+                    <li>Director - </li>
+                    <li> PO Box 5000
+                        <br /> Upton, NY 11973
+                    </li>
+                    <li>630 252 2000</li>
+                </ul>
                 <Link href="https://home.cern/">CERN</Link>
                 <ul>
                     <li><Link href="/pdf/cernbudg23.pdf">Budget</Link></li>
