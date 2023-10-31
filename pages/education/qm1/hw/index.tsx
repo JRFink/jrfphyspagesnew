@@ -4,6 +4,10 @@ import style from '@/styles/general.module.css';
 const Hw = () => {
     return (
         <>
+            <br />
+            <Link href="/education/qm1" className={style.backtoLink}>Quantum 1</Link>
+            <br />
+            <br />
             <h1 className={style.centerText}>
                 Homework
             </h1>

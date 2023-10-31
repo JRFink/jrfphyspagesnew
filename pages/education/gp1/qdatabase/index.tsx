@@ -27,7 +27,7 @@ const Stuff = () => {
                 <br />
             </p>
             <br />
-            <Link href="/education/gp1/qdatabase/halliday" className={style.generalLink}><em>Fundamentals of Physics</em> Halliday &#38; Resnick <em>10th ed. &#169;</em> </Link>
+            <Link href="/education/gp1/qdatabase/halliday" className={style.generalLink}><em>Fundamentals of Physics</em> Halliday &#38; Resnick <em>10th ed.</em> &#169; </Link>
             <br />
             <Link href="/education/gp1/qdatabase/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
             <br />
