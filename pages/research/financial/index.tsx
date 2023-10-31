@@ -14,7 +14,11 @@ const Fin = () => {
             </h1>
             <br />
             <p>
-                Things cost money. Research costs money. Here are some of the financial highlights. 
+                Things cost money. Research costs money. Here is the <Link href="/pdf/usabudg23.pdf"> 2023 fed government budget</Link>&#59; department of science and energy on pg. 61.
+</p>
+<p>
+Here are some of the financial highlights. 
+</p>
                 <ul>
                     <li>
                         USA <Link href="/pdf/usadoe23.pdf">Department of energy budget 2023</Link> - &#36;50 billion.
@@ -53,7 +57,28 @@ const Fin = () => {
                             <li>Source of funding - 72&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
                         </ul>
                 </ul>
-            </p>
+            
+<p>
+     Overview of <Link href="https://budget.house.gov/about/budget-framework/time-table-budget-process/">USA federal budget process</Link>
+</p>
+<p>
+   Have comments&#47;questions about the budget? Contact the committee&#58;
+<ul>
+    <li>
+      Chairman - <Link href="https://arrington.house.gov/">Jody Arrington</Link>
+       <ul>
+            <li>202 225 4005</li>
+       </ul>
+    </li>
+<li>
+      Ranking member - <Link href="https://boyle.house.gov/">Brendan Boyle</Link>
+       <ul>
+            <li>202 225 0611</li>
+       </ul>
+    </li>
+     
+</ul>
+</p>
 
         </>
     );

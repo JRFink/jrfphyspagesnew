@@ -33,6 +33,9 @@ const Onedm1 = () => {
             <p>
                 You can submit hw on the last question.
             </p>
+                <p> 
+                    These problems are taken from <em>Fundamentals of Physics 10th edition</em> by <em>Haliday and Resnick</em> Wiley &#38; Sons &#169;
+                </p> 
             <h2>
                 Reference frames
             </h2>
