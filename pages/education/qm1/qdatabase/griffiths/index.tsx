@@ -27,19 +27,26 @@ const Griffith = () => {
             <h2>
                 Chapter 1
             </h2>
-            <p>
+            {/* <p>
                 Problem 1.4
                 <p>
-                    At time <em>t = 0</em> a particle is represented by the wave function 
-                    Describe two vectors {"\\( \\overrightarrow{a} \\)"} and {"\\( \\overrightarrow{b} \\)"} such that 
+                    At time t = 0 a particle is represented by the wave function 
+                    {"\\( \\Psi(x, 0) = \\begin{cases} A(x/a), & : 0 \\le x \\le a, \\ A(b - x)/(b - a), & : a \\le x < \\le b, \\ 0, otherwise, \\end{cases} \\)"} 
+                    
                     <br />
-                    &#40;a&#41; &nbsp; {"\\( \\overrightarrow{a} + \\overrightarrow{b} = \\overrightarrow{c} \\)"} 
-                    &nbsp; and &nbsp; {"a + b = c"} 
+                </p>
+            </p> */}
+            <p>
+                Problem 1.5
+                <p>
+                    Consider the wave function 
+                    {"\\( \\Psi(x, t) = A e^{- \\lambda \\vert x \\vert } e^{-i \\omega t} \\)"}, 
                     <br />
-                    &#40;b&#41; &nbsp; {"\\( \\overrightarrow{a} + \\overrightarrow{b} = \\overrightarrow{a} - \\overrightarrow{b}  \\)"} 
+                    where <em>A, &#955;,</em> and <em> &#969;</em> are positive real constants. &#40;We&#39;ll see in 
+                    Chapter 2 for what potential <em>V</em> this wave function satisfies the Schrodinger equation.&#41;
                     <br />
-                    &#40;c&#41; &nbsp; {"\\( \\overrightarrow{a} + \\overrightarrow{b} = \\overrightarrow{c} \\)"} 
-                    &nbsp; and &nbsp; {"\\( a^{2} + b^{2} = c^{2} \\)"} 
+                    <br />
+                    <b>&#40;a&#41;</b> Normalize {"\\( \\Psi \\)"}. 
                     <br />
                 </p>
             </p>
