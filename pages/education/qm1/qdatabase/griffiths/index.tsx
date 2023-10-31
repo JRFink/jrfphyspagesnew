@@ -56,7 +56,18 @@ const Griffith = () => {
                     represents the "spread" in <em>x</em>. What is the probability that the particle would be found outside this range?
                 </p>
             </p>
-            
+            <p>
+                Problem 1.7
+                <p>
+                    Calculate {"\\( d \\langle p \\rangle/dt \\)"} <em>Answer:</em>
+                    <br />
+             
+
+                    {"\\( \\frac{ d \\langle p \\rangle }{dt} = \\langle \\frac{ \\partial V }{ \\partial x}  \\rangle \\)"}.
+                    <br />
+                    This is an instance of Ehrenfest&#39;s theorem, which asserts that expectation values obey classical laws. 
+                </p>
+            </p>    
         </>
     );
 }
