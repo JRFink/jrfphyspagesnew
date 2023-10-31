@@ -27,15 +27,7 @@ const Stuff = () => {
                 <br />
             </p>
             <br />
-<<<<<<< HEAD:pages/education/gp1/qdatabase/index.tsx
             <Link href="/education/gp1/qdatabase/halliday" className={style.generalLink}><em>Fundamentals of Physics</em> Halliday &#38; Resnick <em>10th ed. &#169;</em> </Link>
-=======
-{/* 
-<Link href="/education/gp1/stuff/haliday11" >Haliday and Resnick 10th edition textbook problems</Link>
-*/}
-<br />
-            <Link href="/education/gp1/stuff/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
->>>>>>> a361dee751b15f0c537ec3b4fb1a489ee476a1c0:pages/education/gp1/stuff/index.tsx
             <br />
             <Link href="/education/gp1/qdatabase/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
             <br />

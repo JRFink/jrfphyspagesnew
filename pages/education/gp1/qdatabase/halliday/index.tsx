@@ -49,7 +49,19 @@ const Halliday = () => {
                         drops an apple over the side during the balloon&#39;s liftoff. At the moment of the apple&#39;s release, 
                         the balloon is accelerating upward with a magnitude of 4.0 m/s<span><sup>2</sup></span> and has an 
                         upward velocity of magnitude 2 m/s. What are the &#40;a&#41; magnitude and &#40;b&#41; direction of the 
-                        acceleration of the apple just after it is released? &#40;c&#41;
+                        acceleration of the apple just after it is released? &#40;c&#41; Just then, is the apple moving upward or downward, 
+                        or is it stationary? &#40;d&#41; What is the magnitude of its velocity just then? &#40;e&#41; In the next 
+                        few moments, does the speed of the apple increase, decrease, or remain constant?
+                    </li>
+                </ol>
+            </p>
+            <h2>
+                Chapter 3
+            </h2>
+            <p>
+                <ol>
+                    <li>
+                 
                     </li>
                 </ol>
             </p>
