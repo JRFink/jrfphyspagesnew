@@ -81,14 +81,20 @@ const Halliday = () => {
                         <p>
                             Which of the following relationships between the acceleration <em>a</em> and the displacement <em>x </em> 
                             of a particle involve SHM: &#40;a&#41; <em>a</em> = 0.5x, &#40;b&#41; <em>a</em> = 400x<span><sup>2</sup></span>, 
-                            &#40;c&#41; <em>a</em> = - 20x, &#40;d&#41; <em>a</em> = -3x<span><sup>2 </sup></span>?
+                            &#40;c&#41; <em>a</em> = - 20x, &#40;d&#41; <em>a</em> = - 3x<span><sup>2 </sup></span>?
                         </p>
                     </p>
                 <h3>Problems</h3>
                     <p>
                         1. 
                         <p>
-                            An object undergoing 
+                            An object undergoing simple harmonic motion takes 0.25s to travel from one point of zero velocity 
+                            to the next such point. The distance between those points is 36 cm. Calculate the &#40;a&#41; 
+                            period, &#40;b&#41; frequency, and &#40;c&#41; amplitude of the motion. 
+                        </p>
+                        3. 
+                        <p>
+                            What is the maximum acceleration of a platform that oscillates at atmplitude 2.20 cm and frequency 6.60 Hz? 
                         </p>
                     </p>
         </>
