@@ -6,7 +6,7 @@ const Tbook = () => {
     return (
         <>
             <br />
-            <Link href="/research/nuc" className={style.backtoLink}>Nuclear</Link>
+            <Link href="/research/qis" className={style.backtoLink}>Quantum info</Link>
             <br />
             <br />
             <h1 className={style.centerText}>
