@@ -22,12 +22,11 @@ const Griffith = () => {
             <br />
             <h1 className={style.centerText}>
                 Griffiths 3rd edition &#169;
-            </h1>
-            
+            </h1>         
             <h2>
                 Chapter 1
             </h2>
-            {/* <p>
+            <p>
                 Problem 1.4
                 <p>
                     At time t = 0 a particle is represented by the wave function 
@@ -35,7 +34,7 @@ const Griffith = () => {
                     
                     <br />
                 </p>
-            </p> */}
+            </p> 
             <p>
                 Problem 1.5
                 <p>
