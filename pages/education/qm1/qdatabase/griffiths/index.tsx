@@ -52,7 +52,7 @@ const Griffith = () => {
                     <b>&#40;c&#41;</b> Find the standard deviation of x. Sketch the graph of {"\\( \\vert \\Psi \\vert^{2} \\)"},
                     as a function of <em>x</em>, and mark the points {"\\( ( \\langle x \\rangle + \\sigma ) \\)"} 
                     and {"\\( ( \\langle x \\rangle - \\sigma ) \\)"}, to illustrate the sense in which {" \\( \\sigma \\)"}
-                    represents the "spread" in <em>x</em>. What is the probability that the particle would be found outside this range?
+                    represents the &#36;spread&#36; in <em>x</em>. What is the probability that the particle would be found outside this range?
                 </p>
             </p>
             <p>
