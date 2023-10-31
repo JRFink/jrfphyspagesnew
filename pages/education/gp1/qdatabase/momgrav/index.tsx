@@ -5,7 +5,7 @@ const Momgrav = () => {
     return (
         <>
             <br /> 
-            <Link href="/education/gp1/stuff" className={style.backtoLink}>Questions</Link> 
+            <Link href="/education/gp1/qdatabase" className={style.backtoLink}>Questions</Link> 
             <br /> 
             <br />
             <h1 className={style.centerText}>

@@ -27,13 +27,15 @@ const Stuff = () => {
                 <br />
             </p>
             <br />
-            <Link href="/education/gp1/stuff/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
+            <Link href="/education/gp1/qdatabase/halliday" className={style.generalLink}><em>Fundamentals of Physics</em> Halliday &#38; Resnick <em>10th ed. &#169;</em> </Link>
             <br />
-            <Link href="/education/gp1/stuff/newten" className={style.generalLink}>Newton &#10140; energy conservation</Link>
+            <Link href="/education/gp1/qdatabase/framekin" className={style.generalLink}>Frames &#10140; kinematics</Link>
             <br />
-            <Link href="/education/gp1/stuff/momgrav" className={style.generalLink}>Momentum &#10140; gravity</Link>
+            <Link href="/education/gp1/qdatabase/newten" className={style.generalLink}>Newton &#10140; energy conservation</Link>
             <br />
-            <Link href="/education/gp1/stuff/fluidtherm" className={style.generalLink}>Fluids &#10140; thermo</Link>
+            <Link href="/education/gp1/qdatabase/momgrav" className={style.generalLink}>Momentum &#10140; gravity</Link>
+            <br />
+            <Link href="/education/gp1/qdatabase/fluidtherm" className={style.generalLink}>Fluids &#10140; thermo</Link>
         </> 
     ); 
 } 

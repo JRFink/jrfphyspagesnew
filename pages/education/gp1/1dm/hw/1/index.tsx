@@ -1,10 +1,23 @@
+import {useEffect} from 'react';
+import Script from 'next/script';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import Hwheader from '../hwnav/hwnavb';
 
 const Onedm1 = () => {
+
+    useEffect(() => {
+        if (typeof window?.MathJax !== "undefined") {
+            window.MathJax.typeset()
+        }
+    },[])
+
     return (
         <>
+            <Script 
+                src="https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-chtml.js"
+                strategy="lazyOnload"
+            />
             <Hwheader />
             <div className={style.flexContainer}>
                 <Link href="/education/gp1/1dm/hw/1#head" className={style.yellowLink}>1</Link>
@@ -34,9 +47,9 @@ const Onedm1 = () => {
             <h2>
                 Position
             </h2>
-<p>
-    x = x<span><sub>0</sub></span> + v t
-</p>
+            <p>
+                x = x<span><sub>0</sub></span> + v t
+            </p>
             <h3 className={style.h3num}>
                 A
             </h3>
