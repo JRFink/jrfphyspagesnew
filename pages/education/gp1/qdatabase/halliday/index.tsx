@@ -59,9 +59,18 @@ const Halliday = () => {
                 Chapter 3
             </h2>
             <p>
-                <ol>
+                <ol start="6">
                     <li>
-                 
+                        Describe two vectors {"\\( \\overrightarrow{a} \\)"} and {"\\( \\overrightarrow{b} \\)"} such that 
+                        <br />
+                        &#40;a&#41; &nbsp; {"\\( \\overrightarrow{a} + \\overrightarrow{b} = \\overrightarrow{c} \\)"} 
+                        &nbsp; and &nbsp; {"a + b = c"} 
+                        <br />
+                        &#40;b&#41; &nbsp; {"\\( \\overrightarrow{a} + \\overrightarrow{b} = \\overrightarrow{a} - \\overrightarrow{b}  \\)"} 
+                        <br />
+                        &#40;c&#41; &nbsp; {"\\( \\overrightarrow{a} + \\overrightarrow{b} = \\overrightarrow{c} \\)"} 
+                        &nbsp; and &nbsp; {"\\( a^{2} + b^{2} = c^{2} \\)"} 
+                        <br />
                     </li>
                 </ol>
             </p>
