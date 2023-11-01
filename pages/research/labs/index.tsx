@@ -23,7 +23,7 @@ const Labs = () => {
             <p>
                 <Link href="https://www.anl.gov/">Argonne national lab</Link>
                 <ul>
-<li>Equipment used</li>
+<li>Equipment used&#58;</li>
                     <li>Budget ...</li>
                     <li>Director - Paul Kearns</li>
                     <li> 9700 S. Cass Ave
@@ -33,7 +33,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.lbl.gov/">Berkeley lab</Link>
                 <ul>
-<li>Equipment used</li>
+<li>Equipment used&#58;</li>
                     <li>Budget ...</li>
                     <li>Director - Michael Witherell</li>
                     <li> 1 Cyclotron road
@@ -43,7 +43,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.bnl.gov/world/">Brookhaven national lab</Link>
                 <ul>
-<li>Equipment used</li>
+<li>Equipment used&#58;</li>
                     <li>Budget ...</li>
                     <li>Director - JoAnne Hewett</li>
                     <li> PO Box 5000
@@ -54,7 +54,7 @@ const Labs = () => {
                 <Link href="https://home.cern/">CERN</Link>
                 <ul>
 
-<li>Equipment used</li>                    <li><Link href="/pdf/cernbudg23.pdf">Budget</Link></li>
+<li>Equipment used&#58;</li>                    <li><Link href="/pdf/cernbudg23.pdf">Budget</Link></li>
                     <li>Director - Gabiola Gianotti</li>
                     <li> Esplanade des Particules 1
                         <br />
@@ -65,7 +65,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://fnal.gov">Fermilab</Link>
                 <ul>
-<li>Equipment used</li>                    <li><Link href="/pdf/fermibudg23.pdf">Budget</Link> for 2023. 1 billion.</li>
+<li>Equipment used&#58;</li>                    <li><Link href="/pdf/fermibudg23.pdf">Budget</Link> for 2023. 1 billion.</li>
                     <li>Director - Lia Merminga</li>
                     <li>Kirk road and pine street 
                         <br />
@@ -75,7 +75,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.llnl.gov/">Lawrence Livermore</Link>
                 <ul>
-<li>Equipment used</li>                    <li>Budget - </li>
+<li>Equipment used&#58;</li>                    <li>Budget - </li>
                     <li>Director - Kim Budil</li>
                     <li>7000 East Ave 
                         <br />
@@ -85,7 +85,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.lanl.gov/">Los alamos</Link>
                 <ul>
-<li>Equipment used</li>                    <li><Link href="https://about.lanl.gov/">Budget</Link> for 2022. &#126; 4 billion.</li>
+<li>Equipment used&#58;</li>                    <li><Link href="https://about.lanl.gov/">Budget</Link> for 2022. &#126; 4 billion.</li>
                     <li>Director - Thomas Mason</li>
                     <li>PO Box 1663 
                         <br />
@@ -95,7 +95,7 @@ const Labs = () => {
                 </ul>
                 <Link href="https://www.ornl.gov/">Oak Ridge National Lab</Link>
                 <ul>
-<li>Equipment used</li>                    <li>Budget - </li>
+<li>Equipment used&#58;</li>                    <li>Budget - </li>
                     <li>Director - </li>
                     <li>1 Bethel Valley Rd 
                         <br />
@@ -109,7 +109,7 @@ const Labs = () => {
                <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
                 <ul>
 
-<li>Equipment used</li>                    <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> &#40;2023&#41; &#36;500 million</li>
+<li>Equipment used&#58;</li>                    <li><Link href="/pdf/slacbudg23.pdf">Budget</Link> &#40;2023&#41; &#36;500 million</li>
                     <li>Director - John Sarrao </li>
                     <li> 2575 Sandhill road 
                         <br />
