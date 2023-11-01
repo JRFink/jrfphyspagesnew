@@ -99,8 +99,12 @@ const Griffith = () => {
                 <b>&#40;d&#41;</b> Find {"\\( \\sigma_{x} \\)"} and {"\\( \\sigma_{p} \\)"} . Is their product 
                 consistent with the uncertainty principle?
             </p>
+            <br />
             <p>
-                
+                <b>Problem 4.18</b>
+                <br />
+                <br />
+                A hydrogen atom 
             </p>
         </>
     );
