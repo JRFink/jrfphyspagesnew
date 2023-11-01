@@ -13,6 +13,13 @@ const Labs = () => {
                 Labs
             </h1>
             <br />
+                        <br />
+<p>
+                            Find your lab, get prepared, succeed. 
+                        <br /> 
+                        <input type="text" className={style.searchBox} placeholder="Find your lab (testing...)"></input>
+                        </p> 
+<br />
             <p>
                 <Link href="https://www.anl.gov/">Argonne national lab</Link>
                 <ul>
