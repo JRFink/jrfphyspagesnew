@@ -143,6 +143,8 @@ const Calc = () => {
                     The development of calculus has a long history. It didn&#39;t simply &#39;start with Newton&#39;. 
                     A huge part of modern day calc is the power rule, what you learn as a shortcut. 
                     But how do you get the power rule?
+<br /> 
+You can do this through geometry. Check it out on <Link href="https://www.3blue1brown.com/lessons/derivatives-power-rule">3 blue 1 brown</Link>
                 </p>
             <br></br>
             <Summary />
