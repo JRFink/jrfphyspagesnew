@@ -54,7 +54,7 @@ const Labs = () => {
                 <Link href="https://home.cern/">CERN</Link>
                 <ul>
 
-<li>Equipment used&#58;</li>                    <li><Link href="/pdf/cernbudg23.pdf">Budget</Link></li>
+<li>Equipment used&#58; compact muon solenoid</li>                    <li><Link href="/pdf/cernbudg23.pdf">Budget</Link></li>
                     <li>Director - Gabiola Gianotti</li>
                     <li> Esplanade des Particules 1
                         <br />
