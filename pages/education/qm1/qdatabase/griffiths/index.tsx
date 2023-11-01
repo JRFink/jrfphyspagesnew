@@ -30,20 +30,18 @@ const Griffith = () => {
             {/* <p>
                 Problem 1.4
                 <p>
-                    At time t = 0 a particle is represented by the wave function 
-                    {"\\( \\Psi(x, 0) = \\begin{cases} A(x/a), & : 0 \\le x \\le a, \\ A(b - x)/(b - a), & : a \\le x < \\le b, \\ 0, otherwise, \\end{cases} \\)"} 
-                    
-                    <br />
+                    At time t = 0 a particle is represented by the wave function {"\\( \\Psi(x, 0) = \\begin{cases} A(x/a), & : 0 \\le x \\le a, \\ A(b - x)/(b - a), & : a \\le x < \\le b, \\ 0, otherwise, \\end{cases} \\)"} <br />
                 </p>
             </p> */}
             <p>
                 <b>Problem 1.5</b>
                 <p>
                     Consider the wave function 
-                    {"\\( \\Psi(x, t) = A e^{- \\lambda \\vert x \\vert } \\; e^{-i \\omega t} \\)"}, 
+                    <br />
+                    <br /> {"\\( \\Psi(x, t) = A e^{- \\lambda \\vert x \\vert } \\; e^{-i \\omega t} \\)"} <br />
                     <br />
                     where {"\\( A, \\lambda \\)"} and {"\\( \\omega \\)"} are positive real constants. &#40;We&#39;ll see in 
-                    Chapter 2 for what potential <em>V</em> this wave function satisfies the Schrodinger equation.&#41;
+                    Chapter 2 for what potential {"\\( V \\)"} this wave function satisfies the Schrodinger equation.&#41;
                     <br />
                     <br />
                     <b>&#40;a&#41;</b> Normalize {"\\( \\Psi \\)"}. 
@@ -61,7 +59,10 @@ const Griffith = () => {
                 <b>Problem 1.7</b>
                 <br />
                 <br />
-                Calculate {"\\( d \\langle p \\rangle/dt \\)"}. <em>Answer:</em>
+                Calculate {"\\( d \\langle p \\rangle/dt \\)"} .<br />
+                <br />
+
+                <em>Answer:</em>
                 <br />    
             </p>
                 &nbsp; &nbsp; &nbsp; &nbsp;{"\\( \\frac{ d \\langle p \\rangle }{dt} = \\langle - \\frac{\\partial V }{ \\partial x } \\rangle \\)"}
@@ -75,9 +76,31 @@ const Griffith = () => {
                 <br />
                 <br />
                 Suppose you add a constant {"\\( V_{0} \\)"} to the potential energy &#40;constant means independent 
-                of x as well as t.&#41;. In classical mechanics, this doesn&#39;t change anything, but what about 
+                of x as well as t&#41;. In classical mechanics, this doesn&#39;t change anything, but what about 
                 <em>quantum</em> mechanics? Show that the wave function picks up a time-dependent phase factor {"\\( e^{ (-i V_{0}t / \\hbar) } \\)"}. 
                 What effect does this have on the expectation value of a dynamical variable?
+            </p>
+            <p>
+                <b>Problem 1.9</b>
+                <br />
+                <br />
+                A particle of mass <em>m</em> has the wave function 
+                <br />
+                <br /> {"\\( \\Psi(x,t) = A e^{-a[ (mx^{2}/ \\hbar) + it] } \\)"} <br />
+                <br />
+                where {"\\( A \\)"} and {"\\( a \\)"} are positive real constants. 
+                <br />
+                <b>&#40;a&#41;</b> Find {"\\( a \\)"} .
+                <br />
+                <b>&#40;b&#41;</b> For what potential energy function {"\\( V(x) \\)"} is this a solution to the Schrodinger equation?
+                <br />
+                <b>&#40;c&#41;</b> Calculate the expectation values of {"\\( x, x^{2}, p, \\)"} and {"\\(  p^{2} \\)"} . 
+                <br />
+                <b>&#40;d&#41;</b> Find {"\\( \\sigma_{x} \\)"} and {"\\( \\sigma_{p} \\)"} . Is their product 
+                consistent with the uncertainty principle?
+            </p>
+            <p>
+                
             </p>
         </>
     );
