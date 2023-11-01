@@ -27,7 +27,6 @@ const Griffith = () => {
             <h2>
                 Chapter 1
             </h2>
-             
             {/* <p>
                 Problem 1.4
                 <p>
@@ -37,7 +36,7 @@ const Griffith = () => {
                     <br />
                 </p>
             </p> */}
-            {/* <p>
+            <p>
                 Problem 1.5
                 <p>
                     Consider the wave function 
@@ -56,7 +55,7 @@ const Griffith = () => {
                     and {"\\( ( \\langle x \\rangle - \\sigma ) \\)"}, to illustrate the sense in which {" \\( \\sigma \\)"}
                     represents the &#34;spread&#34; in <em>x</em>. What is the probability that the particle would be found outside this range?
                 </p>
-            </p> */}
+            </p>
             <p>
                 Problem 1.7
                 <br />
