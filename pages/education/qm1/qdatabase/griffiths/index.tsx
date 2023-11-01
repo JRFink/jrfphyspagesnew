@@ -37,7 +37,7 @@ const Griffith = () => {
                 </p>
             </p> */}
             <p>
-                Problem 1.5
+                <b>Problem 1.5</b>
                 <p>
                     Consider the wave function 
                     {"\\( \\Psi(x, t) = A e^{- \\lambda \\vert x \\vert } \\; e^{-i \\omega t} \\)"}, 
@@ -56,8 +56,9 @@ const Griffith = () => {
                     represents the &#34;spread&#34; in <em>x</em>. What is the probability that the particle would be found outside this range?
                 </p>
             </p>
+            <br />
             <p>
-                Problem 1.7
+                <b>Problem 1.7</b>
                 <br />
                 <br />
                 Calculate {"\\( d \\langle p \\rangle/dt \\)"}. <em>Answer:</em>
@@ -67,6 +68,16 @@ const Griffith = () => {
             <br />
             <p>
                 This is an instance of Ehrenfest&#39;s theorem, which asserts that expectation values obey classical laws. 
+            </p>
+            <br />
+            <p>
+                <b>Problem 1.8</b>
+                <br />
+                <br />
+                Suppose you add a constant {"\\( V_{0} \\)"} to the potential energy &#40;constant means independent 
+                of x as well as t.&#41;. In classical mechanics, this doesn&#39;t change anything, but what about 
+                <em>quantum</em> mechanics? Show that the wave function picks up a time-dependent phase factor {"\\( e^{ (-i V_{0}t / \\hbar) } \\)"}. 
+                What effect does this have on the expectation value of a dynamical variable?
             </p>
         </>
     );
