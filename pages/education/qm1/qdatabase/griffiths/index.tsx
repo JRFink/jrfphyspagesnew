@@ -46,7 +46,7 @@ const Griffith = () => {
                     <br />
                     <b>&#40;a&#41;</b> Normalize {"\\( \\Psi \\)"}. 
                     <br />
-                    <b>&#40;b&#41;</b> Determine the expectation value of <em>x</em> and <em>x<span><sup>2</sup></span></em>. 
+                    <b>&#40;b&#41;</b> Determine the expectation value of {" \\( x \\)"} and {" \\( x^{2} \\)"} .
                     <br />
                     <b>&#40;c&#41;</b> Find the standard deviation of x. Sketch the graph of {"\\( \\vert \\Psi \\vert^{2} \\)"},
                     as a function of <em>x</em>, and mark the points {"\\( ( \\langle x \\rangle + \\sigma ) \\)"} 
@@ -104,7 +104,15 @@ const Griffith = () => {
                 <b>Problem 4.18</b>
                 <br />
                 <br />
-                A hydrogen atom 
+                A hydrogen atom starts out in the following linear combination of the stationary 
+                states {"\\( n = 2, l = 1, m = 1 \\)"} and {"\\( n = 2, l = 1, m = -1 \\)"} &#58;
+                <br /> 
+                <br /> {"\\( \\Psi(\\mathbf{r},0) = \\frac{1}{\\sqrt{2}} ( \\psi_{211} + \\psi_{21-1}) \\)"} . <br />
+                <br />
+                <b>&#40;a&#41;</b> Construct {"\\( \\Psi(\\mathbf{r},t) \\)"} . Simplify it as much as you can. 
+                <br />
+                <b>&#40;b&#41;</b> Find the expectation value of the potential energy, {"\\( \\langle V \\rangle \\)"} . 
+                Does it depend on t? Give both the formula and actual number in election volts. 
             </p>
         </>
     );
