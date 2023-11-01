@@ -22,11 +22,13 @@ const Griffith = () => {
             <br />
             <h1 className={style.centerText}>
                 Griffiths 3rd edition &#169;
-            </h1>         
+            </h1>   
+              
             <h2>
                 Chapter 1
             </h2>
-            <p>
+             
+            {/* <p>
                 Problem 1.4
                 <p>
                     At time t = 0 a particle is represented by the wave function 
@@ -34,8 +36,8 @@ const Griffith = () => {
                     
                     <br />
                 </p>
-            </p> 
-            <p>
+            </p> */}
+            {/* <p>
                 Problem 1.5
                 <p>
                     Consider the wave function 
@@ -54,19 +56,19 @@ const Griffith = () => {
                     and {"\\( ( \\langle x \\rangle - \\sigma ) \\)"}, to illustrate the sense in which {" \\( \\sigma \\)"}
                     represents the &#34;spread&#34; in <em>x</em>. What is the probability that the particle would be found outside this range?
                 </p>
-            </p>
+            </p> */}
             <p>
                 Problem 1.7
-                <p>
-                    Calculate {"\\( d \\langle p \\rangle/dt \\)"} <em>Answer:</em>
-                    <br />
-             
-
-                    {"\\( \\frac{ d \\langle p \\rangle }{dt} = \\langle \\frac{ \\partial V }{ \\partial x}  \\rangle \\)"}.
-                    <br />
-                    This is an instance of Ehrenfest&#39;s theorem, which asserts that expectation values obey classical laws. 
-                </p>
-            </p>    
+                <br />
+                <br />
+                Calculate {"\\( d \\langle p \\rangle/dt \\)"}. <em>Answer:</em>
+                <br />    
+            </p>
+                &nbsp; &nbsp; &nbsp; &nbsp;{"\\( \\frac{ d \\langle p \\rangle }{dt} = \\langle - \\frac{\\partial V }{ \\partial x } \\rangle \\)"}
+            <br />
+            <p>
+                This is an instance of Ehrenfest&#39;s theorem, which asserts that expectation values obey classical laws. 
+            </p>
         </>
     );
 }
