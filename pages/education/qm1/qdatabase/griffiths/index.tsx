@@ -77,7 +77,7 @@ const Griffith = () => {
                 <br />
                 Suppose you add a constant {"\\( V_{0} \\)"} to the potential energy &#40;constant means independent 
                 of x as well as t&#41;. In classical mechanics, this doesn&#39;t change anything, but what about 
-                <em>quantum</em> mechanics? Show that the wave function picks up a time-dependent phase factor {"\\( e^{ (-i V_{0}t / \\hbar) } \\)"}. 
+                <em> quantum</em> mechanics? Show that the wave function picks up a time-dependent phase factor {"\\( e^{ (-i V_{0}t / \\hbar) } \\)"}. 
                 What effect does this have on the expectation value of a dynamical variable?
             </p>
             <p>
@@ -112,7 +112,7 @@ const Griffith = () => {
                 <b>&#40;a&#41;</b> Construct {"\\( \\Psi(\\mathbf{r},t) \\)"} . Simplify it as much as you can. 
                 <br />
                 <b>&#40;b&#41;</b> Find the expectation value of the potential energy, {"\\( \\langle V \\rangle \\)"} . 
-                Does it depend on t? Give both the formula and actual number in election volts. 
+                Does it depend on t? Give both the formula and actual number in electron volts. 
             </p>
         </>
     );
