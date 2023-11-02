@@ -104,6 +104,15 @@ const Labs = () => {
                     <li>865 576 7658</li>
                 </ul>
 <Link href="https://www.sandia.gov/">Sandia national labs</Link>
+ <ul>
+<li>Equipment used&#58;</li>                    <li>Budget - </li>
+                    <li>Director - </li>
+                    <li>
+                        <br />
+                        
+                    </li>
+                    <li>505 844 8066</li>
+                </ul>
 <br />
 <br />
                <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
