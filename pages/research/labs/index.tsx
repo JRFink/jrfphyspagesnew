@@ -113,8 +113,6 @@ const Labs = () => {
                     </li>
                     <li>505 844 8066</li>
                 </ul>
-<br />
-<br />
                <Link href="https://www6.slac.stanford.edu/">SLAC</Link>
                 <ul>
 
