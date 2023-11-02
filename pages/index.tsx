@@ -151,7 +151,7 @@ const indexPage = () => {
                     If your company is getting into quantum computing&#46;&#46;&#46;
                 </h3>
                 <p> 
-                    If your company is getting into quantum computing, head on over to our <Link href="/research/qis">quantum computing page</Link>. You will be able to learn about 
+                    If your company is getting into quantum computing, head on over to our <Link href="/research/qis">quantum computing page</Link>. You can upskill yourself or your workers. You will be able to learn about 
                     the basics of quantum computing, how quantum computers are built, and the major players in the space. 
                 </p>
             <br /> 
