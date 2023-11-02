@@ -61,7 +61,6 @@ const Griffith = () => {
                 <br />
                 Calculate {"\\( d \\langle p \\rangle/dt \\)"} .<br />
                 <br />
-
                 <em>Answer:</em>
                 <br />    
             </p>
