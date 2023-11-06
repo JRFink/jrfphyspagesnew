@@ -200,9 +200,12 @@ const Onedm = () => {
                             </div>  
                             {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                         </div> 
+<br /> 
+<br />
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+<br />
                         <h4> 
                             &nbsp; &nbsp; 4.1.2 Instantaneous 
                         </h4>  
