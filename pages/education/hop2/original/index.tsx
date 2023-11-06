@@ -34,6 +34,14 @@ const Original = () => {
                         1926
                     </li>
                     <br />
+<li>
+                        <Link href="/pdf/thomson1897.pdf">On Cathode Rays</Link> by JJ Thomson. 1897.
+                    </li>
+<br />
+<li>
+<Link href="/pdf/rutherford1909.pdf">On a Diffuse Reflection of the &#945; Particles</Link> by Geiger, Marsden, and Rutherford. 1909.
+                    </li>
+<br />
                     <li>
                         <Link href="/pdf/leptons.pdf">Model of leptons</Link> by Steven Weinberg.
                         <br /> 
