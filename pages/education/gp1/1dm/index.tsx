@@ -198,11 +198,11 @@ const Onedm = () => {
                                 t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; = &#916;  
                                 <b>v</b> &nbsp; / &#916; t    
                             </div>  
+                            {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
+                        </div> 
 <h2 className={style.greenExample}> 
     Example 
  </h2>
-                            {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
-                        </div> 
                         <h4> 
                             &nbsp; &nbsp; 4.1.2 Instantaneous 
                         </h4>  
@@ -258,6 +258,8 @@ const Onedm = () => {
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+<br /> 
+<br />
             <h3 className={style.h3num}>
                 4.3
             </h3>
