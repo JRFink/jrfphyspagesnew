@@ -114,6 +114,8 @@ const Two3dm = () => {
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+<br /> 
+<br />
             <h3 className={style.h3num}>
                 1.5
             </h3> 
@@ -127,6 +129,7 @@ const Two3dm = () => {
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+<br />
 <br />
         <h2 className={style.h2SectionColor} id="3dm">
             2. 3 dimensions 
