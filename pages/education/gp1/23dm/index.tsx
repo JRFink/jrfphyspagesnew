@@ -104,31 +104,30 @@ const Two3dm = () => {
             <h3 className={style.h3num}>
             1.4
             </h3> 
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
+
             <h3 className={style.h3text}>
                 Projectile motion
             </h3>
                 <h4> 
                     &nbsp; &nbsp; 1.4.1 Projectile motion
                 </h4>
-            <h3 className={style.h3num}>
-                1.5
-            </h3> 
-
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+            <h3 className={style.h3num}>
+                1.5
+            </h3> 
             <h3 className={style.h3text}>
                 Uniform circular motion
             </h3>
                 <h4> 
                     &nbsp; &nbsp; 1.5.1 Uniform circular motion
                 </h4>
+<br />
 <h2 className={style.greenExample}> 
     Example 
  </h2>
+<br />
         <h2 className={style.h2SectionColor} id="3dm">
             2. 3 dimensions 
         </h2>
