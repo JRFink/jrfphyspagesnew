@@ -22,11 +22,9 @@ const About = () => {
                 Vision
             </h2>
                 <p>
-                    &nbsp; &nbsp; &nbsp; Our vision is to educate every person on the planet about physics. 
-                    <br />
                     &nbsp; &nbsp; &nbsp; Whether it is teaching general physics to high school students, going through the quantum 
                     numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
-                    we want to teach others about physics.   
+                    we want to help others learn about physics.   
                 </p>
             <h2>
                 Business structure
@@ -53,7 +51,7 @@ const About = () => {
                 <p>
                     It was founded by Jeff. He is a Colorado native. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny. He loves running, music, and sun-dried tomato chicken pasta.     
                 </p>
-<br />
+            <br />
             <br />
             <br></br>
             <div 
