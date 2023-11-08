@@ -30,14 +30,15 @@ const About = () => {
                 Business structure
             </h2>
             <p>
-                The main aspects of our business are: 
+                The bread and butter will be selling general physics classes. We will also:
                 <ul>
-                    <li>Selling general physics classes</li>
+                  <li>Sell upper level physics classes</li>
 <br />
-                    <li>Selling upper level physics classes</li>
+                    <li>Synthesize current research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
 <br />
-                    <li>Synthesizing current physics research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
-<br />
+  <li> 
+Possibly putting out a weekly periodical of interesting research findings 
+</li>
                     {/* <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li> */}
                 </ul>
             </p>
