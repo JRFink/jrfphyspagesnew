@@ -37,7 +37,7 @@ const About = () => {
                     <li>Synthesize current research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
 <br />
   <li> 
-Possibly putting out a weekly periodical of interesting research findings 
+Putting out a weekly periodical of interesting research findings 
 </li>
                     {/* <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li> */}
                 </ul>
