@@ -5,14 +5,17 @@ import style from '@/styles/general.module.css';
   const Diss = () => {  
       return (  
           <>  
-              <br />  
-              <Link href="/research/geo" className={style.backtoLink}>Geophysics</Link>  
-              <br />  
-              <br />  
-              <h1 className={style.centerText}>  
-                  Geophysics dissertations  
-              </h1>  
-              <br />  
+            <br />  
+            <Link href="/research/geo" className={style.backtoLink}>Geophysics</Link>  
+            <br />  
+            <br />  
+            <h1 className={style.centerText}>  
+                Geophysics dissertations  
+            </h1>  
+            <br /> 
+            <p>
+                Dissertations...
+            </p> 
           </>  
       );  
   }  
