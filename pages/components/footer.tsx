@@ -49,6 +49,7 @@ const Footer = () => {
                     <div>
                         <small>
                             <Link href="/education/schooldist" className={style.linkFooter}>School districts</Link><br />
+<br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
                             <br /> 
                             <Link href="/legal/intern" className={style.linkFooter}>International fun</Link><br></br>
