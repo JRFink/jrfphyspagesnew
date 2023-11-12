@@ -51,7 +51,7 @@ const PU = () => {
                 1. Review of energy
             </h2>
                 <p> 
-                    It is difficult to define what energy actually is. A way to think about it, though, is that energy is a state associated with some system. <em> The train has this much kinetic energy. The potential energy of the earth-satellite system changes this much. The &#39;mass&#39; has this much energy. </em> It is useful to think about a system in terms of energy because then you can do things with the system, like work. 
+                    It is difficult to define what energy actually is. A way to think about it, though, is that energy is a state associated with some system. <em> The train has this much kinetic energy. The potential energy of the earth-satellite system changes this much. The &#39;mass&#39; has this much energy. </em> It is useful to think about a system in terms of energy because then you can do things with the system, like work. A key point is observing <em>how changes in energy are manifested</em>.
                 </p>
                 <p>
                     There are different types of energy. For example...
