@@ -12,26 +12,16 @@ const Education = () => {
             <br></br>
             <div className={style.flexContainer}>               
                 <Link href="/education/classes" className={style.generalLink}>Self study classes</Link>
-                <br />
-                <Link href="/education/topics" className={style.generalLink}>Topics</Link>
                 <br />   
-                <Link href="/education/vid" className={style.generalLink}>Videos</Link>
-                <br /> 
             </div>
             <br />
             <div className={style.flexContainer}>
-                <Link href="/education/ap" className={style.generalLink}>AP Physics &#174;</Link>
-                <br />
-                <Link href="/education/ib" className={style.generalLink}>IB Physics &#174;</Link>
-                <br /> 
-                <Link href="/education/pgre" className={style.generalLink}>Physics GRE &#174; prep</Link>
-                <br /> 
-                <Link href="/education/mcat" className={style.generalLink}>MCAT &#174; prep</Link>
+                <Link href="/education/ap" className={style.generalLink}>AP Physics &#174; prep</Link>
                 <br />        
             </div>
             <br />
             <br />
-            <p>
+  {/*          <p>
                 Part of what we want to do is teach you things that you would learn in class. 
                 For example, if you are taking physics in Colorado, what would you learn? We list some of the state requirements below. 
             </p>
@@ -88,6 +78,7 @@ const Education = () => {
                 <br />
                 <Link href="/education/college" className={style.lightGreenLink}>Find your college</Link>
             </div>
+*/}
             <br /> 
             <br />         
             <h2 className={style.edHeaderSpace}>
