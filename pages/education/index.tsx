@@ -11,7 +11,7 @@ const Education = () => {
             </h1>
             <br></br>
             <div className={style.flexContainer}>               
-                <Link href="/education/classes" className={style.generalLink}>Classes</Link>
+                <Link href="/education/classes" className={style.generalLink}>Self study classes</Link>
                 <br />
                 <Link href="/education/topics" className={style.generalLink}>Topics</Link>
                 <br />   
