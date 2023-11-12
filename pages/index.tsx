@@ -49,7 +49,7 @@ const indexPage = () => {
       </p>
       <br />
       <p> 
-         Nike &#174; sells shoes, Coca-Cola &#174; sells drinks, and Wells Fargo &#174; sells checking accounts&#59; we sell physics education.
+         Nike &#174; sells shoes, Coca-Cola &#174; sells drinks, and Microsoft &#174; sells software&#59; we sell physics education.
       </p>
       <h2>
           How does it work? 
