@@ -51,10 +51,6 @@ const Uvec = () => {
             <h3 className={style.h3num}>
                 1.1 
             </h3>
-
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
             <h3 className={style.h3text}>
                 Your own frame
             </h3>
@@ -66,9 +62,6 @@ const Uvec = () => {
             <h3 className={style.h3num}>
                 1.2
             </h3>
-  <h2 className={style.greenExample}> 
-    Example 
- </h2>
           <h3 className={style.h3text}>
                 Frame relative to something else
             </h3>
