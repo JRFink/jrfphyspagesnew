@@ -204,9 +204,6 @@ const Onedm = () => {
                         </div> 
                         <br /> 
                         <br />
-                        <h2 className={style.greenExample}> 
-                            Example 
-                        </h2>
                         <br />
                         <h4> 
                             &nbsp; &nbsp; 4.1.2 Instantaneous 
@@ -258,10 +255,7 @@ const Onedm = () => {
                     <div className={style.equation}>v <span><sup>2</sup></span> = v<span><sub>0</sub></span><span><sup>2</sup></span> + 2 a &#916; x</div>
                     <div className={style.equationNumber}>&#40; &#41;</div>
             </div>
-                <br />
-            <h2 className={style.greenExample}> 
-                Example 
-            </h2>
+            <br />
             <br /> 
             <br />
             <h3 className={style.h3num}>
