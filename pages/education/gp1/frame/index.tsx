@@ -112,7 +112,7 @@ const Uvec = () => {
             <h2 className={style.h2SectionColor} id="units">
                 2. Units 
             </h2>
-            <br></br>
+            <br />
             <br></br>
             <UnitsVid />
             <br></br>
