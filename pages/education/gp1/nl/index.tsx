@@ -1,3 +1,5 @@
+import {useEffect} from 'react';
+import Script from 'next/script';
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import { ModoverviewNl } from '@/pages/components/modoverview';
@@ -10,8 +12,18 @@ import Nlquiz from '@/pages/education/gp1/nl/quiz';
 import Helpful from '@/pages/components/helpful';
 
 const NewtLaws = () => {
+
+    useEffect(() => {
+        if (typeof window?.MathJax !== "undefined") {
+            window.MathJax.typeset()
+        }
+    },[])
     return (
         <>
+            <Script 
+                src="https://cdn.jsdelivr.net/npm/mathjax@3.0.0/es5/tex-chtml.js"
+                strategy="lazyOnload"
+            />
             <Link href="/education/gp1#intro" className={style.backtoLink}>Gen phys 1</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
@@ -83,9 +95,12 @@ const NewtLaws = () => {
                 </p>
                 <br />
                 <div className={style.equationBox}>
-                    <div className={style.equation}><b>F </b> &nbsp; = d<b>p</b>&#47;dt</div>
-                    <div className={style.equationNumber}>&#40;1&#41;</div>
-                </div>
+                <div className={style.equation}>{"\\( \\mathbf{F} = \\frac{d \\mathbf{p}}{dt} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(original form)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\mathbf{F} = m \\mathbf{a} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"(1)"}</div>
+            </div>
                 <br />
             <h3 className={style.h3num}>
                 2.1 
