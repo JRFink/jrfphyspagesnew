@@ -34,8 +34,6 @@ const About = () => {
                 <ul>
                   <li>Sell upper level physics classes</li>
 <br />
-                    <li>Synthesize current research into an easy-to-navigate <Link href="/research/news">news</Link> tab</li>
-<br />
   <li> 
 Put out a weekly periodical of interesting research findings 
 </li>
