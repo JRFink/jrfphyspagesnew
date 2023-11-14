@@ -7,6 +7,7 @@ import LearnGoal from '@/pages/components/learngoal';
 import NewtVid from '@/public/videos/gp1/newt';
 import NflVid from '@/public/videos/gp1/nflvid';
 import NslVid from '@/public/videos/gp1/nslvid';
+import N3lVid from '@/public/videos/gp1/n3lvid';
 import NlEx from '@/pages/exercises/gp1/nlex';
 import Quizheading from '@/pages/components/quizHeading';
 import Nlquiz from '@/pages/education/gp1/nl/quiz';
@@ -183,9 +184,11 @@ const NewtLaws = () => {
             <h2 className={style.h2SectionColor} id="ntl">
                 3. Third law
             </h2>
-            <p>
-                The third law...
-            </p>
+            <br />
+            <br />
+            <br />
+            <N3lVid />
+            <br />
             <h3 className={style.h3num}>
                 3.1 
             </h3> 
