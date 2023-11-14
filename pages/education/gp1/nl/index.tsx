@@ -6,6 +6,7 @@ import { ModoverviewNl } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import NewtVid from '@/public/videos/gp1/newt';
 import NflVid from '@/public/videos/gp1/nflvid';
+import NslVid from '@/public/videos/gp1/nslvid';
 import NlEx from '@/pages/exercises/gp1/nlex';
 import Quizheading from '@/pages/components/quizHeading';
 import Nlquiz from '@/pages/education/gp1/nl/quiz';
@@ -90,6 +91,11 @@ const NewtLaws = () => {
         <h2 className={style.h2SectionColor} id="nslaw">
             2. Second law 
         </h2>
+        <br />
+        <br />
+        <br />
+        <NslVid />
+        <br />
                 <p>
                     Newton&#39;s second law is the statement that  
                 </p>
