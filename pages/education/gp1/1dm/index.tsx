@@ -160,7 +160,6 @@ const Onedm = () => {
                             x <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; 
                             = &#916;  x &nbsp; / &#916; t    
                         </div>  
-                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                     </div>
                 <h4> 
                     &nbsp; &nbsp; 3.1.2 Instantaneous
@@ -174,14 +173,10 @@ const Onedm = () => {
                             &#40; x <span><sub>2</sub></span> &nbsp; - &nbsp; x <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41;
                             = &#916; x &nbsp; / &#916; t
                         </div>  
-                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                     </div>
                     <br />
-<br />
-<h2 className={style.greenExample}>
-   Example
-</h2>
-<br />
+                    <br />
+                    <br />
                     <br />
                 <h2 className={style.h2SectionColor} id="accel">
                     4. Acceleration
@@ -206,14 +201,13 @@ const Onedm = () => {
                                 t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; = &#916;  
                                 <b>v</b> &nbsp; / &#916; t    
                             </div>  
-                            {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                         </div> 
-<br /> 
-<br />
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
-<br />
+                        <br /> 
+                        <br />
+                        <h2 className={style.greenExample}> 
+                            Example 
+                        </h2>
+                        <br />
                         <h4> 
                             &nbsp; &nbsp; 4.1.2 Instantaneous 
                         </h4>  
@@ -227,7 +221,6 @@ const Onedm = () => {
                                 <b>v</b> <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - 
                                 t<span><sub>1</sub></span> &#41;= &#916; <b>v</b> &nbsp; / &#916; t
                             </div>  
-                            {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                         </div>     
                 <br />    
             <h3 className={style.h3num}>
@@ -266,11 +259,11 @@ const Onedm = () => {
                     <div className={style.equationNumber}>&#40; &#41;</div>
             </div>
                 <br />
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
-<br /> 
-<br />
+            <h2 className={style.greenExample}> 
+                Example 
+            </h2>
+            <br /> 
+            <br />
             <h3 className={style.h3num}>
                 4.3
             </h3>
