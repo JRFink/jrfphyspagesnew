@@ -30,7 +30,7 @@ const Two3dm = () => {
                  <Image 
                      src={vec} 
                      style={{ 
-                         width: '80%', 
+                         width: '90%', 
                          borderRadius: "20px", 
                          height: 'auto' 
                      }} 
