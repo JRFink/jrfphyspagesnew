@@ -174,9 +174,6 @@ const Uvec = () => {
                 <h4>
                     &nbsp; &nbsp; 2.4.1 Conversion
                 </h4>
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
                     <p>
                         Unit conversion is the process of converting one unit to another. In order to convert one unit 
                         to another, you have to multiply that unit by .... Let&#39;s go back to a very simple math concept. 
@@ -193,35 +190,6 @@ const Uvec = () => {
             </h3>
             <p>
                 Dimensional analysis is the process of making sure the units on your equations match.  
-                {/* say you are solving for the momentum of something, and your final answer is 3 &nbsp;
-                <math>
-                    <mfrac>
-                        <mn>kg</mn>
-                        <mn>s</mn>
-                    </mfrac>
-                </math> . You will learn that the dimensions of momentum are &nbsp;
-                <math>
-                    <mfrac>
-                        <mn>Mass * length</mn>
-                        <mn>time</mn>
-                    </mfrac>
-                </math>, so 3 &nbsp;
-                <math>
-                    <mfrac>
-                        <mn>kg</mn>
-                        <mn>s</mn>
-                    </mfrac> 
-                </math> &nbsp; would be &nbsp;
-                <math>
-                    <mfrac>
-                        <mn>mass</mn>
-                        <mn>time</mn>
-                    </mfrac>
-                </math>, so we have made a dimensional mistake.  */}
-            </p>
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
             <h3 className={style.h3num}>
                 2.6
             </h3>
@@ -262,9 +230,6 @@ const Uvec = () => {
                     Significant figures are a pain. Nonetheless, they are important and we will use them in this class. You will 
                     impress all your friends when you correctly use significant figures. The metrologists will also love you. 
                 </p>
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
             <h3 className={style.h3num}>
                 3.3
             </h3>
