@@ -3,7 +3,7 @@ import style from '@/styles/general.module.css';
 import { ModoverviewNl } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
 import NewtVid from '@/public/videos/gp1/newt';
-import Summary from '@/pages/components/summary';
+import NflVid from '@/public/videos/gp1/nflvid';
 import NlEx from '@/pages/exercises/gp1/nlex';
 import Quizheading from '@/pages/components/quizHeading';
 import Nlquiz from '@/pages/education/gp1/nl/quiz';
@@ -48,6 +48,11 @@ const NewtLaws = () => {
             <h2 className={style.h2SectionColor} id="nflaw">
                 1. Newton&#39;s first law 
             </h2>
+            <br />
+            <br />
+            <br />
+            <NflVid />
+            <br />
                 <p className={style.pDefinition}>
                     Newton&apos;s first law states that an object in motion will remain in motion unless acted on by another; 
                     it also states that an object at rest will remain at rest unless acted on by another.
