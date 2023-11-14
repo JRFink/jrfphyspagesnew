@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import style from '@/styles/general.module.css';
+import FramesVid from '@/public/videos/gp1/framesvid';
 import UnitsVid from '@/public/videos/gp1/units';
 import { ModoverviewFrames } from '@/pages/components/modoverview';
 import LearnGoal from '@/pages/components/learngoal';
@@ -42,8 +43,11 @@ const Uvec = () => {
             <h2 className={style.h2SectionColor} id="frames">
                 1. Reference frames 
             </h2>
-            <br></br>
-            <br></br>
+            <br />
+            <br />
+            <br />
+            <FramesVid />
+            <br />
             <p>
                 Physics starts with a reference frame. Where are you? Where are you in relation to something else?
                 These are what reference frames address. 
@@ -102,9 +106,6 @@ const Uvec = () => {
                 <h4>
                     &nbsp; &nbsp; 1.3.1 Inertial
                 </h4>
-<h2 className={style.greenExample}> 
-    Example 
- </h2>
                 <h4>
                     &nbsp; &nbsp; 1.3.2 Non-inertial
                 </h4>
