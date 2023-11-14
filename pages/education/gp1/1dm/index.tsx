@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
+import VelVid from '@/public/videos/gp1/velvid';
 import AccelVid from '@/public/videos/gp1/accelvid';
 import DeriveKinVid from '@/public/videos/gp1/derivekin';
 import { Modoverview1dm } from '@/pages/components/modoverview';
@@ -86,6 +87,13 @@ const Onedm = () => {
             <h2 className={style.h2SectionColor} id="vel">
                 2. Velocity
             </h2>
+            <br />
+            <br />
+            <br />
+            <br />
+            <VelVid /> 
+            <br />
+            <br />
             <p> 
                  Velocity...
             </p> 
