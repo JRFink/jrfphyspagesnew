@@ -18,7 +18,7 @@ const About = () => {
                 <p>
                     &nbsp; &nbsp; &nbsp; Our mission is to educate people about physics. 
                 </p>
-            <h2>
+     {/*       <h2>
                 Vision
             </h2>
                 <p>
@@ -26,6 +26,7 @@ const About = () => {
                     numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
                     we want to help others learn about physics.   
                 </p>
+*/}
             <h2>
                 Business structure
             </h2>
