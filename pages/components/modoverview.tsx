@@ -380,11 +380,6 @@ export function ModoverviewANl() {
                 <a href="#third">Using the third</a>
             </p>
             <br></br>
-            <Vidicon />
-            <p className={style.inlineContainer}>
-                <a href="#circ">Dynamics of circular motion</a>
-            </p>
-            <br></br>
             <Docicon />
             <p className={style.inlineContainerSumm}>
                 Summary
