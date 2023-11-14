@@ -90,7 +90,6 @@ const Onedm = () => {
             <br />
             <br />
             <br />
-            <br />
             <VelVid /> 
             <br />
             <br />
@@ -115,7 +114,6 @@ const Onedm = () => {
                         <div className={style.equation}> <b>v</b> <span><sub>avg </sub></span> &nbsp; = &#40; <b>x</b> <span><sub>2</sub></span> &nbsp; - 
                             <b>x</b> <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41; 
                             = &#916;  <b> x</b> &nbsp; / &#916; t    </div>  
-                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                     </div>
                     <h4>
                         &nbsp; &nbsp; 2.1.2 Instantaneous
@@ -129,7 +127,6 @@ const Onedm = () => {
                             &#40; <b>x</b> <span><sub>2</sub></span> &nbsp; - &nbsp; <b>x</b> <span><sub>1</sub></span> &#41; / &#40; t<span><sub>2</sub></span> &nbsp; - t<span><sub>1</sub></span> &#41;
                             = &#916; <b>x</b> &nbsp; / &#916; t
                         </div>  
-                        {/* <div className={style.equationNumber}>&#40; &#41;</div> */}
                     </div>
                     <br />
                     <p>
