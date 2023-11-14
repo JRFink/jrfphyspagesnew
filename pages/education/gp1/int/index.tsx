@@ -13,8 +13,7 @@ const Int = () => {
             <p>
                 The whole goal of physics is to describe how something moves on a fundamental level. <em>How do we describe a car moving on a track? 
                 How do we describe a satellite going around the earth? How do we describe the motion of the electron going around the proton? </em>
-                In accomplishing this task, we have different methods available. We have to articulate what it is 
-                we are trying to find, and then use the appropriate method. We can divide physics into these categories...
+                In accomplishing this task, we have different methods available. We can divide physics into these categories...
                 <ol>
                     <li>Big objects moving slow whose net electric charge is ~ zero</li>
                     <p>
