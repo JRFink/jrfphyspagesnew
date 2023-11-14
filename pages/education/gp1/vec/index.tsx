@@ -20,6 +20,8 @@ const Vec = () => {
             <ModoverviewVec />
             <br /> 
             <LearnGoal />
+<br /> 
+<br />
             <h2 className={style.h2SectionColor} id="def">
                 1. Defining vectors
             </h2>
