@@ -18,7 +18,7 @@ const Int = () => {
                     <li>Big objects moving slow whose net electric charge is ~ zero</li>
                     <p>
                         Gen phys 1. <br />
-                        You can also cover these subjects using a different method; <Link href="/#classical">here</Link>.
+                        You can also cover these subjects using a different method <Link href="/#classical">here</Link>.
                     </p>
                     <li>Big objects moving fast whose net electric charge is ~ zero</li>
                     <p>
@@ -39,7 +39,7 @@ const Int = () => {
                 </ol>
             </p>
             <p>
-                So, let&#39;s get into it. 
+                So let&#39;s get into it. 
             </p>
             <br></br>
             <Link href="/education/gp1/frame" className={style.backtoLink}>Frames, units, and measurement &#10140;</Link>
