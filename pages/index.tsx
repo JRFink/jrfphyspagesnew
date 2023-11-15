@@ -218,7 +218,7 @@ const indexPage = () => {
             <div className={style.flexContainer}>
             <br />
             <br />
-            <button>1</button> &nbsp; &nbsp; <button>2</button> &nbsp;  &nbsp; <button>3</button> &nbsp; &nbsp; <button>4</button> &nbsp; &nbsp; <button>5</button>
+            <button className={style.generalLink}>1</button> &nbsp; &nbsp; <button className={style.generalLink}>2</button> &nbsp;  &nbsp; <button className={style.generalLink}>3</button> &nbsp; &nbsp; <button className={style.generalLink}>4</button> &nbsp; &nbsp; <button className={style.generalLink}>5</button>
             </div>
             </p>
                 <br />  
