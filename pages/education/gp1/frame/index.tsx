@@ -189,7 +189,8 @@ const Uvec = () => {
                 Dimensional analysis
             </h3>
             <p>
-                Dimensional analysis is the process of making sure the units on your equations match.  
+                Dimensional analysis is the process of making sure the units on your equations match. 
+</p> 
             <h3 className={style.h3num}>
                 2.6
             </h3>
