@@ -53,6 +53,9 @@ Put out a weekly periodical of interesting research findings
                 </p>
             <br />
             <br />
+<p> 
+     My philosophy senior thesis from UD...
+</p>
             <br></br>
             <div 
                 style={{
