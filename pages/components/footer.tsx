@@ -48,7 +48,7 @@ const Footer = () => {
                     </div>
                     <div>
                         <small>
-                            <Link "href=https://www.openscied.org/" className={style.linkFooter}>OpenSciEd</Link><br />
+                            <Link href="https://www.openscied.org/" className={style.linkFooter}>OpenSciEd</Link><br />
 <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
                             <br /> 
