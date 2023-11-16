@@ -18,15 +18,6 @@ const About = () => {
                 <p>
                     &nbsp; &nbsp; &nbsp; Our mission is to educate people about physics. 
                 </p>
-     {/*       <h2>
-                Vision
-            </h2>
-                <p>
-                    &nbsp; &nbsp; &nbsp; Whether it is teaching general physics to high school students, going through the quantum 
-                    numbers with undergraduates, or explaining the fundamentals of quantum computing to the general public, 
-                    we want to help others learn about physics.   
-                </p>
-*/}
             <h2>
                 Business structure
             </h2>
@@ -34,10 +25,10 @@ const About = () => {
                 The bread and butter will be selling general physics classes. We will also:
                 <ul>
                   <li>Sell upper level physics classes</li>
-<br />
-  <li> 
-Put out a weekly periodical of interesting research findings 
-</li>
+                <br />
+                <li> 
+                Put out a weekly periodical of interesting research findings 
+                </li>
                     {/* <li>Selling <Link href="/consulting/reports">informational reports</Link> to higher learning institutions, governments, etc. about higher ed policy, physics, etc. </li> */}
                 </ul>
             </p>
@@ -52,11 +43,11 @@ Put out a weekly periodical of interesting research findings
                     It was founded by Jeff. He is a Colorado native. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny. He loves running, music, and sun-dried tomato chicken pasta.     
                 </p>
             <br />
+            <p> 
+                My philosophy <Link href="/pdf/seniorthes.pdf">senior thesis</Link> from UD...
+            </p>
             <br />
-<p> 
-     My philosophy senior thesis from UD...
-</p>
-            <br></br>
+            <br />
             <div 
                 style={{
                     display: "flex",
