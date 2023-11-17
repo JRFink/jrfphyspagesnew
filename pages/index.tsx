@@ -50,7 +50,25 @@ const indexPage = () => {
       </p>
       <br />
       <p> 
-         Nike &#174; sells shoes, Coca-Cola &#174; sells drinks, and Microsoft &#174; sells software&#59; we sell physics education.
+         Nike &#174; sells shoes, Coca-Cola &#174; sells drinks, and
+                <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+                > 
+                <Image 
+                    src={microsoft} 
+                    style={{ 
+                        width: '80%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The microsoft logo in color"  
+                /> 
+             </div>
+ &#174; sells software&#59; we sell physics education.
       </p>
       <h2>
           How does it work? 
