@@ -49,7 +49,24 @@ const indexPage = () => {
          Our mission is to educate people about physics.
       </p>
       <br />
-      <p> 
+      <p>
+                <div  
+                 style={{ 
+                     display: "flex", 
+                     justifyContent: "center", 
+                 }} 
+                > 
+                <Image 
+                    src={nike} 
+                    style={{ 
+                        width: '80%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="The nike swoosh in black"  
+                /> 
+             </div> 
          Nike &#174; sells shoes, Coca-Cola &#174; sells drinks, and
                 <div  
                  style={{ 
