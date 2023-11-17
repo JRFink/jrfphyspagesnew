@@ -8,6 +8,7 @@ import publicgroup from '@/public/images/publicgroup.jpg';
 import water from '@/public/images/water.jpg';
 import symbols from '@/public/images/symbols.jpg';
 import indexvec from '@/public/images/indexvecs.svg';
+import microsoft from '@/public/images/microsoft.svg';
 import violin from '@/public/images/violin.jpg';
 import indexlagr from '@/public/images/indexlagr.svg';
 import indexmax from '@/public/images/indexmax.svg';
