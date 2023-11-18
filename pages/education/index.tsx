@@ -11,12 +11,9 @@ const Education = () => {
             </h1>
             <br></br>
             <div className={style.flexContainer}>               
-                <Link href="/education/classes" className={style.generalLink}>Self study classes</Link>
+                <Link href="/education/gp1" className={style.generalLink}>General physics 1</Link>
                 <br />   
             </div>
-            <br />
-            <div className={style.flexContainer}>
-                <Link href="/education/ap" className={style.generalLink}>AP Physics &#174; prep</Link>
                 <br />        
             </div>
             <br />
