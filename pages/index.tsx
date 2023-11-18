@@ -11,8 +11,7 @@ import indexvec from '@/public/images/indexvecs.svg';
 import nike from '@/public/images/nike.svg';
 import coke from '@/public/images/coke.svg';
 import microsoft from '@/public/images/microsoft.svg';
-import jrflogo from '@/public/images/
-20231117_230202_0000.png';
+import jrflogo from '@/public/images/20231117_230202_0000.png';
 import violin from '@/public/images/violin.jpg';
 import indexlagr from '@/public/images/indexlagr.svg';
 import indexmax from '@/public/images/indexmax.svg';
