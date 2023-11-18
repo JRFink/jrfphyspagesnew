@@ -40,7 +40,7 @@ const About = () => {
                     The business has not earned a dollar in revenue yet&#59; we&#39;re working on it. 
                 </p>
                 <p>
-                    It was founded by Jeff. He is a Colorado native. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny. He loves running, music, and sun-dried tomato chicken pasta.     
+                    It was founded by Jeff. He is a Colorado native. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny. He likes running, music, and sun-dried tomato chicken pasta.     
                 </p>
             <br />
             <p> 
