@@ -14,8 +14,7 @@ const Gp1 = () => {
                 General Physics 1
             </h1>    
             <p>
-                Hello, and welcome to gen phys 1! This class is meant to be awesome; 
-                it is the equivalent of a gen phys 1 class you would take in high school or college. You will learn about 
+                Hello, and welcome to gen phys 1! This class is meant to be the equivalent of a gen phys 1 class you would take in high school or college. You will learn about 
                 forces, motion, vectors, newton&#39;s laws, angular momentum, taylor expansion, and even differential equations. 
                 I am offering this as an online class where you can work at your own pace. 
                 I don&#39;t have all the implementation yet, but I have the topical structure. 
