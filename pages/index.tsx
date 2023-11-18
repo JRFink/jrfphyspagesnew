@@ -125,7 +125,9 @@ const indexPage = () => {
                      alt="Black nabla and jrfink text"  
                  /> 
              </div>
+<p>
 &#174;
+</p>
       <h2>
           How does it work? 
       </h2> 
