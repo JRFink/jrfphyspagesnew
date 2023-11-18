@@ -9,13 +9,11 @@ const Education = () => {
             <h1 className={style.centerText}>
                 Education
             </h1>
-            <br></br>
+            <br />
             <div className={style.flexContainer}>               
                 <Link href="/education/gp1" className={style.generalLink}>General physics 1</Link>
                 <br />   
-            </div>
-                <br />        
-            </div>
+            </div>       
             <br />
             <br />
   {/*          <p>
