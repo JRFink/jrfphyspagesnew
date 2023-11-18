@@ -42,7 +42,6 @@ const About = () => {
                 <p>
                     It was founded by Jeff. He is a Colorado native. He went to the University of Dallas and studied philosophy and then went to CU-Boulder and studied physics. Now he lives in ny. He likes running, music, and sun-dried tomato chicken pasta.     
                 </p>
-            <br />
             <p> 
                 My philosophy <Link href="/pdf/seniorthes.pdf">senior thesis</Link> from UD...
             </p>
