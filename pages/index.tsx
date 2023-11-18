@@ -118,13 +118,14 @@ const indexPage = () => {
                      src={jrflogo} 
                      style={{ 
                          width: '70%', 
-                         borderRadius: "20px", 
+                         borderRadius: "10px", 
                          height: 'auto' 
                      }} 
                      sizes="100vw" 
                      alt="Black nabla and jrfink text"  
                  /> 
              </div>
+&#174;
       <h2>
           How does it work? 
       </h2> 
