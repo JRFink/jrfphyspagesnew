@@ -18,7 +18,7 @@ const Post = () => {
       <br />
       <ol>
         <li>
-          A question I have - what is the connection between the gravitational and the electric force?
+          A question I have - what is the connection between the gravitational and electric force?
         </li>
       </ol>
     </>
