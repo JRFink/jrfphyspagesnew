@@ -70,7 +70,7 @@ const indexPage = () => {
                     alt="The nike swoosh in black"  
                 /> 
              </div> 
-         Nike &#174; sells shoes,
+                    Nike &#174; sells shoes,
                 <div  
                  style={{ 
                      display: "flex", 
@@ -88,7 +88,7 @@ const indexPage = () => {
                     alt="The red coca cola logo"  
                 /> 
              </div> 
- &#174; sells drinks, and
+                &#174; sells drinks, and
                 <div  
                  style={{ 
                      display: "flex", 
@@ -106,9 +106,9 @@ const indexPage = () => {
                     alt="The microsoft logo in color"  
                 /> 
              </div>
- &#174; sells software&#59; we sell physics education.
-      </p>
-      <div  
+                &#174; sells software&#59; we sell physics education.
+         
+            <div  
                  style={{ 
                      display: "flex", 
                      justifyContent: "center", 
@@ -125,9 +125,8 @@ const indexPage = () => {
                     alt="A colorful nabla and black jrfink"  
                 /> 
              </div> 
-<p>
-&#174;
-</p>
+             &#174;
+             </p>
       <h2>
           How does it work? 
       </h2> 
