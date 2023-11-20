@@ -11,7 +11,7 @@ import indexvec from '@/public/images/indexvecs.svg';
 import nike from '@/public/images/nike.svg';
 import coke from '@/public/images/coke.svg';
 import microsoft from '@/public/images/microsoft.svg';
-import jrflogo from '@/public/images/20231117_230202_0000.png';
+import jrfnablogo from '@/public/images/jrfnablogo.svg';
 import violin from '@/public/images/violin.jpg';
 import indexlagr from '@/public/images/indexlagr.svg';
 import indexmax from '@/public/images/indexmax.svg';
@@ -108,23 +108,23 @@ const indexPage = () => {
              </div>
  &#174; sells software&#59; we sell physics education.
       </p>
- <div  
+      <div  
                  style={{ 
                      display: "flex", 
                      justifyContent: "center", 
                  }} 
-             > 
-                 <Image 
-                     src={jrflogo} 
-                     style={{ 
-                         width: '70%', 
-                         borderRadius: "10px", 
-                         height: 'auto' 
-                     }} 
-                     sizes="100vw" 
-                     alt="Black nabla and jrfink text"  
-                 /> 
-             </div>
+                > 
+                <Image 
+                    src={jrfnablogo} 
+                    style={{ 
+                        width: '80%', 
+                        borderRadius: "20px", 
+                        height: 'auto' 
+                    }} 
+                    sizes="100vw" 
+                    alt="A colorful nabla and black jrfink"  
+                /> 
+             </div> 
 <p>
 &#174;
 </p>
