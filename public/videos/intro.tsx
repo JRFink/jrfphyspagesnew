@@ -11,7 +11,7 @@ const Introvid = () => {
                 <iframe
                         title="intro video"
                         className={style.iframe}
-                        src={"https://player.vimeo.com/video/766511495?badge=0&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"}     
+                        src={"https://player.vimeo.com/video/886899452?h=6cf18ec31e&amp;autopause=0&amp;quality_selector=1&amp;progress_bar=1&amp;player_id=0&amp;app_id=58479"}     
                         allowFullScreen
                 >
                 </iframe>
