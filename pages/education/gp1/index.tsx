@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import style from '@/styles/general.module.css';
 import IntroVid from '@/public/videos/gp1/introvid';
+import SketchIntro from '@/public/videos/gp1/sketchintro';
 import Helpful from '@/pages/components/helpful/$gp1'
 
 
@@ -35,6 +36,8 @@ const Gp1 = () => {
             </div>
             <br></br>
             <IntroVid />
+            <br />
+            <SketchIntro />
             <br />
             <Link href="/education/gp1/int" className={style.generalLinkIntr} >Introduction</Link><br></br>
             <br></br>
