@@ -47,6 +47,7 @@ const About = () => {
 <li> 
    Be kind 
 </li>
+</p>
 </ol>
             <h2>
                 History
