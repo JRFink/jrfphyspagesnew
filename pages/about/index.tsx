@@ -41,13 +41,6 @@ const About = () => {
                 <li> 
                     Use best practices 
                 </li>
-<li> 
-      Speak the truth
-</li>
-<li> 
-   Be kind 
-</li>
-
 </ol>
 </p>
             <h2>
