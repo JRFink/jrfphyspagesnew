@@ -122,8 +122,7 @@ const Inst = () => {
                                 </ul>
                             </li>
                         </ul>
-                    </li>
-                    
+                    </li>                    
                 </ul>
             </p>
         </>
