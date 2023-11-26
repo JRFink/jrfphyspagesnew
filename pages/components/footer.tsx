@@ -48,8 +48,8 @@ const Footer = () => {
                     </div>
                     <div>
                         <small>
-                            <Link href="https://www.openscied.org/" className={style.linkFooter}>OpenSciEd</Link><br />
-<br />
+                            <Link href="/pdf/scframeworkk12.pdf" className={style.linkFooter}>Framework for K&#45;12 science</Link><br />
+                            <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
                             <br /> 
                             <Link href="/legal/intern" className={style.linkFooter}>International fun</Link><br></br>
