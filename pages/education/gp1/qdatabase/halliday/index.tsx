@@ -34,7 +34,7 @@ const Halliday = () => {
                 1. 
                 <p>
                     Earth is approximately a sphere of radius 6.37 x 10<span><sup>6</sup></span>m. What are &#40;a&#41;
-                    its curcumference in kilometers, &#40;b&#41; its surface area in square kilometers, and &#40;c&#41; its 
+                    its circumference in kilometers, &#40;b&#41; its surface area in square kilometers, and &#40;c&#41; its 
                     volume in cubic kilometers?
                 </p>
            
