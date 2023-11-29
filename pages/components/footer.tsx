@@ -52,12 +52,11 @@ const Footer = () => {
                             <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
                             <br /> 
-                            <Link href="/legal/intern" className={style.linkFooter}>International fun</Link><br></br>
-                            <br /> 
-                            <CountryDrop /> 
+                           { /* <CountryDrop /> 
                             <br /> 
                             <br />
                             <LanguageDrop />
+*/ }
                             <br></br>
                             <br></br>
                             <div className={style.footerGenCountry}>
