@@ -59,7 +59,7 @@ const Footer = () => {
 */ }
                             <br></br>
                             <br></br>
-                            <div className={style.footerGenCountry}>
+       { /*                     <div className={style.footerGenCountry}>
                                 <p>
                                     Country
                                 </p>
@@ -71,10 +71,18 @@ const Footer = () => {
                             </div>
                             &nbsp; &nbsp; 
                             <AmFlag /> 
+*/ }
                         </small>
                     </div>
                 </div>
                 <br></br>
+                            <div className={style.footerSpecCountry}>
+                                <p>
+                                    U.S.
+                                </p>
+                            </div>
+                            &nbsp; &nbsp; 
+                            <AmFlag /> 
                 <br></br>
                 <small className={style.copyright}>&#169; JRFink LLC {new Date().getFullYear().toString()} </small>
             </footer>
