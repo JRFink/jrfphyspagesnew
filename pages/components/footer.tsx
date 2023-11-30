@@ -76,6 +76,11 @@ const Footer = () => {
                     </div>
                 </div>
                 <br></br>
+                            <div className={style.footerGenCountry}>
+                                <p>
+                                    Country
+                                </p>
+                            </div>
                             <div className={style.footerSpecCountry}>
                                 <p>
                                     U.S.
