@@ -16,13 +16,7 @@ const Report = () => {
                 <ul>
                     <li>List of all colleges in the united states</li>
                     <li>Education policy in argentina</li>
-                    <li>largest energy producers in the united states</li>
-   
                 </ul>
-  You can make a sample purchase <Link href="https://buy.stripe.com/28oeYtara5qhd5maEO">here</Link>. 
-<p>
-    The reports will start around &#36;500. 
-</p>
             </p>
         </>
     );

@@ -15,6 +15,7 @@ const Comm = () => {
             <p>
                 Below you will find some info about communication around the globe. 
             </p>
+            <p>
             Google - <ul>
                         <li>
                             Larry Page - America - Michigan, Stanford 
@@ -81,7 +82,8 @@ const Comm = () => {
                         <li>
                             <Link href="https://www.iso.org">International organization for standardization</Link> - Geneva, CH
                         </li>
-                    </ul>                 
+                    </ul>    
+            </p>             
         </>
     );
 }

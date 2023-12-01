@@ -24,12 +24,13 @@ const Footer = () => {
                             <Link href="/careers" className={style.linkFooter}>Careers</Link><br></br>
                             <br></br>
                             <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
-                            <br></br>
-                            <Link href="/about" className={style.linkFooter}>About</Link>
+                            
                         </small>
                     </div>
                     <div>
                         <small>
+                            <Link href="/about" className={style.linkFooter}>About</Link><br />
+                            <br />
                             <Link href="/legal/annual" className={style.linkFooter}>Annual Reports</Link><br></br>
                             <br />
                             <Link href="/legal/terms" className={style.linkFooter}>Terms of Service</Link><br></br>
@@ -38,16 +39,16 @@ const Footer = () => {
                             <br></br>
                             <Link href="/legal/cookie" className={style.linkFooter}>Cookie Policy</Link><br></br>
                             <br></br>
+                        </small>
+                    </div>
+                    <div>
+                        <small>
                             <Link href="/legal" className={style.linkFooter}>Legal</Link><br></br>
                             <br></br>
                             <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                             <br></br>
                             <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
                             <br /> 
-                        </small>
-                    </div>
-                    <div>
-                        <small>
                             <Link href="/pdf/scframeworkk12.pdf" className={style.linkFooter}>Framework for K&#45;12 science</Link><br />
                             <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
@@ -56,10 +57,10 @@ const Footer = () => {
                             <br /> 
                             <br />
                             <LanguageDrop />
-*/ }
+                            */ }
                             <br></br>
                             <br></br>
-       { /*                     <div className={style.footerGenCountry}>
+                { /*        <div className={style.footerGenCountry}>
                                 <p>
                                     Country
                                 </p>
@@ -76,6 +77,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <br></br>
+                        <small>
                             <div className={style.footerGenCountry}>
                                 <p>
                                     Country
@@ -86,6 +88,7 @@ const Footer = () => {
                                     U.S.
                                 </p>
                             </div>
+                        </small>
                             &nbsp; &nbsp; 
                             <AmFlag /> 
                 <br></br>

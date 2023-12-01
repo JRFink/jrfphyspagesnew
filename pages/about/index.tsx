@@ -45,12 +45,9 @@ const About = () => {
             <p> 
                 My philosophy <Link href="/pdf/seniorthes.pdf">senior thesis</Link> from UD...
             </p>
-<p> 
-   Find me &#64;knifffej on a platform near you.
-</p>
-<p> 
-    Also, he&#39;s thinking about starting a charter high school. Stay tuned...
-</p>
+            <p> 
+            Find me &#64;knifffej on a platform near you.
+            </p>
             <br />
             <br />
             <div 
