@@ -72,7 +72,7 @@ const Footer = () => {
                             </div>
                             &nbsp; &nbsp; 
                             <AmFlag /> 
-*/ }
+                        */ }
                         </small>
                     </div>
                 </div>
