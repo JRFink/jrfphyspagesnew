@@ -33,17 +33,6 @@ const About = () => {
                 </ul>
             </p>
             <h2>
-                Business principles
-            </h2>
-            <p>
-                <ol>
-                  <li>Sell a product or service that people want for a profit</li>
-                <li> 
-                    Use best practices 
-                </li>
-</ol>
-</p>
-            <h2>
                 History
             </h2>
                 <p>
