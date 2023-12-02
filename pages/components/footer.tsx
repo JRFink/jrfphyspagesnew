@@ -31,20 +31,18 @@ const Footer = () => {
                         <small>
                             <Link href="/about" className={style.linkFooter}>About</Link><br />
                             <br />
-                            <Link href="/legal/annual" className={style.linkFooter}>Annual Reports</Link><br></br>
-                            <br />
                             <Link href="/legal/terms" className={style.linkFooter}>Terms of Service</Link><br></br>
                             <br></br>
                             <Link href="/legal/privacy" className={style.linkFooter}>Privacy Policy</Link><br></br>
                             <br></br>
                             <Link href="/legal/cookie" className={style.linkFooter}>Cookie Policy</Link><br></br>
                             <br></br>
+                            <Link href="/legal" className={style.linkFooter}>Legal</Link><br></br>
+                            <br></br>
                         </small>
                     </div>
                     <div>
                         <small>
-                            <Link href="/legal" className={style.linkFooter}>Legal</Link><br></br>
-                            <br></br>
                             <Link href="/legal/accred" className={style.linkFooter}>Accredidations</Link><br></br>
                             <br></br>
                             <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
