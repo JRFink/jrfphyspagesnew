@@ -145,8 +145,6 @@ const Nuclear = () => {
                 Russia
             </h3>
             <br></br>
-                <Link href="/research/nuc/eng" className={style.generalLink}>Nuclear engineering</Link>
-            <br></br>
             <Helpful />
         </>
     );
