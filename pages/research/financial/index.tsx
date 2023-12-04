@@ -33,14 +33,6 @@ const Fin = () => {
                     </li>
                     <br />
                     <li>
-                        Annual report <Link href="/pdf/lanl22.pdf">Los Alamos</Link> - 2022 - &#36;180 million.
-                    </li>
-                    <br />
-                    <li>
-                        Annual report <Link href="/pdf/lanl21.pdf">Los Alamos</Link> - 2021 - &#36;170 million.
-                    </li>
-                    <br />
-                    <li>
                         Economics of <Link href="/pdf/fermlab2019.pdf">Fermilab</Link> - 2019.
                     </li>
                     <br />
@@ -58,7 +50,7 @@ const Fin = () => {
                         </ul>
                 </ul>
                 <p>
-                    Have comments&#47;questions about the budget? Contact the committee&#58;
+                    Have comments&#47;questions about the budget? Here is some contact info&#58;
                 <ul>
                     <li>
                     Chairman - <Link href="https://arrington.house.gov/">Jody Arrington</Link>
