@@ -6,8 +6,8 @@ const Privacy = () => {
             <h1 className={style.centerText}>
                 Privacy Policy
             </h1>
-            <p className={style.centerText}>
-                We take your privacy very seriously. We never sell your data.
+            <p>
+                We take your privacy very seriously. We do not sell your data.
             </p>
         </>
     );
