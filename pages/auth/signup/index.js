@@ -81,7 +81,7 @@ const SubscribeForm = () => {
         <>
             <div className={style.formDivS}>
                 <form className={style.formClass}>
-                    <p>
+                    <p className={style.submitThankyou}>
                         Thank you. We will be in touch. 
                     </p>
                     <br /> 
@@ -112,24 +112,23 @@ const SignupFlow = () => {
                     <>
                         <br /> 
                         <p className={style.centerText}> 
-                            Be among the first to know when we launch. 
-                        <br /> 
-                        <br />
-                            We are going to offer two different account types &#45; free and subscribed. 
-                            The free accounts will have access to some parts of the site &#45; some videos, articles, research topics, etc. 
-                            The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. 
-                            We&#39;re thinking &#36;5 &#47; month. < br /> 
-                        <br />
-                            Find your school, match requirements, get credit. 
-                        <br /> 
-                        <input type="text" className={style.searchBox} placeholder="Find your school (testing...)"></input>
-                        </p> 
-                        <br />
-                        <br />
+                                Be among the first to know when we launch. 
+                            <br /> 
+                            <br />
+                                We are going to offer two different account types &#45; free and subscribed. 
+                                The free accounts will have access to some parts of the site &#45; some videos, articles, research topics, etc. 
+                                The subscribed accounts will have access to everything &#45; all videos, articles, topics, etc. 
+                                We&#39;re thinking &#36;5 &#47; month. < br /> 
+                            <br />
+                        </p>
                         <p className={style.centerText}> 
-                            You can <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq" className={style.highlightTextBlue}>subscribe</a>. We&#39;re live! 
+                            You can <a href="https://buy.stripe.com/eVa8A5bve05X7L25kq" className={style.highlightTextBlue}>subscribe</a> here. We&#39;re live! 
                         </p> 
                         <br /> 
+                        <p className={style.centerText}>
+                            We only save your info with the form below. Filling it out does not create a subscription.
+                        </p>
+                        <br />
                         <br />
                         <SignupForm
                             setSubmitted={setSubmitted} />

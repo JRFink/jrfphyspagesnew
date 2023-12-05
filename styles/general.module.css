@@ -157,6 +157,10 @@
     box-shadow: 0 10px 25px rgba(92, 99, 105, 0.2);
 }
 
+.submitThankyou {
+    margin: 0px 0px 0px 80px;
+}
+
 @media screen and (max-width: 450px) {
     .formClass {
         width: 60%
