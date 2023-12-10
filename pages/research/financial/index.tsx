@@ -14,7 +14,7 @@ const Fin = () => {
             </h1>
             <br />
             <p>
-                Things cost money. Research costs money. Here is the <Link href="/pdf/usabudg23.pdf"> 2023 fed government budget</Link>&#59; department of science and energy on pg. 61.
+                Things cost money. Research costs money. Here is the <Link href="/pdf/usabudg23.pdf"> 2023 fed government budget</Link>, department of science and energy on pg. 61.
             </p>
             <p>
                 Here are some of the financial highlights. 
