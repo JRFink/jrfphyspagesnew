@@ -127,12 +127,11 @@ const indexPage = () => {
              </p>
              <br />
              <IntroVid />
-             <br />
              <p>
                 Professors are overworked, underpaid, and they don&#39;t have enough time for research. 
                 <br />
                 We&#39;re cutting out the red tape in education, and we&#39;re building the educational infrastructure 
-                which will allow students to learn what they need to learn more quickly, and at a fraction of the cost.
+                which will allow students to learn what they need to learn more quickly and at a fraction of the cost.
                 This will give professors more time for what they love - teaching if they want, research if they desire. 
              </p>
         <h2>
