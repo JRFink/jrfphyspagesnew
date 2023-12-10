@@ -54,7 +54,7 @@ const indexPage = () => {
       </p>
         <br />
 <p>
-Yes, you&#39;ll be able to get high school and college credit for it.
+Yes, you&#39;ll be able to get high school or college credit for taking it.
 </p>
         <br />    
       <br />
