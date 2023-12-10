@@ -47,7 +47,7 @@ const indexPage = () => {
         <br />
         <br />    
       <br />
-      <p>
+      </p>
                 <div  
                     style={{ 
                         display: "flex", 
