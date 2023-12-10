@@ -48,7 +48,7 @@ const indexPage = () => {
         <br />
         <br />    
       <br />
-      <p>
+
                 <div  
                     style={{ 
                         display: "flex", 
@@ -66,7 +66,9 @@ const indexPage = () => {
                         alt="The nike swoosh in black"  
                     /> 
                 </div> 
+                <p>
                     Nike &#174; sells shoes,
+                </p>
                 <div  
                  style={{ 
                      display: "flex", 
@@ -83,8 +85,10 @@ const indexPage = () => {
                     sizes="100vw" 
                     alt="The red coca cola logo"  
                 /> 
-             </div> 
+            </div> 
+            <p>
                 &#174; sells drinks, and
+            </p>
                 <div  
                  style={{ 
                      display: "flex", 
@@ -101,9 +105,10 @@ const indexPage = () => {
                     sizes="100vw" 
                     alt="The microsoft logo in color"  
                 /> 
-             </div>
+            </div>
+            <p>
                 &#174; sells software&#59; we sell physics education.
-         
+            </p>
             <div  
                  style={{ 
                      display: "flex", 
@@ -121,7 +126,8 @@ const indexPage = () => {
                     alt="A colorful nabla and black jrfink"  
                 /> 
              </div> 
-             &#174;
+             <p>
+                &#174;
              </p>
              <br />
              <IntroVid />
