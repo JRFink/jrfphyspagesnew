@@ -54,6 +54,9 @@ const indexPage = () => {
         A competitive advantage we have over private high schools and public or private colleges is that our general physics 1 class is <em>cheaper</em>, at only &#36;99. 
       </p>
         <br />
+<p>
+Yes, you&#39;ll be able to get high school and college credit for it.
+</p>
         <br />    
       <br />
 
