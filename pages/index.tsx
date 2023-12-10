@@ -43,7 +43,7 @@ const indexPage = () => {
          </b>
       </p>
       <p className={style.centerText}>
-         Our mission is to educate people about physics.
+         Our mission is to educate people about physics. We&#39;re making things quicker and cheaper. 
       </p>
       <br />
       <p>
