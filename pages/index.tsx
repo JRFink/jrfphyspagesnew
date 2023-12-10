@@ -43,12 +43,9 @@ const indexPage = () => {
          </b>
       </p>
       <p className={style.centerText}>
-        Our mission is to educate people about physics. We&#39;re making taking a physics class quicker and cheaper. 
+        Our mission is to teach physics classes. One competitive advantage we have over in&#45;person classes is that you are able to complete your class more quickly than a traditional in&#45;person class. A competitive advantage we have over other online classes is that our site is easier to navigate. A competitive advantage we have over private high schools and colleges is that our class is cheaper, at only &#36;99. 
         <br />
-        <br />
-        We&#39;ll track how long it takes you to get through each module and your scores in them, so then 
-        you can tell your professors or future employer. 
-      </p>
+        <br />    
       <br />
       <p>
                 <div  
