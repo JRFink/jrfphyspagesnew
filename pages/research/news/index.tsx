@@ -21,6 +21,10 @@ const News = () => {
                      </Link>
                   </li>
                   <br />
+<li>
+<Link href="https://phys.org/news/2023-12-theory-einstein-gravity-quantum-mechanics.html">Gravity and quantum mechanics</Link>
+</li>
+<br />
                <li>
                      <Link href="https://pubs.aip.org/physicstoday">
                       Physics today
