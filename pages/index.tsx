@@ -43,8 +43,16 @@ const indexPage = () => {
          </b>
       </p>
       <p className={style.centerText}>
-        Our mission is to teach physics classes. One competitive advantage we have over in&#45;person classes is that you are able to complete your class more quickly than a traditional in&#45;person class. A competitive advantage we have over other online classes is that our site is easier to navigate. A competitive advantage we have over private high schools and colleges is that our class is cheaper, at only &#36;99. 
-</p>
+        Our mission is to teach physics classes. 
+        <br />
+        <br />
+        One competitive advantage we have over in&#45;person classes is that one is able to complete his or her class 
+        more quickly on our site than through a traditional in&#45;person class. 
+        <br />
+        A competitive advantage we have over other online classes is that our site is easier to navigate. 
+        <br />
+        A competitive advantage we have over private high schools and colleges is that our general physics 1 class is cheaper, at only &#36;99. 
+      </p>
         <br />
         <br />    
       <br />
