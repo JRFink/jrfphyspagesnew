@@ -48,22 +48,22 @@ const indexPage = () => {
       <br />
       <p>
                 <div  
-                 style={{ 
-                     display: "flex", 
-                     justifyContent: "center", 
-                 }} 
-                > 
-                <Image 
-                    src={nike} 
                     style={{ 
-                        width: '80%', 
-                        borderRadius: "20px", 
-                        height: 'auto' 
+                        display: "flex", 
+                        justifyContent: "center", 
                     }} 
-                    sizes="100vw" 
-                    alt="The nike swoosh in black"  
-                /> 
-             </div> 
+                > 
+                    <Image 
+                        src={nike} 
+                        style={{ 
+                            width: '80%', 
+                            borderRadius: "20px", 
+                            height: 'auto' 
+                        }} 
+                        sizes="100vw" 
+                        alt="The nike swoosh in black"  
+                    /> 
+                </div> 
                     Nike &#174; sells shoes,
                 <div  
                  style={{ 
