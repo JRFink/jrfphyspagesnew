@@ -44,6 +44,9 @@ const indexPage = () => {
       </p>
       <p className={style.centerText}>
          Our mission is to educate people about physics. We&#39;re making things quicker and cheaper. 
+         <br />
+         We&#39;ll track how long it takes you to get through each module and your scores in them, so then 
+         you can tell your professors or future employer. 
       </p>
       <br />
       <p>
