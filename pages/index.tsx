@@ -46,8 +46,7 @@ const indexPage = () => {
         Our mission is to teach physics classes. 
         <br />
         <br />
-        One competitive advantage we have over in&#45;person classes is that one is able to complete his or her class 
-        <em>more quickly</em> on our site than through a traditional in&#45;person class. 
+        One competitive advantage we have over in&#45;person classes is that one is able to complete his or her class <em>more quickly</em> on our site than through a traditional in&#45;person class. 
         <br />
         A competitive advantage we have over other online classes is that our site is <em>easier to navigate</em>. 
         <br />
