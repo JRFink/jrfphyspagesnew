@@ -138,12 +138,6 @@ const indexPage = () => {
                 which will allow students to learn what they need to learn more quickly and at a fraction of the cost.
                 This will give professors more time for what they love - teaching if they want, research if they desire. 
              </p>
-             <p>
-                Although I still don&#39;t know a ton about AI, the way I see it is that eventually AI will be instructing 
-                everyone on a particular subject, and explaining things close to flawlessly. These models have 
-                access to so much information, and they can then synthesize the info and explain things in a coherent way. 
-                Why would they not incorporate them into education?
-             </p>
         <h2>
             How does it work? 
         </h2> 
