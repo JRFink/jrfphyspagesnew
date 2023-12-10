@@ -136,8 +136,9 @@ const indexPage = () => {
              </p>
              <p>
                 Although I still don&#39;t know a ton about AI, the way I see it is that eventually AI will be instructing 
-                everyone about a particular subject, and explaining things pretty close to flawlessly. These models have 
-                access to so much information and explain things nicely, so why would they not incorporate them into education?
+                everyone about a particular subject, and explaining things close to flawlessly. These models have 
+                access to so much information, and they can then synthesize that and explain things in a coherent way. 
+                Why would they not incorporate them into education?
              </p>
         <h2>
             How does it work? 
