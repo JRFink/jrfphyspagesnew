@@ -46,17 +46,23 @@ const indexPage = () => {
         Our mission is to teach physics classes. 
         <br />
         <br />
-        One competitive advantage we have over in&#45;person classes is that one is able to complete his or her class 
-        more quickly on our site than through a traditional in&#45;person class. 
+        One competitive advantage we have over in&#45;person classes is that one is able to complete his or her class <em>more quickly</em> on our site than through a traditional in&#45;person class. 
         <br />
-        A competitive advantage we have over other online classes is that our site is easier to navigate. 
+        A competitive advantage we have over other online classes is that our site is <em>easier to navigate</em>. 
         <br />
-        A competitive advantage we have over private high schools and colleges is that our general physics 1 class is cheaper, at only &#36;99. 
+        A competitive advantage we have over private high schools and public or private colleges is that our general physics 1 class is cheaper, at only &#36;99. 
       </p>
+<<<<<<< HEAD
       <br />
         <p>
             Yes, you&#39;ll be able to get high school or college credit for it.
         </p>
+=======
+        <br />
+        <p>
+            Yes, you&#39;ll be able to get high school or college credit for taking it.
+        </p>
+>>>>>>> 26533062332ed61e28f600cf639c53b34eab1a24
         <br />    
       <br />
 
