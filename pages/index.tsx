@@ -50,7 +50,7 @@ const indexPage = () => {
         <br />
         A competitive advantage we have over other online classes is that our site is <em>easier to navigate</em>. 
         <br />
-        A competitive advantage we have over private high schools and public or private colleges is that our general physics 1 class is <em>cheaper</em>, at only &#36;99. 
+        A competitive advantage we have over private high schools and public or private colleges is that our general physics 1 class is cheaper, at only &#36;99. 
       </p>
         <br />
 <p>
