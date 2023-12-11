@@ -11,7 +11,7 @@ import Exerciseheading from '@/pages/components/exerciseheading';
 Review series.
 </li>
 <li> 
-Review what series are able to have series representations. 
+Review what functions are able to have series representations. 
 </li>
 </ol> 
   </>
