@@ -25,48 +25,6 @@ const Education = () => {
             <br />
                  <input type="text" className={style.searchBox} placeholder="Find your school (testing..)"></input> 
             </p>
-            <p> 
-                Your state education requirements...
-            </p> 
-            <br />
-            <ul>
-                <li>
-                    <a href="https://www.cde.ca.gov/re/cc/">California</a>
-                </li>
-                <br />
-                <li>
-                    <a href="http://www.cde.state.co.us/standardsandinstruction">Colorado</a>
-                </li>
-                <br />
-                <li>
-                    <a href="https://cpalms.org">Florida</a> 
-                </li>
-                <br />
-                <li> 
-                    <a href="https://www.isbe.net/Pages/Standards-Courses.aspx">Illinois</a>
-                </li>
-                <br />
-                <li>
-                    <a href="https://www.doe.mass.edu/frameworks/default.html">Massachusetts</a>
-                </li>
-                <br />
-                <li>
-                    <a href="https://www.nysed.gov/curriculum-instruction">New York</a>
-                </li>
-                <br />
-                <li> 
-                    <a href="https://education.ohio.gov/Topics/Learning-in-Ohio/OLS-Graphic-Sections/Learning-Standards">Ohio</a>
-                </li>
-                <br />
-                <li>
-                    <a href="https://tea.texas.gov/academics/curriculum-standards">Texas</a>
-                </li>
-                <br /> 
-                <li>
-                    <a href="https://ospi.k12.wa.us/student-success/learning-standards-instructional-materials">Washington</a>
-                </li>
-            </ul>
-            <br />
             <br />
             <div className={style.flexContainer}>
                 <Link href="/education/hs" className={style.lightGreenLink}>Find your high school</Link>

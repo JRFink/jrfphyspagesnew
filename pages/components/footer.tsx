@@ -45,7 +45,7 @@ const Footer = () => {
                         <small>
                             <Link href="https://www.nextgenscience.org/" className={style.linkFooter}>Next Gen Science</Link><br></br>
                             <br></br>
-                            <Link href="/legal/access" className={style.linkFooter}>Accessibility</Link><br></br>
+                            <Link href="/education/statestd" className={style.linkFooter}>State standards</Link><br></br>
                             <br /> 
                             <Link href="/pdf/scframeworkk12.pdf" className={style.linkFooter}>Framework for K&#45;12 science</Link><br />
                             <br />
