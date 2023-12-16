@@ -9,7 +9,7 @@ const Gp1 = () => {
     return (
         <>
             <br />
-            <Link href="/education/classes" className={style.backtoLink}>Classes</Link><br></br>
+            <Link href="/education" className={style.backtoLink}>Education</Link><br></br>
             <br></br>
             <h1 className={style.centerText}>
                 General Physics 1
