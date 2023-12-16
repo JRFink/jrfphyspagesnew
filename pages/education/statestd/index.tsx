@@ -33,7 +33,7 @@ const StateStd = () => {
                 </li>
                 <br />
                 <li>
-                    <a href="https://www.nysed.gov/curriculum-instruction">New York</a>
+                    <Link href="/pdf/nystatestd.pdf">New York</Link>
                 </li>
                 <br />
                 <li> 
