@@ -14,7 +14,9 @@ const Education = () => {
                 <Link href="/education/gp1" className={style.generalLink}>General physics 1</Link>
                 <br /> 
                 <Link href="/education/gp2" className={style.generalLink}>General physics 2</Link>
-                <br />     
+                <br />    
+                <Link href="/education/ap" className={style.generalLink}>AP physics</Link>
+                <br />      
             </div>       
             <br />
             <br />
