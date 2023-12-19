@@ -12,13 +12,15 @@ import style from '@/styles/general.module.css';
          <p>
             Here are some popular textbooks for gen phys 1:
          </p>
+         <br />
          <p>
             <ul>
                 <li>
-                    <em>Fundamentals of Physics 10th edition</em> by <em>Haliday and Resnick</em> Wiley &#38; Sons &#169;
+                    <em>Fundamentals of Physics 10th edition</em> by <em>Haliday and Resnick</em>, Wiley &#38; Sons &#169;
                 </li>
+                <br />
                 <li>
-                    <em>Essential University Physics, Volume 1, 4th edition</em> by <em>Richard Wolfson</em> Pearson &#169;
+                    <em>Essential University Physics, Volume 1, 4th edition</em> by <em>Richard Wolfson</em>, Pearson &#169;
                 </li>
             </ul>
          </p>
