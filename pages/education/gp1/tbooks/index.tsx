@@ -22,6 +22,10 @@ import style from '@/styles/general.module.css';
                 <li>
                     <em>Essential University Physics, Volume 1, 4th edition</em> by <em>Richard Wolfson</em>, Pearson &#169;
                 </li>
+                <br />
+                <li>
+                    Sears &#38; Zemansky&#39;s <em>University Physics, 15th ed. </em> by <em>Young and Freedman</em>, Pearson &#169;
+                </li>
             </ul>
          </p>
         </>  
