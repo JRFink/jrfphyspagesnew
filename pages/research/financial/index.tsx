@@ -57,6 +57,9 @@ const Fin = () => {
                     <li>
                         <Link href="/pdf/stanford-fy23.pdf">Stanford</Link> - 2023.
                     </li>
+                    <li>
+                        <Link href="/pdf/berkeley-fy22.pdf">Berkeley</Link> - 2022.
+                    </li>
                 </ul>
                 <p>
                     Have comments&#47;questions about the budget? Here is some contact info&#58;
