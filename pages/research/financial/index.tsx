@@ -49,7 +49,10 @@ const Fin = () => {
                             <li>Source of funding - 72&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
                         </ul>
                     <li>
-                        <Link href="/pdf/mit-fy23.pdf">MIT</Link> - 2023.
+                        <Link href="/pdf/harvard-fy23.pdf">Harvard</Link> - 2023.
+                    </li>
+                    <li>
+                        <Link href="/pdf/mit-fy22.pdf">MIT</Link> - 2022.
                     </li>
                     <li>
                         <Link href="/pdf/stanford-fy23.pdf">Stanford</Link> - 2023.
