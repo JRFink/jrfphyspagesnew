@@ -68,7 +68,7 @@ const Fin = () => {
                     Have comments&#47;questions about the budget? Here is some contact info&#58;
                 <ul>
                     <li>
-                    Chairman - <Link href="https://arrington.house.gov/">Jody Arrington</Link>
+                    Chairman - <Link href="https://arrington.house.gov/">Jodey Arrington</Link>
                     <ul>
                             <li>202 225 4005</li>
                     </ul>
