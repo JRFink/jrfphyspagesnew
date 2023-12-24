@@ -48,6 +48,9 @@ const Fin = () => {
                         <ul>
                             <li>Source of funding - 72&#37; federal &#40;NASA, NSF, commerce, ...&#41;</li>
                         </ul>
+                    <li>
+                        <Link href="/pdf/stanford-fy23.pdf">Stanford</Link> - 2023.
+                    </li>
                 </ul>
                 <p>
                     Have comments&#47;questions about the budget? Here is some contact info&#58;
