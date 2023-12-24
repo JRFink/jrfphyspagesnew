@@ -51,12 +51,15 @@ const Fin = () => {
                     <li>
                         <Link href="/pdf/harvard-fy23.pdf">Harvard</Link> - 2023.
                     </li>
+<br />
                     <li>
                         <Link href="/pdf/mit-fy23.pdf">MIT</Link> - 2023.
                     </li>
+<br />
                     <li>
                         <Link href="/pdf/stanford-fy23.pdf">Stanford</Link> - 2023.
                     </li>
+<br />
                     <li>
                         <Link href="/pdf/berkeley-fy22.pdf">Berkeley</Link> - 2022.
                     </li>
