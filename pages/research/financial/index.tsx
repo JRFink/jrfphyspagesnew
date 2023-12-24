@@ -52,7 +52,7 @@ const Fin = () => {
                         <Link href="/pdf/harvard-fy23.pdf">Harvard</Link> - 2023.
                     </li>
                     <li>
-                        <Link href="/pdf/mit-fy22.pdf">MIT</Link> - 2022.
+                        <Link href="/pdf/mit-fy23.pdf">MIT</Link> - 2023.
                     </li>
                     <li>
                         <Link href="/pdf/stanford-fy23.pdf">Stanford</Link> - 2023.
