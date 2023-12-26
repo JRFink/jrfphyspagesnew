@@ -178,6 +178,22 @@ const Equat = () => {
                 <div className={style.equation}>{"\\( \\nabla \\times B =  \\)"}</div>
             </div>
             <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\int E \\cdot dl = \\)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\int B \\cdot dl = \\)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\int E \\cdot dA = \\)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\int B \\cdot dA = \\)"}</div>
+            </div>
+            <br />
             <br />
             <h2 className={style.numberLink}>
                 12
