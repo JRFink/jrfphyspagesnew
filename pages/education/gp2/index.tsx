@@ -15,7 +15,8 @@ const Gp2 = () => {
             <div className={style.flexContainer} id="intro">
                 <Link href="/education/gp2/vid" className={style.styleCourseNav}>Videos</Link>
                 <Link href="/education/gp2/tbooks" className={style.styleCourseNav}>Textbooks</Link>
-                <Link href="/education/gp2/hw" className={style.styleCourseNav}>Homework</Link>  
+                <Link href="/education/gp2/hw" className={style.styleCourseNav}>Homework</Link> 
+                <Link href="/education/gp2/equat" className={style.styleCourseNav}>Equations</Link>  
                 <Link href="/education/gp2/syll" className={style.styleCourseNav}>Syllabus</Link>
             </div>
             <br></br>
