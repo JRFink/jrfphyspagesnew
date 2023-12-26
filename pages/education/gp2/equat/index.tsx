@@ -59,7 +59,7 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( \\Delta V = \\frac{\\Delta U}{q} = - \\int E \\cdot dl \\)"}</div>
                 </div>
             <br />
             <br />
