@@ -163,7 +163,7 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( \\nabla E = \\frac{q}{\\epsilon_{0}} \\)"}</div>
                 </div>
             <br />
             <br />
