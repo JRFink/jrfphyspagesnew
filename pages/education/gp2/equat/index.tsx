@@ -85,7 +85,7 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( I = \\frac{dQ}{dt}  \\)"}</div>
                 </div>
             <br />
             <br />
@@ -98,7 +98,7 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( \\Delta V = IR \\)"}</div>
                 </div>
             <br />
             <br />
