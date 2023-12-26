@@ -150,9 +150,12 @@ const Equat = () => {
             <br />
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
-                </div>
+                <div className={style.equation}>{"\\( \\frac{\\partial^{2} E}{\\partial x^{2}} = \\frac{1}{c^{2}} \\frac{\\partial^{2} E}{\\partial t^{2}} \\)"}</div>
+            </div>
             <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\frac{\\partial^{2} B}{\\partial x^{2}} = \\frac{1}{c^{2}} \\frac{\\partial^{2} B}{\\partial t^{2}} \\)"}</div>
+            </div>
             <br />
             <h2 className={style.numberLink}>
                 11
@@ -187,20 +190,11 @@ const Equat = () => {
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\int E \\cdot dA = Q_{enc} / \\epsilon_{0} \\)"}</div>
+                <div className={style.equation}>{"\\( \\int_{S} \\ E \\cdot dA = Q_{enc} / \\epsilon_{0} \\)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\int B \\cdot dA = 0 \\)"}</div>
-            </div>
-            <br />
-            <br />
-            <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\frac{\\partial^{2} E}{\\partial x^{2}} = \\frac{1}{c^{2}} \\frac{\\partial^{2} E}{\\partial t^{2}} \\)"}</div>
-            </div>
-            <br />
-            <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\frac{\\partial^{2} B}{\\partial x^{2}} = \\frac{1}{c^{2}} \\frac{\\partial^{2} B}{\\partial t^{2}} \\)"}</div>
+                <div className={style.equation}>{"\\( \\int_{S} \\ B \\cdot dA = 0 \\)"}</div>
             </div>
             <br />
             <br />
