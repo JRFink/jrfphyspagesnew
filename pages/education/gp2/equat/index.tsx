@@ -167,7 +167,7 @@ const Equat = () => {
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\nabla B = \\)"}</div>
+                <div className={style.equation}>{"\\( \\nabla B = 0 \\)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
@@ -192,6 +192,15 @@ const Equat = () => {
             <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\int B \\cdot dA = 0 \\)"}</div>
+            </div>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\frac{\\partial^{2} E}{\\partial x^{2}} = \\frac{1}{c^{2}} \\frac{\\partial^{2} E}{\\partial t^{2}} \\)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\frac{\\partial^{2} B}{\\partial x^{2}} = \\frac{1}{c^{2}} \\frac{\\partial^{2} B}{\\partial t^{2}} \\)"}</div>
             </div>
             <br />
             <br />
