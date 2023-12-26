@@ -108,10 +108,12 @@ const Equat = () => {
             <h2 className={style.h3text}>
                 Magnetic Field and Force
             </h2>
-            <br />
+            <p>
+                Magnetic field from a wire with current <em>i</em> at distance s is 
+            </p>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( B = \\frac{\\mu_{0} I }{2 \\pi s}  \\)"}</div>
                 </div>
             <br />
             <br />
