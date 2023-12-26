@@ -208,10 +208,12 @@ const Equat = () => {
             <h2 className={style.h3text}>
                 Images
             </h2>
-            <br />
+            <p>
+                For a spherical mirror we have
+            </p>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( \\frac{1}{p_{obj}} + \\frac{1}{i_{img}} = \\frac{1}{f} \\)"}</div>
                 </div>
             <br />
             <br />
