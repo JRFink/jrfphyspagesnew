@@ -123,10 +123,12 @@ const Equat = () => {
             <h2 className={style.h3text}>
                 Electromagnetic Induction
             </h2>
-            <br />
+            <p>
+                Lenz&#39; law is the statement that
+            </p>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\(  \\)"}</div>
+                <div className={style.equation}>{"\\( \\varepsilon = - \\frac{d \\Phi_{B}}{dt}  \\)"}</div>
                 </div>
             <br />
             <br />
