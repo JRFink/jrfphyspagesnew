@@ -32,6 +32,7 @@ const Equat = () => {
                 Electric Charge, Force, and Field
             </h2>
             <br />
+            <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\mathbf{E} = \\frac{k q}{r^{2}} \\mathfrak{r} \\)"}</div>
             </div>
@@ -46,6 +47,162 @@ const Equat = () => {
             <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\int \\mathbf{E} \\cdot dA = Q_{enc} / \\epsilon_{0}  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                3
+            </h2>
+            <h2 className={style.h3text}>
+                Electric Potential
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                4
+            </h2>
+            <h2 className={style.h3text}>
+                Electrostatic Energy and Capacitors
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                5
+            </h2>
+            <h2 className={style.h3text}>
+                Electric Current
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                6
+            </h2>
+            <h2 className={style.h3text}>
+                DC Circuits
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                7
+            </h2>
+            <h2 className={style.h3text}>
+                Magnetic Field and Force
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                8
+            </h2>
+            <h2 className={style.h3text}>
+                Electromagnetic Induction
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                9
+            </h2>
+            <h2 className={style.h3text}>
+                AC Circuits
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                10
+            </h2>
+            <h2 className={style.h3text}>
+                Electromagnetic Waves
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                11
+            </h2>
+            <h2 className={style.h3text}>
+                Maxwell&#39;s Equations
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                12
+            </h2>
+            <h2 className={style.h3text}>
+                Images
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                13
+            </h2>
+            <h2 className={style.h3text}>
+                Interference
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
+                </div>
+            <br />
+            <br />
+            <h2 className={style.numberLink}>
+                14
+            </h2>
+            <h2 className={style.h3text}>
+                Diffraction
+            </h2>
+            <br />
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\(  \\)"}</div>
                 </div>
             <br />
             <br />
