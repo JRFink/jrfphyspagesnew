@@ -171,7 +171,7 @@ const Equat = () => {
             </div>
             <br />
             <div className={style.equationBox}>
-                <div className={style.equation}>{"\\( \\nabla \\times E = 0 \\)"}</div>
+                <div className={style.equation}>{"\\( \\nabla \\times E = - \\frac{d B}{dt} \\)"}</div>
             </div>
             <br />
             <div className={style.equationBox}>
