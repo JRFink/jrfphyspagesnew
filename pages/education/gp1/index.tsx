@@ -26,6 +26,7 @@ const Gp1 = () => {
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
                 <Link href="/education/gp1/tbooks" className={style.styleCourseNav}>Textbooks</Link> 
                 <Link href="/education/gp1/hw" className={style.styleCourseNav}>Homework</Link>  
+                <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equations</Link> 
                 <Link href="/education/gp1/syll" className={style.styleCourseNav}>Syllabus</Link>
             </div>
             <br></br>
