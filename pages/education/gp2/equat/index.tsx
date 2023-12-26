@@ -164,7 +164,19 @@ const Equat = () => {
             <br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla E = \\frac{q}{\\epsilon_{0}} \\)"}</div>
-                </div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\nabla B = \\)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\nabla \\times E = 0 \\)"}</div>
+            </div>
+            <br />
+            <div className={style.equationBox}>
+                <div className={style.equation}>{"\\( \\nabla \\times B =  \\)"}</div>
+            </div>
             <br />
             <br />
             <h2 className={style.numberLink}>
