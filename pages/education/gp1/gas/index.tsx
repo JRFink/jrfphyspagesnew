@@ -80,7 +80,7 @@ const Gas = () => {
             <Gasquiz />
             <br />
             <br />
-            <Link href="/education/gp1/flaw" className={style.backtoLink}>First law of thermodynamics &#10140;</Link>  
+            <Link href="/education/gp1/slaw" className={style.backtoLink}>Second law of thermodynamics &#10140;</Link>  
              <br />  
              <br />
             <Helpful />
