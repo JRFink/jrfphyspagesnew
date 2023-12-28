@@ -205,10 +205,16 @@ with the - sign being Lenz&#39; law.
                 <div className={style.equation}>{"\\( \\oint B \\cdot dl = \\mu_{0} \\ \\mathbf{i} + \\mu_{0} \\epsilon_{0} \\frac{d \\Phi_{E}}{dt} \\)"}</div>
             </div>
             <br />
+<p> 
+    Gauss&#39; law
+</p>
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\int_{S} \\ E \\cdot dA = Q_{enc} / \\epsilon_{0} \\)"}</div>
             </div>
             <br />
+<p> 
+     Gauss&#39; law for magnetism
+</p>
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\int_{S} \\ B \\cdot dA = 0 \\)"}</div>
             </div>
