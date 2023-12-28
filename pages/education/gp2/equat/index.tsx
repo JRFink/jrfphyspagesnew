@@ -172,6 +172,9 @@ with the - sign being Lenz&#39; law.
             </h2>
             <br />
             <br />
+<p> 
+    Gauss&#39; law
+</p>
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla E = \\frac{q}{\\epsilon_{0}} \\)"}</div>
             </div>
