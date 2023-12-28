@@ -2,7 +2,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import style from '@/styles/general.module.css';
 
-const News = () => {
+const MolecHam = () => {
     return (
         <>
             <br />
@@ -10,7 +10,7 @@ const News = () => {
             <br />
             <br />
             <h1 className={style.centerText}>
-                AMO news
+                Molecular Hamiltonians
             </h1>
             <br />
            
@@ -18,4 +18,4 @@ const News = () => {
     );
 }
 
-export default News;
+export default MolecHam;

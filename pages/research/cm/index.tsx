@@ -57,7 +57,7 @@ const CondensedM = () => {
                 <br />
                 <Link href="/research/cm/news" className={style.generalLink}>News</Link>
                 <br /> 
-                 
+                <Link href="/research/cm/molecham" className={style.generalLink}>Molecular Hamiltonians</Link>
             </div>
             <br />
             <br />

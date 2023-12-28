@@ -52,6 +52,7 @@ const Amo = () => {
                 <Link href="/research/amo/books" className={style.generalLink}>Books</Link>
                 <Link href="/research/amo/diss" className={style.generalLink}>Dissertations</Link>
                 <Link href="/research/amo/news" className={style.generalLink}>News</Link>
+                <Link href="/research/amo/molecham" className={style.generalLink}>Molecular Hamiltonians</Link>
             </div>
             <br />
             <br />
