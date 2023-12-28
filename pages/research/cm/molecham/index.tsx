@@ -24,6 +24,9 @@ const MolecHam = () => {
             <h1 className={style.centerText}>
                 Molecular Hamiltonians
             </h1>
+<p> 
+    Hamiltonian for two particle system
+</p>
             <br />
             <div className={style.equationBox}>
                      <div className={style.equation}>{"\\( H_{sys} = T_{sys} + U_{sys} \\)"} &nbsp; &nbsp; &nbsp; &nbsp; {"Two particle system"}</div>         
