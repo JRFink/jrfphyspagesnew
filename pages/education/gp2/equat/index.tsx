@@ -180,14 +180,23 @@ with the - sign being Lenz&#39; law.
                 <div className={style.equation}>{"\\( \\nabla B = 0 \\)"}</div>
             </div>
             <br />
+<p> 
+    Faraday&#39;s law
+</p>
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\times E = - \\frac{d B}{dt} \\)"}</div>
             </div>
             <br />
+<p>
+    Ampere&#39;s and Maxwell&#39;s law
+</p>
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\times B = \\mu_{0} \\ \\mathbf{J} + \\mu_{0} \\epsilon_{0} \\frac{\\partial E}{\\partial t}  \\)"}</div>
             </div>
             <br />
+<p> 
+    Faraday&#39;s law
+</p>
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\oint E \\cdot dl = - \\frac{d}{dt} \\int B \\cdot dA \\)"}</div>
             </div>
