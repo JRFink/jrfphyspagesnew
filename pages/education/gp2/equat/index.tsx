@@ -175,6 +175,7 @@ with the - sign being Lenz&#39; law.
 <p> 
     Gauss&#39; law
 </p>
+<br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla E = \\frac{q}{\\epsilon_{0}} \\)"}</div>
             </div>
@@ -186,6 +187,7 @@ with the - sign being Lenz&#39; law.
 <p> 
     Faraday&#39;s law
 </p>
+<br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\times E = - \\frac{d B}{dt} \\)"}</div>
             </div>
@@ -193,6 +195,7 @@ with the - sign being Lenz&#39; law.
 <p>
     Ampere&#39;s and Maxwell&#39;s law
 </p>
+<br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\nabla \\times B = \\mu_{0} \\ \\mathbf{J} + \\mu_{0} \\epsilon_{0} \\frac{\\partial E}{\\partial t}  \\)"}</div>
             </div>
@@ -200,6 +203,7 @@ with the - sign being Lenz&#39; law.
 <p> 
     Faraday&#39;s law
 </p>
+<br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\oint E \\cdot dl = - \\frac{d}{dt} \\int B \\cdot dA \\)"}</div>
             </div>
@@ -211,6 +215,7 @@ with the - sign being Lenz&#39; law.
 <p> 
     Gauss&#39; law
 </p>
+<br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\int_{S} \\ E \\cdot dA = Q_{enc} / \\epsilon_{0} \\)"}</div>
             </div>
@@ -218,6 +223,7 @@ with the - sign being Lenz&#39; law.
 <p> 
      Gauss&#39; law for magnetism
 </p>
+<br />
             <div className={style.equationBox}>
                 <div className={style.equation}>{"\\( \\int_{S} \\ B \\cdot dA = 0 \\)"}</div>
             </div>
