@@ -124,7 +124,7 @@ const Equat = () => {
                 Electromagnetic Induction
             </h2>
             <p>
-                Lenz&#39; law is the statement that
+                We can write Faraday&#39;s law in different ways. One way is 
             </p>
             <br />
             <div className={style.equationBox}>
@@ -132,6 +132,9 @@ const Equat = () => {
                 </div>
             <br />
             <br />
+<p> 
+with the - sign being Lenz&#39; law.
+</p>
             <h2 className={style.numberLink}>
                 9
             </h2>
