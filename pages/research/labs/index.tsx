@@ -14,10 +14,9 @@ const Labs = () => {
             </h1>
             <br />
                         <br />
-<p>
-                            Find your lab, get prepared, succeed. 
+                        <p>
                         <br /> 
-                        <input type="text" className={style.searchBox} placeholder="Find your lab (testing...)"></input>
+                            <input type="text" className={style.searchBox} placeholder="Find your lab (testing...)"></input>
                         </p> 
 <br />
             <p>
