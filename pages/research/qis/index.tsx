@@ -56,7 +56,8 @@ const QuantI = () => {
                 <br />
                 <Link href="/research/qis/diss" className={style.generalLink}>Dissertations</Link>
                 <br />
-                <Link href="/research/qis/tbook" className={style.generalLink}>Books</Link>
+                <Link href="/research/qis/tbook" className={style.generalLink}>B
+Textbooks</Link>
                 <Link href="/research/qis/original" className={style.generalLink}>Original Papers</Link>  
                 <Link href="/research/qis/news" className={style.generalLink}>News</Link>
                 <br />
