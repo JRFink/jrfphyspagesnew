@@ -34,6 +34,10 @@ const indexPage = () => {
   return (
     <>
       <p className={style.centerText}>
+        &#42;&#42; For the most up to date site please see <Link href="">jrfinkschool.com</Link> &#42; &#42;
+      </p>
+<br />
+      <p className={style.centerText}>
         Hello, and welcome to jrfink.net!
        </p>
         <br />
