@@ -17,7 +17,7 @@ const Theor = () => {
                 Below you will find some theories for quantum information. 
             </p>
             <p>
-                    In general, quantum information studies objects such as molecules and atoms and how they store information.  
+                    In general, quantum information studies how molecules and atoms store information.  
             </p> 
             <br />
         </>

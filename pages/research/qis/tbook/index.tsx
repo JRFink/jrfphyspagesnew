@@ -15,6 +15,10 @@ const Tbook = () => {
             <br />
             <p>
                 Some of the best books for quantum info and computing&#58;
+<ul>
+     <li><em>Quantum Computation and Quantum Information</em> by <em>Nielsen and Chuang</em> Cambridge 2011 &#169;
+     </li>
+</ul>
             </p>
 
         </>
