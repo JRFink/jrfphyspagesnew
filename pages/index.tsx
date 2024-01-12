@@ -33,8 +33,8 @@ import Helpful from '@/pages/components/helpful/$index';
 const indexPage = () => {
   return (
     <>
-      <p className={style.centerText}>
-        &#42;&#42; For the most up to date site please see <Link href="">jrfinkschool.com</Link> &#42; &#42;
+      <p className={style.exerciseHeading}>
+        For the most up to date site please see <Link href="https://jrfinkschool.com">jrfinkschool.com</Link>
       </p>
 <br />
       <p className={style.centerText}>
