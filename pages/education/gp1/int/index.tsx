@@ -11,7 +11,7 @@ const Int = () => {
                 Introduction
             </h1>
             <p>
-                The whole goal of physics is to describe how something moves on a fundamental level. <em>How do we describe a car moving on a track? 
+                A large goal of physics is to describe motion on a fundamental level. <em>How do we describe a car moving on a track? 
                 How do we describe a satellite going around the earth? How do we describe the motion of the electron going around the proton? </em>
                 In accomplishing this task, we have different methods available. We can divide physics into these categories...
                 <ol>
