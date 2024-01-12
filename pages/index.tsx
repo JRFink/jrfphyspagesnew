@@ -437,7 +437,7 @@ const indexPage = () => {
                     After this, then comes all the stuff from gen phys 1 at a higher level. We call this classical mechanics. 
                 </p>
                 <p>
-                    In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. 
+                    In gen phys 1, we learn about Newton&#39;s laws and call this the Newtonian approach. 
                     In class mech, we revisit the classical regime but approach it differently; 
                     we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
                 </p> 
