@@ -128,7 +128,8 @@ const indexPage = () => {
                 &#174;
              </p>
              <br />
-             <IntroVid />   
+             <IntroVid />  
+             <br /> 
              <p>
                 Professors are overworked, underpaid, and they don&#39;t have enough time for research. 
                 <br />
