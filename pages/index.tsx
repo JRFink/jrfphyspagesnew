@@ -34,7 +34,7 @@ const indexPage = () => {
   return (
     <>
       <p className={style.exerciseHeading}>
-        Site will no longer be updated. Please see <Link href="http://jrfinkschool.com">jrfinkschool.com</Link> for the newest site. 
+        Site will no longer be updated &#45 please see <Link href="http://jrfinkschool.com">jrfinkschool.com</Link> for the newest site. 
       </p>
 <br />
       <p className={style.centerText}>
