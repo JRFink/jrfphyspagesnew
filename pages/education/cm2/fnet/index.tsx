@@ -11,6 +11,9 @@ const Fnet = () => {
             <h1 className={style.centerText}>
                 Central Force Problem
             </h1>
+            <p>
+                A key problem in classical mechanics 2 is the central force problem.
+            </p>
             <FnetEx />
             <Helpful />
         </>
