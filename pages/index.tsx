@@ -33,6 +33,10 @@ import Helpful from '@/pages/components/helpful/$index';
 const indexPage = () => {
   return (
     <>
+      <p className={style.exerciseHeading}>
+        Site is no longer updated &#45; please see <Link href="http://jrfinkschool.com">jrfinkschool.com</Link> for the newest site. 
+      </p>
+<br />
       <p className={style.centerText}>
         Hello, and welcome to jrfink.net!
        </p>
@@ -433,7 +437,7 @@ const indexPage = () => {
                     After this, then comes all the stuff from gen phys 1 at a higher level. We call this classical mechanics. 
                 </p>
                 <p>
-                    In gen phys 1, we learn about Newton&#39;s laws and could call this the Newtonian approach. 
+                    In gen phys 1, we learn about Newton&#39;s laws and call this the Newtonian approach. 
                     In class mech, we revisit the classical regime but approach it differently; 
                     we solve problems using two new approaches, the <em>Lagrangian</em> and the <em>Hamiltonian</em>.  
                 </p> 
