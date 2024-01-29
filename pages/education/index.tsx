@@ -10,7 +10,11 @@ const Education = () => {
                 Education
             </h1>
             <br />
-            <div className={style.flexContainer}>               
+            <div className={style.flexContainer}> 
+                <Link href="/education/hop1" className={style.generalLink}>History of physics 1</Link>
+                <br />  
+                <Link href="/education/hop2" className={style.generalLink}>History of physics 2</Link>
+                <br />              
                 <Link href="/education/gp1" className={style.generalLink}>General physics 1</Link>
                 <br /> 
                 <Link href="/education/gp2" className={style.generalLink}>General physics 2</Link>
@@ -18,7 +22,19 @@ const Education = () => {
                 <Link href="/education/ap" className={style.generalLink}>AP physics &#169;</Link>
                 <br />
                 <Link href="/education/ib" className={style.generalLink}>IB physics &#169;</Link>
-                <br />            
+                <br />   
+                <Link href="/education/imp" className={style.generalLink}>Intro to Modern Physics</Link>
+                <br />                     
+                <Link href="/education/cm1" className={style.generalLink}>Classical Mechanics 1</Link>
+                <br /> 
+                <Link href="/education/cm2" className={style.generalLink}>Classical Mechanics 2</Link>
+                <br /> 
+                <Link href="/education/therm" className={style.generalLink}>Thermodynamics</Link>
+                <br /> 
+                <Link href="/education/qm1" className={style.generalLink}>Quantum Mechanics 1</Link>
+                <br /> 
+                <Link href="/education/qm2" className={style.generalLink}>Quantum Mechanics 2</Link>
+                <br /> 
             </div>       
             <br />
             <br />
