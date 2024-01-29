@@ -23,8 +23,7 @@ const Footer = () => {
                             <br></br>
                             <Link href="/careers" className={style.linkFooter}>Careers</Link><br></br>
                             <br></br>
-                            <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>
-                            
+                            <Link href="/legal/donor" className={style.linkFooter}>Donors</Link><br></br>          
                         </small>
                     </div>
                     <div>
@@ -50,27 +49,25 @@ const Footer = () => {
                             <Link href="/pdf/scframeworkk12.pdf" className={style.linkFooter}>Framework for K&#45;12 science</Link><br />
                             <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
-</div>
-</small>
+                        </small>
+                    </div>
                             <br /> 
                             <CountryDrop /> 
                             <br /> 
                             <br />
-                            <LanguageDrop />
-                                      
+                            <LanguageDrop />          
                         <div className={style.footerGenCountry}>
                                 <p>
                                     Country
                                 </p>
-                            </div>
-                            <div className={style.footerSpecCountry}>
-                                <p>
-                                    U.S.
-                                </p>
-                            </div>
-                            &nbsp; &nbsp; 
-                            <AmFlag />                         
-                        </small>                       
+                        </div>
+                        <div className={style.footerSpecCountry}>
+                            <p>
+                                U.S.
+                            </p>
+                        </div>
+                        &nbsp; &nbsp; 
+                        <AmFlag />                                           
                 <br></br>
                 <small className={style.copyright}>&#169; JRFink LLC {new Date().getFullYear().toString()} </small>
             </footer>
