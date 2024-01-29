@@ -51,7 +51,6 @@ const Footer = () => {
                             <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
                             <br /> 
-{ /*
                             <CountryDrop /> 
                             <br /> 
                             <br />
@@ -68,26 +67,8 @@ const Footer = () => {
                                 </p>
                             </div>
                             &nbsp; &nbsp; 
-                            <AmFlag /> 
-                        */ }
-                        </small>
-                    </div>
-                </div>
-                <br></br>
-                        <small>
-                            <div className={style.footerGenCountry}>
-                                <p>
-                                    Country
-                                </p>
-                            </div>
-                            <div className={style.footerSpecCountry}>
-                                <p>
-                                    U.S.
-                                </p>
-                            </div>
-                        </small>
-                            &nbsp; &nbsp; 
-                            <AmFlag /> 
+                            <AmFlag />                         
+                        </small>                       
                 <br></br>
                 <small className={style.copyright}>&#169; JRFink LLC {new Date().getFullYear().toString()} </small>
             </footer>
