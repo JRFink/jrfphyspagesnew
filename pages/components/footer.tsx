@@ -51,6 +51,7 @@ const Footer = () => {
                             <br />
                             <Link href="/research/financial" className={style.linkFooter}>Financials of research</Link><br></br>
 </div>
+</small>
                             <br /> 
                             <CountryDrop /> 
                             <br /> 
