@@ -40,6 +40,7 @@ const Footer = () => {
                             <br></br>
                         </small>
                     </div>
+</div>
                     <div>
                         <small>
                             <Link href="https://www.nextgenscience.org/" className={style.linkFooter}>Next Gen Science</Link><br></br>
