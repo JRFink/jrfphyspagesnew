@@ -33,7 +33,6 @@ import Helpful from '@/pages/components/helpful/$index';
 const indexPage = () => {
   return (
     <>
-<br />
       <p className={style.centerText}>
         Hello, and welcome to jrfink.net!
        </p>
