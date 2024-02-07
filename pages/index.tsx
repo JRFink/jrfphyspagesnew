@@ -33,6 +33,10 @@ import Helpful from '@/pages/components/helpful/$index';
 const indexPage = () => {
   return (
     <>
+<p className={style.centerText}>
+       Site is under construction.
+       </p>
+        <br />
       <p className={style.centerText}>
         Hello, and welcome to jrfink.net!
        </p>
