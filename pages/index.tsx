@@ -34,7 +34,7 @@ const indexPage = () => {
   return (
     <>
 <p className={style.centerText}>
-       Site is under construction.
+       Doing a revamp. The content on the site will come down, but will eventually be back up! 
        </p>
         <br />
       <p className={style.centerText}>
