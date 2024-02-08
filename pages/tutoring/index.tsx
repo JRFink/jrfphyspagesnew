@@ -9,7 +9,7 @@ const Tutoring = () => {
         Tutoring
       </h1>
         <p>
-        Schedule a tutoring appointment here...
+        Schedule a tutoring appointment with me <Link href="mailto:fink.jeffr@gmail.com">here</Link>.
         </p>
      </>
   );
