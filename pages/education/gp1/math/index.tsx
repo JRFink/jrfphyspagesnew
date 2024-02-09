@@ -23,6 +23,11 @@ const Math = () => {
                   <li>Double angle formulas</li>
   <li>Trig identities</li>
 </ol>
+<li>Vectors</li>
+<ol>
+    <li>Dot product</li>
+    <li>Cross product</li>
+</ol>
            <li>Calculus</li>
                <ol>
                  <li>Rates of change</li>
