@@ -14,9 +14,22 @@ const Math = () => {
           </p>
          <ul> 
            <li>Algebra</li>
+               <ol> 
+                  <li>Palaboras</li>
+               </ol>
            <li>Geometry</li>          
-<li>Trigonometry</li>
-<li>Calculus</li>
+           <li>Trigonometry</li>
+         <ol>
+                  <li>Double angle formulas</li>
+  <li>Trig identities</li>
+</ol>
+           <li>Calculus</li>
+               <ol>
+                 <li>Rates of change</li>
+           <li>Derivatives</li>
+           <li>Summations</li>
+           <li>Integrals</li>
+               </ol>
          </ul>
        </>
       );
