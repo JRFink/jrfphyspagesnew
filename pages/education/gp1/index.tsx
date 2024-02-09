@@ -24,10 +24,11 @@ const Gp1 = () => {
             <br></br>
             <div className={style.flexContainer} id="intro">
                 <Link href="/education/gp1/vid" className={style.styleCourseNav}>Videos</Link>
+                <Link href="/education/gp1/math" className={style.styleCourseNav}>Math</Link>
                 <Link href="/education/gp1/tbooks" className={style.styleCourseNav}>Textbooks</Link> 
-                <Link href="/education/gp1/hw" className={style.styleCourseNav}>Homework</Link>  
+   { /*             <Link href="/education/gp1/hw" className={style.styleCourseNav}>Homework</Link>  
                 <Link href="/education/gp1/equat" className={style.styleCourseNav}>Equations</Link> 
-                <Link href="/education/gp1/syll" className={style.styleCourseNav}>Syllabus</Link>
+                <Link href="/education/gp1/syll" className={style.styleCourseNav}>Syllabus</Link>   */ } 
             </div>
             <br></br>
             <IntroVid />
