@@ -15,7 +15,7 @@ const Math = () => {
          <ul> 
            <li>Algebra</li>
                <ol> 
-                  <li>Palaboras</li>
+                  <li>Parabolas</li>
                </ol>
            <li>Geometry</li>          
            <li>Trigonometry</li>
