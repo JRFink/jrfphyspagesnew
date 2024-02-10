@@ -26,6 +26,7 @@ const Math = () => {
 <li>Vectors</li>
 <ol>
     <li>Dot product</li>
+        
     <li>Cross product</li>
 </ol>
            <li>Calculus</li>
@@ -37,9 +38,22 @@ const Math = () => {
        <li>Application to physical problems</li>
        </ul>
            <li>Derivatives</li>
-              
+              <ul> 
+                   <li>Simple examples</li>
+                   <li>Definition</li>
+                   <li>Application to physical problems</li>
+              </ul>  
            <li>Summations</li>
+               <ul>
+         <li>Simple examples</li>
+         <li>Application to physical problems</li>
+               </ul>
            <li>Integrals</li>
+                <ul> 
+                    <li>Simple example</li>
+                    <li>Mathematical definition</li>
+         <li>Physical applications</li>
+         </ul>
                </ol>
          </ul>
        </>
