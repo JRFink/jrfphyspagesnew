@@ -31,7 +31,13 @@ const Math = () => {
            <li>Calculus</li>
                <ol>
                  <li>Rates of change</li>
+       <ul>
+            <li>Examples of rates of change</li>
+       <li>Mathematical rates of change</li>
+       <li>Application to physical problems</li>
+       </ul>
            <li>Derivatives</li>
+              
            <li>Summations</li>
            <li>Integrals</li>
                </ol>
