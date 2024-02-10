@@ -26,8 +26,11 @@ const Math = () => {
 <li>Vectors</li>
 <ol>
     <li>Dot product</li>
-        
+        <p>Example...</p>
+        <p>Mathematical definition</p>
+          
     <li>Cross product</li>
+          <p>Example...</p>
 </ol>
            <li>Calculus</li>
                <ol>
